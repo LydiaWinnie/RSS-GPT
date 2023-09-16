@@ -92,3 +92,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-16 07:06:09.500404
+------------------------------------------------------
+Started: 2023-09-16 08:08:21.699305
+Existing_entries: 66
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [交通部盤點千處行人事故熱點 新北5路口列直轄市前10](https://news.pts.org.tw/article/657205)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [新北男稱佛樂擾人砸佛堂玻璃 佛堂人員：不曾被反映噪音](https://news.pts.org.tw/article/657206)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／柯媽媽自行拆除疑違建老家 郭賴配明登記參選](https://news.pts.org.tw/article/657207)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [侯友宜訪紐約市警局 會面市長互為選舉加油打氣](https://news.pts.org.tw/article/657208)
+append_entries: 4
+Finish: 2023-09-16 08:08:26.684456
