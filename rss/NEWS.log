@@ -170,3 +170,30 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-16 14:05:39.464137
+------------------------------------------------------
+Started: 2023-09-16 15:06:18.441533
+Existing_entries: 71
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／上屆為台奪首金 戴資穎拚羽球女單衛冕](https://news.pts.org.tw/article/657235)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／521名國手征戰亞運 總統及閣揆親自授旗](https://news.pts.org.tw/article/657236)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [地方新聞網指王婉諭犯禁忌致意外 頭城搶孤釀性別歧視論戰](https://news.pts.org.tw/article/657237)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台西海螺裝置藝術毀損嚴重 雲縣府將整修為產業園區地標](https://news.pts.org.tw/article/657238)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [北市內湖交流道連環車禍 自小客車變形共2死2傷](https://news.pts.org.tw/article/657239)
+Append: [金正恩訪俄戰機工廠 克里姆林宮稱未簽軍事等協議](https://news.pts.org.tw/article/657242)
+Append: [台南登革熱逾7千例 拒室內噴藥已開2罰單](https://news.pts.org.tw/article/657247)
+Append: [農業部公布進口蛋流向 將銷毀5402萬顆耗損到期蛋](https://news.pts.org.tw/article/657248)
+append_entries: 8
+Finish: 2023-09-16 15:06:20.259766
