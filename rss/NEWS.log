@@ -152,3 +152,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [NASA探查TGF與颶風關聯性 出動美軍U2偵察機](https://news.pts.org.tw/article/657057)
 append_entries: 1
 Finish: 2023-09-16 12:11:55.723021
+------------------------------------------------------
+Started: 2023-09-16 13:06:53.940128
+Existing_entries: 71
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-16 13:06:56.108631
