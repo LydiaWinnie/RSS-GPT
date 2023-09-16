@@ -42,5 +42,5 @@ I will consider hosting more feeds in the future. Email me or submit an issue if
 
 - https://www.ifanr.com/feed -> https://yinan-c.github.io/RSS-GPT/rss/ifanr.xml
 - https://brett.trpstra.net/brettterpstra -> https://yinan-c.github.io/RSS-GPT/rss/brett-terpstra.xml
-- https://meta.appinn.net/tag/chrome.rss, https://meta.appinn.net/tag/ios.rss, https://meta.appinn.net/tag/macos.rss -> https://yinan-c.github.io/RSS-GPT/rss/appinn.xml
-- https://rsshub.app/sspai/index -> https://yinan-c.github.io/RSS-GPT/rss/sspai.xml
+- https://rsshub.app/wsj/zh-tw/world, https://rsshub.app/wsj/zh-tw/opinion, https://rsshub.app/nytimes/dual-traditionalchinese, https://rsshub.app/pts/dailynews -> https://LydiaWinnie.github.io/RSS-GPT/rss/NEWS.xml
+- https://rsshub.app/36kr/motif/327685554177, https://rsshub.app/36kr/motif/887339665172743, https://rsshub.app/36kr/motif/755524105951233, https://rsshub.app/36kr/motif/327686782977, https://rsshub.app/36kr/motif/327687077889, https://rsshub.app/36kr/motif/327686455297 -> https://LydiaWinnie.github.io/RSS-GPT/rss/36KR.xml
