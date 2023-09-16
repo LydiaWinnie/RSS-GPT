@@ -140,3 +140,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-16 11:04:43.623237
+------------------------------------------------------
+Started: 2023-09-16 12:11:53.928753
+Existing_entries: 70
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [NASA探查TGF與颶風關聯性 出動美軍U2偵察機](https://news.pts.org.tw/article/657057)
+append_entries: 1
+Finish: 2023-09-16 12:11:55.723021
