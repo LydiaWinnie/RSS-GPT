@@ -83,3 +83,12 @@ Append: [大樓住戶聲響恐為管道共振 有爭議宜尋求管委會協助]
 Append: [台中中藥鉛毒案判7年6月 部分受害者不滿擬上訴](https://news.pts.org.tw/article/657190)
 append_entries: 66
 Finish: 2023-09-16 06:17:50.206714
+------------------------------------------------------
+Started: 2023-09-16 07:06:08.401445
+Existing_entries: 66
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-16 07:06:09.500404
