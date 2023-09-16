@@ -197,3 +197,12 @@ Append: [台南登革熱逾7千例 拒室內噴藥已開2罰單](https://news.pt
 Append: [農業部公布進口蛋流向 將銷毀5402萬顆耗損到期蛋](https://news.pts.org.tw/article/657248)
 append_entries: 8
 Finish: 2023-09-16 15:06:20.259766
+------------------------------------------------------
+Started: 2023-09-16 16:07:49.534682
+Existing_entries: 79
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-16 16:07:50.681778
