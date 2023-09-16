@@ -260,3 +260,13 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-16 22:06:23.795832
+------------------------------------------------------
+Started: 2023-09-16 23:06:40.093685
+Existing_entries: 79
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 504
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-16 23:07:15.698697
