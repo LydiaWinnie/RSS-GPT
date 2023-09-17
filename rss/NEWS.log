@@ -324,3 +324,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [高雄大樓夫妻命案 兇嫌偵訊時緘默高院裁定羈押](https://news.pts.org.tw/article/657262)
 append_entries: 3
 Finish: 2023-09-17 04:08:28.130973
+------------------------------------------------------
+Started: 2023-09-17 05:06:23.943460
+Existing_entries: 82
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-17 05:06:25.386556
