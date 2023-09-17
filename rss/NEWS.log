@@ -436,3 +436,12 @@ Append: [UN副秘書長罕見支持台入聯 副發言人隨後重申一中](htt
 Append: [一週大事／特定族群免評巴氏量表 金正恩普丁俄羅斯會面（2023.9.11-9.17）](https://news.pts.org.tw/article/657275)
 append_entries: 11
 Finish: 2023-09-17 12:12:07.486266
+------------------------------------------------------
+Started: 2023-09-17 13:06:42.206938
+Existing_entries: 102
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-17 13:06:43.027170
