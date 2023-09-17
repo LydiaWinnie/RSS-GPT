@@ -333,3 +333,31 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-17 05:06:25.386556
+------------------------------------------------------
+Started: 2023-09-17 06:08:42.428135
+Existing_entries: 82
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台中四方公車昨無預警減班 交通局未獲通報將開罰](https://news.pts.org.tw/article/657267)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [進口蛋銷毀費用估2.5億 陳駿季稱將精進進口](https://news.pts.org.tw/article/657268)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台大轉診平台5年成長5成 健保署籲先找家庭醫師減少浪費](https://news.pts.org.tw/article/657271)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [伊朗女子艾米尼逝世週年 多國民眾示威追悼](https://news.pts.org.tw/article/657264)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [去年登錄台南市民俗 府城縣城隍夜巡授證](https://news.pts.org.tw/article/657266)
+Append: [抑制通膨與燃料成本降 10月起電價擬凍漲](https://news.pts.org.tw/article/657269)
+Append: [2024大選／郭台銘偕賴佩霞登記 稱在野能整合就不送件](https://news.pts.org.tw/article/657272)
+Append: [2024大選／侯友宜赴美台灣同鄉會晚宴 強調領導人須避戰](https://news.pts.org.tw/article/657273)
+Append: [高雄噪音殺鄰案 犯保協會規劃2童後續輔導](https://news.pts.org.tw/article/657274)
+append_entries: 9
+Finish: 2023-09-17 06:08:43.999985
