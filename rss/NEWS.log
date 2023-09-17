@@ -406,3 +406,33 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-17 11:04:55.436689
+------------------------------------------------------
+Started: 2023-09-17 12:12:00.796603
+Existing_entries: 91
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／李智凱備戰亞運 目標鞍馬奪金與團體前三](https://news.pts.org.tw/article/657300)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [文旦禮盒表皮黑斑憂送人失禮 中華郵政：可退貨將注意品管](https://news.pts.org.tw/article/657299)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [警查緝南投名間茶園 2名移工躍60米深谷重傷](https://news.pts.org.tw/article/657298)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [新北瓦窯溝半邊水染白 環保局檢測無毒研判為民宅污水](https://news.pts.org.tw/article/657297)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [進口蛋爭議遭在野猛轟 傳陳吉仲請辭未獲行政院證實](https://news.pts.org.tw/article/657296)
+Append: [義大利軍機疑遭鳥擊墜機 波及1車輛釀1死3傷](https://news.pts.org.tw/article/657295)
+Append: [大直民宅塌／再度開放取物 法務局提50萬財損賠償](https://news.pts.org.tw/article/657294)
+Append: [疑噪音殺鄰案家屬發聲 籲社會勿謾罵打擾、多鼓勵](https://news.pts.org.tw/article/657293)
+Append: [今28共機擾台其中20架越中線 共軍遠海長航遠訓彰阻航能力](https://news.pts.org.tw/article/657292)
+Append: [UN副秘書長罕見支持台入聯 副發言人隨後重申一中](https://news.pts.org.tw/article/657276)
+Append: [一週大事／特定族群免評巴氏量表 金正恩普丁俄羅斯會面（2023.9.11-9.17）](https://news.pts.org.tw/article/657275)
+append_entries: 11
+Finish: 2023-09-17 12:12:07.486266
