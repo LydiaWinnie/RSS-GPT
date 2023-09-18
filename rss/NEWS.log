@@ -764,3 +764,32 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-18 14:07:34.576448
+------------------------------------------------------
+Started: 2023-09-18 15:08:16.368808
+Existing_entries: 143
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [伊朗表示計劃周一釋放其關押的五名美國公民](https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E8%A1%A8%E7%A4%BA%E8%A8%88%E5%8A%83%E5%91%A8%E4%B8%80%E9%87%8B%E6%94%BE%E5%85%B6%E9%97%9C%E6%8A%BC%E7%9A%84%E4%BA%94%E5%90%8D%E7%BE%8E%E5%9C%8B%E5%85%AC%E6%B0%91-1ab92f26)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [亞運點金／上屆亞運拳擊收穫兩銅 黃筱雯、林郁婷拚獎牌升級](https://news.pts.org.tw/article/657509)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [亞運點金／戴資穎退役倒數 力拼亞運羽球女單衛冕第一人](https://news.pts.org.tw/article/657508)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [女性生育年齡升至32.42歲 35歲以上產婦逾3成](https://news.pts.org.tw/article/657496)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [舊金山欲藉APEC扭轉形象 遊民帳篷吸毒者仍可見](https://news.pts.org.tw/article/657490)
+Append: [建商鎖定收購台中幼兒園改建 近3年11件交易](https://news.pts.org.tw/article/657497)
+Append: [日本高齡少子化 逾半地區孤墳日增周遭環境惡化](https://news.pts.org.tw/article/657491)
+Append: [北市警採購密錄器配中國天線 數發部：零組件各單位評估](https://news.pts.org.tw/article/657499)
+Append: [12.6萬非法移民湧義 歐盟允協助](https://news.pts.org.tw/article/657494)
+append_entries: 9
+Finish: 2023-09-18 15:08:18.638379
