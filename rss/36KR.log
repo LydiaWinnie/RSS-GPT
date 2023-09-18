@@ -811,3 +811,20 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-09-18 05:10:18.417328
+------------------------------------------------------
+Started: 2023-09-18 06:10:21.331935
+Existing_entries: 135
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [花1000块给陌生人送礼，这届年轻人图啥](https://www.36kr.com/p/2436847145849474)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [当人们反对科技巨头时，他们在反对什么？](https://www.36kr.com/p/2435504936489348)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-09-18 06:10:41.485058

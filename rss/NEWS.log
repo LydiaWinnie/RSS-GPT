@@ -613,3 +613,35 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-18 05:07:26.990945
+------------------------------------------------------
+Started: 2023-09-18 06:10:17.113885
+Existing_entries: 110
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」蘋果發布iPhone 15系列，轉用USB-C接口](https://cn.nytimes.com/technology/20230913/apple-iphone-15-usb-c/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」另一場貿易戰：進口化妝品在中國遇挫](https://cn.nytimes.com/business/20230918/china-cosmetic-imports/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／郭台銘19日展開連署 柯跑台東行程賴拋改善健保](https://news.pts.org.tw/article/657376)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [紐約氣候週登場示威者遊行 柏林布蘭登堡門遭噴漆](https://news.pts.org.tw/article/657377)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [俄烏戰爭／烏克蘭收復前線村莊據點 美軍：完全驅逐俄軍門檻高](https://news.pts.org.tw/article/657378)
+Append: [2024大選／華府僑宴會見侯友宜 AIT主席羅森柏格強調助台自衛承諾](https://news.pts.org.tw/article/657380)
+Append: [台灣2025將邁入超高齡社會 陳建仁：可能推行長照3.0](https://news.pts.org.tw/article/657381)
+Append: [地磚路面寫人行道卻可停車 公路局：標示錯誤實為路肩](https://news.pts.org.tw/article/657382)
+Append: [陳吉仲請辭農業部長被慰留 陳建仁盼釐清進口蛋爭議](https://news.pts.org.tw/article/657383)
+Append: [進口蛋6千萬顆流向不明？ 農業部21日將提專案報告](https://news.pts.org.tw/article/657384)
+Append: [中國肉品非洲豬瘟陽性比高 邊境嚴查肉餡月餅](https://news.pts.org.tw/article/657371)
+Append: [住家半夜被丟幾十包垃圾 花蓮環保局調監視器追查](https://news.pts.org.tw/article/657370)
+Append: [進口蛋爭議延燒 台中啟動第二波稽查團膳業者](https://news.pts.org.tw/article/657385)
+append_entries: 13
+Finish: 2023-09-18 06:10:20.690077
