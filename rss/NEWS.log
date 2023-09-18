@@ -754,3 +754,13 @@ Append: [日本古都鎌倉，觀光與文化保存的兩難【獨立特派員�
 Append: [泰國曼谷航空跟進測量乘客體重 一文了解配重如何影響飛安](https://news.pts.org.tw/article/657430)
 append_entries: 12
 Finish: 2023-09-18 13:09:51.332074
+------------------------------------------------------
+Started: 2023-09-18 14:07:32.957128
+Existing_entries: 143
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-18 14:07:34.576448
