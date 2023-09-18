@@ -793,3 +793,13 @@ Append: [北市警採購密錄器配中國天線 數發部：零組件各單位�
 Append: [12.6萬非法移民湧義 歐盟允協助](https://news.pts.org.tw/article/657494)
 append_entries: 9
 Finish: 2023-09-18 15:08:18.638379
+------------------------------------------------------
+Started: 2023-09-18 16:09:26.524347
+Existing_entries: 152
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-18 16:09:28.463521
