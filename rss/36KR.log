@@ -771,3 +771,31 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2023-09-18 03:10:31.579054
+------------------------------------------------------
+Started: 2023-09-18 04:08:53.874978
+Existing_entries: 130
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [北京再放政策大招，为AI大模型提供公共算力平台，培育10家独角兽](https://www.36kr.com/p/2433235333599878)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [历史第三大科技股IPO，Arm是如何炼成的？｜氪金 · 大事件](https://www.36kr.com/p/2436889650057609)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [游戏开发调用 ChatGPT API，独立开发者哭诉：应用被下架，多年的存款和心血没了](https://www.36kr.com/p/2436845948031620)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [没等到虚拟带货主播发力，李佳琦自己就想不开了](https://www.36kr.com/p/2436813153628162)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大模型竟塞进自动驾驶，AI会解说自己怎么开车了](https://www.36kr.com/p/2434165162168708)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 5
+Finish: 2023-09-18 04:09:36.844817

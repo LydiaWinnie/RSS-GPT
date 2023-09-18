@@ -586,3 +586,21 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [2024大選／訪華府首站美京中華會館 侯友宜跨海談進口蛋爭議](https://news.pts.org.tw/article/657340)
 append_entries: 5
 Finish: 2023-09-18 03:08:04.896555
+------------------------------------------------------
+Started: 2023-09-18 04:08:52.010851
+Existing_entries: 107
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」美官員稱中國已暫停間諜氣球項目，但可能重啟](https://cn.nytimes.com/china/20230918/china-spy-balloon-program-paused/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」普丁金正恩「兄弟情」或令習近平為難](https://cn.nytimes.com/asia-pacific/20230918/china-putin-kim/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」解讀中國最新經濟數據：觸底反彈在即還是持續疲軟](https://cn.nytimes.com/business/20230918/china-economy-retail-sales/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2023-09-18 04:08:53.305864
