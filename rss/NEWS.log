@@ -681,3 +681,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [2024大選／無證照供心理晤談惹議 賴佩霞稱未在台做心理師治療](https://news.pts.org.tw/article/657375)
 append_entries: 5
 Finish: 2023-09-18 08:10:27.616123
+------------------------------------------------------
+Started: 2023-09-18 09:08:24.947914
+Existing_entries: 129
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-18 09:08:28.426994
