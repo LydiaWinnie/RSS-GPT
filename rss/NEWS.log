@@ -604,3 +604,12 @@ Append: [「中英」解讀中國最新經濟數據：觸底反彈在即還是�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-09-18 04:08:53.305864
+------------------------------------------------------
+Started: 2023-09-18 05:07:25.486904
+Existing_entries: 110
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-18 05:07:26.990945
