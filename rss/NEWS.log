@@ -723,3 +723,34 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-18 12:13:50.425699
+------------------------------------------------------
+Started: 2023-09-18 13:09:48.696802
+Existing_entries: 131
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [方便計算起飛安全重量 曼谷航空宣布旅客登機前量體重](https://news.pts.org.tw/article/657498)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [印度貧民窟少女翻身代言網紅 IG追蹤者逾37萬](https://news.pts.org.tw/article/657492)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中秋前後登革熱疫情關鍵期 疾管署進駐台南協力防治](https://news.pts.org.tw/article/657503)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [確保過期進口蛋不衝擊食安 農業部19日起展開3天聯合稽查](https://news.pts.org.tw/article/657504)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [多縣市查進口蛋流向 政院要求陳吉仲9/21提檢討報告](https://news.pts.org.tw/article/657505)
+Append: [美中馬爾他會談 白宮：未來幾月就台海和平磋商](https://news.pts.org.tw/article/657506)
+Append: [共機單日103架次擾台創新高 國防部籲停止破壞性單邊行為](https://news.pts.org.tw/article/657507)
+Append: [日本高齡創新高 八旬長者佔總人口1成](https://news.pts.org.tw/article/657439)
+Append: [巴西小飛機亞馬遜地區墜毀 機上14人全數罹難](https://news.pts.org.tw/article/657441)
+Append: [日本醫師建立跨專業合作計畫，推動在宅照護模式【獨立特派員】](https://news.pts.org.tw/article/657432)
+Append: [日本古都鎌倉，觀光與文化保存的兩難【獨立特派員】](https://news.pts.org.tw/article/657431)
+Append: [泰國曼谷航空跟進測量乘客體重 一文了解配重如何影響飛安](https://news.pts.org.tw/article/657430)
+append_entries: 12
+Finish: 2023-09-18 13:09:51.332074
