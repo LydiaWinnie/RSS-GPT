@@ -657,3 +657,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-09-18 07:07:36.263264
+------------------------------------------------------
+Started: 2023-09-18 08:10:19.746890
+Existing_entries: 124
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」美國官員稱中國國防部長李尚福正接受調查](https://cn.nytimes.com/china/20230918/xi-china-military-general-li-shangfu/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [桃園蘆竹違規飆車競速頻傳 環保局今年告發逾600件](https://news.pts.org.tw/article/657386)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [部落客私募旅美團 無旅行社執照挨罰3萬元](https://news.pts.org.tw/article/657373)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國衛院研發無人車防治登革熱 可監控下水道噴藥](https://news.pts.org.tw/article/657374)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／無證照供心理晤談惹議 賴佩霞稱未在台做心理師治療](https://news.pts.org.tw/article/657375)
+append_entries: 5
+Finish: 2023-09-18 08:10:27.616123
