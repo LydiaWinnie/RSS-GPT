@@ -562,3 +562,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-18 02:14:58.508588
+------------------------------------------------------
+Started: 2023-09-18 03:07:59.998904
+Existing_entries: 102
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國駐日大使變身外交鬥士，指名道姓攻擊習近平](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E9%A7%90%E6%97%A5%E5%A4%A7%E4%BD%BF%E8%AE%8A%E8%BA%AB%E5%A4%96%E4%BA%A4%E9%AC%A5%E5%A3%AB-%E6%8C%87%E5%90%8D%E9%81%93%E5%A7%93%E6%94%BB%E6%93%8A%E7%BF%92%E8%BF%91%E5%B9%B3-49556d1a)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [體育週報／大谷翔平列傷兵名單 本賽季恐提前報銷](https://news.pts.org.tw/article/657322)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [利比亞洪災搜救困難 洪水沖刷出地雷釀新危機](https://news.pts.org.tw/article/657331)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [政院澄清陳吉仲未請辭 僅口頭向陳建仁致歉](https://news.pts.org.tw/article/657338)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／訪華府首站美京中華會館 侯友宜跨海談進口蛋爭議](https://news.pts.org.tw/article/657340)
+append_entries: 5
+Finish: 2023-09-18 03:08:04.896555
