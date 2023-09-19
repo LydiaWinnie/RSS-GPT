@@ -1135,3 +1135,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [新竹、桃園停車場基地上浮傾斜 低估地下水位需施工補救](https://news.pts.org.tw/article/657710)
 append_entries: 4
 Finish: 2023-09-19 15:07:42.562973
+------------------------------------------------------
+Started: 2023-09-19 16:09:38.607447
+Existing_entries: 207
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-19 16:09:40.612271
