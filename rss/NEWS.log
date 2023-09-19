@@ -971,3 +971,37 @@ Append: [「中英」中國寄宿學校的百萬藏族兒童正在經歷什麼](
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-09-19 06:10:09.264687
+------------------------------------------------------
+Started: 2023-09-19 07:07:27.727244
+Existing_entries: 166
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大東東夜市未獲許可重新開幕 南市府：未改善不排除斷水電](https://news.pts.org.tw/article/657567)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [地主與住戶互佔道路衝突 住戶指道路拓寬未徵收私有地](https://news.pts.org.tw/article/657568)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [離岸風電選商新規將公布 民團籲將環境承諾列入評選](https://news.pts.org.tw/article/657569)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [聯合國大會布林肯會晤韓正 我外交部：密切關注美中互動](https://news.pts.org.tw/article/657572)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／侯友宜訪美國會山莊 並籲中國停止擾台行為](https://news.pts.org.tw/article/657574)
+Append: [新北抽驗中秋應景食品 3件農藥殘留已要求下架](https://news.pts.org.tw/article/657575)
+Append: [新莊工廠混用進口及國產蛋 涉嫌產地標示不實將開罰](https://news.pts.org.tw/article/657580)
+Append: [2024大選／郭台銘參選連署順延1天 柯文哲再申請北流場地被拒](https://news.pts.org.tw/article/657573)
+Append: [社子島地主購得土地小於3成 立委批炒地皮凌駕居民生存權](https://news.pts.org.tw/article/657576)
+Append: [杜魯道控印度特務 涉殺害加拿大境內公民](https://news.pts.org.tw/article/657578)
+Append: [輪胎爆胎車停路中央當場睡著 40歲男酒測值高達2.71](https://news.pts.org.tw/article/657581)
+Append: [印尼婦在台結婚生子入戶口 遭查為非法居留恐遣返](https://news.pts.org.tw/article/657582)
+Append: [台股開高走低 AI族群翻黑、晶圓雙雄走弱](https://news.pts.org.tw/article/657571)
+Append: [高雄市將修正擴大噪音管制 住宅區洗衣店夜間禁洗脫烘](https://news.pts.org.tw/article/657583)
+Append: [新北基宜昨地震警報民眾無感 氣象署：遠震預報精準度下降](https://news.pts.org.tw/article/657584)
+append_entries: 15
+Finish: 2023-09-19 07:07:35.438153
