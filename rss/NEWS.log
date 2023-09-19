@@ -959,3 +959,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-09-19 05:07:17.603158
+------------------------------------------------------
+Started: 2023-09-19 06:10:08.158168
+Existing_entries: 165
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」中國寄宿學校的百萬藏族兒童正在經歷什麼](https://cn.nytimes.com/opinion/20230919/china-tibet-boarding-school/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-09-19 06:10:09.264687
