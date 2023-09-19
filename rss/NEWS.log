@@ -1071,3 +1071,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-19 12:13:56.864890
+------------------------------------------------------
+Started: 2023-09-19 13:10:16.588254
+Existing_entries: 188
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [林書豪加盟PLG新北國王隊 與弟弟林書緯成隊友](https://news.pts.org.tw/article/657698)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [阿帕契直升機彩繪又取消 軍事專家指錯失親近國人良機](https://news.pts.org.tw/article/657711)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [流感新增35例重症7例死亡 莫德納XBB接種最快下週開始](https://news.pts.org.tw/article/657700)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國製行動電源未充電卻自燃 專家籲選用標檢局認證產品](https://news.pts.org.tw/article/657701)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [德國成立駐台辦事處 與台積電共推人才孵育計畫](https://news.pts.org.tw/article/657702)
+Append: [2024大選／郭台銘參選連署順延1天 柯文哲再申請北流場地被拒](https://news.pts.org.tw/article/657713)
+Append: [聯合國談17項氣候目標 秘書長促富國資助](https://news.pts.org.tw/article/657704)
+Append: [2024大選／侯友宜訪美提3D戰略 喊話中國停止共機擾台](https://news.pts.org.tw/article/657714)
+Append: [全國登革熱逾8400例 台南與上週同期相比降15%](https://news.pts.org.tw/article/657716)
+Append: [俄烏戰爭／澤倫斯基訪美爭取支持 19日赴聯合國大會演說](https://news.pts.org.tw/article/657705)
+Append: [電費10月到明年3月仍凍漲 百貨餐飲等高壓戶恢復原價](https://news.pts.org.tw/article/657717)
+Append: [鄰東京車站建案掉落15噸鋼骨 工人2死3傷](https://news.pts.org.tw/article/657706)
+Append: [新北查獲進口混製蛋液標國產 北市府指已有補習班學童吃下肚](https://news.pts.org.tw/article/657718)
+Append: [為進口蛋紛爭二度道歉後 陳吉仲臉書貼文「我決定請辭」](https://news.pts.org.tw/article/657719)
+Append: [4度遭土石流蹂躪 南投聖本篤加油站原地復業](https://news.pts.org.tw/article/657707)
+append_entries: 15
+Finish: 2023-09-19 13:10:22.233810
