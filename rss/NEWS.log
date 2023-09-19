@@ -892,3 +892,28 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-19 01:42:25.334851
+------------------------------------------------------
+Started: 2023-09-19 02:15:51.890964
+Existing_entries: 154
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [伊朗關押的五名美國公民踏上歸途，先前數十億美元能源收入解凍](https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E9%97%9C%E6%8A%BC%E7%9A%84%E4%BA%94%E5%90%8D%E7%BE%8E%E5%9C%8B%E5%85%AC%E6%B0%91%E8%B8%8F%E4%B8%8A%E6%AD%B8%E9%80%94-%E5%85%88%E5%89%8D%E6%95%B8%E5%8D%81%E5%84%84%E7%BE%8E%E5%85%83%E8%83%BD%E6%BA%90%E6%94%B6%E5%85%A5%E8%A7%A3%E5%87%8D-f7ed47db)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國一架F-35戰鬥機在南卡羅來納州失蹤，搜尋工作仍在繼續](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E4%B8%80%E6%9E%B6f-35%E6%88%B0%E9%AC%A5%E6%A9%9F%E5%9C%A8%E5%8D%97%E5%8D%A1%E7%BE%85%E4%BE%86%E7%B4%8D%E5%B7%9E%E5%A4%B1%E8%B9%A4-%E6%90%9C%E5%B0%8B%E5%B7%A5%E4%BD%9C%E4%BB%8D%E5%9C%A8%E7%B9%BC%E7%BA%8C-9fb649ed)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國解凍伊朗60億美元資金 美伊達成換囚協議](https://news.pts.org.tw/article/657528)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／侯友宜提出三D戰略 今赴AIT總部閉門會議](https://news.pts.org.tw/article/657534)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [共機單日103架次擾台創新高 中外交部稱海峽中線不存在](https://news.pts.org.tw/article/657535)
+Append: [農業部今起聯合稽查進口蛋 地方調查團膳蛋品來源](https://news.pts.org.tw/article/657538)
+append_entries: 6
+Finish: 2023-09-19 02:15:54.859729
