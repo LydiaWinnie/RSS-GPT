@@ -1237,3 +1237,21 @@ Feed error: 404
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-09-19 09:08:14.914867
+------------------------------------------------------
+Started: 2023-09-19 10:08:12.334492
+Existing_entries: 158
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [36星将丨对话宸帆钱夫人：颜值+女性成长，撑得起「宸帆」的抖音野心吗？](https://www.36kr.com/p/2438632877691526)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [清华大学夏雨雨晋升8月热门体育IP；高盛成立体育投资部门丨即氪运动 Vol.54](https://www.36kr.com/p/2438481212134017)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-09-19 10:08:53.003930

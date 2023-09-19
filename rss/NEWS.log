@@ -1038,3 +1038,15 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [美國商機日登場 18美上市公司洽談採購](https://news.pts.org.tw/article/657585)
 append_entries: 5
 Finish: 2023-09-19 09:07:45.010401
+------------------------------------------------------
+Started: 2023-09-19 10:08:08.528538
+Existing_entries: 186
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」七個人生關鍵詞，新傳記帶你讀懂馬斯克](https://cn.nytimes.com/technology/20230919/elon-musk-walter-isaacson-takeaways/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-09-19 10:08:11.437779
