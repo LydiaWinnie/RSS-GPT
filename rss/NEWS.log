@@ -1105,3 +1105,12 @@ Append: [為進口蛋紛爭二度道歉後 陳吉仲臉書貼文「我決定請�
 Append: [4度遭土石流蹂躪 南投聖本篤加油站原地復業](https://news.pts.org.tw/article/657707)
 append_entries: 15
 Finish: 2023-09-19 13:10:22.233810
+------------------------------------------------------
+Started: 2023-09-19 14:07:08.244650
+Existing_entries: 203
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-19 14:07:09.491530
