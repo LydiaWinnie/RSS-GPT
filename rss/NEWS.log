@@ -1114,3 +1114,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-19 14:07:09.491530
+------------------------------------------------------
+Started: 2023-09-19 15:07:41.060523
+Existing_entries: 203
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [高虹安涉詐領助理費遭起訴 民眾黨處分暫停黨權](https://news.pts.org.tw/article/657712)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [太魯閣事故車廂骨骸 花檢確認與10罹難者相符](https://news.pts.org.tw/article/657708)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大直民宅塌／議員控連續壁厚度不足 部分住戶不滿基泰洽詢合建](https://news.pts.org.tw/article/657709)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [新竹、桃園停車場基地上浮傾斜 低估地下水位需施工補救](https://news.pts.org.tw/article/657710)
+append_entries: 4
+Finish: 2023-09-19 15:07:42.562973
