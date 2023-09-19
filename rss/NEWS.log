@@ -1050,3 +1050,15 @@ Append: [「中英」七個人生關鍵詞，新傳記帶你讀懂馬斯克](htt
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-09-19 10:08:11.437779
+------------------------------------------------------
+Started: 2023-09-19 11:06:32.104495
+Existing_entries: 187
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [下半年電價審議出爐 民生用電凍漲、百貨餐飲5產業解凍](https://news.pts.org.tw/article/657636)
+append_entries: 1
+Finish: 2023-09-19 11:06:33.881496

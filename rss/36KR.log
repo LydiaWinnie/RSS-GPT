@@ -1255,3 +1255,27 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 2
 Finish: 2023-09-19 10:08:53.003930
+------------------------------------------------------
+Started: 2023-09-19 11:06:34.713968
+Existing_entries: 160
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [比GPT-4还强，20亿参数模型做算术题，准确率几乎100%](https://www.36kr.com/p/2438548477055623)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [GPT-5来了？OpenAI被曝加急训练多模态大模型Gobi，一举狙杀谷歌Gimini](https://www.36kr.com/p/2438544161362567)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI在玩一种很新的艺术，700万网友在线围观，ControlNet又立功了](https://www.36kr.com/p/2438549727777160)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [阅文还是番茄？谁能让失业青年逆天改命](https://www.36kr.com/p/2438664322011779)
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 4
+Finish: 2023-09-19 11:07:07.283950
