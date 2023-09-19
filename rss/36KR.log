@@ -1087,3 +1087,21 @@ Feed error: 404
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2023-09-19 00:34:40.581066
+------------------------------------------------------
+Started: 2023-09-19 01:42:26.178805
+Existing_entries: 152
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [“AI课代表”占领内容平台？](https://www.36kr.com/p/2437414667948675)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [错过了英伟达大涨没关系，还可以看看这些AI机会](https://www.36kr.com/p/2437452346970496)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Feed error: 404
+append_entries: 2
+error when rendering xml, skip rss/36KR
