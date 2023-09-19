@@ -1005,3 +1005,12 @@ Append: [高雄市將修正擴大噪音管制 住宅區洗衣店夜間禁洗脫�
 Append: [新北基宜昨地震警報民眾無感 氣象署：遠震預報精準度下降](https://news.pts.org.tw/article/657584)
 append_entries: 15
 Finish: 2023-09-19 07:07:35.438153
+------------------------------------------------------
+Started: 2023-09-19 08:10:32.932704
+Existing_entries: 181
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-19 08:10:34.526322
