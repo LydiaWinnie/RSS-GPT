@@ -917,3 +917,18 @@ Append: [共機單日103架次擾台創新高 中外交部稱海峽中線不存�
 Append: [農業部今起聯合稽查進口蛋 地方調查團膳蛋品來源](https://news.pts.org.tw/article/657538)
 append_entries: 6
 Finish: 2023-09-19 02:15:54.859729
+------------------------------------------------------
+Started: 2023-09-19 03:08:01.688048
+Existing_entries: 160
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [9/23世界手語日 WFD主席邀全球地標投射藍光](https://news.pts.org.tw/article/657545)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [祕魯客運翻落山谷 造成至少24死21傷](https://news.pts.org.tw/article/657529)
+append_entries: 2
+Finish: 2023-09-19 03:08:04.409324
