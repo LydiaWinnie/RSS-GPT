@@ -1072,3 +1072,18 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-09-18 23:07:51.072084
+------------------------------------------------------
+Started: 2023-09-19 00:34:15.981434
+Existing_entries: 151
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [200万中国人，卷入黄金非洲](https://www.36kr.com/p/2437523343495815)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 1
+Finish: 2023-09-19 00:34:40.581066
