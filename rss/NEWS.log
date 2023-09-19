@@ -1062,3 +1062,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [下半年電價審議出爐 民生用電凍漲、百貨餐飲5產業解凍](https://news.pts.org.tw/article/657636)
 append_entries: 1
 Finish: 2023-09-19 11:06:33.881496
+------------------------------------------------------
+Started: 2023-09-19 12:13:55.208718
+Existing_entries: 188
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-19 12:13:56.864890
