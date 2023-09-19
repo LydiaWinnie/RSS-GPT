@@ -932,3 +932,15 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [祕魯客運翻落山谷 造成至少24死21傷](https://news.pts.org.tw/article/657529)
 append_entries: 2
 Finish: 2023-09-19 03:08:04.409324
+------------------------------------------------------
+Started: 2023-09-19 04:08:53.714506
+Existing_entries: 162
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」「無所不在」的戰場：美中在全球展開諜戰較量](https://cn.nytimes.com/world/20230919/us-china-global-spy-operations/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-09-19 04:08:55.359246
