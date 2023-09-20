@@ -1225,3 +1225,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-09-20 00:33:51.506601
+------------------------------------------------------
+Started: 2023-09-20 01:41:19.829119
+Existing_entries: 210
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [新北汐止中興路瓦斯外洩 人孔蓋下發現洩漏源](https://news.pts.org.tw/article/657734)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [虎斑沙魚嘴彩繪阿帕契 陸軍一度取消後允展出](https://news.pts.org.tw/article/657740)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／侯友宜與美智庫座談 美學者：有助理解國民黨立場](https://news.pts.org.tw/article/657742)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [桃園查進口蛋倉儲 2業者出貨逾149萬即期蛋](https://news.pts.org.tw/article/657746)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [陳吉仲請辭獲准 畜產會董座林聰賢宣布同進退](https://news.pts.org.tw/article/657747)
+append_entries: 5
+Finish: 2023-09-20 01:41:21.504163
