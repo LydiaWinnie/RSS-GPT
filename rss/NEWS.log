@@ -1378,3 +1378,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-20 10:08:03.465252
+------------------------------------------------------
+Started: 2023-09-20 11:06:32.644426
+Existing_entries: 235
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」拜登聯大講話呼籲團結支持烏克蘭、應對全球危機](https://cn.nytimes.com/world/20230920/biden-speech-un-general-assembly/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [亞運點金／進軍巴黎奧運田徑第1人 林昱堂杭州拚凸台最高點](https://news.pts.org.tw/article/657834)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [亞運點金／出身南投空手道名校 辜翠萍、谷筱霜攜手出征](https://news.pts.org.tw/article/657800)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／「亞洲鐵人」楊傳廣首開紀錄 台灣隊邁向100金](https://news.pts.org.tw/article/657798)
+append_entries: 4
+Finish: 2023-09-20 11:06:36.070952
