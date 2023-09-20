@@ -1327,3 +1327,33 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-20 07:07:43.150349
+------------------------------------------------------
+Started: 2023-09-20 08:10:07.314843
+Existing_entries: 223
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [被警方誤認通緝犯爆衝突 警民皆遭起訴當事人不滿](https://news.pts.org.tw/article/657781)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [20人瑞芳登山遭蜂螫 新北消防局派20車救援](https://news.pts.org.tw/article/657797)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [雲林消防無效通報占4成 消防局：恐觸法最高罰5萬](https://news.pts.org.tw/article/657780)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／郭台銘連署今起跑 傳國民黨及民眾黨商討合作](https://news.pts.org.tw/article/657782)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [人行道設電動機車換電站 騎士挨罰怨違規陷阱](https://news.pts.org.tw/article/657783)
+Append: [im.B吸金案80餘億不知去向 自救會陳情籲檢方追查](https://news.pts.org.tw/article/657784)
+Append: [新北蛋液加工廠進口混雜國產 食藥署指混合蛋需標來源國](https://news.pts.org.tw/article/657787)
+Append: [多位眾議員促軍武交台 美國防部：中侵台成功難度高](https://news.pts.org.tw/article/657791)
+Append: [2024大選／訪美連日拜訪國會 侯友宜：台灣願做負責任利害關係人](https://news.pts.org.tw/article/657792)
+Append: [國光統聯人力不足載客率不佳 6條國道路線將聯合排班](https://news.pts.org.tw/article/657793)
+Append: [台南26歲女登革熱重症 夫控相關單位遲未除雜草釀禍](https://news.pts.org.tw/article/657786)
+append_entries: 11
+Finish: 2023-09-20 08:10:10.881218
