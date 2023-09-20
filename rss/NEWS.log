@@ -1399,3 +1399,30 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／「亞洲鐵人」楊傳廣首開紀錄 台灣隊邁向100金](https://news.pts.org.tw/article/657798)
 append_entries: 4
 Finish: 2023-09-20 11:06:36.070952
+------------------------------------------------------
+Started: 2023-09-20 12:13:46.019416
+Existing_entries: 239
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [X擬收小額月費打擊假帳號 用戶反彈揚言離開](https://news.pts.org.tw/article/657860)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [伊朗頭巾之亂屆周年 輿論從道德轉向民生議題](https://news.pts.org.tw/article/657861)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [非核家園遭遇俄斷燃氣 德燃料成本大增重擊經濟](https://news.pts.org.tw/article/657862)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [俄烏戰爭／瓦格納退役兵患PTSD 俄政府未提供心理援助](https://news.pts.org.tw/article/657865)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [巴西東南部座頭鯨現聲 研究員錄下旋律如唱歌](https://news.pts.org.tw/article/657858)
+Append: [亞運點金／屢創體操隊史新紀錄 李智凱挑戰亞運鞍馬衛冕](https://news.pts.org.tw/article/657853)
+Append: [亞運點金／帶傷仍堅持上陣 跆拳道女將羅嘉翎全力備戰](https://news.pts.org.tw/article/657836)
+Append: [莫德納XBB疫苗9/26開打 一文看懂最新疫苗](https://news.pts.org.tw/article/657842)
+append_entries: 8
+Finish: 2023-09-20 12:13:49.076088
