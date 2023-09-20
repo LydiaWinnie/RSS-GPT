@@ -1426,3 +1426,12 @@ Append: [亞運點金／帶傷仍堅持上陣 跆拳道女將羅嘉翎全力備�
 Append: [莫德納XBB疫苗9/26開打 一文看懂最新疫苗](https://news.pts.org.tw/article/657842)
 append_entries: 8
 Finish: 2023-09-20 12:13:49.076088
+------------------------------------------------------
+Started: 2023-09-20 13:10:55.558961
+Existing_entries: 247
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-20 13:10:56.734278
