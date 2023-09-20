@@ -1285,3 +1285,12 @@ Append: [「中英」在中國賺錢越來越難：在華外企描繪營商環�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-09-20 04:09:03.853115
+------------------------------------------------------
+Started: 2023-09-20 05:07:05.606868
+Existing_entries: 218
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-20 05:07:06.489914
