@@ -1270,3 +1270,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-09-20 03:07:59.632851
+------------------------------------------------------
+Started: 2023-09-20 04:09:00.138237
+Existing_entries: 216
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」人人住得起的東京](https://cn.nytimes.com/opinion/20230920/tokyo-housing/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」在中國賺錢越來越難：在華外企描繪營商環境挑戰](https://cn.nytimes.com/business/20230920/american-european-chamber-commerce-china/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-09-20 04:09:03.853115
