@@ -1249,3 +1249,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [陳吉仲請辭獲准 畜產會董座林聰賢宣布同進退](https://news.pts.org.tw/article/657747)
 append_entries: 5
 Finish: 2023-09-20 01:41:21.504163
+------------------------------------------------------
+Started: 2023-09-20 02:14:39.071625
+Existing_entries: 215
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-20 02:14:39.890372
