@@ -1357,3 +1357,15 @@ Append: [國光統聯人力不足載客率不佳 6條國道路線將聯合排班
 Append: [台南26歲女登革熱重症 夫控相關單位遲未除雜草釀禍](https://news.pts.org.tw/article/657786)
 append_entries: 11
 Finish: 2023-09-20 08:10:10.881218
+------------------------------------------------------
+Started: 2023-09-20 09:07:44.279265
+Existing_entries: 234
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」「郵購嬰兒」、「嬰兒出口國」：韓國海外收養的殘酷真相](https://cn.nytimes.com/asia-pacific/20230920/south-korea-adoption/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-09-20 09:07:46.986945
