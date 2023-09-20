@@ -1369,3 +1369,12 @@ Append: [「中英」「郵購嬰兒」、「嬰兒出口國」：韓國海外�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-09-20 09:07:46.986945
+------------------------------------------------------
+Started: 2023-09-20 10:08:01.817553
+Existing_entries: 235
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-20 10:08:03.465252
