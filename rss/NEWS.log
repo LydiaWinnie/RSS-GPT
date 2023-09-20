@@ -1435,3 +1435,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-20 13:10:56.734278
+------------------------------------------------------
+Started: 2023-09-20 14:07:53.983780
+Existing_entries: 247
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [聯合國大會總辯論登場 4友邦發聲挺台入聯](https://news.pts.org.tw/article/657921)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／田徑38名選手最大團 跳遠與跨欄接力等3項有望奪牌](https://news.pts.org.tw/article/657904)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [解封後首個中秋 高雄台南公園禁烤肉鞭炮](https://news.pts.org.tw/article/657906)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [洛杉磯市長推住宅興建計畫 盼2026世界盃前解決街友問題](https://news.pts.org.tw/article/657908)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [泰國暹羅灣浮游藻華大量繁殖 魚貝死亡養殖業損失慘重](https://news.pts.org.tw/article/657909)
+Append: [亞塞拜然以「反恐」為由空襲 亞美尼亞籲美方與聯合國介入](https://news.pts.org.tw/article/657912)
+Append: [莫德納XBB疫苗9/26開打 65歲以上長者優先](https://news.pts.org.tw/article/657913)
+Append: [花蓮玉里醫院醫師涉改造槍枝 判決未定前仍將持續對內看診](https://news.pts.org.tw/article/657916)
+Append: [台鐵工會與交通部達共識 中秋台鐵將正常行駛](https://news.pts.org.tw/article/657917)
+Append: [2024大選／郭台銘連署今起跑 民眾黨：柯文哲將參選到底](https://news.pts.org.tw/article/657919)
+Append: [八分寮步道踏青遇蜂群攻擊 2人救護途中失去生命跡象](https://news.pts.org.tw/article/657922)
+Append: [五股達摩洞弱勢住民衝突 為分配平安餐砍傷7人](https://news.pts.org.tw/article/657923)
+Append: [涉倒酸性廢油水入圳長達10年 金屬加工油品業者19人遭起訴](https://news.pts.org.tw/article/657924)
+Append: [混製進口與國產蛋液未標示 新北、台中3業者遭送法辦](https://news.pts.org.tw/article/657925)
+Append: [3次強震都在9/19發生 墨西哥辦年度災害演習](https://news.pts.org.tw/article/657910)
+append_entries: 15
+Finish: 2023-09-20 14:07:56.652883
