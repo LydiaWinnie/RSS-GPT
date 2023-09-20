@@ -1294,3 +1294,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-20 05:07:06.489914
+------------------------------------------------------
+Started: 2023-09-20 06:10:22.650485
+Existing_entries: 218
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台中公車未停讓還擴音罵髒話 業者懲處駕駛警開罰](https://news.pts.org.tw/article/657794)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [鄭文燦肯定陳吉仲任內作為 在野黨提進口蛋五大爭議批逃兵](https://news.pts.org.tw/article/657795)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [聯合國大會19日開幕 澤倫斯基籲全球團結抗俄惡行](https://news.pts.org.tw/article/657790)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [農業部長陳吉仲請辭獲准 最後一天在任致詞哽咽](https://news.pts.org.tw/article/657796)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [辭農業部長明重返教職 陳吉仲：個人去留無關政治議題](https://news.pts.org.tw/article/657760)
+append_entries: 5
+Finish: 2023-09-20 06:10:27.034138
