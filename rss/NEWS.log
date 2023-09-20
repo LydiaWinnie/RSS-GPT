@@ -1469,3 +1469,12 @@ Append: [混製進口與國產蛋液未標示 新北、台中3業者遭送法辦
 Append: [3次強震都在9/19發生 墨西哥辦年度災害演習](https://news.pts.org.tw/article/657910)
 append_entries: 15
 Finish: 2023-09-20 14:07:56.652883
+------------------------------------------------------
+Started: 2023-09-20 15:07:48.790975
+Existing_entries: 262
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-20 15:07:49.731514
