@@ -1746,3 +1746,16 @@ Fetching from https://rsshub.app/pts/dailynews
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip rss/NEWS
+------------------------------------------------------
+Started: 2023-09-21 13:10:30.457814
+Existing_entries: 289
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip rss/NEWS
