@@ -1661,3 +1661,12 @@ Append: [高雄噪音殺鄰案 2童思念雙親之情寄託畫作](https://news.
 Append: [亞運點金／競速滑輪溜冰女子接力 楊合貞、李孟竹、劉懿萱拚奪金](https://news.pts.org.tw/article/657799)
 append_entries: 10
 Finish: 2023-09-21 06:10:07.276401
+------------------------------------------------------
+Started: 2023-09-21 07:07:32.755782
+Existing_entries: 281
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-21 07:07:34.479427
