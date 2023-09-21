@@ -1680,3 +1680,31 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-21 08:10:54.224898
+------------------------------------------------------
+Started: 2023-09-21 09:07:47.153194
+Existing_entries: 281
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [亞旭電腦桃園廠傳遷廠越南 移工批疑省資遣費遭欺壓](https://news.pts.org.tw/article/657977)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [環團憂碳費相關子法遲未公告 環境部：力拼年底預告](https://news.pts.org.tw/article/657978)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [政院拍板最低工資法草案 納CPI等10項參採指標](https://news.pts.org.tw/article/657979)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台股開低走低 盤中一度失守半年線](https://news.pts.org.tw/article/657980)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [馬斯克公司Neuralink獲准 腦機介面將植入患者大腦](https://news.pts.org.tw/article/657982)
+Append: [2024大選／矽谷論壇侯友宜談科技佈局 強調與美「友岸外包」一致](https://news.pts.org.tw/article/657983)
+Append: [台灣失智人口逾30萬 逾65歲每13人有1人失智](https://news.pts.org.tw/article/657984)
+Append: [2024大選／聚焦長照政策 賴、柯同提增住宿式服務補助](https://news.pts.org.tw/article/657985)
+append_entries: 8
+Finish: 2023-09-21 09:08:19.059221
