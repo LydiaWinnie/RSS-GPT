@@ -1611,3 +1611,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [20人瑞芳八分寮步道登山 遭上百黃腳虎頭蜂螫2人不治](https://news.pts.org.tw/article/657953)
 append_entries: 3
 Finish: 2023-09-21 03:07:48.280585
+------------------------------------------------------
+Started: 2023-09-21 04:08:57.630035
+Existing_entries: 270
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-21 04:08:58.544323
