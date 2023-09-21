@@ -1593,3 +1593,21 @@ Append: [「中英」中國外長王毅缺席聯大會議，加劇外界猜測](
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-09-21 02:14:01.852095
+------------------------------------------------------
+Started: 2023-09-21 03:07:45.523073
+Existing_entries: 267
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [錫克教領袖遭殺引加印紛爭 印度示警公民勿赴加拿大](https://news.pts.org.tw/article/657943)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／侯友宜赴舊金山高科技論壇 稱台科技轉型減少對中依賴](https://news.pts.org.tw/article/657947)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [20人瑞芳八分寮步道登山 遭上百黃腳虎頭蜂螫2人不治](https://news.pts.org.tw/article/657953)
+append_entries: 3
+Finish: 2023-09-21 03:07:48.280585
