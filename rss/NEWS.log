@@ -1581,3 +1581,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-21 01:40:38.629097
+------------------------------------------------------
+Started: 2023-09-21 02:14:00.828473
+Existing_entries: 266
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」中國外長王毅缺席聯大會議，加劇外界猜測](https://cn.nytimes.com/china/20230921/chinas-foreign-minister-will-skip-the-un-event-adding-to-a-sense-of-disarray-in-its-foreign-policy/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-09-21 02:14:01.852095
