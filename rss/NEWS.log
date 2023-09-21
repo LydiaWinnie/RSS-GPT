@@ -1708,3 +1708,15 @@ Append: [台灣失智人口逾30萬 逾65歲每13人有1人失智](https://news.
 Append: [2024大選／聚焦長照政策 賴、柯同提增住宿式服務補助](https://news.pts.org.tw/article/657985)
 append_entries: 8
 Finish: 2023-09-21 09:08:19.059221
+------------------------------------------------------
+Started: 2023-09-21 10:08:21.133897
+Existing_entries: 289
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-21 10:09:21.654092
