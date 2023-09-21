@@ -1632,3 +1632,32 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-09-21 05:07:19.248386
+------------------------------------------------------
+Started: 2023-09-21 06:10:03.453148
+Existing_entries: 271
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」聯合國召開氣候雄心峰會，中美未獲發言機會](https://cn.nytimes.com/world/20230921/guterres-un-climate-summit/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」大英博物館失竊醜聞揭穿「普世」的掠奪謊言](https://cn.nytimes.com/opinion/20230921/museum-artifacts-looting/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [921國家防災日 氣象署發地震及海嘯警報測試](https://news.pts.org.tw/article/657986)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [交通事故女性受傷機率較高 瑞典研發女性碰撞測試假人](https://news.pts.org.tw/article/657988)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [龜山島離島聯合演訓 直升機空中投水滅火](https://news.pts.org.tw/article/657991)
+Append: [因921全倒24年重建零進度 台中新坪生活公園社區住戶抗議](https://news.pts.org.tw/article/657992)
+Append: [大直民宅塌／基地昨再下沉 建管處宣布25日起強制拆除](https://news.pts.org.tw/article/657993)
+Append: [台南登革熱病例破8千 醫院急診滿籲成立特別門診](https://news.pts.org.tw/article/657994)
+Append: [高雄噪音殺鄰案 2童思念雙親之情寄託畫作](https://news.pts.org.tw/article/657995)
+Append: [亞運點金／競速滑輪溜冰女子接力 楊合貞、李孟竹、劉懿萱拚奪金](https://news.pts.org.tw/article/657799)
+append_entries: 10
+Finish: 2023-09-21 06:10:07.276401
