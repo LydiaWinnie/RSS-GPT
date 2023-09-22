@@ -2051,3 +2051,12 @@ Append: [台中果菜公司新設冷藏庫承租 攤商抗議租金及電費過�
 Append: [北市萬華大樓凌晨惡火釀1死 長照中心急撤行動不便長者](https://news.pts.org.tw/article/658192)
 append_entries: 29
 Finish: 2023-09-22 09:07:39.583327
+------------------------------------------------------
+Started: 2023-09-22 10:07:58.814381
+Existing_entries: 318
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-22 10:08:04.175519
