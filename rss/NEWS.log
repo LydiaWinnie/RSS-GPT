@@ -2002,3 +2002,52 @@ Fetching from https://rsshub.app/pts/dailynews
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip rss/NEWS
+------------------------------------------------------
+Started: 2023-09-22 09:07:37.517234
+Existing_entries: 289
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國戰機不只是簡單繞台飛行，而是真的在演練](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E6%88%B0%E6%A9%9F%E4%B8%8D%E5%8F%AA%E6%98%AF%E7%B0%A1%E5%96%AE%E7%B9%9E%E5%8F%B0%E9%A3%9B%E8%A1%8C-%E8%80%8C%E6%98%AF%E7%9C%9F%E7%9A%84%E5%9C%A8%E6%BC%94%E7%B7%B4-f22dd5a5)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [澤連斯基美國之行試圖說服疑慮漸增的西方：烏克蘭戰爭值得增加援助](https://cn.wsj.com/articles/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%BE%8E%E5%9C%8B%E4%B9%8B%E8%A1%8C%E8%A9%A6%E5%9C%96%E8%AA%AA%E6%9C%8D%E7%96%91%E6%85%AE%E6%BC%B8%E5%A2%9E%E7%9A%84%E8%A5%BF%E6%96%B9-%E7%83%8F%E5%85%8B%E8%98%AD%E6%88%B0%E7%88%AD%E5%80%BC%E5%BE%97%E5%A2%9E%E5%8A%A0%E6%8F%B4%E5%8A%A9-9911168e)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [烏克蘭裝甲車突破俄羅斯東南防線](https://cn.wsj.com/articles/%E7%83%8F%E5%85%8B%E8%98%AD%E8%A3%9D%E7%94%B2%E8%BB%8A%E7%AA%81%E7%A0%B4%E4%BF%84%E7%BE%85%E6%96%AF%E6%9D%B1%E5%8D%97%E9%98%B2%E7%B7%9A-e0de6aa5)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國向西太平洋派遣無人艦艇，首次在中國附近部署](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%90%91%E8%A5%BF%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B4%BE%E9%81%A3%E7%84%A1%E4%BA%BA%E8%89%A6%E8%89%87-%E9%A6%96%E6%AC%A1%E5%9C%A8%E4%B8%AD%E5%9C%8B%E9%99%84%E8%BF%91%E9%83%A8%E7%BD%B2-54bd673d)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [絕食抗議的韓國反對黨領袖李在明面臨被捕](https://cn.wsj.com/articles/%E7%B5%95%E9%A3%9F%E6%8A%97%E8%AD%B0%E7%9A%84%E9%9F%93%E5%9C%8B%E5%8F%8D%E5%B0%8D%E9%BB%A8%E9%A0%98%E8%A2%96%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%9D%A2%E8%87%A8%E8%A2%AB%E6%8D%95-df65f5ac)
+Append: [印度暫停向加拿大公民發放簽證，因外交爭端加劇](https://cn.wsj.com/articles/%E5%8D%B0%E5%BA%A6%E6%9A%AB%E5%81%9C%E5%90%91%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%85%AC%E6%B0%91%E7%99%BC%E6%94%BE%E7%B0%BD%E8%AD%89-%E5%9B%A0%E5%A4%96%E4%BA%A4%E7%88%AD%E7%AB%AF%E5%8A%A0%E5%8A%87-b75a975f)
+Append: [白宮稱新的烏克蘭援助計劃將包括重要的防空設施](https://cn.wsj.com/articles/%E7%99%BD%E5%AE%AE%E7%A8%B1%E6%96%B0%E7%9A%84%E7%83%8F%E5%85%8B%E8%98%AD%E6%8F%B4%E5%8A%A9%E8%A8%88%E5%8A%83%E5%B0%87%E5%8C%85%E6%8B%AC%E9%87%8D%E8%A6%81%E7%9A%84%E9%98%B2%E7%A9%BA%E8%A8%AD%E6%96%BD-37ba2e36)
+Append: [環保組織購買科羅拉多州民主黨山土地，轉讓給美國森林服務局](https://cn.wsj.com/articles/%E7%92%B0%E4%BF%9D%E7%B5%84%E7%B9%94%E8%B3%BC%E8%B2%B7%E7%A7%91%E7%BE%85%E6%8B%89%E5%A4%9A%E5%B7%9E%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%B1%B1%E5%9C%9F%E5%9C%B0-%E8%BD%89%E8%AE%93%E7%B5%A6%E7%BE%8E%E5%9C%8B%E6%A3%AE%E6%9E%97%E6%9C%8D%E5%8B%99%E5%B1%80-3d8d163a)
+Append: [澤連斯基重訪華盛頓之際，共和黨議員就烏克蘭援助對白宮提出警告](https://cn.wsj.com/articles/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E9%87%8D%E8%A8%AA%E8%8F%AF%E7%9B%9B%E9%A0%93%E4%B9%8B%E9%9A%9B-%E5%85%B1%E5%92%8C%E9%BB%A8%E8%AD%B0%E5%93%A1%E5%B0%B1%E7%83%8F%E5%85%8B%E8%98%AD%E6%8F%B4%E5%8A%A9%E5%B0%8D%E7%99%BD%E5%AE%AE%E6%8F%90%E5%87%BA%E8%AD%A6%E5%91%8A-bbc9bcca)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Append: [「中英」華裔演員辭演「六四」音樂劇，或因擔憂中國壓力](https://cn.nytimes.com/culture/20230922/tiananmen-musical-china-zachary-piser/zh-hant/dual)
+Append: [「中英」香港宣稱仍享有高度自治，但投資者並不樂觀](https://cn.nytimes.com/business/20230922/hong-kong-stocks-financial-hub/zh-hant/dual)
+Append: [「中英」梅鐸帝國：將激情和怨恨轉化為金錢和權力](https://cn.nytimes.com/culture/20230922/rupert-murdoch-fox/zh-hant/dual)
+Append: [「中英」當全球人口達到頂峰後會發生什麼](https://cn.nytimes.com/opinion/20230921/human-population-global-growth/zh-hant/dual)
+Append: [「中英」關於加拿大指印度政府捲入謀殺案，目前我們所知的](https://cn.nytimes.com/world/20230921/canada-india-nijjar/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Append: [韓國農業引進東南亞移工 IT接納國際移工補人力缺口](https://news.pts.org.tw/article/658206)
+Append: [美器捐醫療系統僵化 去年25%捐贈腎被棄置垃圾筒](https://news.pts.org.tw/article/658198)
+Append: [美國偏鄉產科護理沙漠 孕婦無奈搬至外地待產](https://news.pts.org.tw/article/658207)
+Append: [國軍首提共軍福建大埕灣動態 邱國正：敵情真的滿異常](https://news.pts.org.tw/article/658179)
+Append: [游淑慧FB指亦購巴西蛋 勤億：受畜產會委託製冷凍液蛋](https://news.pts.org.tw/article/658180)
+Append: [陳建仁為進口蛋事件道歉 代理部長陳駿季：將持續進口](https://news.pts.org.tw/article/658182)
+Append: [杜魯道控印度特務涉在加行兇 兩國外交衝突續升](https://news.pts.org.tw/article/658183)
+Append: [南韓國會首通過總理撤職案 並同意拘捕在野黨魁](https://news.pts.org.tw/article/658184)
+Append: [中火2025起上線2組燃氣機 台電：可望減煤百萬公噸](https://news.pts.org.tw/article/658187)
+Append: [iPhone 15線上預購年增5成 今開賣民眾漏夜排隊搶新機](https://news.pts.org.tw/article/658188)
+Append: [嘉義奉天宮開臺媽祖登綠島 展開3日巡洋海祭祈福](https://news.pts.org.tw/article/658185)
+Append: [加熱菸將上市爭議不斷 民團籲嚴格把關保護年輕族群](https://news.pts.org.tw/article/658189)
+Append: [南臺科大學生盜印停車證販售 校方：輔導後將依規定辦理](https://news.pts.org.tw/article/658190)
+Append: [台中果菜公司新設冷藏庫承租 攤商抗議租金及電費過高](https://news.pts.org.tw/article/658186)
+Append: [北市萬華大樓凌晨惡火釀1死 長照中心急撤行動不便長者](https://news.pts.org.tw/article/658192)
+append_entries: 29
+Finish: 2023-09-22 09:07:39.583327
