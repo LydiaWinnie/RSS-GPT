@@ -2100,3 +2100,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-22 12:13:29.974838
+------------------------------------------------------
+Started: 2023-09-22 13:09:37.785231
+Existing_entries: 330
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台灣黑熊六龜山區尋蜜 農民若財物受損可申請補償](https://news.pts.org.tw/article/658304)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [明年健保總額經14小時協商 醫院與西醫總額仍無共識](https://news.pts.org.tw/article/658306)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／浙江大專院校3.7萬志工 進駐助各國媒體解惑](https://news.pts.org.tw/article/658307)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [澤倫斯基訪華府會拜登 美允再撥3.25億美元軍援](https://news.pts.org.tw/article/658315)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／女子單人雙槳 黃義婷分組第3晉決賽拼獎牌](https://news.pts.org.tw/article/658309)
+Append: [大學5成作業由ChatGPT代寫 荷蘭專家籲立法規管AI](https://news.pts.org.tw/article/658310)
+Append: [柏林換執政黨取消綠色交通計畫 「無車化」遙遙無期](https://news.pts.org.tw/article/658311)
+Append: [菲律賓控中國破壞珊瑚生態 擬向海牙仲裁法院提訟](https://news.pts.org.tw/article/658312)
+Append: [紐約托兒所淪吩坦尼分裝廠 釀嬰幼童1死3昏迷](https://news.pts.org.tw/article/658314)
+Append: [疫期付訂、疫後被要求補差價 觀署：可檢附收據契約檢舉](https://news.pts.org.tw/article/658320)
+Append: [冷氣機砸死女大生案 檢方建請對負責人從重量刑](https://news.pts.org.tw/article/658321)
+Append: [南豐村東眼山土石崩落 河道阻成小堰塞湖恐危下游](https://news.pts.org.tw/article/658322)
+Append: [台南安平區育平路府平路口 路面坍塌現長寬1米坑洞](https://news.pts.org.tw/article/658323)
+Append: [中異議人士陳思明經寮泰抵台 盼借道台灣赴美加尋政治庇護](https://news.pts.org.tw/article/658328)
+Append: [屏市經建路工業區工廠 傍晚爆炸多人傷](https://news.pts.org.tw/article/658294)
+append_entries: 15
+Finish: 2023-09-22 13:09:45.599822
