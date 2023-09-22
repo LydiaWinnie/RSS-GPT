@@ -1976,3 +1976,16 @@ Feed error: 404
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-22 06:11:50.230431
+------------------------------------------------------
+Started: 2023-09-22 07:07:10.350542
+Existing_entries: 289
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip rss/NEWS
