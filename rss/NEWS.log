@@ -2060,3 +2060,34 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-22 10:08:04.175519
+------------------------------------------------------
+Started: 2023-09-22 11:06:31.582315
+Existing_entries: 318
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國間諜疑滲透英國會 在野抨擊蘇納克內閣親中態度](https://news.pts.org.tw/article/658193)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [前自衛隊女兵揭性騷案 入選《TIME》次世代百大人物](https://news.pts.org.tw/article/658194)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美室內溫室農場成本龐大 新創業者獲利不佳多棄守](https://news.pts.org.tw/article/658195)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [漸凍人植入腦機介面 用「意念」控制電腦轉譯文字朗讀](https://news.pts.org.tw/article/658197)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美飛天車Model A獲許可測試 預計在2025年底交車](https://news.pts.org.tw/article/658199)
+Append: [澳洲原住民雍古族在地養老 安養院仿傳統建築建造](https://news.pts.org.tw/article/658200)
+Append: [日本逾80歲人口達10% 老化情況惡化](https://news.pts.org.tw/article/658201)
+Append: [日本新幹線車廂首辦摔角賽 75座位半小時售罄](https://news.pts.org.tw/article/658202)
+Append: [高溫乾旱茶葉曬傷質受損 中國春茶減收兩成](https://news.pts.org.tw/article/658196)
+Append: [美軍寄望小型新創企業 研發突破性科技](https://news.pts.org.tw/article/658204)
+Append: [美軍研發微型核反應爐 不排除未來太空基地可使用](https://news.pts.org.tw/article/658205)
+Append: [外來種釀6成動植物滅絕 英國餐廳推外來種入菜](https://news.pts.org.tw/article/658203)
+append_entries: 12
+Finish: 2023-09-22 11:06:34.506336
