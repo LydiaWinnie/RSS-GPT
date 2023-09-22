@@ -2134,3 +2134,12 @@ Append: [中異議人士陳思明經寮泰抵台 盼借道台灣赴美加尋政�
 Append: [屏市經建路工業區工廠 傍晚爆炸多人傷](https://news.pts.org.tw/article/658294)
 append_entries: 15
 Finish: 2023-09-22 13:09:45.599822
+------------------------------------------------------
+Started: 2023-09-22 14:06:53.254219
+Existing_entries: 345
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-22 14:06:53.981671
