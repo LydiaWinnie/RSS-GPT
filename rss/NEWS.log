@@ -2373,3 +2373,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [亞運點金／繼2006年後最強台灣隊 拚亞運棒球隊史第2金](https://news.pts.org.tw/article/658356)
 append_entries: 1
 Finish: 2023-09-23 10:06:56.942719
+------------------------------------------------------
+Started: 2023-09-23 11:05:16.707590
+Existing_entries: 362
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-23 11:05:18.185093
