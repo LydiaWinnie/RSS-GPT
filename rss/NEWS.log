@@ -2412,3 +2412,30 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-23 14:05:57.943225
+------------------------------------------------------
+Started: 2023-09-23 15:06:18.580171
+Existing_entries: 363
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [日月潭環潭車道再增6百公尺 串聯伊達邵至纜車站](https://news.pts.org.tw/article/658383)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [抗震盃國際競賽 成大EQ Lab.團隊拔頭籌](https://news.pts.org.tw/article/658384)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [明揚工廠爆炸／勞動部下週勞檢集團及子公司 明揚允從優撫卹](https://news.pts.org.tw/article/658391)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [英國研究新冠重症住院者 肺部異常機率高14倍](https://news.pts.org.tw/article/658387)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「閃燃」如消防員殺手 資深消防員：若出現前兆速撤](https://news.pts.org.tw/article/658390)
+Append: [共軍9月中聯演 「山東號」任假想敵 疑鎖定美軍航艦](https://news.pts.org.tw/article/658389)
+Append: [明揚工廠爆炸／屏縣府強調消防員未射水 首批抵達即爆炸](https://news.pts.org.tw/article/658393)
+Append: [明揚工廠爆炸／鍾姓消防員殉職父徹夜難眠 29歲女重傷母守加護病房外](https://news.pts.org.tw/article/658392)
+append_entries: 8
+Finish: 2023-09-23 15:06:22.916128
