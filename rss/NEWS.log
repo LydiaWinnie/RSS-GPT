@@ -2394,3 +2394,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／王冠閎羅嘉翎開幕式掌旗官 跆拳道奪牌重點摘金](https://news.pts.org.tw/article/658357)
 append_entries: 1
 Finish: 2023-09-23 12:11:48.734056
+------------------------------------------------------
+Started: 2023-09-23 13:06:46.024544
+Existing_entries: 363
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-23 13:06:47.045244
