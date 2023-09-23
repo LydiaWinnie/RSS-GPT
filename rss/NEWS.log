@@ -2337,3 +2337,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-23 07:06:12.307554
+------------------------------------------------------
+Started: 2023-09-23 08:08:38.933135
+Existing_entries: 359
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [宜蘭小礁溪山區頻傳 住戶飼養貓狗遭捕獸鋏斷腿](https://news.pts.org.tw/article/658348)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [詐團誘民眾「邊看片邊賺錢」逾200人受害](https://news.pts.org.tw/article/658349)
+append_entries: 2
+Finish: 2023-09-23 08:08:41.427540
