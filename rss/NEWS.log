@@ -2243,3 +2243,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-23 00:32:33.079480
+------------------------------------------------------
+Started: 2023-09-23 01:38:20.102175
+Existing_entries: 348
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／莊智淵林昀儒未出賽 桌球男團3：0勝馬爾地夫](https://news.pts.org.tw/article/658331)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [明揚屏東廠火警4消防員殉職102傷 初判為進入火場後爆炸](https://news.pts.org.tw/article/658340)
+append_entries: 2
+Finish: 2023-09-23 01:38:21.851235
