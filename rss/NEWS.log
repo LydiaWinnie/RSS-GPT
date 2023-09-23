@@ -2361,3 +2361,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-23 09:06:19.806863
+------------------------------------------------------
+Started: 2023-09-23 10:06:55.902390
+Existing_entries: 361
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [亞運點金／繼2006年後最強台灣隊 拚亞運棒球隊史第2金](https://news.pts.org.tw/article/658356)
+append_entries: 1
+Finish: 2023-09-23 10:06:56.942719
