@@ -2303,3 +2303,28 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-23 05:06:35.554627
+------------------------------------------------------
+Started: 2023-09-23 06:09:03.423085
+Existing_entries: 353
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美汽車工人聯合會罷工一週 逼近2萬人響應邀拜登加入](https://news.pts.org.tw/article/658350)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國家住都中心辦社宅展 8年20萬戶目標加緊趕工](https://news.pts.org.tw/article/658351)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大直塌陷民宅預定25日拆除 基泰迄未提交計畫住戶憂心](https://news.pts.org.tw/article/658352)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [登革熱本土病例數10年來次高 提供醫院快篩試劑](https://news.pts.org.tw/article/658353)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [明揚工廠爆炸／今早尋獲2失蹤員工 前進國小憂影響週一復課](https://news.pts.org.tw/article/658355)
+Append: [明揚工廠爆炸／消防員上凱道再提3大訴求 呼籲勿再以殉職換改革](https://news.pts.org.tw/article/658354)
+append_entries: 6
+Finish: 2023-09-23 06:09:06.642820
