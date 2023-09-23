@@ -2352,3 +2352,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [詐團誘民眾「邊看片邊賺錢」逾200人受害](https://news.pts.org.tw/article/658349)
 append_entries: 2
 Finish: 2023-09-23 08:08:41.427540
+------------------------------------------------------
+Started: 2023-09-23 09:06:18.241243
+Existing_entries: 361
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-23 09:06:19.806863
