@@ -2452,3 +2452,13 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／王冠閎羅嘉翎掌旗 台灣69位國手參加亞運開幕式【圖輯】](https://news.pts.org.tw/article/658394)
 append_entries: 1
 Finish: 2023-09-23 16:08:05.520094
+------------------------------------------------------
+Started: 2023-09-23 17:05:50.505286
+Existing_entries: 372
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-23 17:05:51.273701
