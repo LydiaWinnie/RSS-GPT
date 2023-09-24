@@ -2582,3 +2582,33 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-24 06:09:00.431924
+------------------------------------------------------
+Started: 2023-09-24 07:06:23.557499
+Existing_entries: 373
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／開幕台灣第36順位進場 羅嘉翎王冠閎高顏值掌旗](https://news.pts.org.tw/article/658415)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [俄烏戰爭／烏飛彈擊中俄黑海艦隊 俄控西方軍援參戰](https://news.pts.org.tw/article/658411)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台南模擬鄭荷海戰 重現362年前歷史場景](https://news.pts.org.tw/article/658414)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [蛋價25日將漲2元 重回今年3月歷史新高](https://news.pts.org.tw/article/658417)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／退強敵近藤隼斗 楊勇緯柔道挺進4強](https://news.pts.org.tw/article/658423)
+Append: [杭州亞運／18歲新人陳淇初試啼聲 射擊10公尺步槍奪第8](https://news.pts.org.tw/article/658422)
+Append: [台中民眾誤信投資群組 警將計就計誘捕車手](https://news.pts.org.tw/article/658416)
+Append: [聯合國大會總辯論5天 共11友邦籲納我入聯](https://news.pts.org.tw/article/658420)
+Append: [明揚工廠爆炸／火場救護量能受關注 衛福部將盤點弱項強化訓練](https://news.pts.org.tw/article/658418)
+Append: [明揚工廠爆炸／再尋獲2失聯員工 4消防員殉職小隊長難過自責](https://news.pts.org.tw/article/658419)
+Append: [南港分局1員警涉勾結詐騙 法院收押警局予以免職](https://news.pts.org.tw/article/658421)
+append_entries: 11
+Finish: 2023-09-24 07:06:26.388681
