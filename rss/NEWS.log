@@ -2612,3 +2612,12 @@ Append: [明揚工廠爆炸／再尋獲2失聯員工 4消防員殉職小隊長�
 Append: [南港分局1員警涉勾結詐騙 法院收押警局予以免職](https://news.pts.org.tw/article/658421)
 append_entries: 11
 Finish: 2023-09-24 07:06:26.388681
+------------------------------------------------------
+Started: 2023-09-24 08:08:43.220327
+Existing_entries: 384
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-24 08:08:44.859160
