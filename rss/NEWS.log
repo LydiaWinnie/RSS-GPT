@@ -2645,3 +2645,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-24 10:07:03.883239
+------------------------------------------------------
+Started: 2023-09-24 11:05:22.563187
+Existing_entries: 386
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／馬允中最後一場國際賽奪銀 創跆拳道隊史新猷](https://news.pts.org.tw/article/658428)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／楊勇緯擊退李夏林 台灣亞運第100金入袋](https://news.pts.org.tw/article/658427)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／個人賽拋開壓力 陳歆雅品勢奪銅](https://news.pts.org.tw/article/658426)
+append_entries: 3
+Finish: 2023-09-24 11:05:23.875244
