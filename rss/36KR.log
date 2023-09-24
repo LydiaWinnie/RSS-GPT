@@ -3056,3 +3056,17 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-09-24 02:16:11.267628
+------------------------------------------------------
+Started: 2023-09-24 03:07:31.414781
+Existing_entries: 226
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [国庆还没到，钱却“花完”了](https://www.36kr.com/p/2445246225848192)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 1
+Finish: 2023-09-24 03:07:45.446352
