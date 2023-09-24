@@ -2663,3 +2663,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／個人賽拋開壓力 陳歆雅品勢奪銅](https://news.pts.org.tw/article/658426)
 append_entries: 3
 Finish: 2023-09-24 11:05:23.875244
+------------------------------------------------------
+Started: 2023-09-24 12:11:52.979293
+Existing_entries: 389
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-24 12:11:53.845824
