@@ -2573,3 +2573,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [明揚工廠爆炸／今晨再尋獲1遺體 7死107傷4消防員殉職](https://news.pts.org.tw/article/658405)
 append_entries: 1
 Finish: 2023-09-24 05:06:55.429338
+------------------------------------------------------
+Started: 2023-09-24 06:08:56.940425
+Existing_entries: 373
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-24 06:09:00.431924
