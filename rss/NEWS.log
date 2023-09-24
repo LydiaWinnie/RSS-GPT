@@ -2742,3 +2742,13 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [一週大事／明揚爆炸釀10死110傷 台灣摘下亞運第100金（2023.9.18-9.24）](https://news.pts.org.tw/article/658467)
 append_entries: 1
 Finish: 2023-09-24 17:05:43.824866
+------------------------------------------------------
+Started: 2023-09-24 18:08:33.454874
+Existing_entries: 401
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-24 18:08:35.275782
