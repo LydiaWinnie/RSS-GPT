@@ -2561,3 +2561,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-24 04:08:19.802737
+------------------------------------------------------
+Started: 2023-09-24 05:06:53.104076
+Existing_entries: 372
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [明揚工廠爆炸／今晨再尋獲1遺體 7死107傷4消防員殉職](https://news.pts.org.tw/article/658405)
+append_entries: 1
+Finish: 2023-09-24 05:06:55.429338
