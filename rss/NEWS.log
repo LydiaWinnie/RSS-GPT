@@ -2621,3 +2621,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-24 08:08:44.859160
+------------------------------------------------------
+Started: 2023-09-24 09:06:31.099764
+Existing_entries: 384
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [明揚工廠爆炸／公司將成立信託帳戶 尊重犯保協會提假扣押](https://news.pts.org.tw/article/658425)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／擊退世界第6 楊勇緯晉級柔道金牌戰](https://news.pts.org.tw/article/658424)
+append_entries: 2
+Finish: 2023-09-24 09:06:46.591847
