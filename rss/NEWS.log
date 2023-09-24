@@ -2720,3 +2720,12 @@ Append: [明揚工廠爆炸／允諾成立信託帳戶 未明說開立額度](ht
 Append: [明揚工廠爆炸／失聯人員全尋獲 3人尚無法確認身分](https://news.pts.org.tw/article/658447)
 append_entries: 11
 Finish: 2023-09-24 15:06:17.013562
+------------------------------------------------------
+Started: 2023-09-24 16:07:54.982942
+Existing_entries: 400
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-24 16:07:55.749762
