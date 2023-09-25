@@ -3063,3 +3063,12 @@ Append: [地震警報失誤 台東地震台南收到警報](https://news.pts.org
 Append: [高市前議長曾麗燕詐領助理費 一審重判12年](https://news.pts.org.tw/article/658658)
 append_entries: 15
 Finish: 2023-09-25 14:07:43.078788
+------------------------------------------------------
+Started: 2023-09-25 15:07:51.961118
+Existing_entries: 456
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-25 15:07:53.378680
