@@ -3016,3 +3016,14 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／4度參賽終奪金 連珍羚為台灣柔道隊史締新猷](https://news.pts.org.tw/article/658590)
 append_entries: 4
 Finish: 2023-09-25 12:14:09.918081
+------------------------------------------------------
+Started: 2023-09-25 13:10:53.480430
+Existing_entries: 441
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-25 13:10:54.458991
