@@ -3027,3 +3027,39 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-25 13:10:54.458991
+------------------------------------------------------
+Started: 2023-09-25 14:07:41.704773
+Existing_entries: 441
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大直民宅塌／擬26日拆除 今晚審基泰拆除計畫](https://news.pts.org.tw/article/658656)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [NFT熱潮退散價格崩盤 95%淪「數位壁紙」](https://news.pts.org.tw/article/658646)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [民眾轉向中古市場 8月成屋買氣月年雙增](https://news.pts.org.tw/article/658647)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [機車無照又不停讓 撞倒2女童雙方皆開罰](https://news.pts.org.tw/article/658649)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [蒙特內哥羅躺平大賽 進行月餘分不出勝負](https://news.pts.org.tw/article/658651)
+Append: [亞運首列電競入正式比賽 南韓奪金可免兵役惹爭議](https://news.pts.org.tw/article/658652)
+Append: [亞賽拜然襲擊納卡區 逾千難民抵亞美尼亞](https://news.pts.org.tw/article/658653)
+Append: [卡努颱風南投救災有功 蔡英文赴第5作戰區頒加菜](https://news.pts.org.tw/article/658655)
+Append: [免疫負債生病多 醫師單日驗出6種病毒](https://news.pts.org.tw/article/658664)
+Append: [瑞芳再傳蜂螫4人送醫 1人送進加護病房](https://news.pts.org.tw/article/658665)
+Append: [杭州亞運／桌球男團四強賽不敵中國 連三屆亞運鍍銅](https://news.pts.org.tw/article/658669)
+Append: [杭州亞運／台灣男籃3對3 擊敗香港拿預賽首勝](https://news.pts.org.tw/article/658662)
+Append: [杭州亞運／連珍羚奪柔道金牌 「一直相信我做得到」](https://news.pts.org.tw/article/658663)
+Append: [地震警報失誤 台東地震台南收到警報](https://news.pts.org.tw/article/658657)
+Append: [高市前議長曾麗燕詐領助理費 一審重判12年](https://news.pts.org.tw/article/658658)
+append_entries: 15
+Finish: 2023-09-25 14:07:43.078788

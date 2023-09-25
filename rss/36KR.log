@@ -3565,3 +3565,21 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 1
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-09-25 14:07:44.476081
+Existing_entries: 261
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [25岁裸辞大厂，我在养老院打电竞游戏](https://www.36kr.com/p/2447246127241349)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [无办公室企业怎么实现高效协作？](https://www.36kr.com/p/2447273866106756)
+append_entries: 2
+Finish: 2023-09-25 14:09:49.372872
