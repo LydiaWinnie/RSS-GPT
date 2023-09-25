@@ -2954,3 +2954,15 @@ Append: [杭州亞運／11歲林逸凡滑板失誤排第8 預約未來閃耀亞�
 Append: [菲律賓控中國南海設漂浮障礙物 長300米阻漁船捕魚](https://news.pts.org.tw/article/658533)
 append_entries: 6
 Finish: 2023-09-25 08:10:34.293345
+------------------------------------------------------
+Started: 2023-09-25 09:08:09.209992
+Existing_entries: 433
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [旅居華盛頓動物園的大熊貓將送回中國，美國人依依惜別](https://cn.wsj.com/articles/%E6%97%85%E5%B1%85%E8%8F%AF%E7%9B%9B%E9%A0%93%E5%8B%95%E7%89%A9%E5%9C%92%E7%9A%84%E5%A4%A7%E7%86%8A%E8%B2%93%E5%B0%87%E9%80%81%E5%9B%9E%E4%B8%AD%E5%9C%8B-%E7%BE%8E%E5%9C%8B%E4%BA%BA%E4%BE%9D%E4%BE%9D%E6%83%9C%E5%88%A5-b7e2cdec)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-09-25 09:08:11.538798
