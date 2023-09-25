@@ -2898,3 +2898,34 @@ Append: [「中英」獨立記者黃雪琴、活動人士王建兵因「煽顛�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-09-25 06:10:27.701004
+------------------------------------------------------
+Started: 2023-09-25 07:07:26.590096
+Existing_entries: 415
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／巿議員抨擊請假拚選戰 侯：給市民承諾不變](https://news.pts.org.tw/article/658534)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [花蓮火車站男廁洗澡行徑引議 警方：已掌握該行為人](https://news.pts.org.tw/article/658519)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國6東草屯分隔島雜草遮視線 工務局：將盡快修剪改善](https://news.pts.org.tw/article/658520)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [全球終端需求不振 央行三度下修GDP為1.46%](https://news.pts.org.tw/article/658522)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [公教退撫基金撥補法制化 只編100億挨批](https://news.pts.org.tw/article/658535)
+Append: [陣頭不滿主辦方未提供餐盒 台中清水廟會肢體衝突](https://news.pts.org.tw/article/658536)
+Append: [嘉義看守所自主監外收容人逃亡 公布個資照片發布通緝](https://news.pts.org.tw/article/658537)
+Append: [盼啟動安樂死相關立法 時力：保障病友生命自主權](https://news.pts.org.tw/article/658523)
+Append: [台灣無化石專法，珍貴歷史資產岌岌可危！【獨立特派員】](https://news.pts.org.tw/article/658541)
+Append: [日本八戶市醫師會，提升在宅醫療服務品質【獨立特派員】](https://news.pts.org.tw/article/658540)
+Append: [日本鎌倉百年鐵道江之電，為何帶來龐大觀光商機？【獨立特派員】](https://news.pts.org.tw/article/658509)
+Append: [923世界手語日 共融演唱會 聽.聾朋友齊參與](https://news.pts.org.tw/article/658498)
+append_entries: 12
+Finish: 2023-09-25 07:07:29.109077
