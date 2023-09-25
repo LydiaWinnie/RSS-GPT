@@ -2929,3 +2929,28 @@ Append: [日本鎌倉百年鐵道江之電，為何帶來龐大觀光商機？�
 Append: [923世界手語日 共融演唱會 聽.聾朋友齊參與](https://news.pts.org.tw/article/658498)
 append_entries: 12
 Finish: 2023-09-25 07:07:29.109077
+------------------------------------------------------
+Started: 2023-09-25 08:10:32.583061
+Existing_entries: 427
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／黃金得分壓制對手 連珍羚首闖柔道金牌戰](https://news.pts.org.tw/article/658542)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台北批發蛋價今起漲2元 農業部：尊重市場機制](https://news.pts.org.tw/article/658524)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [明揚工廠爆炸／屏縣府公布3大缺失 依法從重裁罰共240萬](https://news.pts.org.tw/article/658526)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [明揚工廠爆炸／消防專家籲檢討企業防災 陳揆：審慎考慮消防員組工會](https://news.pts.org.tw/article/658527)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／11歲林逸凡滑板失誤排第8 預約未來閃耀亞洲](https://news.pts.org.tw/article/658528)
+Append: [菲律賓控中國南海設漂浮障礙物 長300米阻漁船捕魚](https://news.pts.org.tw/article/658533)
+append_entries: 6
+Finish: 2023-09-25 08:10:34.293345
