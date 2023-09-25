@@ -3375,3 +3375,34 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-09-25 03:07:59.687872
+------------------------------------------------------
+Started: 2023-09-25 04:09:29.365580
+Existing_entries: 236
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [多少一线中产，想在这个区提前退休](https://www.36kr.com/p/2446783348037512)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [亏了几个亿， AI项目到底怎么投？看欧洲老牌风投Index如何押宝](https://www.36kr.com/p/2446763200274312)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [DALL·E 3内部实测效果惊人，Karpathy生成逼真灵动“美国小姐”，50个物体一图全包](https://www.36kr.com/p/2446766095374467)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [参数量仅为1/700，性能超越GPT-3.5，CMU+清华开源Prompt2Model框架](https://www.36kr.com/p/2446764634920833)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [操作系统级ChatGPT爆火，实测让电脑自己整理桌面，Mac/Windows/Linux都支持](https://www.36kr.com/p/2446763389671305)
+Append: [只需1%参数，效果超越ControlNet，新AI绘画控制大师来袭](https://www.36kr.com/p/2446763014330501)
+Append: [数字人登上亚运会，大模型是幕后功臣 | Future](https://www.36kr.com/p/2446758182983556)
+Append: [GPT-4被曝重大缺陷，35年前预言成真，所有LLM正确率都≈0，惹Karpathy马库斯惊呼](https://www.36kr.com/p/2446764601956482)
+Append: [GPT-4也难逃“反转诅咒”，新研究发现：大模型存在推理缺陷，知道“A是B”推不出“B是A”](https://www.36kr.com/p/2446763013494663)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 9
+Finish: 2023-09-25 04:10:00.807178
