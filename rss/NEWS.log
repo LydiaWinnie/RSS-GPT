@@ -2835,3 +2835,12 @@ Append: [台灣亞運第100金 楊勇緯奪金激動落淚](https://news.pts.org
 Append: [台南移工聚會所氣爆8傷 疑氣爆當事人稱並未煮食](https://news.pts.org.tw/article/658494)
 append_entries: 8
 Finish: 2023-09-25 01:42:29.223155
+------------------------------------------------------
+Started: 2023-09-25 02:16:01.202810
+Existing_entries: 409
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-25 02:16:03.232173
