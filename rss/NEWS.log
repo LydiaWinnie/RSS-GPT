@@ -2984,3 +2984,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [全球第2例豬心移植成功 56歲退役軍人術後恢復良好](https://news.pts.org.tw/article/658543)
 append_entries: 3
 Finish: 2023-09-25 10:08:25.224237
+------------------------------------------------------
+Started: 2023-09-25 11:06:25.222174
+Existing_entries: 437
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-25 11:06:26.244253
