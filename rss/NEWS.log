@@ -2808,3 +2808,30 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-25 00:34:37.025522
+------------------------------------------------------
+Started: 2023-09-25 01:42:27.583353
+Existing_entries: 401
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」中國房地產危機拉響新警報：影子銀行](https://cn.nytimes.com/business/20230925/china-economy-trusts-zhongrong-zhongzhi/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／跆拳道品勢奪銅 陳歆雅奪台灣本屆首面獎牌](https://news.pts.org.tw/article/658475)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／馬允中奪銀 創台灣亞運品勢最佳成績](https://news.pts.org.tw/article/658476)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／楊勇緯奪金締里程碑 瞄準巴黎奧運](https://news.pts.org.tw/article/658492)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [亞運體操男團奪銅 創台灣隊史最佳紀錄](https://news.pts.org.tw/article/658474)
+Append: [科索沃修道院遭武裝分子闖入 1警遇襲亡](https://news.pts.org.tw/article/658484)
+Append: [台灣亞運第100金 楊勇緯奪金激動落淚](https://news.pts.org.tw/article/658493)
+Append: [台南移工聚會所氣爆8傷 疑氣爆當事人稱並未煮食](https://news.pts.org.tw/article/658494)
+append_entries: 8
+Finish: 2023-09-25 01:42:29.223155
