@@ -2966,3 +2966,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-09-25 09:08:11.538798
+------------------------------------------------------
+Started: 2023-09-25 10:08:23.990591
+Existing_entries: 434
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」失蹤六年的知名維吾爾學者被判無期徒刑](https://cn.nytimes.com/china/20230925/rahile-dawut-uyghur-china/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／武術孫家閎無緣獎牌 太極拳太極劍全能第8作收](https://news.pts.org.tw/article/658574)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [全球第2例豬心移植成功 56歲退役軍人術後恢復良好](https://news.pts.org.tw/article/658543)
+append_entries: 3
+Finish: 2023-09-25 10:08:25.224237

@@ -3491,3 +3491,21 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-09-25 09:09:32.567234
+------------------------------------------------------
+Started: 2023-09-25 10:08:26.398257
+Existing_entries: 254
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [除甲醛到底会交多少“智商税”？](https://www.36kr.com/p/2447046721822855)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [拒绝“酱香拿铁”的年轻人去中药房买酸梅汤](https://www.36kr.com/p/2447048505204871)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-09-25 10:09:27.389720
