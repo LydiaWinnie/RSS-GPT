@@ -3525,3 +3525,28 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2023-09-25 11:07:02.487046
+------------------------------------------------------
+Started: 2023-09-25 12:14:11.017314
+Existing_entries: 257
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [ChatGPT月活15亿遥遥领先，50家企业厮杀6个月，白手起家占8成](https://www.36kr.com/p/2447233154816133)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [打通谷歌办公软件，Bard与ChatGPT走差异化道路](https://www.36kr.com/p/2447220073797505)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [会画画、会识图的ChatGPT终于要来了](https://www.36kr.com/p/2447195969853320)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中国掀生成式AI热，人才缺口400万](https://www.36kr.com/p/2446810582275972)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 4
+Finish: 2023-09-25 12:16:05.574444

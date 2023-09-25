@@ -2993,3 +2993,26 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-25 11:06:26.244253
+------------------------------------------------------
+Started: 2023-09-25 12:14:03.371702
+Existing_entries: 437
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [明揚工廠爆炸／屏縣府公布三大違失 從重裁罰240萬元](https://news.pts.org.tw/article/658637)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [4公尺巨鱷叼女遊民遺體 美佛州警方予以人道撲殺](https://news.pts.org.tw/article/658592)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美預算案卡關 10/1無法達成協議政府將停擺](https://news.pts.org.tw/article/658591)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／4度參賽終奪金 連珍羚為台灣柔道隊史締新猷](https://news.pts.org.tw/article/658590)
+append_entries: 4
+Finish: 2023-09-25 12:14:09.918081
