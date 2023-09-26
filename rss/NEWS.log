@@ -3214,3 +3214,28 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／體操女團成績達目標 盼個人單項創佳績](https://news.pts.org.tw/article/658681)
 append_entries: 3
 Finish: 2023-09-26 04:09:23.185790
+------------------------------------------------------
+Started: 2023-09-26 05:07:16.653437
+Existing_entries: 464
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」拜登接待太平洋島國領導人，提及「二戰」暗指中國](https://cn.nytimes.com/world/20230926/biden-pacific-islands-china/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」菲律賓稱已拆除中國在黃岩島設置的屏障](https://cn.nytimes.com/asia-pacific/20230926/philippines-chinese-fishing-barrier/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」鳴笛、水炮與危險對峙：中國如何在南海展開軍事化行動](https://cn.nytimes.com/asia-pacific/20230926/china-sea-philippines-us/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／LOL、快打旋風決勝負 一文看懂電競打哪種「電動」](https://news.pts.org.tw/article/658711)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [TNCAP公布2車款撞擊測試結果 Ford Kuga獲3星、Focus獲5星](https://news.pts.org.tw/article/658710)
+Append: [杭州亞運／電競英雄聯盟小組賽 台灣連過兩關進8強](https://news.pts.org.tw/article/658709)
+append_entries: 6
+Finish: 2023-09-26 05:07:19.211530
