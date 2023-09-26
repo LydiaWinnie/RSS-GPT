@@ -3248,3 +3248,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-26 06:10:26.059263
+------------------------------------------------------
+Started: 2023-09-26 07:07:27.844665
+Existing_entries: 470
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [能跑步追公車卻申請失能理賠 警南高逮詐保13嫌](https://news.pts.org.tw/article/658736)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [農業照明耗能且釀光害 民團籲訂定標準嚴審補助](https://news.pts.org.tw/article/658724)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [衛福部放寬溶解劑給付條件 缺血性腦中風4.5小時內皆可使用](https://news.pts.org.tw/article/658726)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台中20歲女大生突發腦中風 心房中膈缺損所致](https://news.pts.org.tw/article/658727)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大直民宅塌／沉陷戶今拆除 北市府盼10天拆完不損鄰](https://news.pts.org.tw/article/658737)
+Append: [控基層員工難入工會 長榮航勤：勞動部調解中](https://news.pts.org.tw/article/658728)
+Append: [杭州亞運／南拳南棍全能賽 劉菖閔、賴柏瑋全力備戰](https://news.pts.org.tw/article/658730)
+Append: [國慶半兵力預演 各式戰機飛越總統府上空](https://news.pts.org.tw/article/658738)
+Append: [首波XBB.1.5新冠疫苗施打 預防65歲以上併發重症](https://news.pts.org.tw/article/658739)
+Append: [杭州亞運／圍棋個人賽 2棋手力拚前進8人決賽](https://news.pts.org.tw/article/658731)
+Append: [7旬翁與友攜土製獵槍雙溪打獵 遭槍擊頭部身亡](https://news.pts.org.tw/article/658740)
+Append: [雲林危險物場所列管156家 縣府：每年抽查1次以上](https://news.pts.org.tw/article/658734)
+Append: [檢調搜索台農與信興蛋品 董座涂萬財翁媳交保](https://news.pts.org.tw/article/658741)
+Append: [明揚工廠爆炸／假扣押遭駁回 法院：現提資料無法清楚說明](https://news.pts.org.tw/article/658735)
+Append: [台股指數開低走低 分析師：量能遞減恐限縮反彈力道](https://news.pts.org.tw/article/658729)
+append_entries: 15
+Finish: 2023-09-26 07:07:30.763135

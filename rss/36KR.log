@@ -3803,3 +3803,22 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2023-09-26 06:12:32.840495
+------------------------------------------------------
+Started: 2023-09-26 07:07:32.012047
+Existing_entries: 271
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [ChatGPT“看图说话”大变身，动嘴传图秒解答，幕后新模型GPT-4V亮相](https://www.36kr.com/p/2448240384333704)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [ChatGPT大更新，能看能听也能说，多模态功能即将上线](https://www.36kr.com/p/2448207481739392)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-09-26 07:11:18.536795
