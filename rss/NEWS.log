@@ -3345,3 +3345,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-26 12:13:56.329758
+------------------------------------------------------
+Started: 2023-09-26 13:10:49.694620
+Existing_entries: 491
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／女子25公尺手槍資格賽 台灣3選手總分暫排第3](https://news.pts.org.tw/article/658857)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大學增設藥學系 公會憂藥師過剩籲總額管制](https://news.pts.org.tw/article/658859)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [登革熱再添3死 今年全台累計破萬例](https://news.pts.org.tw/article/658861)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／侯友宜喊調漲老農津貼 賴赴新竹搶客家票倉](https://news.pts.org.tw/article/658862)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [桃園育兒津貼詐領溢領達37件 監委提案糾正](https://news.pts.org.tw/article/658863)
+Append: [消防員喊話組工會 陳建仁：將修公務人員協會法](https://news.pts.org.tw/article/658867)
+Append: [明揚工廠爆炸／提5億元信託賠償傷亡 殉職消防另提撥撫卹](https://news.pts.org.tw/article/658868)
+Append: [高雄女童在公園險遭性侵 嫌被依強制性交未遂聲押獲准](https://news.pts.org.tw/article/658864)
+Append: [杭州亞運／武術南拳南棍項目 賴柏瑋獲第5劉菖閔第6](https://news.pts.org.tw/article/658858)
+Append: [美與庫克群島、紐埃建交 擴大太平洋影響力抗衡中國](https://news.pts.org.tw/article/658869)
+Append: [萬劍彈台東炸射演訓 可多彈頭反制共軍機場](https://news.pts.org.tw/article/658870)
+Append: [杭州亞運／女子跆拳摘雙銀 羅嘉翎林唯均惜敗落淚](https://news.pts.org.tw/article/658871)
+Append: [好萊塢編劇與片商達成協議 5個月罷工將結束](https://news.pts.org.tw/article/658806)
+Append: [日本東京短暫下降至18.5度 週三起各地氣溫回升](https://news.pts.org.tw/article/658801)
+Append: [委內瑞拉監獄長期遭囚犯把持 軍警奪回查獲泳池及夜店](https://news.pts.org.tw/article/658804)
+append_entries: 15
+Finish: 2023-09-26 13:10:59.297594
