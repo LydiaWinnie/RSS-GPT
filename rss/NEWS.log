@@ -3196,3 +3196,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-09-26 03:08:01.618366
+------------------------------------------------------
+Started: 2023-09-26 04:09:00.647357
+Existing_entries: 461
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／網球男女單爭8強 女雙晉級16強](https://news.pts.org.tw/article/658680)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／桌球男團不敵中國 台灣連3屆奪銅牌](https://news.pts.org.tw/article/658682)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／體操女團成績達目標 盼個人單項創佳績](https://news.pts.org.tw/article/658681)
+append_entries: 3
+Finish: 2023-09-26 04:09:23.185790
