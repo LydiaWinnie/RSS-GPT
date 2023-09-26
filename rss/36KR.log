@@ -3741,3 +3741,20 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-09-26 02:16:57.110956
+------------------------------------------------------
+Started: 2023-09-26 03:08:03.047256
+Existing_entries: 268
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [“围猎”英伟达H100](https://www.36kr.com/p/2448119789019013)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [数据标注员，困在大模型里｜深氪Lite](https://www.36kr.com/p/2448123870992512)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-09-26 03:08:57.633023
