@@ -3163,3 +3163,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [俄烏戰爭／烏稱擊斃俄艦隊司令 雖未獲證實但俄隨後發動空襲](https://news.pts.org.tw/article/658686)
 append_entries: 3
 Finish: 2023-09-26 00:34:43.438809
+------------------------------------------------------
+Started: 2023-09-26 01:42:26.156776
+Existing_entries: 459
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-26 01:42:27.634130

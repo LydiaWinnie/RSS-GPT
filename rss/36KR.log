@@ -3711,3 +3711,21 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 3
 Finish: 2023-09-26 00:35:20.758041
+------------------------------------------------------
+Started: 2023-09-26 01:42:29.176693
+Existing_entries: 266
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [外卖柜，困住外卖小哥](https://www.36kr.com/p/2448010441021320)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [连年亏损的寒武纪，留不住创投股东的心](https://www.36kr.com/p/2447451552522121)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-09-26 01:42:54.655180
