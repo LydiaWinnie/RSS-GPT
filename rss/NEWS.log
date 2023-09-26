@@ -3145,3 +3145,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-25 23:07:11.012617
+------------------------------------------------------
+Started: 2023-09-26 00:34:41.212273
+Existing_entries: 456
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [沙烏地同意接受聯合國原子能機構更廣泛的監督](https://cn.wsj.com/articles/%E6%B2%99%E7%83%8F%E5%9C%B0%E5%90%8C%E6%84%8F%E6%8E%A5%E5%8F%97%E8%81%AF%E5%90%88%E5%9C%8B%E5%8E%9F%E5%AD%90%E8%83%BD%E6%A9%9F%E6%A7%8B%E6%9B%B4%E5%BB%A3%E6%B3%9B%E7%9A%84%E7%9B%A3%E7%9D%A3-abb47c4e)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國以國家安全風險為由將中俄等國的28家實體列入黑名單](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E4%BB%A5%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E9%A2%A8%E9%9A%AA%E7%82%BA%E7%94%B1%E5%B0%87%E4%B8%AD%E4%BF%84%E7%AD%89%E5%9C%8B%E7%9A%8428%E5%AE%B6%E5%AF%A6%E9%AB%94%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%96%AE-32d94131)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [俄烏戰爭／烏稱擊斃俄艦隊司令 雖未獲證實但俄隨後發動空襲](https://news.pts.org.tw/article/658686)
+append_entries: 3
+Finish: 2023-09-26 00:34:43.438809
