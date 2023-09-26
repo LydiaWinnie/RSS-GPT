@@ -3379,3 +3379,12 @@ Append: [日本東京短暫下降至18.5度 週三起各地氣溫回升](https:/
 Append: [委內瑞拉監獄長期遭囚犯把持 軍警奪回查獲泳池及夜店](https://news.pts.org.tw/article/658804)
 append_entries: 15
 Finish: 2023-09-26 13:10:59.297594
+------------------------------------------------------
+Started: 2023-09-26 14:07:30.982063
+Existing_entries: 506
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-26 14:07:32.373408
