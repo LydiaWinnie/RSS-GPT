@@ -3239,3 +3239,12 @@ Append: [TNCAP公布2車款撞擊測試結果 Ford Kuga獲3星、Focus獲5星](h
 Append: [杭州亞運／電競英雄聯盟小組賽 台灣連過兩關進8強](https://news.pts.org.tw/article/658709)
 append_entries: 6
 Finish: 2023-09-26 05:07:19.211530
+------------------------------------------------------
+Started: 2023-09-26 06:10:22.688148
+Existing_entries: 470
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-26 06:10:26.059263

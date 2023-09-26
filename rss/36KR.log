@@ -3789,3 +3789,17 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 1
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-09-26 06:10:27.735277
+Existing_entries: 270
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [乐视“夹缝生存”：入局投影仪赛道、投资者追偿判决生效](https://www.36kr.com/p/2448206403131268)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 1
+Finish: 2023-09-26 06:12:32.840495
