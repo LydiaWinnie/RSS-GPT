@@ -3406,3 +3406,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [近30少女遭散布AI合成裸照 涉案人未成年歐洲尚無法可管](https://news.pts.org.tw/article/658855)
 append_entries: 3
 Finish: 2023-09-26 15:07:53.705461
+------------------------------------------------------
+Started: 2023-09-26 16:09:28.467799
+Existing_entries: 509
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-26 16:09:30.720858
