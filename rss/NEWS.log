@@ -3321,3 +3321,18 @@ Append: [「中英」老齡化、經濟放緩、債務累累：中國東北的�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-09-26 10:08:20.537328
+------------------------------------------------------
+Started: 2023-09-26 11:06:38.571566
+Existing_entries: 489
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」黃金的另一面：致命「鍊金術」](https://cn.nytimes.com/world/20230926/gold-mercury-mining-poison/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／台灣隊再添兩面獎牌 跆拳道羅嘉翎、林唯均奪銀](https://news.pts.org.tw/article/658797)
+append_entries: 2
+Finish: 2023-09-26 11:06:41.546910
