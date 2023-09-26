@@ -3388,3 +3388,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-26 14:07:32.373408
+------------------------------------------------------
+Started: 2023-09-26 15:07:52.227797
+Existing_entries: 506
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／電競英雄聯盟 台34分鐘連勝2場晉8強](https://news.pts.org.tw/article/658856)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [德國房市萎縮爛尾樓增 政府決議暫緩節能建築計畫](https://news.pts.org.tw/article/658854)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [近30少女遭散布AI合成裸照 涉案人未成年歐洲尚無法可管](https://news.pts.org.tw/article/658855)
+append_entries: 3
+Finish: 2023-09-26 15:07:53.705461
