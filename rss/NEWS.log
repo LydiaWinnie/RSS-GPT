@@ -3282,3 +3282,12 @@ Append: [明揚工廠爆炸／假扣押遭駁回 法院：現提資料無法清�
 Append: [台股指數開低走低 分析師：量能遞減恐限縮反彈力道](https://news.pts.org.tw/article/658729)
 append_entries: 15
 Finish: 2023-09-26 07:07:30.763135
+------------------------------------------------------
+Started: 2023-09-26 08:10:07.943611
+Existing_entries: 485
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-26 08:10:08.829262
