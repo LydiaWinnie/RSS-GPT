@@ -3585,3 +3585,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [陳椒華控某媒體握27%中嘉股權 批NCC護航](https://news.pts.org.tw/article/658941)
 append_entries: 4
 Finish: 2023-09-27 06:10:29.121253
+------------------------------------------------------
+Started: 2023-09-27 07:07:22.586733
+Existing_entries: 523
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-27 07:07:24.094065
