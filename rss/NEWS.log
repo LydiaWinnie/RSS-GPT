@@ -3504,3 +3504,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 5
 Finish: 2023-09-27 00:34:40.591963
+------------------------------------------------------
+Started: 2023-09-27 01:42:18.969867
+Existing_entries: 514
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／自由車男女團皆不敵馬來西亞 第4名作收](https://news.pts.org.tw/article/658878)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／體操男子個人全能決賽 葉政75.331分排11](https://news.pts.org.tw/article/658877)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／男籃對戰香港 81:62獲勝開紅盤](https://news.pts.org.tw/article/658879)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／男子游泳4x100混接力 破全國紀錄獲第4](https://news.pts.org.tw/article/658896)
+append_entries: 4
+Finish: 2023-09-27 01:42:21.715019

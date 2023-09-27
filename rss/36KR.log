@@ -4075,3 +4075,24 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-09-27 01:42:23.053316
+Existing_entries: 287
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [抓住AI，就抓住了未来30年的红利](https://www.36kr.com/p/2448829358937990)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [ChatGPT能语音聊天和看图了，五种音色选项，背后模型细节公开](https://www.36kr.com/p/2448933549496450)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [长了眼睛和嘴，ChatGPT 开始入侵物理世界](https://www.36kr.com/p/2448680029951876)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 3
+Finish: 2023-09-27 01:44:54.784914
