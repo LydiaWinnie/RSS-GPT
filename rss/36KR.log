@@ -4107,3 +4107,18 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-09-27 02:15:20.562474
+------------------------------------------------------
+Started: 2023-09-27 03:08:05.015010
+Existing_entries: 290
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [做播客，肯定亏钱啊](https://www.36kr.com/p/2448806298654851)
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 1
+Finish: 2023-09-27 03:09:49.320887
