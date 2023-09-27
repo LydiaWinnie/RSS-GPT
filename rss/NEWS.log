@@ -3671,3 +3671,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-27 11:06:30.379522
+------------------------------------------------------
+Started: 2023-09-27 12:13:49.548873
+Existing_entries: 544
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [碳排不減反增 樂高停用回收塑料製積木](https://news.pts.org.tw/article/659007)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [偷竊輕罪淪為「零元購」 美加州店家罷工要求打擊犯罪](https://news.pts.org.tw/article/659003)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國限青少年上網反應兩極 專家建議從陪伴孩子做起](https://news.pts.org.tw/article/659005)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [挪威研究：接種新冠疫苗後 無月經女性意外出血風險增](https://news.pts.org.tw/article/658998)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國政府部門面臨關門危機 一文了解造成影響](https://news.pts.org.tw/article/658997)
+append_entries: 5
+Finish: 2023-09-27 12:14:00.978018

@@ -4289,3 +4289,31 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-09-27 11:08:17.417427
+------------------------------------------------------
+Started: 2023-09-27 12:14:02.282560
+Existing_entries: 310
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [千亿也不够花，OpenAI 想让员工出售股票来筹资，而最大投资人微软正在“去GPT”](https://www.36kr.com/p/2450093732518025)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [Win11正式成为“AI操作系统”了，Copilot助手加持，画图截图一键换背景，马斯克赶来围观](https://www.36kr.com/p/2450089090652296)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [阿里Qwen-VL开源！能读图识物，一句话让AI来找茬，可二次开发和商用](https://www.36kr.com/p/2412995334972423)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [拒绝VC，40人团队一年狂挣2亿美元，估值达73亿](https://www.36kr.com/p/2421688207074304)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [减肥药巨头瞄向AI制药，协议对价可达27亿美元](https://www.36kr.com/p/2450053808838784)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 5
+Finish: 2023-09-27 12:15:58.206806
