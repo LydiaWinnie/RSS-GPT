@@ -4245,3 +4245,35 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 5
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-09-27 10:08:21.144536
+Existing_entries: 299
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [早市里的“早八人”，热衷为烟火气买单](https://www.36kr.com/p/2449929466878089)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大海不是在变暖，而是在沸腾](https://www.36kr.com/p/2449896845891461)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [那些辞职去终南山隐居的人后悔了吗？](https://www.36kr.com/p/2449654390366086)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [想逆天改命的打工人，都被这个一次几千块的“轻奢消费”坑惨了？](https://www.36kr.com/p/2449738869495687)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [微软最新发布：从专家到通用AI代理，一文读懂「多模态基础模型」](https://www.36kr.com/p/2449963560621953)
+Append: [AI医疗，已经跃过了“锦上添花”的阶段](https://www.36kr.com/p/2449911977058182)
+Append: [GPT-4太烧钱，微软想甩掉OpenAI？曝出Plan B：千块GPU专训「小模型」，开启必应内测](https://www.36kr.com/p/2449713204057988)
+Append: [Sam Altman被曝与苹果传奇设计师、软银孙正义秘密接触，OpenAI估值已达900亿美元，全新AI硬件酝酿中](https://www.36kr.com/p/2449713495463809)
+Append: [亚马逊40亿美元买「AI船票」，投资独角兽，挖角对手高管](https://www.36kr.com/p/2449713698019458)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Append: [糟糕的管理如何导致组织问题](https://www.36kr.com/p/2448685842243458)
+Append: [您的商业秘密，真的是商业秘密吗？](https://www.36kr.com/p/2449426557425543)
+append_entries: 11
+Finish: 2023-09-27 10:09:53.711343
