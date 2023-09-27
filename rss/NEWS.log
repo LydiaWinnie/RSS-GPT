@@ -3594,3 +3594,38 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-27 07:07:24.094065
+------------------------------------------------------
+Started: 2023-09-27 08:10:06.770479
+Existing_entries: 523
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國繼續允許日本以高於限價的價格購買俄羅斯石油](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E7%B9%BC%E7%BA%8C%E5%85%81%E8%A8%B1%E6%97%A5%E6%9C%AC%E4%BB%A5%E9%AB%98%E6%96%BC%E9%99%90%E5%83%B9%E7%9A%84%E5%83%B9%E6%A0%BC%E8%B3%BC%E8%B2%B7%E4%BF%84%E7%BE%85%E6%96%AF%E7%9F%B3%E6%B2%B9-8a056308)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國總統候選人怎麼不辯論中國議題了？](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E6%80%8E%E9%BA%BC%E4%B8%8D%E5%B0%B1%E4%B8%AD%E5%9C%8B%E5%B1%95%E9%96%8B%E8%BE%AF%E8%AB%96%E4%BA%86-2f35e24d)
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [讚揚烏克蘭納粹老兵惹議 加拿大議長羅塔辭職](https://news.pts.org.tw/article/658942)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [伊拉克婚禮火災事故 已知113人罹難150傷](https://news.pts.org.tw/article/658943)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [輔導茶葉蛋等加工蛋標示原產地 半年後上路最重罰400萬](https://news.pts.org.tw/article/658944)
+Append: [9月消費者信心指數降 6指標皆跌與出口衰退](https://news.pts.org.tw/article/658931)
+Append: [杭州亞運／跆拳道第3天 邱義睿、張芮恩、王德龍晉8強](https://news.pts.org.tw/article/658935)
+Append: [台南登革熱昨增408例創高 羅一鈞：估下週後才漸趨緩](https://news.pts.org.tw/article/658938)
+Append: [宜蘭女消防遭性騷 時力批消防局未即時調查](https://news.pts.org.tw/article/658937)
+Append: [99條客運路線申請停業 公路局：暫請業者營運到年底](https://news.pts.org.tw/article/658936)
+Append: [全台三分之一人口慢性疼痛 高端神經調控可減緩](https://news.pts.org.tw/article/658946)
+Append: [公費流感及肺炎鏈球菌疫苗10/2開打 基層醫師批程序混亂](https://news.pts.org.tw/article/658939)
+Append: [台中國慶典禮擬邀消防員護旗 消權會批犧牲救災資源](https://news.pts.org.tw/article/658948)
+Append: [明揚工廠爆炸／董座至殉職消防靈堂致意 承諾信託以外另外賠償](https://news.pts.org.tw/article/658949)
+Append: [明揚工廠爆炸／殉職消防員撫卹2800萬 廠址增列公共危險場所](https://news.pts.org.tw/article/658950)
+Append: [數位部成立逾1年81%民眾不滿意 立委建議從源頭打詐](https://news.pts.org.tw/article/658940)
+append_entries: 16
+Finish: 2023-09-27 08:10:09.744520
