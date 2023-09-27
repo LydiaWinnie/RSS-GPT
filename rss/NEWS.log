@@ -3695,3 +3695,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [美國政府部門面臨關門危機 一文了解造成影響](https://news.pts.org.tw/article/658997)
 append_entries: 5
 Finish: 2023-09-27 12:14:00.978018
+------------------------------------------------------
+Started: 2023-09-27 13:10:36.389520
+Existing_entries: 549
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-27 13:10:38.576910
