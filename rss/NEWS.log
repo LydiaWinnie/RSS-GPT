@@ -3704,3 +3704,39 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-27 13:10:38.576910
+------------------------------------------------------
+Started: 2023-09-27 14:07:07.595188
+Existing_entries: 549
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [越境進入北韓的美國士兵Travis King將被驅逐出境](https://cn.wsj.com/articles/%E8%B6%8A%E5%A2%83%E9%80%B2%E5%85%A5%E5%8C%97%E9%9F%93%E7%9A%84%E7%BE%8E%E5%9C%8B%E5%A3%AB%E5%85%B5travis-king%E5%B0%87%E8%A2%AB%E9%A9%85%E9%80%90%E5%87%BA%E5%A2%83-d0aecbd1)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [德國推遲向烏克蘭交付遠程巡航飛彈](https://cn.wsj.com/articles/%E5%BE%B7%E5%9C%8B%E6%8E%A8%E9%81%B2%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E4%BA%A4%E4%BB%98%E9%81%A0%E7%A8%8B%E5%B7%A1%E8%88%AA%E9%A3%9B%E5%BD%88-c47c139b)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／張煥宜闖4強不敵伊朗名將摘銅 台灣散打隊相隔21年再奪牌](https://news.pts.org.tw/article/659071)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／女子競技體操決賽 丁華恬排第5賴品儒第9](https://news.pts.org.tw/article/659056)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／拳擊賴主恩勝尼泊爾晉8強 將迎地主好手拚獎牌](https://news.pts.org.tw/article/659057)
+Append: [杭州亞運／3對3籃球 女籃小組二勝男籃勝蒙古](https://news.pts.org.tw/article/659058)
+Append: [杭州亞運／網球雙打捷報 女雙2組及男雙保底3銅](https://news.pts.org.tw/article/659059)
+Append: [伊拉克婚禮疑因煙火引燃 大火釀至少113死150傷](https://news.pts.org.tw/article/659055)
+Append: [學校辦公室開冷氣需自費 花蓮縣教師會陳情不公](https://news.pts.org.tw/article/659061)
+Append: [世紀之疫後迎來免疫負債 一文帶你看懂如何預防](https://news.pts.org.tw/article/659070)
+Append: [1至7月北市行人死亡增最多 台南評估取消機車兩段式左轉](https://news.pts.org.tw/article/659063)
+Append: [2024大選／賴清德副手優先考慮女性 侯友宜：目標40%女閣員](https://news.pts.org.tw/article/659064)
+Append: [明揚工廠爆炸／1名員工仍失聯 董座向殉職消防員上香致歉](https://news.pts.org.tw/article/659066)
+Append: [立院臨時動議追改標液蛋 要求農業部10天內公布資料](https://news.pts.org.tw/article/659067)
+Append: [傳國軍8月赴帛琉試射愛三飛彈 監測效果待驗證](https://news.pts.org.tw/article/659068)
+Append: [總統府收到炸彈恐嚇信 手法疑似中國恐嚇慣犯張海川](https://news.pts.org.tw/article/659069)
+Append: [美國汽車工會要求加薪4成 拜登親臨罷工現場表態支持](https://news.pts.org.tw/article/659054)
+append_entries: 17
+Finish: 2023-09-27 14:07:12.853483
