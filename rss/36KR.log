@@ -4148,3 +4148,24 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [为什么领导力开始被质疑了？](https://www.36kr.com/p/2448829188167814)
 append_entries: 5
 Finish: 2023-09-27 04:11:07.878412
+------------------------------------------------------
+Started: 2023-09-27 05:07:18.749819
+Existing_entries: 296
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [降本增效下动画大战：B站发布68部动画，爱奇艺39部，腾讯111部，优酷也将发布｜雷报](https://www.36kr.com/p/2449625468622982)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [Anagenex：致力于同类最佳的AI制药， 重塑小分子药物发现](https://www.36kr.com/p/2449429700352136)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [40 亿美元，亚马逊投资 OpenAI 最强竞品](https://www.36kr.com/p/2449635577403521)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 3
+Finish: 2023-09-27 05:07:43.617639
