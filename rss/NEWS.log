@@ -3564,3 +3564,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-27 05:07:17.498179
+------------------------------------------------------
+Started: 2023-09-27 06:10:26.995216
+Existing_entries: 519
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美參院就避免政府停擺的兩黨撥款議案初步達成一致](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%8F%83%E8%AD%B0%E9%99%A2%E5%B0%B1%E9%81%BF%E5%85%8D%E6%94%BF%E5%BA%9C%E5%81%9C%E6%93%BA%E7%9A%84%E5%85%A9%E9%BB%A8%E6%92%A5%E6%AC%BE%E8%AD%B0%E6%A1%88%E5%88%9D%E6%AD%A5%E9%81%94%E6%88%90%E4%B8%80%E8%87%B4-4ab3245e)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [英國稱Wirecard高管Jan Marsalek曾與五名俄羅斯間諜嫌疑人勾連](https://cn.wsj.com/articles/%E8%8B%B1%E5%9C%8B%E7%A8%B1wirecard%E9%AB%98%E7%AE%A1jan-marsalek%E6%9B%BE%E8%88%87%E4%BA%94%E5%90%8D%E4%BF%84%E7%BE%85%E6%96%AF%E9%96%93%E8%AB%9C%E5%AB%8C%E7%96%91%E4%BA%BA%E5%8B%BE%E9%80%A3-c68abfdc)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」金刻羽：中國被西方嚴重誤解，拜登對華政策或適得其反](https://cn.nytimes.com/world/20230927/china-us-tensions-keyu-jin-interview/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [陳椒華控某媒體握27%中嘉股權 批NCC護航](https://news.pts.org.tw/article/658941)
+append_entries: 4
+Finish: 2023-09-27 06:10:29.121253
