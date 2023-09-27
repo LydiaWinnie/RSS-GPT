@@ -3525,3 +3525,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／男子游泳4x100混接力 破全國紀錄獲第4](https://news.pts.org.tw/article/658896)
 append_entries: 4
 Finish: 2023-09-27 01:42:21.715019
+------------------------------------------------------
+Started: 2023-09-27 02:15:13.144840
+Existing_entries: 518
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-27 02:15:14.060132
