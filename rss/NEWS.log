@@ -3662,3 +3662,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／電競快打旋風台將風光 石油王GamerBee將內戰爭保底銀銅](https://news.pts.org.tw/article/658951)
 append_entries: 5
 Finish: 2023-09-27 10:08:19.470103
+------------------------------------------------------
+Started: 2023-09-27 11:06:28.188566
+Existing_entries: 544
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-27 11:06:30.379522
