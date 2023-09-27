@@ -3543,3 +3543,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-27 03:08:03.785219
+------------------------------------------------------
+Started: 2023-09-27 04:08:52.341223
+Existing_entries: 518
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」移除浮動屏障，菲律賓強勢抵制中國在南海領土主張](https://cn.nytimes.com/asia-pacific/20230927/china-philippines-sea/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-09-27 04:08:53.813528
