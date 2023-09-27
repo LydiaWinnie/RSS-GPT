@@ -3629,3 +3629,12 @@ Append: [明揚工廠爆炸／殉職消防員撫卹2800萬 廠址增列公共危
 Append: [數位部成立逾1年81%民眾不滿意 立委建議從源頭打詐](https://news.pts.org.tw/article/658940)
 append_entries: 16
 Finish: 2023-09-27 08:10:09.744520
+------------------------------------------------------
+Started: 2023-09-27 09:07:44.921268
+Existing_entries: 539
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-27 09:07:45.883988

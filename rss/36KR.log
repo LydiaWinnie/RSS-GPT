@@ -4218,3 +4218,30 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 5
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-09-27 09:07:47.558300
+Existing_entries: 299
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [那些辞职去终南山隐居的人后悔了吗？](https://www.36kr.com/p/2449654390366086)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [想逆天改命的打工人，都被这个一次几千块的“轻奢消费”坑惨了？](https://www.36kr.com/p/2449738869495687)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [GPT-4太烧钱，微软想甩掉OpenAI？曝出Plan B：千块GPU专训「小模型」，开启必应内测](https://www.36kr.com/p/2449713204057988)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [Sam Altman被曝与苹果传奇设计师、软银孙正义秘密接触，OpenAI估值已达900亿美元，全新AI硬件酝酿中](https://www.36kr.com/p/2449713495463809)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [亚马逊40亿美元买「AI船票」，投资独角兽，挖角对手高管](https://www.36kr.com/p/2449713698019458)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Feed error: 404
+append_entries: 5
+error when rendering xml, skip rss/36KR
