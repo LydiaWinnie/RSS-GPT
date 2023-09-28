@@ -4080,3 +4080,15 @@ Append: [杭州亞運／跆拳李孟恩首闖亞運摘銅 對打項目收穫2銀
 Append: [國軍目標2027年4艘潛艦 學者：形成重層嚇阻](https://news.pts.org.tw/article/659283)
 append_entries: 10
 Finish: 2023-09-28 16:09:24.949466
+------------------------------------------------------
+Started: 2023-09-28 17:06:48.804251
+Existing_entries: 616
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／地主下三分雨 20分差距大勝台灣隊](https://news.pts.org.tw/article/659288)
+append_entries: 1
+Finish: 2023-09-28 17:06:50.722963
