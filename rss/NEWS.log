@@ -3964,3 +3964,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／網球女雙梁恩碩搭擋李亞軒 拍落韓國挺進金牌戰](https://news.pts.org.tw/article/659152)
 append_entries: 4
 Finish: 2023-09-28 08:10:18.132239
+------------------------------------------------------
+Started: 2023-09-28 09:07:37.057495
+Existing_entries: 594
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-28 09:07:38.720508
