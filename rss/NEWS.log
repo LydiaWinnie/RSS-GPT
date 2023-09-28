@@ -4051,3 +4051,32 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-28 15:07:54.819827
+------------------------------------------------------
+Started: 2023-09-28 16:09:20.210257
+Existing_entries: 606
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／電競向玉麟金牌戰惜敗 快打旋風台灣奪銀銅豐收](https://news.pts.org.tw/article/659287)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／網球2女雙及男雙晉金牌戰 女雙確定金包銀](https://news.pts.org.tw/article/659273)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI串連產業 矽谷科技峰會現跨域合作](https://news.pts.org.tw/article/659268)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [印尼修法禁抖音等社群銷售 成亞洲首例](https://news.pts.org.tw/article/659269)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [南高加索納卡地區局勢動盪 6.5萬難民逃入亞美尼亞](https://news.pts.org.tw/article/659270)
+Append: [中秋連假首日南下車多 估國1國3上午6時湧車潮](https://news.pts.org.tw/article/659275)
+Append: [反藥學生增額聯盟政院陳情 教育部：為強化東部藥師人力](https://news.pts.org.tw/article/659277)
+Append: [高雄旗山挖土機跌坑洞駕駛亡 疑非法偷倒廢棄物釀禍](https://news.pts.org.tw/article/659279)
+Append: [杭州亞運／跆拳李孟恩首闖亞運摘銅 對打項目收穫2銀1銅](https://news.pts.org.tw/article/659272)
+Append: [國軍目標2027年4艘潛艦 學者：形成重層嚇阻](https://news.pts.org.tw/article/659283)
+append_entries: 10
+Finish: 2023-09-28 16:09:24.949466
