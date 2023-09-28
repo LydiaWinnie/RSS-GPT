@@ -3943,3 +3943,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-28 07:07:32.337568
+------------------------------------------------------
+Started: 2023-09-28 08:10:15.307966
+Existing_entries: 590
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／LOL英雄聯盟克越南 台灣闖進金牌戰](https://news.pts.org.tw/article/659155)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／詹家姊妹闖金牌戰 台灣網球女雙確定「金包銀」](https://news.pts.org.tw/article/659154)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／網球男雙許育修攜手莊吉生 力克泰國隊勇闖決賽](https://news.pts.org.tw/article/659153)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／網球女雙梁恩碩搭擋李亞軒 拍落韓國挺進金牌戰](https://news.pts.org.tw/article/659152)
+append_entries: 4
+Finish: 2023-09-28 08:10:18.132239
