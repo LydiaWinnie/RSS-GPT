@@ -4674,3 +4674,26 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 7
 Finish: 2023-09-28 11:09:04.674091
+------------------------------------------------------
+Started: 2023-09-28 12:13:42.967490
+Existing_entries: 340
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [多模态功能上线，OpenAI让ChatGPT能说话、会看图](https://www.36kr.com/p/2451532125444232)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [“我用 ChatGPT，在 120 秒内做了一个飞机观测器”](https://www.36kr.com/p/2451522516326272)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [Windows 11 发布重磅更新，马斯克火速围观，见证颠覆 PC 的新 AI 操作系统](https://www.36kr.com/p/2451522434488455)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [长沙市AI业务战略布局：打造国家新一代人工智能创新发展试验区](https://www.36kr.com/p/2451439714899845)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 4
+Finish: 2023-09-28 12:14:00.692657

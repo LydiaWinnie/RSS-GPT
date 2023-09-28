@@ -3994,3 +3994,33 @@ Append: [「中英」普世價值觀真的「普世」嗎](https://cn.nytimes.co
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-09-28 11:06:30.448322
+------------------------------------------------------
+Started: 2023-09-28 12:13:34.554487
+Existing_entries: 595
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／22歲棋士許皓鋐大逆轉 扳倒中國柯潔奪金](https://news.pts.org.tw/article/659285)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [發文稱買到台農臭雞蛋 男子遭農業部提告警函送](https://news.pts.org.tw/article/659281)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國造潛艦原型艦「海鯤號」下水 預計明年底交艦](https://news.pts.org.tw/article/659284)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／羽球女團直落3勝香港 進軍8強對戰日本](https://news.pts.org.tw/article/659274)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／湯瑪士迴旋完美落地 李智凱鞍馬摘金2連霸](https://news.pts.org.tw/article/659286)
+Append: [墨西哥母子慶生黑熊亂入 園方籲勿靠近拍攝](https://news.pts.org.tw/article/659213)
+Append: [日圓匯率再貶 油價及企業經營成本全漲](https://news.pts.org.tw/article/659214)
+Append: [Meta聊天機器人上線 可提供即時資訊生成圖像](https://news.pts.org.tw/article/659220)
+Append: [ChatGPT增瀏覽網路功能 可依即時資訊回答用戶](https://news.pts.org.tw/article/659208)
+Append: [杭州亞運／亞運圍棋大爆冷 台灣新秀許皓鋐連勝韓、中奪金](https://news.pts.org.tw/article/659207)
+Append: [杭州亞運／鞍馬2連霸 李智凱改寫台灣隊體操新頁](https://news.pts.org.tw/article/659201)
+append_entries: 11
+Finish: 2023-09-28 12:13:41.431783
