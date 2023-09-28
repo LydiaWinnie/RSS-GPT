@@ -3982,3 +3982,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-28 10:08:09.402719
+------------------------------------------------------
+Started: 2023-09-28 11:06:26.093575
+Existing_entries: 594
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」普世價值觀真的「普世」嗎](https://cn.nytimes.com/world/20230928/are-universal-values-really-universal/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-09-28 11:06:30.448322

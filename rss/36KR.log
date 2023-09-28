@@ -4646,3 +4646,31 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 4
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-09-28 11:06:32.158025
+Existing_entries: 333
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [射箭接棒亚运会潮流运动](https://www.36kr.com/p/2451081754042505)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「第四范式」港交所挂牌上市，自研GPT产品辅助企业决策 | 最前线](https://www.36kr.com/p/2451273097648257)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [Meta公司加入AI聊天机器人大战，意味着什么？](https://www.36kr.com/p/2451439595116677)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [“我开发我自己”，大模型编程还要多久？](https://www.36kr.com/p/2451420856653957)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [数字人淘金热，一场被AIGC改写的风暴](https://www.36kr.com/p/2451324838879104)
+Append: [大厂搜索之困：超越AI的难题](https://www.36kr.com/p/2451340987015043)
+Append: [金融业需要什么样的大模型？](https://www.36kr.com/p/2451078173235335)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 7
+Finish: 2023-09-28 11:09:04.674091
