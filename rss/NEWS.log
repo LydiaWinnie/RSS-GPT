@@ -4024,3 +4024,12 @@ Append: [杭州亞運／亞運圍棋大爆冷 台灣新秀許皓鋐連勝韓、�
 Append: [杭州亞運／鞍馬2連霸 李智凱改寫台灣隊體操新頁](https://news.pts.org.tw/article/659201)
 append_entries: 11
 Finish: 2023-09-28 12:13:41.431783
+------------------------------------------------------
+Started: 2023-09-28 13:10:31.222190
+Existing_entries: 606
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-28 13:10:32.035567
