@@ -3875,3 +3875,18 @@ Append: [杭州亞運／3跆拳選手止步8強 張芮恩：輸在自己心態](
 Append: [杭州亞運／男子散打睽違21年奪銅 張煥宜帶傷完賽獲對手敬重](https://news.pts.org.tw/article/659100)
 append_entries: 6
 Finish: 2023-09-28 03:07:51.894727
+------------------------------------------------------
+Started: 2023-09-28 04:08:49.978908
+Existing_entries: 572
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」夾在中美晶片戰之間，韓國半導體巨頭進退兩難](https://cn.nytimes.com/business/20230928/samsung-hynix-south-korea/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [新竹輪胎行縱火釀8死 犯嫌陳彥翔一審判死](https://news.pts.org.tw/article/659117)
+append_entries: 2
+Finish: 2023-09-28 04:08:52.634546
