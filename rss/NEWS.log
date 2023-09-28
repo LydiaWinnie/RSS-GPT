@@ -3850,3 +3850,28 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-28 02:14:47.601831
+------------------------------------------------------
+Started: 2023-09-28 03:07:50.354130
+Existing_entries: 566
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國會開支談判陷入僵局，美國政府瀕臨停擺](https://cn.wsj.com/articles/%E5%9C%8B%E6%9C%83%E9%96%8B%E6%94%AF%E8%AB%87%E5%88%A4%E9%99%B7%E5%85%A5%E5%83%B5%E5%B1%80-%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9C%E7%80%95%E8%87%A8%E5%81%9C%E6%93%BA-58542ac8)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／快打旋風韓國逆轉勝 林立偉落敗今上演台灣內戰](https://news.pts.org.tw/article/659098)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／桌球混雙林陳配 不敵泰國止步32強](https://news.pts.org.tw/article/659078)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／女壘延長激戰 台灣2分惜敗日本](https://news.pts.org.tw/article/659079)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／3跆拳選手止步8強 張芮恩：輸在自己心態](https://news.pts.org.tw/article/659080)
+Append: [杭州亞運／男子散打睽違21年奪銅 張煥宜帶傷完賽獲對手敬重](https://news.pts.org.tw/article/659100)
+append_entries: 6
+Finish: 2023-09-28 03:07:51.894727
