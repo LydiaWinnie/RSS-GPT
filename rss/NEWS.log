@@ -3899,3 +3899,38 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-28 05:07:12.354121
+------------------------------------------------------
+Started: 2023-09-28 06:10:20.745079
+Existing_entries: 574
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」美士兵越境被扣留70天後離開朝鮮，經由中國返美](https://cn.nytimes.com/asia-pacific/20230928/north-korea-travis-king-expel/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／柯文哲提教育政策 侯友宜承諾檢討教師退撫制度](https://news.pts.org.tw/article/659151)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [藍營質疑國軍蛋來自涂萬財 國防部：擬依協議書停止供應](https://news.pts.org.tw/article/659146)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [新竹輪胎行大火案 兇嫌害死8親人判死刑](https://news.pts.org.tw/article/659129)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [抽查軟質積木1件塑化劑超標 消基會籲宣購時需認明標章](https://news.pts.org.tw/article/659130)
+Append: [衛福部提護理師夜班獎勵津貼 每班400到千元最快明年上路](https://news.pts.org.tw/article/659131)
+Append: [勞團籲速審最低工資法 民進黨團稱有信心列優先法案](https://news.pts.org.tw/article/659134)
+Append: [垃圾公文多兼負家庭教育壓力 教團：3成中小學教師快樂僅4分](https://news.pts.org.tw/article/659138)
+Append: [行政院允修《消防法》 消促會批未與基層討論](https://news.pts.org.tw/article/659132)
+Append: [台灣首艘國造潛艦下水 總統蔡英文命名「海鯤號」](https://news.pts.org.tw/article/659133)
+Append: [秋節烤肉不利登革熱防疫？ 黃偉哲籲穿長袖做好防蚊](https://news.pts.org.tw/article/659148)
+Append: [台中市環保局引進AI系統 抓違規張貼小廣告](https://news.pts.org.tw/article/659145)
+Append: [台股開盤指數破1萬6400點 分析師：盤整壓力不小](https://news.pts.org.tw/article/659135)
+Append: [空中全兵力國慶預演 運輸直升機懸掛巨幅國旗](https://news.pts.org.tw/article/659137)
+Append: [中秋豬肉需求增 雲林肉品交易量增但跌價1成](https://news.pts.org.tw/article/659149)
+Append: [明揚工廠爆炸／頭七續搜索 董座總經理公共危險等罪嫌交保](https://news.pts.org.tw/article/659150)
+append_entries: 16
+Finish: 2023-09-28 06:10:23.626193
