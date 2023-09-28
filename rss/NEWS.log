@@ -3890,3 +3890,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [新竹輪胎行縱火釀8死 犯嫌陳彥翔一審判死](https://news.pts.org.tw/article/659117)
 append_entries: 2
 Finish: 2023-09-28 04:08:52.634546
+------------------------------------------------------
+Started: 2023-09-28 05:07:11.179740
+Existing_entries: 574
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-28 05:07:12.354121
