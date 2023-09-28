@@ -3934,3 +3934,12 @@ Append: [中秋豬肉需求增 雲林肉品交易量增但跌價1成](https://ne
 Append: [明揚工廠爆炸／頭七續搜索 董座總經理公共危險等罪嫌交保](https://news.pts.org.tw/article/659150)
 append_entries: 16
 Finish: 2023-09-28 06:10:23.626193
+------------------------------------------------------
+Started: 2023-09-28 07:07:31.413233
+Existing_entries: 590
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-28 07:07:32.337568
