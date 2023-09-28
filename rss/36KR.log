@@ -4465,3 +4465,32 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-09-28 01:41:41.717771
+Existing_entries: 315
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [微软 AI 战略持续升级带来的三点启示](https://www.36kr.com/p/2450869100877958)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [36氪首发｜OpenCSG完成数千万元天使轮融资，打造大模型开源社区与垂直行业模型](https://www.36kr.com/p/2449599156950913)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [OpenAI进军AI硬件？联手苹果传奇设计师，连孙正义都眼红想投钱](https://www.36kr.com/p/2449911223523462)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [遭多个股东“清仓”减持后，AI芯片巨头“出连招”](https://www.36kr.com/p/2450835056891779)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大模型冲进了亚运赛场](https://www.36kr.com/p/2450231344830600)
+Append: [Edtech+AI：正在发生什么以及下一步可以做什么？](https://www.36kr.com/p/2450194644097158)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Append: [卓越的领导者，擅长讲述五种故事](https://www.36kr.com/p/2450843519621254)
+append_entries: 7
+Finish: 2023-09-28 01:43:39.846528
