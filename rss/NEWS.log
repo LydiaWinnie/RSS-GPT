@@ -4434,3 +4434,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／英雄聯盟台灣負韓奪銀 電競項目獲第3面獎牌](https://news.pts.org.tw/article/659500)
 append_entries: 5
 Finish: 2023-09-29 15:07:46.202457
+------------------------------------------------------
+Started: 2023-09-29 16:08:42.719676
+Existing_entries: 681
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-29 16:08:43.565621
