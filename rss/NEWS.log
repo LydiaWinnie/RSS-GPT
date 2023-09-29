@@ -4338,3 +4338,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-29 10:07:50.790933
+------------------------------------------------------
+Started: 2023-09-29 11:06:26.752421
+Existing_entries: 660
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國恆大證實董座許家印涉犯罪 「被依法採強制措施」](https://news.pts.org.tw/article/659426)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [荷蘭VR展「搶來的戰利品」 反思掠奪他國文物歷史](https://news.pts.org.tw/article/659371)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國搞笑諾貝爾獎五花八門 以創意激發對科學的興趣](https://news.pts.org.tw/article/659370)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [回收塑料碳排更高 樂高暫停PET積木計畫](https://news.pts.org.tw/article/659372)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [英國建築專家設益生菌牆 親身測試對身體反應](https://news.pts.org.tw/article/659373)
+append_entries: 5
+Finish: 2023-09-29 11:06:31.907574
