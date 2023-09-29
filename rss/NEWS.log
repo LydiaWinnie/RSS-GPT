@@ -4200,3 +4200,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-29 02:15:06.133116
+------------------------------------------------------
+Started: 2023-09-29 03:07:44.847964
+Existing_entries: 626
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／拳擊旗開得勝 吳詩儀甘家葳雙雙晉級](https://news.pts.org.tw/article/659301)
+append_entries: 1
+Finish: 2023-09-29 03:07:45.960407
