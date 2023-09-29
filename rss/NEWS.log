@@ -4401,3 +4401,12 @@ Append: [杭州亞運／網球男雙破紀錄奪金 莊吉生將金牌獻給亡�
 Append: [韓暫鬆綁公務員《防止賄賂法》 上調收受禮品價刺激買氣](https://news.pts.org.tw/article/659425)
 append_entries: 11
 Finish: 2023-09-29 13:09:46.154894
+------------------------------------------------------
+Started: 2023-09-29 14:06:34.327450
+Existing_entries: 676
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-29 14:06:35.284603
