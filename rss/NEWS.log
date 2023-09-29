@@ -4290,3 +4290,12 @@ Append: [中秋連假首日 蘇花改南下路段壅塞](https://news.pts.org.tw
 Append: [中秋節共機共艦擾台 習近平強調九二共識與一中原則](https://news.pts.org.tw/article/659350)
 append_entries: 16
 Finish: 2023-09-29 07:07:11.007511
+------------------------------------------------------
+Started: 2023-09-29 08:10:06.932810
+Existing_entries: 649
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-29 08:10:08.581958
