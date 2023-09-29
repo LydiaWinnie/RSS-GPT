@@ -4410,3 +4410,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-29 14:06:35.284603
+------------------------------------------------------
+Started: 2023-09-29 15:07:44.540251
+Existing_entries: 676
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／王冠閎200蝶奪銀 終結25年獎牌荒](https://news.pts.org.tw/article/659502)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／桌球女單與男雙晉級8強 拳擊林郁婷甜蜜復仇](https://news.pts.org.tw/article/659485)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／羽球男女團體賽 周天成戴資穎雖得勝仍止步8強](https://news.pts.org.tw/article/659486)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／羽球男團不敵中國 台灣隊8強止步](https://news.pts.org.tw/article/659501)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／英雄聯盟台灣負韓奪銀 電競項目獲第3面獎牌](https://news.pts.org.tw/article/659500)
+append_entries: 5
+Finish: 2023-09-29 15:07:46.202457
