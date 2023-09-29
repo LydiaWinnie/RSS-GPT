@@ -4146,3 +4146,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-28 23:07:22.801237
+------------------------------------------------------
+Started: 2023-09-29 00:34:05.412944
+Existing_entries: 617
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／總領隊發千美元紅包 盛宴款待柔道雙金](https://news.pts.org.tw/article/659298)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／快打炫風摘銀 向玉麟：榮幸能留下痕跡](https://news.pts.org.tw/article/659291)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／李智凱鞍馬二連霸 為台灣摘下第3金](https://news.pts.org.tw/article/659290)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／李智凱簡訊報喜 金牌送父親當生日禮物](https://news.pts.org.tw/article/659289)
+append_entries: 4
+Finish: 2023-09-29 00:34:08.692963

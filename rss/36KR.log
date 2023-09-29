@@ -4827,3 +4827,19 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-09-29 00:34:10.232828
+Existing_entries: 344
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [谷歌搜索上线25周年！用AI升级搜索，细数25个精妙时刻](https://www.36kr.com/p/2451685278455684)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 1
+Finish: 2023-09-29 00:37:33.424406
