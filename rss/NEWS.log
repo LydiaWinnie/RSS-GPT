@@ -4371,3 +4371,33 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-29 12:13:30.984877
+------------------------------------------------------
+Started: 2023-09-29 13:09:41.995586
+Existing_entries: 665
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [北約秘書長會烏克蘭總統 允繼續軍援提供彈藥](https://news.pts.org.tw/article/659484)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／女子射擊團體 吳佳穎領銜收穫銅牌](https://news.pts.org.tw/article/659487)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [烤肉防木炭火星傷眼角膜 食藥署闢謠隱眼不會融化](https://news.pts.org.tw/article/659488)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [今年中秋迎近10年最圓滿月 錯過要等到2037年](https://news.pts.org.tw/article/659489)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大直民宅塌／北市府昨開說明會 向住戶提公辦都更4方案](https://news.pts.org.tw/article/659490)
+Append: [明揚工廠爆炸／續尋失聯員工 明揚鄭姓協理訊後450萬交保](https://news.pts.org.tw/article/659491)
+Append: [稱瑞士製造錶實多台港組裝 愛其華涉詐不法所得逾4.7億](https://news.pts.org.tw/article/659492)
+Append: [中漁船越界捕魚拒海巡登檢 衝撞台灣艦艇17人將送檢偵辦](https://news.pts.org.tw/article/659495)
+Append: [杭州亞運／丁華恬奪女子體操首面獎牌 鼓勵體操女孩勇敢追夢](https://news.pts.org.tw/article/659498)
+Append: [杭州亞運／網球男雙破紀錄奪金 莊吉生將金牌獻給亡母](https://news.pts.org.tw/article/659499)
+Append: [韓暫鬆綁公務員《防止賄賂法》 上調收受禮品價刺激買氣](https://news.pts.org.tw/article/659425)
+append_entries: 11
+Finish: 2023-09-29 13:09:46.154894
