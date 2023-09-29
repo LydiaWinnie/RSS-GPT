@@ -4329,3 +4329,12 @@ Append: [日本強化西南諸島軍力 因應中國東海擴張](https://news.p
 Append: [犯罪電影太逼真衝擊觀光 泰國對中祭免簽盼挽回陸客](https://news.pts.org.tw/article/659368)
 append_entries: 11
 Finish: 2023-09-29 09:07:36.158907
+------------------------------------------------------
+Started: 2023-09-29 10:07:49.199415
+Existing_entries: 660
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-29 10:07:50.790933
