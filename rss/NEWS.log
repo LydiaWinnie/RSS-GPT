@@ -4246,3 +4246,12 @@ Append: [杭州亞運／網球男雙史上第一金 許育修、莊吉生寫新�
 Append: [杭州亞運／台灣射擊隊獎牌開張 10公尺空氣手槍女團摘銅](https://news.pts.org.tw/article/659331)
 append_entries: 6
 Finish: 2023-09-29 05:07:19.314071
+------------------------------------------------------
+Started: 2023-09-29 06:10:09.814265
+Existing_entries: 633
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-29 06:10:11.576742
