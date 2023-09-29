@@ -4299,3 +4299,33 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-29 08:10:08.581958
+------------------------------------------------------
+Started: 2023-09-29 09:07:29.676745
+Existing_entries: 649
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國擬議放寬數據跨境流動規定](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E6%93%AC%E8%AD%B0%E6%94%BE%E5%AF%AC%E6%95%B8%E6%93%9A%E8%B7%A8%E5%A2%83%E6%B5%81%E5%8B%95%E8%A6%8F%E5%AE%9A-cad2b480)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／丁華恬平衡木摘銅 亞運女子競技體操寫新頁](https://news.pts.org.tw/article/659410)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／超級搶10落敗 詹皓晴、許育修混雙銅牌](https://news.pts.org.tw/article/659379)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [加的斯海鹽產業沒落 業者、廚師致力保存3千年文化](https://news.pts.org.tw/article/659378)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [澳洲App鼓勵帕金森患者行走 改善運動能力提升多巴胺分泌](https://news.pts.org.tw/article/659376)
+Append: [柬埔寨花蟹體型數量逐年減 漁民放生抱卵母蟹促永續](https://news.pts.org.tw/article/659377)
+Append: [阿根廷百年城堡聖卡洛斯 催生經典文學創作「小王子」](https://news.pts.org.tw/article/659375)
+Append: [義大利經典偉士牌機車 乘載集體文化記憶](https://news.pts.org.tw/article/659374)
+Append: [芬蘭試辦數位旅遊證 節省通關查驗時間](https://news.pts.org.tw/article/659367)
+Append: [日本強化西南諸島軍力 因應中國東海擴張](https://news.pts.org.tw/article/659369)
+Append: [犯罪電影太逼真衝擊觀光 泰國對中祭免簽盼挽回陸客](https://news.pts.org.tw/article/659368)
+append_entries: 11
+Finish: 2023-09-29 09:07:36.158907
