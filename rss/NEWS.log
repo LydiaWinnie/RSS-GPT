@@ -4255,3 +4255,38 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-29 06:10:11.576742
+------------------------------------------------------
+Started: 2023-09-29 07:07:07.726769
+Existing_entries: 633
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美參議員要求俄羅斯釋放已被拘六個月的格什科維奇](https://cn.wsj.com/articles/%E7%BE%8E%E5%8F%83%E8%AD%B0%E5%93%A1%E8%A6%81%E6%B1%82%E4%BF%84%E7%BE%85%E6%96%AF%E9%87%8B%E6%94%BE%E5%B7%B2%E8%A2%AB%E6%8B%98%E5%85%AD%E5%80%8B%E6%9C%88%E7%9A%84%E6%A0%BC%E4%BB%80%E7%A7%91%E7%B6%AD%E5%A5%87-e3610c88)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／網球混雙闖金牌戰 梁恩碩明搶雙金](https://news.pts.org.tw/article/659362)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [黃曙光披露立委阻撓潛艦國造 鄭運鵬籲檢方主動調查](https://news.pts.org.tw/article/659351)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [藍營批查綠蛋濫權 農業部：針對蓄意造謠而非民眾](https://news.pts.org.tw/article/659352)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台東藍海生活節今開幕 中秋活水湖看水舞秀](https://news.pts.org.tw/article/659353)
+Append: [《哈利波特》鄧不利多演員 因併發肺炎辭世享壽82歲](https://news.pts.org.tw/article/659339)
+Append: [彰化大村國小合唱團赴歐摘雙金 用歌聲傳遞台灣家鄉味](https://news.pts.org.tw/article/659340)
+Append: [2024大選／白沙屯拱天宮建廟160周年 4總統參選人齊聚參拜](https://news.pts.org.tw/article/659341)
+Append: [桃園台7乙線騎手群聚 9月共取締136件交通違規](https://news.pts.org.tw/article/659342)
+Append: [花蓮登山客滑落邊坡 天候不佳空勤飛4趟才成功救援](https://news.pts.org.tw/article/659343)
+Append: [荷蘭鹿特丹連環槍擊釀3死 犯案動機待查](https://news.pts.org.tw/article/659348)
+Append: [中秋連假國旅訂房創新低 文化部推6大糖業場域吸客](https://news.pts.org.tw/article/659354)
+Append: [北市南門中繼市場功成身退 10/7回原址試營運](https://news.pts.org.tw/article/659356)
+Append: [中秋連假小琉球民宿幾乎滿房 估登島人數破萬](https://news.pts.org.tw/article/659357)
+Append: [中秋連假首日 蘇花改南下路段壅塞](https://news.pts.org.tw/article/659358)
+Append: [中秋節共機共艦擾台 習近平強調九二共識與一中原則](https://news.pts.org.tw/article/659350)
+append_entries: 16
+Finish: 2023-09-29 07:07:11.007511
