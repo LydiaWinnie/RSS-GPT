@@ -4603,3 +4603,29 @@ Append: [杭州亞運／短跑雙將楊俊瀚林祐賢 100M晉級準決賽](http
 Append: [杭州亞運／楊勇緯連珍羚奪金歸國 續拚2024巴黎奧運](https://news.pts.org.tw/article/659511)
 append_entries: 6
 Finish: 2023-09-30 06:09:28.589186
+------------------------------------------------------
+Started: 2023-09-30 07:06:13.953972
+Existing_entries: 693
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／競速溜冰女子1萬公尺 施沛妤與楊合貞金包銀](https://news.pts.org.tw/article/659522)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／網球女雙台灣內戰 詹家姊妹直落2奪金](https://news.pts.org.tw/article/659523)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [高麗菜苗出貨量達警戒紅燈 農糧署籲農民勿搶種](https://news.pts.org.tw/article/659517)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美：台已備妥因應中國網攻 華府將提供支援](https://news.pts.org.tw/article/659518)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [連假深夜放煙火擾民 高雄2天接獲26件陳情](https://news.pts.org.tw/article/659524)
+Append: [呼吸道融合病毒RSV 台中月子中心8嬰群聚感染](https://news.pts.org.tw/article/659525)
+Append: [上週腹瀉就診累計15.2萬人次 醫：烤肉聚餐及病毒流行所致](https://news.pts.org.tw/article/659526)
+append_entries: 7
+Finish: 2023-09-30 07:06:18.343794
