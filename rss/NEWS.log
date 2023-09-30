@@ -4730,3 +4730,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-30 15:06:27.762533
+------------------------------------------------------
+Started: 2023-09-30 16:07:55.650702
+Existing_entries: 713
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／林昀儒8強遭逆轉 錯過男單獎牌](https://news.pts.org.tw/article/659563)
+append_entries: 1
+Finish: 2023-09-30 16:07:58.545098
