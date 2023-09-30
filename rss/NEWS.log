@@ -4536,3 +4536,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-30 02:12:54.304300
+------------------------------------------------------
+Started: 2023-09-30 03:07:25.771056
+Existing_entries: 682
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國風險諮詢公司德安華的一名高管被禁止離開中國大陸](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E9%A2%A8%E9%9A%AA%E8%AB%AE%E8%A9%A2%E5%85%AC%E5%8F%B8%E5%BE%B7%E5%AE%89%E8%8F%AF%E7%9A%84%E4%B8%80%E5%90%8D%E9%AB%98%E7%AE%A1%E8%A2%AB%E7%A6%81%E6%AD%A2%E9%9B%A2%E9%96%8B%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8-b1b7eccd)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [日本經濟再生大臣對中國房地產行業困境帶來的風險發出警告](https://cn.wsj.com/articles/%E6%97%A5%E6%9C%AC%E7%B6%93%E6%BF%9F%E5%86%8D%E7%94%9F%E5%A4%A7%E8%87%A3%E5%B0%8D%E4%B8%AD%E5%9C%8B%E6%88%BF%E5%9C%B0%E7%94%A2%E8%A1%8C%E6%A5%AD%E5%9B%B0%E5%A2%83%E5%B8%B6%E4%BE%86%E7%9A%84%E9%A2%A8%E9%9A%AA%E7%99%BC%E5%87%BA%E8%AD%A6%E5%91%8A-e8b85339)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國最高法院將裁定規範社交媒體內容決策的法律是否違憲](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%B0%87%E8%A3%81%E5%AE%9A%E8%A6%8F%E7%AF%84%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94%E5%85%A7%E5%AE%B9%E6%B1%BA%E7%AD%96%E7%9A%84%E6%B3%95%E5%BE%8B%E6%98%AF%E5%90%A6%E9%81%95%E6%86%B2-5b757248)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [拜登同意有限的海上鑽井，違背競選承諾](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E5%90%8C%E6%84%8F%E6%9C%89%E9%99%90%E7%9A%84%E6%B5%B7%E4%B8%8A%E9%91%BD%E4%BA%95-%E9%81%95%E8%83%8C%E7%AB%B6%E9%81%B8%E6%89%BF%E8%AB%BE-23e1a90a)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／18歲小將施沛妤「金」喜 滑輪溜冰和楊合貞金包銀](https://news.pts.org.tw/article/659515)
+append_entries: 5
+Finish: 2023-09-30 03:07:28.588684
