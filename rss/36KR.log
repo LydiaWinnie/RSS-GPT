@@ -5193,3 +5193,20 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 1
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-09-30 05:06:47.288938
+Existing_entries: 351
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [10部国产片鏖战国庆档，哪些上市公司在淘金？](https://www.36kr.com/p/2451747343409027)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [我在十一靠婚礼搞钱，8天赚3万](https://www.36kr.com/p/2453700167309190)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-09-30 05:07:45.980180
