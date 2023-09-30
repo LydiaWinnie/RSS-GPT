@@ -4578,3 +4578,28 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-30 05:06:45.717343
+------------------------------------------------------
+Started: 2023-09-30 06:09:26.863573
+Existing_entries: 687
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國紐約州暴雨淹水 9月降雨量創140年紀錄](https://news.pts.org.tw/article/659527)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [輕颱「小犬」凌晨生成 下週二起不排除發海警](https://news.pts.org.tw/article/659528)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／台灣網球女雙金包銀 詹家姊妹直落2奪金](https://news.pts.org.tw/article/659516)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／終結25年獎牌荒 王冠閎200M蝶式奪銀](https://news.pts.org.tw/article/659513)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／短跑雙將楊俊瀚林祐賢 100M晉級準決賽](https://news.pts.org.tw/article/659512)
+Append: [杭州亞運／楊勇緯連珍羚奪金歸國 續拚2024巴黎奧運](https://news.pts.org.tw/article/659511)
+append_entries: 6
+Finish: 2023-09-30 06:09:28.589186
