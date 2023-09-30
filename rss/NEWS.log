@@ -4683,3 +4683,32 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-30 12:12:05.263932
+------------------------------------------------------
+Started: 2023-09-30 13:06:52.722014
+Existing_entries: 703
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大直民宅塌／塌陷民宅估今明拆除完畢 鄰損疑擴大將安排鑑定](https://news.pts.org.tw/article/659549)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美華府動物園3隻貓熊 將因租約到期歸還中國](https://news.pts.org.tw/article/659550)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／柯陣營拋民調輸家就退選 朱立倫：藍白合要堆疊善意](https://news.pts.org.tw/article/659554)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [臨時撥款法案未過 美政府恐自10/1起關門](https://news.pts.org.tw/article/659551)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [明揚工廠爆炸／尋獲最後1名失聯員工 共10死、113就醫](https://news.pts.org.tw/article/659555)
+Append: [中秋連假次日國道北返車流增 估收假日國5最大瓶頸](https://news.pts.org.tw/article/659556)
+Append: [社區病毒流行易引腹瀉 嬰呼吸道融合病毒RSV感染增](https://news.pts.org.tw/article/659557)
+Append: [杭州亞運／沒能突破樊振東 莊智淵男單止步8強](https://news.pts.org.tw/article/659562)
+Append: [杭州亞運／不敵印度老將 網球混雙梁恩碩、黃琮豪摘銀](https://news.pts.org.tw/article/659559)
+Append: [杭州亞運／網球女雙台灣金包銀 詹皓晴感謝姊姊助培訓](https://news.pts.org.tw/article/659561)
+append_entries: 10
+Finish: 2023-09-30 13:06:57.048515
