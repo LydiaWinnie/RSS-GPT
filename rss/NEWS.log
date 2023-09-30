@@ -4560,3 +4560,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／18歲小將施沛妤「金」喜 滑輪溜冰和楊合貞金包銀](https://news.pts.org.tw/article/659515)
 append_entries: 5
 Finish: 2023-09-30 03:07:28.588684
+------------------------------------------------------
+Started: 2023-09-30 04:08:37.150957
+Existing_entries: 687
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-30 04:08:37.943887
