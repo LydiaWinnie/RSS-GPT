@@ -4712,3 +4712,12 @@ Append: [杭州亞運／不敵印度老將 網球混雙梁恩碩、黃琮豪摘�
 Append: [杭州亞運／網球女雙台灣金包銀 詹皓晴感謝姊姊助培訓](https://news.pts.org.tw/article/659561)
 append_entries: 10
 Finish: 2023-09-30 13:06:57.048515
+------------------------------------------------------
+Started: 2023-09-30 14:06:02.124401
+Existing_entries: 713
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-30 14:06:03.072071
