@@ -4656,3 +4656,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／帶傷止步桌球女單8強 鄭怡靜：每分都用生命拚](https://news.pts.org.tw/article/659529)
 append_entries: 3
 Finish: 2023-09-30 09:06:16.855163
+------------------------------------------------------
+Started: 2023-09-30 10:07:02.795099
+Existing_entries: 703
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-09-30 10:07:04.480804
