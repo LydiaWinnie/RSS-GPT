@@ -4638,3 +4638,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-09-30 08:08:31.541594
+------------------------------------------------------
+Started: 2023-09-30 09:06:13.468587
+Existing_entries: 700
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／網球混雙決勝搶10不敵印度 梁恩碩、黃琮豪摘銀](https://news.pts.org.tw/article/659531)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／逆轉地主 莊智淵、林昀儒闖桌球男雙4強](https://news.pts.org.tw/article/659530)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／帶傷止步桌球女單8強 鄭怡靜：每分都用生命拚](https://news.pts.org.tw/article/659529)
+append_entries: 3
+Finish: 2023-09-30 09:06:16.855163
