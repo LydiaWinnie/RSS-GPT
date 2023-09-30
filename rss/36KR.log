@@ -5235,3 +5235,20 @@ Feed error: 404
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-09-30 07:09:41.705372
+------------------------------------------------------
+Started: 2023-09-30 08:08:33.108163
+Existing_entries: 353
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI上线，明星下岗？](https://www.36kr.com/p/2453146581932163)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [用了200多个AI工具，我最终发现最大竞争力还是认知](https://www.36kr.com/p/2448713253148805)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-09-30 08:08:57.789448
