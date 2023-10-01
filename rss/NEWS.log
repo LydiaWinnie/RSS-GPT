@@ -4983,3 +4983,12 @@ Append: [杭州亞運／男子滑輪溜冰趙祖政獲銅牌 黃玉霖被判定�
 Append: [杭州亞運／滑輪溜冰金銀女將自信抗壓 明再拚3千公尺接力](https://news.pts.org.tw/article/659595)
 append_entries: 8
 Finish: 2023-10-01 12:12:24.822114
+------------------------------------------------------
+Started: 2023-10-01 13:07:22.426391
+Existing_entries: 738
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-01 13:07:25.972331
