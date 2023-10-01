@@ -4992,3 +4992,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-01 13:07:25.972331
+------------------------------------------------------
+Started: 2023-10-01 14:06:25.487135
+Existing_entries: 738
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／絕地求生台灣奪銅 本屆電競賽事兩銀兩銅亮眼收官](https://news.pts.org.tw/article/659640)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／林立轟3分砲 台灣隊7局扣倒泰國首戰告捷](https://news.pts.org.tw/article/659639)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [雲林父子3人擠5坪老屋 義工團協助重建](https://news.pts.org.tw/article/659621)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國安顧問稱台海衝突 將導致千萬人面臨軍事威脅](https://news.pts.org.tw/article/659619)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美眾院突改立場通過臨時法案 聯邦政府可暫運作至11/7](https://news.pts.org.tw/article/659620)
+append_entries: 5
+Finish: 2023-10-01 14:06:30.641063
