@@ -5025,3 +5025,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-01 15:06:32.061568
+------------------------------------------------------
+Started: 2023-10-01 16:07:51.597488
+Existing_entries: 743
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／絕殺韓國再逆轉卡達 台灣3對3男籃驚奇摘金](https://news.pts.org.tw/article/659642)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／台灣女將拳力出擊 吳詩儀、陳念琴都殺進四強](https://news.pts.org.tw/article/659641)
+append_entries: 2
+Finish: 2023-10-01 16:07:54.605387
