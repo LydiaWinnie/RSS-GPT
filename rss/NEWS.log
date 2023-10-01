@@ -4956,3 +4956,30 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／林郁婷拳力出擊 退泰國選手取得奧運資格](https://news.pts.org.tw/article/659591)
 append_entries: 4
 Finish: 2023-10-01 11:05:19.580316
+------------------------------------------------------
+Started: 2023-10-01 12:12:20.869387
+Existing_entries: 730
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [吉貝垃圾掩埋場悶燒逾17小時 憂衝擊民生消防引海水滅火](https://news.pts.org.tw/article/659618)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國5北返車潮湧現 高公局估國5將塞至晚上9時後](https://news.pts.org.tw/article/659601)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [颱風小犬／週一是路徑變化關鍵 若偏北將威脅南部](https://news.pts.org.tw/article/659600)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／拳擊選手賴主恩、林郁婷 雙雙挺進4強保2銅](https://news.pts.org.tw/article/659599)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／排名一度並列第四 洪健堯逆轉奪男子高爾夫銅牌](https://news.pts.org.tw/article/659598)
+Append: [杭州亞運／桌球男雙4強失利得銅 莊智淵：先去火星教球好了](https://news.pts.org.tw/article/659597)
+Append: [杭州亞運／男子滑輪溜冰趙祖政獲銅牌 黃玉霖被判定推人遭奪權](https://news.pts.org.tw/article/659596)
+Append: [杭州亞運／滑輪溜冰金銀女將自信抗壓 明再拚3千公尺接力](https://news.pts.org.tw/article/659595)
+append_entries: 8
+Finish: 2023-10-01 12:12:24.822114
