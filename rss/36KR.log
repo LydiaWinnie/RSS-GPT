@@ -5445,3 +5445,23 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2023-10-01 00:39:51.713670
+------------------------------------------------------
+Started: 2023-10-01 01:53:12.022205
+Existing_entries: 356
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [数字人造富记，一场被AIGC改写的风暴](https://www.36kr.com/p/2451637385027464)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [登Nature两年，谷歌「AI 6小时设计芯片」遭打脸？大神Jeff Dean论文被官方调查](https://www.36kr.com/p/2455192957147268)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [诺奖前夜，Nature发文ChatGPT终极预测！mRNA疫苗能否锁定大奖](https://www.36kr.com/p/2455178732427139)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 3
+Finish: 2023-10-01 01:53:39.650952
