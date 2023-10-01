@@ -4902,3 +4902,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-01 07:06:30.282181
+------------------------------------------------------
+Started: 2023-10-01 08:08:45.749012
+Existing_entries: 724
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／不敵世界第一 林昀儒、莊智淵桌球男雙收銅牌](https://news.pts.org.tw/article/659590)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／相隔13年再披亞運戰袍 高球好手洪健堯摘銅](https://news.pts.org.tw/article/659589)
+append_entries: 2
+Finish: 2023-10-01 08:08:50.435626
