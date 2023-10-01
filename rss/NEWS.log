@@ -4935,3 +4935,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-01 10:07:20.768601
+------------------------------------------------------
+Started: 2023-10-01 11:05:15.509237
+Existing_entries: 726
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／拳擊男將賴主恩擊退地主闖4強 再1勝拿奧運門票](https://news.pts.org.tw/article/659594)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [一週大事／登革熱累計破萬例 好萊塢編劇結束罷工（2023.9.25-10.1）](https://news.pts.org.tw/article/659593)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／上屆亞運名列第五 克拉術好手黃君達杭州摘銅](https://news.pts.org.tw/article/659592)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／林郁婷拳力出擊 退泰國選手取得奧運資格](https://news.pts.org.tw/article/659591)
+append_entries: 4
+Finish: 2023-10-01 11:05:19.580316
