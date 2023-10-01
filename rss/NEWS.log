@@ -4917,3 +4917,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／相隔13年再披亞運戰袍 高球好手洪健堯摘銅](https://news.pts.org.tw/article/659589)
 append_entries: 2
 Finish: 2023-10-01 08:08:50.435626
+------------------------------------------------------
+Started: 2023-10-01 09:06:55.237544
+Existing_entries: 726
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-01 09:06:58.195238
