@@ -4865,3 +4865,31 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-01 05:07:00.978895
+------------------------------------------------------
+Started: 2023-10-01 06:09:32.888040
+Existing_entries: 715
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國紐約州暴雨發洪水警報 部分地區進入緊急狀態](https://news.pts.org.tw/article/659579)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國伊利諾州化學車翻覆 無水氨外洩釀5死5傷](https://news.pts.org.tw/article/659580)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [鳳山路燈電線裸露議員憂觸電 市府稱非路燈電路亦未通電](https://news.pts.org.tw/article/659581)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [新竹廢棄透天厝成大麻農場 起出772克大麻涉事移工遭送辦](https://news.pts.org.tw/article/659582)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／柯文哲二度訪美 朱立倫稱未討論是否比民調](https://news.pts.org.tw/article/659583)
+Append: [台南登革熱破1.1萬例 市長黃偉哲加入輪班防疫](https://news.pts.org.tw/article/659585)
+Append: [上午北返車潮湧現 國5宜蘭至頭城紫爆](https://news.pts.org.tw/article/659584)
+Append: [杭州亞運／滑輪溜冰1000M爭先賽 獲1金1銀1銅](https://news.pts.org.tw/article/659588)
+Append: [颱風小犬／昨日生成 不排除週二後發布海警](https://news.pts.org.tw/article/659574)
+append_entries: 9
+Finish: 2023-10-01 06:09:36.098042
