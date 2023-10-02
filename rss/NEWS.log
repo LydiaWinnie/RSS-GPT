@@ -5254,3 +5254,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／輕艇競速賴冠傑奪金 台灣史上首面](https://news.pts.org.tw/article/659719)
 append_entries: 3
 Finish: 2023-10-02 08:10:54.201747
+------------------------------------------------------
+Started: 2023-10-02 09:08:25.336650
+Existing_entries: 776
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-02 09:08:27.171414
