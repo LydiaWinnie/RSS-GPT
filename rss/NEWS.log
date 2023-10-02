@@ -5122,3 +5122,29 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-02 01:42:47.995756
+------------------------------------------------------
+Started: 2023-10-02 02:15:58.246757
+Existing_entries: 745
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／女子滑輪溜冰1千公尺爭先賽 李孟竹奪金、劉懿萱摘銀](https://news.pts.org.tw/article/659667)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／台灣逆轉強敵卡達 勇奪3對3男籃金牌](https://news.pts.org.tw/article/659668)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／12:1扣倒泰國 棒球小組賽旗開得勝](https://news.pts.org.tw/article/659651)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／絕地求生M奪銅牌電競項目收穫2銀2銅](https://news.pts.org.tw/article/659664)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／克拉術奪銅 38歲老將黃君達創個人最佳](https://news.pts.org.tw/article/659665)
+Append: [杭州亞運／男子200公尺準決賽 楊俊瀚20秒67晉級決賽](https://news.pts.org.tw/article/659666)
+Append: [西班牙夜店大火13死14失蹤 33年來最嚴重火災](https://news.pts.org.tw/article/659658)
+append_entries: 7
+Finish: 2023-10-02 02:16:00.732417
