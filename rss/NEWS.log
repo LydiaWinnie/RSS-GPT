@@ -5355,3 +5355,12 @@ Append: [颱風小犬／最快3日發陸警 週三、四影響最明顯](https:/
 Append: [美國會排除烏克蘭援助預算 歐盟表震驚與遺憾](https://news.pts.org.tw/article/659828)
 append_entries: 14
 Finish: 2023-10-02 14:07:35.040872
+------------------------------------------------------
+Started: 2023-10-02 15:07:54.917149
+Existing_entries: 799
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-02 15:07:55.787751
