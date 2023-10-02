@@ -5792,3 +5792,20 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-02 02:17:42.431454
+------------------------------------------------------
+Started: 2023-10-02 03:07:56.304518
+Existing_entries: 369
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [用AI来训练大模型？但人工数据标注还很难取代](https://www.36kr.com/p/2455661925963907)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [雷军王小川牵手，小米大模型投资布局首次曝光](https://www.36kr.com/p/2455349770606473)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-02 03:08:56.486887

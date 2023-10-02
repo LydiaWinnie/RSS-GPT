@@ -5148,3 +5148,12 @@ Append: [杭州亞運／男子200公尺準決賽 楊俊瀚20秒67晉級決賽](h
 Append: [西班牙夜店大火13死14失蹤 33年來最嚴重火災](https://news.pts.org.tw/article/659658)
 append_entries: 7
 Finish: 2023-10-02 02:16:00.732417
+------------------------------------------------------
+Started: 2023-10-02 03:07:53.772403
+Existing_entries: 752
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-02 03:07:54.691676
