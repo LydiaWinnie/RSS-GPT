@@ -5227,3 +5227,12 @@ Append: [中颱小犬／路徑北修、中心恐通過東南部 最快今晚發�
 Append: [通往諾貝爾獎的道路漸長 從發現到獲獎平均等待逾30年](https://news.pts.org.tw/article/659720)
 append_entries: 15
 Finish: 2023-10-02 06:10:30.790139
+------------------------------------------------------
+Started: 2023-10-02 07:07:40.542306
+Existing_entries: 773
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-02 07:07:42.445402
