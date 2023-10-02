@@ -5175,3 +5175,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-10-02 04:08:56.419220
+------------------------------------------------------
+Started: 2023-10-02 05:07:20.274714
+Existing_entries: 755
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／輕艇競速1000公尺 賴冠傑「艇」出台灣史上首金](https://news.pts.org.tw/article/659685)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／黃玉霖神來一腳衝線 男子競速滑輪溜冰3000公尺接力再一金](https://news.pts.org.tw/article/659684)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／競速滑輪溜冰女子3000公尺接力賽 楊合貞領軍圓奪金夢](https://news.pts.org.tw/article/659683)
+append_entries: 3
+Finish: 2023-10-02 05:07:21.507066
