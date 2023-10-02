@@ -5287,3 +5287,29 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-02 11:06:22.824440
+------------------------------------------------------
+Started: 2023-10-02 12:13:51.308355
+Existing_entries: 778
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [公費流感疫苗開打 首波65歲以上等10類](https://news.pts.org.tw/article/659831)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／柯拋出藍白合先比民調 國民黨仍未回應](https://news.pts.org.tw/article/659833)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [諾貝爾生醫獎揭曉 2開發mRNA科學家同獲殊榮](https://news.pts.org.tw/article/659814)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [土耳其首都遭自殺炸彈攻擊 庫德工人黨坦承犯案](https://news.pts.org.tw/article/659779)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [東南亞首座高鐵在印尼 雅加達到萬隆僅45分鐘](https://news.pts.org.tw/article/659780)
+Append: [山區找不到食物 日本近日頻傳熊襲人事件](https://news.pts.org.tw/article/659771)
+Append: [斯洛伐克大選變天 反援烏親俄政黨勝出](https://news.pts.org.tw/article/659778)
+append_entries: 7
+Finish: 2023-10-02 12:13:54.679391
