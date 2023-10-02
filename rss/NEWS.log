@@ -5236,3 +5236,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-02 07:07:42.445402
+------------------------------------------------------
+Started: 2023-10-02 08:10:49.316805
+Existing_entries: 773
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [巴黎臭蟲肆虐公共運輸系統 市政廳籲馬克宏協助解決](https://news.pts.org.tw/article/659705)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [消防員10/9夜宿凱道 林右昌：須審慎考慮組工會](https://news.pts.org.tw/article/659707)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／輕艇競速賴冠傑奪金 台灣史上首面](https://news.pts.org.tw/article/659719)
+append_entries: 3
+Finish: 2023-10-02 08:10:54.201747
