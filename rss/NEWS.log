@@ -5391,3 +5391,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-02 18:09:53.438191
+------------------------------------------------------
+Started: 2023-10-02 19:06:16.814096
+Existing_entries: 799
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [颱風小犬／氣象署2日深夜發布海警 最快3日陸警](https://news.pts.org.tw/article/659847)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [恐嚇「Linbay 好油」版主 桃檢聲押許姓男子](https://news.pts.org.tw/article/659846)
+append_entries: 2
+Finish: 2023-10-02 19:06:18.585430
