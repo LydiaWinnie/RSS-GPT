@@ -5278,3 +5278,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／郭婞淳帶傷上陣 不敵地主北韓奪銅牌](https://news.pts.org.tw/article/659750)
 append_entries: 2
 Finish: 2023-10-02 10:08:25.940486
+------------------------------------------------------
+Started: 2023-10-02 11:06:21.065101
+Existing_entries: 778
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-02 11:06:22.824440
