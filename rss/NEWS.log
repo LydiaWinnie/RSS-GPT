@@ -5322,3 +5322,36 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-02 13:10:39.200377
+------------------------------------------------------
+Started: 2023-10-02 14:07:28.965721
+Existing_entries: 785
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／林昱珉6局0失分 台灣完封韓國收2連勝](https://news.pts.org.tw/article/659845)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／舉重女神郭婞淳負傷上陣 順利完賽守住銅牌](https://news.pts.org.tw/article/659840)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／輕艇競速史上第一金 賴冠傑終點線前逆轉勝](https://news.pts.org.tw/article/659841)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台南登革熱有機會下降 仍須觀察連假效應與颱風](https://news.pts.org.tw/article/659832)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／女子滑輪溜冰3千接力摘金 楊合貞最後一役完美收場](https://news.pts.org.tw/article/659842)
+Append: [中秋收假潮擠爆台中高鐵 單日人次通車以來最高](https://news.pts.org.tw/article/659835)
+Append: [杭州亞運／又是只差0.01秒 楊俊瀚男子200公尺跑出銅牌](https://news.pts.org.tw/article/659844)
+Append: [巴西亞馬遜河鬧乾旱 上百粉紅河豚集體暴斃](https://news.pts.org.tw/article/659826)
+Append: [墨西哥教堂屋頂坍塌 已知9死50傷30人受困](https://news.pts.org.tw/article/659829)
+Append: [詐團一頁式廣告誘刷卡頻傳 蔡清祥：需與社群業者合作](https://news.pts.org.tw/article/659822)
+Append: [國造潛艦洩密風波 郭璽馬文君雙方互控加重誹謗](https://news.pts.org.tw/article/659837)
+Append: [杭州亞線／壓線贏韓0.01秒 滑輪溜冰男子3千接力奪金](https://news.pts.org.tw/article/659843)
+Append: [颱風小犬／最快3日發陸警 週三、四影響最明顯](https://news.pts.org.tw/article/659838)
+Append: [美國會排除烏克蘭援助預算 歐盟表震驚與遺憾](https://news.pts.org.tw/article/659828)
+append_entries: 14
+Finish: 2023-10-02 14:07:35.040872
