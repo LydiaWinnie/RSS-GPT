@@ -5263,3 +5263,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-02 09:08:27.171414
+------------------------------------------------------
+Started: 2023-10-02 10:08:23.762684
+Existing_entries: 776
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／林鳳珍3打點 台灣女壘隊勝菲驚險奪銅](https://news.pts.org.tw/article/659766)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／郭婞淳帶傷上陣 不敵地主北韓奪銅牌](https://news.pts.org.tw/article/659750)
+append_entries: 2
+Finish: 2023-10-02 10:08:25.940486
