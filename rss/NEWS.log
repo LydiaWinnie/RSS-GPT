@@ -5193,3 +5193,37 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／競速滑輪溜冰女子3000公尺接力賽 楊合貞領軍圓奪金夢](https://news.pts.org.tw/article/659683)
 append_entries: 3
 Finish: 2023-10-02 05:07:21.507066
+------------------------------------------------------
+Started: 2023-10-02 06:10:22.070427
+Existing_entries: 758
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台中市區迎國慶國旗懸掛半高 遭質疑降半旗](https://news.pts.org.tw/article/659708)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [不滿國慶日英文改「台灣」 前總統馬英九拒出席國慶](https://news.pts.org.tw/article/659709)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／會場傳台灣樂曲 《高山青》等引發共鳴](https://news.pts.org.tw/article/659699)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [潛艦國造／馬文君控郭璽加重誹謗 郭赴北檢反控並求償300萬](https://news.pts.org.tw/article/659711)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／楊合貞最後一舞 女子滑輪溜冰接力摘金](https://news.pts.org.tw/article/659700)
+Append: [藍委控巴西僑教中心爆性騷 徐佳青：勿枉勿縱原則處理](https://news.pts.org.tw/article/659712)
+Append: [售公益彩券需具工作能力 民團促改「行為能力」明確定義](https://news.pts.org.tw/article/659701)
+Append: [獲國發基金投資1700萬 奈微光關鍵技術傳技轉中國](https://news.pts.org.tw/article/659702)
+Append: [博弈機房藏七期高級商辦 成員佯裝上班族躲查緝](https://news.pts.org.tw/article/659713)
+Append: [公費流感疫苗開打 65歲以上優先校園同步接種](https://news.pts.org.tw/article/659714)
+Append: [囤房稅2.0採差別稅率與累進課徵 財長：讓稅率合理化](https://news.pts.org.tw/article/659703)
+Append: [AI概念股領漲 台股盤中一度漲逾200點](https://news.pts.org.tw/article/659704)
+Append: [台南黃金海岸沙灘明顯退縮 環團憂安全堪虞](https://news.pts.org.tw/article/659715)
+Append: [中颱小犬／路徑北修、中心恐通過東南部 最快今晚發海警](https://news.pts.org.tw/article/659716)
+Append: [通往諾貝爾獎的道路漸長 從發現到獲獎平均等待逾30年](https://news.pts.org.tw/article/659720)
+append_entries: 15
+Finish: 2023-10-02 06:10:30.790139
