@@ -5574,3 +5574,12 @@ Append: [杭州亞運／滑輪溜冰成金牌庫 台灣選手奪4金2銀1銅](ht
 Append: [中颱小犬／11時30分發陸警 宜花東高屏防強風豪雨](https://news.pts.org.tw/article/659916)
 append_entries: 15
 Finish: 2023-10-03 07:07:13.653954
+------------------------------------------------------
+Started: 2023-10-03 08:10:10.329626
+Existing_entries: 829
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-03 08:10:13.370411
