@@ -5625,3 +5625,32 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／濺血搶進金牌戰 甘家葳奪拳擊奧運門票](https://news.pts.org.tw/article/659961)
 append_entries: 1
 Finish: 2023-10-03 12:14:01.075360
+------------------------------------------------------
+Started: 2023-10-03 13:11:01.835479
+Existing_entries: 831
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [俄烏戰爭／俄擬再徵召13萬人 優渥簽約金向古巴招兵](https://news.pts.org.tw/article/660031)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／台灣棒球預賽3場全勝 6局15比0擊退香港](https://news.pts.org.tw/article/660037)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國道客運連假載客不到6成 部分路線恐停駛](https://news.pts.org.tw/article/660042)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [推動虛坪改革降公設比 內政部擬解決停車位灌公設](https://news.pts.org.tw/article/660043)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／賴清德讉責Lin bay好油恐嚇案 侯友宜：有違法就辦](https://news.pts.org.tw/article/660046)
+Append: [颱風小犬／估週二晚接觸陸地 4日深夜到5日清晨登陸](https://news.pts.org.tw/article/660048)
+Append: [與民主黨合作引黨內不滿 美議長麥卡錫面臨罷免危機](https://news.pts.org.tw/article/659980)
+Append: [美佛州發現小短吻鱷受傷失上顎 收養後網路爆紅](https://news.pts.org.tw/article/659974)
+Append: [台灣駕照太好考？檢視各國考照制度！【獨立特派員】](https://news.pts.org.tw/article/659968)
+Append: [基泰大直旁民宅下陷，台灣工安議題再成焦點【獨立特派員】](https://news.pts.org.tw/article/659967)
+append_entries: 10
+Finish: 2023-10-03 13:11:06.428713
