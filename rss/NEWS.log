@@ -5540,3 +5540,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-03 06:10:24.441009
+------------------------------------------------------
+Started: 2023-10-03 07:07:10.588561
+Existing_entries: 814
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [氫能列2050年淨零排放關鍵戰略 台肥進口首批低碳氨](https://news.pts.org.tw/article/659902)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [泛視神經脊髓炎新藥10/1納健保 預估121病患受惠](https://news.pts.org.tw/article/659907)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [孟加拉登革熱疫情蔓延 已累積逾20萬感染1千死](https://news.pts.org.tw/article/659905)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [環境部公告空污費率新級距 預估可減少約9千公噸空污排放](https://news.pts.org.tw/article/659903)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI概念股熄火 台股翻黑回測1萬6500點](https://news.pts.org.tw/article/659904)
+Append: [2023諾貝爾生醫獎 研發mRNA疫苗2科學家獲得](https://news.pts.org.tw/article/659906)
+Append: [Linbay好油恐嚇案疑自導自演 林裕紘道歉稱將退出民進黨](https://news.pts.org.tw/article/659912)
+Append: [宜縣府專員涉藉標案詐欺上億 縣府籲民眾循法律途徑解決](https://news.pts.org.tw/article/659913)
+Append: [桃捷綠線工安意外 吊車翻覆砸車2人輕傷](https://news.pts.org.tw/article/659914)
+Append: [台中公費流感疫苗開打 估11月進入高峰籲長者盡快接種](https://news.pts.org.tw/article/659909)
+Append: [被偷拍報案卻遭員警傳不雅影片 士林分局：已記過調職並法辦](https://news.pts.org.tw/article/659910)
+Append: [台南安平區突噴3層樓高水柱 地下再生水管壓力測試爆管所致](https://news.pts.org.tw/article/659915)
+Append: [潛艦國造／洩密爭議延燒 郭璽：願與馬文君當面對質](https://news.pts.org.tw/article/659911)
+Append: [杭州亞運／滑輪溜冰成金牌庫 台灣選手奪4金2銀1銅](https://news.pts.org.tw/article/659917)
+Append: [中颱小犬／11時30分發陸警 宜花東高屏防強風豪雨](https://news.pts.org.tw/article/659916)
+append_entries: 15
+Finish: 2023-10-03 07:07:13.653954
