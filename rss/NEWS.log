@@ -5613,3 +5613,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-03 11:06:27.424165
+------------------------------------------------------
+Started: 2023-10-03 12:13:57.802608
+Existing_entries: 830
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／濺血搶進金牌戰 甘家葳奪拳擊奧運門票](https://news.pts.org.tw/article/659961)
+append_entries: 1
+Finish: 2023-10-03 12:14:01.075360
