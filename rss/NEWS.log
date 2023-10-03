@@ -5654,3 +5654,12 @@ Append: [台灣駕照太好考？檢視各國考照制度！【獨立特派員�
 Append: [基泰大直旁民宅下陷，台灣工安議題再成焦點【獨立特派員】](https://news.pts.org.tw/article/659967)
 append_entries: 10
 Finish: 2023-10-03 13:11:06.428713
+------------------------------------------------------
+Started: 2023-10-03 14:07:39.906175
+Existing_entries: 841
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-03 14:07:42.385773
