@@ -5528,3 +5528,15 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [我的手語名字／聾人首手語名 多由啟聰學校老師取名](https://news.pts.org.tw/article/659878)
 append_entries: 1
 Finish: 2023-10-03 05:07:19.528312
+------------------------------------------------------
+Started: 2023-10-03 06:10:20.621866
+Existing_entries: 813
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [俄羅斯讓步之後，中國在北極地區夙願得償](https://cn.wsj.com/articles/%E4%BF%84%E7%BE%85%E6%96%AF%E8%AE%93%E6%AD%A5%E4%B9%8B%E5%BE%8C-%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%8C%97%E6%A5%B5%E5%9C%B0%E5%8D%80%E5%A4%99%E9%A1%98%E5%BE%97%E5%84%9F-90f81acd)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-03 06:10:24.441009
