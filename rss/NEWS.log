@@ -5672,3 +5672,32 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-03 15:08:02.429087
+------------------------------------------------------
+Started: 2023-10-03 16:09:39.010558
+Existing_entries: 841
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／林庭謙帶頭飆28分 台灣退日本晉級4強](https://news.pts.org.tw/article/660052)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／甘家葳4：1勝土庫曼 拳擊晉級金牌戰](https://news.pts.org.tw/article/660038)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [金馬60／2023金馬獎入圍名單揭曉 《五月雪》入圍9項最多【完整名單】](https://news.pts.org.tw/article/660050)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／賴主恩晉級金牌戰 巴黎奧運拳擊門票也到手](https://news.pts.org.tw/article/660051)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／吳詩儀不敵地主 奪拳擊首面銅牌](https://news.pts.org.tw/article/660049)
+Append: [杭州亞運／卡巴迪男子隊2連勝擊退日本 坐3望2搶第1](https://news.pts.org.tw/article/660035)
+Append: [杭州亞運／19分鐘直落二 戴資穎羽球女單32強晉級](https://news.pts.org.tw/article/660036)
+Append: [台中、新北公開流感疫苗廠牌 民眾可選擇公費接種單位](https://news.pts.org.tw/article/660039)
+Append: [人民共產黨受中共資助滲台 檢方起訴黨主席林德旺等3人](https://news.pts.org.tw/article/660045)
+Append: [流感病例連6週上升 疾管署估11月加速、1月高峰](https://news.pts.org.tw/article/660040)
+append_entries: 10
+Finish: 2023-10-03 16:09:43.115527
