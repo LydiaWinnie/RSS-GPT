@@ -5516,3 +5516,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-03 04:08:47.636906
+------------------------------------------------------
+Started: 2023-10-03 05:07:18.482501
+Existing_entries: 812
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [我的手語名字／聾人首手語名 多由啟聰學校老師取名](https://news.pts.org.tw/article/659878)
+append_entries: 1
+Finish: 2023-10-03 05:07:19.528312
