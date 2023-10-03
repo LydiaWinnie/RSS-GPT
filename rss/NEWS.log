@@ -5472,3 +5472,29 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [中颱小犬／昨發海警 最快今日午後發陸警](https://news.pts.org.tw/article/659872)
 append_entries: 4
 Finish: 2023-10-03 01:42:35.008871
+------------------------------------------------------
+Started: 2023-10-03 02:15:46.577612
+Existing_entries: 805
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／林鳳珍關鍵2分砲 台灣女壘3比2險勝奪銅](https://news.pts.org.tw/article/659854)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／台灣4比0完封南韓 續戰香港期盼3連勝](https://news.pts.org.tw/article/659855)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／0.01秒險勝 楊俊瀚田徑200米奪銅](https://news.pts.org.tw/article/659874)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／滑輪溜冰獲4金2銀1銅 代表團最大金牌庫](https://news.pts.org.tw/article/659875)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [Linbay好油遭恐嚇疑自導自演 藍譴責作假、黃國昌下架影片](https://news.pts.org.tw/article/659862)
+Append: [研發mRNA疫苗抗新冠 2科學家獲諾貝爾生醫獎](https://news.pts.org.tw/article/659866)
+Append: [2外籍客鬧機並攻擊空服員 長榮倫敦飛台北延誤23小時](https://news.pts.org.tw/article/659869)
+append_entries: 7
+Finish: 2023-10-03 02:15:48.384336
