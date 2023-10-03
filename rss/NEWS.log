@@ -5595,3 +5595,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／6局15比0完封香港 台灣棒球預賽分組第一晉級](https://news.pts.org.tw/article/659921)
 append_entries: 1
 Finish: 2023-10-03 09:07:39.877730
+------------------------------------------------------
+Started: 2023-10-03 10:08:16.453579
+Existing_entries: 830
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-03 10:08:18.481930
