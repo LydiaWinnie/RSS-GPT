@@ -5701,3 +5701,12 @@ Append: [人民共產黨受中共資助滲台 檢方起訴黨主席林德旺等3
 Append: [流感病例連6週上升 疾管署估11月加速、1月高峰](https://news.pts.org.tw/article/660040)
 append_entries: 10
 Finish: 2023-10-03 16:09:43.115527
+------------------------------------------------------
+Started: 2023-10-03 17:06:57.086181
+Existing_entries: 851
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-03 17:06:58.743657
