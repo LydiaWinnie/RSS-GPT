@@ -5498,3 +5498,12 @@ Append: [研發mRNA疫苗抗新冠 2科學家獲諾貝爾生醫獎](https://news
 Append: [2外籍客鬧機並攻擊空服員 長榮倫敦飛台北延誤23小時](https://news.pts.org.tw/article/659869)
 append_entries: 7
 Finish: 2023-10-03 02:15:48.384336
+------------------------------------------------------
+Started: 2023-10-03 03:08:02.376469
+Existing_entries: 812
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-03 03:08:04.571716
