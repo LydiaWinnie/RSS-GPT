@@ -6024,3 +6024,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／陳怡瑄張正韋複合弓摘銅 台灣本屆射箭首面獎牌入袋](https://news.pts.org.tw/article/660255)
 append_entries: 4
 Finish: 2023-10-04 15:08:08.876445
+------------------------------------------------------
+Started: 2023-10-04 16:09:47.837687
+Existing_entries: 905
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-04 16:09:52.710112
