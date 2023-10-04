@@ -5878,3 +5878,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-04 07:07:26.221027
+------------------------------------------------------
+Started: 2023-10-04 08:10:19.062226
+Existing_entries: 867
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [工研院談虛擬電廠實務 將滿足供電需求強化電網](https://news.pts.org.tw/article/660111)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／射箭複合弓男女混合團體 我再添1銅牌](https://news.pts.org.tw/article/660122)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中颱小犬／台南蚵農急採收 憂強風豪雨毀牡蠣](https://news.pts.org.tw/article/660124)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [新台幣貶破32.4元 楊金龍：央行未設防線交由市場決定](https://news.pts.org.tw/article/660112)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [義大利巴士高架橋墜落起火 釀至少21死、近20人傷](https://news.pts.org.tw/article/660123)
+Append: [桃園重組豬火鍋肉片漏標產地 違反《食安法》遭開罰](https://news.pts.org.tw/article/660114)
+Append: [明揚工廠爆炸／消防團體9日夜宿凱道 林右昌：初步共識開放結社權](https://news.pts.org.tw/article/660118)
+Append: [中颱小犬／花蓮多處風吹沙 立霧溪、花蓮溪揚塵嚴重](https://news.pts.org.tw/article/660125)
+Append: [中颱小犬／屏東今18時停班課 海巡勸離風景區觀浪遊客](https://news.pts.org.tw/article/660128)
+Append: [2024大選／選舉將至 國安局關注中國是否介選](https://news.pts.org.tw/article/660115)
+Append: [勞團提經濟特區勞檢權應回歸 勞動部：需跨部會研議](https://news.pts.org.tw/article/660117)
+Append: [中颱小犬／台東下午半天假引議 饒慶鈴：上午未達放假標準](https://news.pts.org.tw/article/660126)
+Append: [2024大選／倒數百日 勞團籲參選人回應相關政策](https://news.pts.org.tw/article/660116)
+Append: [中颱小犬／強風致路樹倒塌 台中小客車、民宅受波及](https://news.pts.org.tw/article/660127)
+Append: [中颱小犬／小犬陸警再擴大 南部5縣市今晚停班課](https://news.pts.org.tw/article/660129)
+append_entries: 15
+Finish: 2023-10-04 08:10:26.044277
