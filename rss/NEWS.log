@@ -5791,3 +5791,12 @@ Append: [高雄鳳山水溝傳異味 軍方油管洩漏開罰](https://news.pts.
 Append: [中颱小犬／今明影響最明顯 估週五清晨脫離本島](https://news.pts.org.tw/article/660080)
 append_entries: 8
 Finish: 2023-10-04 00:34:48.012800
+------------------------------------------------------
+Started: 2023-10-04 01:43:51.848911
+Existing_entries: 859
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-04 01:43:54.602694
