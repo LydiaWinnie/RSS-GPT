@@ -5857,3 +5857,15 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [我的手語名字／雲林聽語障協會:75%手語名 依外貌特徵取名](https://news.pts.org.tw/article/660087)
 append_entries: 4
 Finish: 2023-10-04 05:07:19.805445
+------------------------------------------------------
+Started: 2023-10-04 06:10:19.463797
+Existing_entries: 866
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [加拿大喊話印度停止繼續驅逐外交官](https://cn.wsj.com/articles/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%96%8A%E8%A9%B1%E5%8D%B0%E5%BA%A6%E5%81%9C%E6%AD%A2%E7%B9%BC%E7%BA%8C%E9%A9%85%E9%80%90%E5%A4%96%E4%BA%A4%E5%AE%98-5169ec8f)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-04 06:10:27.561270
