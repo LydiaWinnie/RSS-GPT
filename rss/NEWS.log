@@ -5936,3 +5936,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-04 10:08:34.489538
+------------------------------------------------------
+Started: 2023-10-04 11:06:41.814918
+Existing_entries: 884
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／守不住約旦歸化球員 台灣男籃落入銅牌戰](https://news.pts.org.tw/article/660190)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／射日也失利 台灣軟網男團奪銀](https://news.pts.org.tw/article/660179)
+append_entries: 2
+Finish: 2023-10-04 11:06:45.932023
