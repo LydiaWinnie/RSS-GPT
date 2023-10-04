@@ -5912,3 +5912,18 @@ Append: [中颱小犬／強風致路樹倒塌 台中小客車、民宅受波及]
 Append: [中颱小犬／小犬陸警再擴大 南部5縣市今晚停班課](https://news.pts.org.tw/article/660129)
 append_entries: 15
 Finish: 2023-10-04 08:10:26.044277
+------------------------------------------------------
+Started: 2023-10-04 09:07:59.838235
+Existing_entries: 882
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／遭日本逆轉 台灣軟網女團「銀」恨](https://news.pts.org.tw/article/660131)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／林郁婷重拳出擊 完勝印度晉級金牌戰](https://news.pts.org.tw/article/660130)
+append_entries: 2
+Finish: 2023-10-04 09:08:02.706108
