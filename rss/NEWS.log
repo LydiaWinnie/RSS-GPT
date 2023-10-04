@@ -5951,3 +5951,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／射日也失利 台灣軟網男團奪銀](https://news.pts.org.tw/article/660179)
 append_entries: 2
 Finish: 2023-10-04 11:06:45.932023
+------------------------------------------------------
+Started: 2023-10-04 12:14:30.366938
+Existing_entries: 886
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-04 12:14:31.991973
