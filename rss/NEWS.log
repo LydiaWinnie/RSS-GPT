@@ -5836,3 +5836,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-04 04:09:42.792632
+------------------------------------------------------
+Started: 2023-10-04 05:07:18.067379
+Existing_entries: 862
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／拳擊金牌戰無法上陣 甘家葳收銀](https://news.pts.org.tw/article/660097)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／菜鳥張正韋聯手學姊陳怡瑄 射箭複合弓混雙摘銅](https://news.pts.org.tw/article/660096)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中颱小犬／10月4日各縣市停班課一次看【不斷更新】](https://news.pts.org.tw/article/660095)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [我的手語名字／雲林聽語障協會:75%手語名 依外貌特徵取名](https://news.pts.org.tw/article/660087)
+append_entries: 4
+Finish: 2023-10-04 05:07:19.805445
