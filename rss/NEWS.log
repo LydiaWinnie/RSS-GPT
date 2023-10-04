@@ -6003,3 +6003,24 @@ Append: [中颱小犬／南迴與東部幹線停駛 部分山區居民緊急撤�
 Append: [中颱小犬／氣象署發陸上特風警報 估明日登陸台灣南端](https://news.pts.org.tw/article/660267)
 append_entries: 15
 Finish: 2023-10-04 14:07:35.379717
+------------------------------------------------------
+Started: 2023-10-04 15:08:07.136577
+Existing_entries: 901
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／不敵蒙古重拳 賴主恩「銀」得榮耀](https://news.pts.org.tw/article/660269)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／拳擊三回合5:0全勝 林郁婷勝印度挺進金牌戰](https://news.pts.org.tw/article/660254)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／男子卡巴迪勝強敵孟加拉 奪牌夢圓續爭取佳績](https://news.pts.org.tw/article/660253)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／陳怡瑄張正韋複合弓摘銅 台灣本屆射箭首面獎牌入袋](https://news.pts.org.tw/article/660255)
+append_entries: 4
+Finish: 2023-10-04 15:08:08.876445
