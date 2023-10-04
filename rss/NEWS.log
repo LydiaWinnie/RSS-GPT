@@ -5969,3 +5969,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-04 13:11:57.070540
+------------------------------------------------------
+Started: 2023-10-04 14:07:30.216328
+Existing_entries: 886
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [宜蘭蘇花改北上2遊覽車追撞 19人輕傷肇因待釐清](https://news.pts.org.tw/article/660246)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [印尼蘇門答臘野火持續延燒 霾害衝擊周邊國家引爭議](https://news.pts.org.tw/article/660247)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [福島核廢水明再釋7800噸 日本周遭國家存疑](https://news.pts.org.tw/article/660248)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／男女軟網遇強敵日本 雙雙摘銀](https://news.pts.org.tw/article/660256)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [印度警突襲搜索網媒 遭批箝制新聞言論自由](https://news.pts.org.tw/article/660249)
+Append: [高鐵國慶加開190班次 並公告連假3大尖峰時段](https://news.pts.org.tw/article/660258)
+Append: [今29架次共機擾台海 首偵獲攻擊2型無人機](https://news.pts.org.tw/article/660259)
+Append: [發現及發展半導體奈米晶體 3學者共獲諾貝爾化學獎](https://news.pts.org.tw/article/660252)
+Append: [彭博社指4台廠助華為建廠 王美花：僅涉低階環保工程](https://news.pts.org.tw/article/660261)
+Append: [明揚工廠爆炸／消防團體9日夜宿凱道 爭取組織工會](https://news.pts.org.tw/article/660262)
+Append: [明揚工廠爆炸／4殉職消防員移靈 16重傷已轉出加護病房](https://news.pts.org.tw/article/660263)
+Append: [中颱小犬／屏東3村預防撤離意願低 小琉球交通船停駛3日](https://news.pts.org.tw/article/660265)
+Append: [杭州亞運／陳念琴拼盡全力惜敗 不敵中國拳手銅牌作收](https://news.pts.org.tw/article/660268)
+Append: [中颱小犬／南迴與東部幹線停駛 部分山區居民緊急撤離](https://news.pts.org.tw/article/660266)
+Append: [中颱小犬／氣象署發陸上特風警報 估明日登陸台灣南端](https://news.pts.org.tw/article/660267)
+append_entries: 15
+Finish: 2023-10-04 14:07:35.379717
