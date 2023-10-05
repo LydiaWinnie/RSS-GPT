@@ -6116,3 +6116,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-10-05 00:34:05.895908
+------------------------------------------------------
+Started: 2023-10-05 01:44:47.804948
+Existing_entries: 908
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／戴資穎爆冷止步羽球女單16強 周天成晉男單8強](https://news.pts.org.tw/article/660285)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／賴主恩拳擊「銀」恨 陳念琴奪銅](https://news.pts.org.tw/article/660286)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中颱小犬／風雨增強 台鐵南迴及東部幹線停駛](https://news.pts.org.tw/article/660297)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中颱小犬／蘭嶼17級以上強風 創台灣最強風速紀錄](https://news.pts.org.tw/article/660298)
+append_entries: 4
+Finish: 2023-10-05 01:44:51.172747

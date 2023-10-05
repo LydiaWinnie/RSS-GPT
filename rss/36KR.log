@@ -6650,3 +6650,18 @@ Feed error: 404
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-05 00:35:53.204355
+------------------------------------------------------
+Started: 2023-10-05 01:44:52.784158
+Existing_entries: 380
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 524
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [想要改变一切的 OpenAI，正在被改变](https://www.36kr.com/p/2459882452047746)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 1
+Finish: 2023-10-05 01:48:53.924117
