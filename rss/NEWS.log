@@ -6170,3 +6170,28 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-05 04:08:56.904036
+------------------------------------------------------
+Started: 2023-10-05 05:07:12.438306
+Existing_entries: 914
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國曾承諾不再新建海外煤電廠，習近平是否守信？](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E6%9B%BE%E6%89%BF%E8%AB%BE%E4%B8%8D%E5%86%8D%E6%96%B0%E5%BB%BA%E6%B5%B7%E5%A4%96%E7%85%A4%E9%9B%BB%E5%BB%A0-%E7%BF%92%E8%BF%91%E5%B9%B3%E6%98%AF%E5%90%A6%E5%AE%88%E4%BF%A1-cefb70d2)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中颱小犬／強風釀災 中彰逾萬戶停電](https://news.pts.org.tw/article/660346)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中颱小犬／蘭嶼17級強風破紀錄 開元港9成漁船沉沒](https://news.pts.org.tw/article/660350)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／射下韓國但不敵印度 射箭複合弓女團摘銀](https://news.pts.org.tw/article/660316)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [迎世界盃百年 2030年西葡摩洛哥3國合辦跨3大洲競技](https://news.pts.org.tw/article/660315)
+Append: [我的手語名字／因特徵相似 廖宏仁被稱＂平頭老二＂](https://news.pts.org.tw/article/660306)
+append_entries: 6
+Finish: 2023-10-05 05:07:18.052837
