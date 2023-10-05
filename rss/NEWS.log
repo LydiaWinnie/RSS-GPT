@@ -6294,3 +6294,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-05 12:14:30.236106
+------------------------------------------------------
+Started: 2023-10-05 13:12:44.723974
+Existing_entries: 938
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／男子滑輪過樁 王宥鈞摘金黃品睿奪銅](https://news.pts.org.tw/article/660473)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國長征火箭搭載衛星升空 國軍嚴密監控](https://news.pts.org.tw/article/660475)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [北市大同區工地疑鄰損 附近建物傾斜龜裂](https://news.pts.org.tw/article/660477)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／1分之差敗給印度 台灣射箭女團複合弓奪銀](https://news.pts.org.tw/article/660472)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [颱風小犬／修復工程才啟動 合歡石滬再遭大浪沖毀](https://news.pts.org.tw/article/660478)
+Append: [颱風小犬／漂流木塞花蓮南濱 市區排水恐回流](https://news.pts.org.tw/article/660479)
+Append: [颱風小犬／強風損農業 洋香瓜、玉米、香蕉災情多](https://news.pts.org.tw/article/660480)
+Append: [日伊豆群島規模6.6地震 專家提醒慎防海嘯](https://news.pts.org.tw/article/660470)
+Append: [颱風小犬／襲台釀1死304人傷 本島6日脫離暴風圈](https://news.pts.org.tw/article/660481)
+Append: [颱風小犬／疑強風吹落鋁門 台中老婦被玻璃割傷不治](https://news.pts.org.tw/article/660482)
+Append: [颱風小犬／中心登陸鵝鑾鼻 恆春半島路樹招牌倒](https://news.pts.org.tw/article/660483)
+Append: [颱風小犬／屏東颳14級強陣風 吹掀籃球架、PU跑道](https://news.pts.org.tw/article/660484)
+Append: [颱風小犬／高雄風力11級 航班降小港失敗原機返回](https://news.pts.org.tw/article/660485)
+Append: [杭州亞運／滑輪過樁添金銅 劉巧兮丁于恩感謝家人相伴](https://news.pts.org.tw/article/660474)
+Append: [諾貝爾文學獎揭曉 挪威作家福瑟獲獎](https://news.pts.org.tw/article/660471)
+append_entries: 15
+Finish: 2023-10-05 13:12:51.972233
