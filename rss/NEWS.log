@@ -6328,3 +6328,12 @@ Append: [杭州亞運／滑輪過樁添金銅 劉巧兮丁于恩感謝家人相�
 Append: [諾貝爾文學獎揭曉 挪威作家福瑟獲獎](https://news.pts.org.tw/article/660471)
 append_entries: 15
 Finish: 2023-10-05 13:12:51.972233
+------------------------------------------------------
+Started: 2023-10-05 14:07:41.252536
+Existing_entries: 953
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-05 14:07:42.429322
