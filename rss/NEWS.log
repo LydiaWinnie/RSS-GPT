@@ -6146,3 +6146,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-05 02:18:12.872532
+------------------------------------------------------
+Started: 2023-10-05 03:08:02.139289
+Existing_entries: 912
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [凱盛融英表示將堅守國家安全底線，先前曾遭遇突擊搜查](https://cn.wsj.com/articles/%E5%87%B1%E7%9B%9B%E8%9E%8D%E8%8B%B1%E8%A1%A8%E7%A4%BA%E5%B0%87%E5%A0%85%E5%AE%88%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E5%BA%95%E7%B7%9A-%E5%85%88%E5%89%8D%E6%9B%BE%E9%81%AD%E9%81%87%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5-1299752)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／滑輪溜冰開「5金」行 劉巧兮、丁于恩包辦金銅](https://news.pts.org.tw/article/660314)
+append_entries: 2
+Finish: 2023-10-05 03:08:07.119463
