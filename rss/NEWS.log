@@ -6237,3 +6237,12 @@ Append: [中颱小犬／掠過鵝鑾鼻出海 不排除二次登陸可能](https
 Append: [中颱小犬／台南颳強陣風 民眾觀浪回程車禍1死2傷](https://news.pts.org.tw/article/660344)
 append_entries: 14
 Finish: 2023-10-05 07:07:35.405716
+------------------------------------------------------
+Started: 2023-10-05 08:10:40.525686
+Existing_entries: 934
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-05 08:10:41.505731
