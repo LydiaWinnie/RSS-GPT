@@ -6349,3 +6349,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／4比1擊退地主中國 台灣成功挺進棒球金牌戰](https://news.pts.org.tw/article/660487)
 append_entries: 1
 Finish: 2023-10-05 15:08:06.948361
+------------------------------------------------------
+Started: 2023-10-05 16:09:42.418443
+Existing_entries: 954
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-05 16:09:46.300577
