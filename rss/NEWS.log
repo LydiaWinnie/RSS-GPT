@@ -6195,3 +6195,12 @@ Append: [迎世界盃百年 2030年西葡摩洛哥3國合辦跨3大洲競技](ht
 Append: [我的手語名字／因特徵相似 廖宏仁被稱＂平頭老二＂](https://news.pts.org.tw/article/660306)
 append_entries: 6
 Finish: 2023-10-05 05:07:18.052837
+------------------------------------------------------
+Started: 2023-10-05 06:10:42.425434
+Existing_entries: 920
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-05 06:10:43.511495
