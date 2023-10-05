@@ -6137,3 +6137,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [中颱小犬／蘭嶼17級以上強風 創台灣最強風速紀錄](https://news.pts.org.tw/article/660298)
 append_entries: 4
 Finish: 2023-10-05 01:44:51.172747
+------------------------------------------------------
+Started: 2023-10-05 02:18:10.779032
+Existing_entries: 912
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-05 02:18:12.872532
