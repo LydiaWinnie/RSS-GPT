@@ -6270,3 +6270,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-05 10:08:27.983996
+------------------------------------------------------
+Started: 2023-10-05 11:06:40.191732
+Existing_entries: 936
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [自由之家2023網路自由報告 台灣居亞太第1](https://news.pts.org.tw/article/660408)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／軟網獎牌庫再進帳 林韋傑聯手黃詩媛混雙摘銅](https://news.pts.org.tw/article/660407)
+append_entries: 2
+Finish: 2023-10-05 11:06:41.344368
