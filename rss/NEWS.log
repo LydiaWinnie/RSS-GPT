@@ -6246,3 +6246,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-05 08:10:41.505731
+------------------------------------------------------
+Started: 2023-10-05 09:07:51.173696
+Existing_entries: 934
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／自由式輪滑男子速度過樁賽 台灣再包辦金銅](https://news.pts.org.tw/article/660391)
+append_entries: 1
+Finish: 2023-10-05 09:07:54.100287
