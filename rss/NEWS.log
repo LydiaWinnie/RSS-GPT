@@ -6648,3 +6648,12 @@ Append: [杭州亞運／台灣卡巴迪男隊不敵伊朗摘銅 奪牌寫歷史]
 Append: [重讀娃娃看天下 阿根廷紀錄片回顧經典漫畫](https://news.pts.org.tw/article/660574)
 append_entries: 10
 Finish: 2023-10-06 12:14:05.035809
+------------------------------------------------------
+Started: 2023-10-06 13:10:55.266148
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-06 13:10:57.043459
