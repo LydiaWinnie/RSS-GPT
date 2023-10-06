@@ -6712,3 +6712,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／因雨裁定 台灣隊遭日本完封連勝中止](https://news.pts.org.tw/article/660704)
 append_entries: 1
 Finish: 2023-10-06 16:09:26.813422
+------------------------------------------------------
+Started: 2023-10-06 17:06:58.102791
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-06 17:06:59.925871
