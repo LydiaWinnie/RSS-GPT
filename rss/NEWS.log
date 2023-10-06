@@ -6610,3 +6610,12 @@ Append: [大產大銷缺配套 中國驚現電動車墳場](https://news.pts.org
 Append: [南韓新世代貧富差距大 或借貸度日或砸錢享樂](https://news.pts.org.tw/article/660567)
 append_entries: 10
 Finish: 2023-10-06 10:08:38.098574
+------------------------------------------------------
+Started: 2023-10-06 11:06:39.909937
+Existing_entries: 993
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-06 11:06:41.975640
