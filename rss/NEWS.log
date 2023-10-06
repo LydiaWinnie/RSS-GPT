@@ -6619,3 +6619,32 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-06 11:06:41.975640
+------------------------------------------------------
+Started: 2023-10-06 12:13:56.635063
+Existing_entries: 993
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [被監禁的伊朗活動人士穆罕默迪榮獲諾貝爾和平獎](https://cn.wsj.com/articles/%E8%A2%AB%E7%9B%A3%E7%A6%81%E7%9A%84%E4%BC%8A%E6%9C%97%E6%B4%BB%E5%8B%95%E4%BA%BA%E5%A3%AB%E7%A9%86%E7%BD%95%E9%BB%98%E8%BF%AA%E6%A6%AE%E7%8D%B2%E8%AB%BE%E8%B2%9D%E7%88%BE%E5%92%8C%E5%B9%B3%E7%8D%8E-f849ccf5)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [紐西蘭大選國家黨民調領先 有望與友台政黨合組政府](https://news.pts.org.tw/article/660634)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美墨邊境再築新牆 拜登：川普任內專款須專用](https://news.pts.org.tw/article/660635)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [環保減廢意識抬頭 星巴克推借杯回收計畫](https://news.pts.org.tw/article/660571)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [日本古都鎌倉，如何透過地方創生實現更多可能？【獨立特派員】](https://news.pts.org.tw/article/660626)
+Append: [英國實驗室培養動物脂肪 增添植物肉美味拓展市場](https://news.pts.org.tw/article/660572)
+Append: [秘魯貧民窟富人區一線之隔 弱勢孩童缺糧營養不良](https://news.pts.org.tw/article/660573)
+Append: [杭州亞運／男籃銅牌戰只打半場好球 台灣隊連兩屆第4](https://news.pts.org.tw/article/660625)
+Append: [杭州亞運／台灣卡巴迪男隊不敵伊朗摘銅 奪牌寫歷史](https://news.pts.org.tw/article/660624)
+Append: [重讀娃娃看天下 阿根廷紀錄片回顧經典漫畫](https://news.pts.org.tw/article/660574)
+append_entries: 10
+Finish: 2023-10-06 12:14:05.035809
