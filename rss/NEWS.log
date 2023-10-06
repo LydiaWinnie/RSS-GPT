@@ -6545,3 +6545,30 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-06 07:07:11.306200
+------------------------------------------------------
+Started: 2023-10-06 08:09:57.896623
+Existing_entries: 975
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／輕艇女將張筑涵完美演出 標竿女子K1奪金](https://news.pts.org.tw/article/660580)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [聯合汽車工會大罷工 拜登、川普到場支持](https://news.pts.org.tw/article/660570)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [明揚工廠爆炸／4殉職消防員公祭 總統蔡英文頒褒揚令](https://news.pts.org.tw/article/660546)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／不敵韓國組合 「麟洋配」羽球奪銅](https://news.pts.org.tw/article/660563)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [小犬颱風／強風颳起廢棄床墊 彰化男騎車撞上昏迷指數僅3](https://news.pts.org.tw/article/660561)
+Append: [颱風襲台和油價上漲影響 9月CPI創近8個月來新高](https://news.pts.org.tw/article/660557)
+Append: [雲林麥寮高中停電校門無法開 校方緊急宣布停課](https://news.pts.org.tw/article/660560)
+Append: [疫後旅遊漲價 春節平價北海道團5天9萬](https://news.pts.org.tw/article/660556)
+append_entries: 8
+Finish: 2023-10-06 08:09:59.580870
