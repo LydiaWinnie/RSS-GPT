@@ -6666,3 +6666,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-06 14:07:12.874421
+------------------------------------------------------
+Started: 2023-10-06 15:08:07.987103
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／范綱維蔡博雅夫妻檔同退敵 橋牌混團賽摘金](https://news.pts.org.tw/article/660703)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／金門平均每3人有1廈門房產 台海緊張怎定位？](https://news.pts.org.tw/article/660684)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [9月全球均溫創新高 極端氣候致4310萬童流離失所](https://news.pts.org.tw/article/660686)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [頭戴式儀器「讀腦」 助中風癱瘓者移動患肢](https://news.pts.org.tw/article/660687)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [敘利亞無人機攻擊畢典逾百死 政府回擊轟炸反抗軍](https://news.pts.org.tw/article/660688)
+Append: [杭州亞運／張筑涵輕艇激流奪金 「我完成教練的夢想了」](https://news.pts.org.tw/article/660691)
+Append: [中國建交後失信食言 吳釗燮透露有「老友」回來訴苦](https://news.pts.org.tw/article/660693)
+Append: [杭州亞運／不被看好到闖金牌戰 女子卡巴迪寫隊史新頁](https://news.pts.org.tw/article/660690)
+Append: [查台廠助華為建晶片廠 王美花：不符核准將重罰2500萬](https://news.pts.org.tw/article/660694)
+Append: [伊朗女權鬥士穆哈瑪迪 榮獲2023諾貝爾和平獎](https://news.pts.org.tw/article/660689)
+Append: [美豬與他國豬肉混用 中市查出流向81家餐飲業者](https://news.pts.org.tw/article/660695)
+Append: [避免國慶連假再塞爆 高鐵紅黃燈號顯示車站人潮](https://news.pts.org.tw/article/660696)
+Append: [明揚工廠爆炸／4殉職消聯合公祭 家屬控事故原因仍不明](https://news.pts.org.tw/article/660697)
+Append: [颱風小犬／蒙古貨輪進水東莒擱淺 6中國船員獲救](https://news.pts.org.tw/article/660699)
+Append: [颱風小犬／屏東恆春重創 旅宿業加緊修復搶國慶商機](https://news.pts.org.tw/article/660702)
+append_entries: 15
+Finish: 2023-10-06 15:08:10.791343
