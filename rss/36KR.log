@@ -6953,3 +6953,20 @@ Feed error: 404
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-06 01:47:59.202776
+------------------------------------------------------
+Started: 2023-10-06 02:15:50.666875
+Existing_entries: 382
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [还会有《前任5》吗？](https://www.36kr.com/p/2461243361597571)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2023 年诺贝尔文学奖给了赔率第二名，第一名是中国作家](https://www.36kr.com/p/2461514050328454)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-06 02:16:07.382771

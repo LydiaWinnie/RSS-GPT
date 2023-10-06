@@ -6460,3 +6460,13 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [中颱小犬／解除陸警 部份地區停班停課](https://news.pts.org.tw/article/660516)
 append_entries: 4
 Finish: 2023-10-06 01:42:23.475667
+------------------------------------------------------
+Started: 2023-10-06 02:15:47.893589
+Existing_entries: 961
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-06 02:15:49.041805
