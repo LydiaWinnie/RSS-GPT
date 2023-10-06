@@ -6421,3 +6421,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-05 23:07:31.698067
+------------------------------------------------------
+Started: 2023-10-06 00:34:18.989795
+Existing_entries: 954
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國戰機在敘利亞上空擊落土耳其無人機](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E6%88%B0%E6%A9%9F%E5%9C%A8%E6%95%98%E5%88%A9%E4%BA%9E%E4%B8%8A%E7%A9%BA%E6%93%8A%E8%90%BD%E5%9C%9F%E8%80%B3%E5%85%B6%E7%84%A1%E4%BA%BA%E6%A9%9F-798f2b20)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [挪威作家約恩·福瑟榮獲諾貝爾文學獎](https://cn.wsj.com/articles/%E6%8C%AA%E5%A8%81%E4%BD%9C%E5%AE%B6%E7%B4%84%E6%81%A9-%E7%A6%8F%E7%91%9F%E6%A6%AE%E7%8D%B2%E8%AB%BE%E8%B2%9D%E7%88%BE%E6%96%87%E5%AD%B8%E7%8D%8E-ab56a0a4)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [伊拉克要求特別運送10億美元現金，美國未予批准](https://cn.wsj.com/articles/%E4%BC%8A%E6%8B%89%E5%85%8B%E8%A6%81%E6%B1%82%E7%89%B9%E5%88%A5%E9%81%8B%E9%80%8110%E5%84%84%E7%BE%8E%E5%85%83%E7%8F%BE%E9%87%91-%E7%BE%8E%E5%9C%8B%E6%9C%AA%E4%BA%88%E6%89%B9%E5%87%86-e543e903)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2023-10-06 00:34:24.691771
