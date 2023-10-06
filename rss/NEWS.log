@@ -6700,3 +6700,15 @@ Append: [颱風小犬／蒙古貨輪進水東莒擱淺 6中國船員獲救](http
 Append: [颱風小犬／屏東恆春重創 旅宿業加緊修復搶國慶商機](https://news.pts.org.tw/article/660702)
 append_entries: 15
 Finish: 2023-10-06 15:08:10.791343
+------------------------------------------------------
+Started: 2023-10-06 16:09:25.430521
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／因雨裁定 台灣隊遭日本完封連勝中止](https://news.pts.org.tw/article/660704)
+append_entries: 1
+Finish: 2023-10-06 16:09:26.813422
