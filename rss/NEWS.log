@@ -6581,3 +6581,32 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-06 09:07:37.044812
+------------------------------------------------------
+Started: 2023-10-06 10:08:22.713307
+Existing_entries: 983
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [消失87年有望復育 瑞典發現袋狼標本RNA](https://news.pts.org.tw/article/660577)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「浪貓保全」穿制服陪值勤 菲律賓商場收容貓成活招牌](https://news.pts.org.tw/article/660578)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國多地加嚴民宿規範 學者指為緩解住房短缺危機](https://news.pts.org.tw/article/660575)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [動畫鋼彈風行逾40年 日本創業家開發真實版量產](https://news.pts.org.tw/article/660579)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [抑制過度旅遊 日本宮島徵收百圓觀光稅](https://news.pts.org.tw/article/660576)
+Append: [債務、貪腐、環保衝擊 中國一帶一路出現跳票](https://news.pts.org.tw/article/660568)
+Append: [Telegram以微信為師 擬轉型萬用軟體引資安爭議](https://news.pts.org.tw/article/660565)
+Append: [英國哈德良長城「羅賓漢樹」 遭16歲少年砍倒民眾悲憤](https://news.pts.org.tw/article/660566)
+Append: [大產大銷缺配套 中國驚現電動車墳場](https://news.pts.org.tw/article/660569)
+Append: [南韓新世代貧富差距大 或借貸度日或砸錢享樂](https://news.pts.org.tw/article/660567)
+append_entries: 10
+Finish: 2023-10-06 10:08:38.098574
