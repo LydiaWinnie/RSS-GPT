@@ -6439,3 +6439,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-10-06 00:34:24.691771
+------------------------------------------------------
+Started: 2023-10-06 01:42:21.172932
+Existing_entries: 957
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／周天成不敵石宇奇 羽球男單止步8強](https://news.pts.org.tw/article/660505)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／棒球4比1贏中國 台灣率先挺進金牌戰](https://news.pts.org.tw/article/660508)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／林郁婷替台灣摘第15金 女子拳擊第一人](https://news.pts.org.tw/article/660509)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中颱小犬／解除陸警 部份地區停班停課](https://news.pts.org.tw/article/660516)
+append_entries: 4
+Finish: 2023-10-06 01:42:23.475667
