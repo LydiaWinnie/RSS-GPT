@@ -6536,3 +6536,12 @@ Append: [杭州亞運／台灣卡巴迪女將攻守俱佳 擊敗伊朗晉級金�
 Append: [我的手語名字＼林國華手語名 臉部特徵加名字前兩字](https://news.pts.org.tw/article/660519)
 append_entries: 12
 Finish: 2023-10-06 06:10:31.622391
+------------------------------------------------------
+Started: 2023-10-06 07:07:10.420101
+Existing_entries: 975
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-06 07:07:11.306200
