@@ -6505,3 +6505,34 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-06 05:07:16.267798
+------------------------------------------------------
+Started: 2023-10-06 06:10:24.203054
+Existing_entries: 963
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [普丁稱普裡戈任墜機殘骸中發現手榴彈碎片](https://cn.wsj.com/articles/%E6%99%AE%E4%B8%81%E7%A8%B1%E6%99%AE%E8%A3%A1%E6%88%88%E4%BB%BB%E5%A2%9C%E6%A9%9F%E6%AE%98%E9%AA%B8%E4%B8%AD%E7%99%BC%E7%8F%BE%E6%89%8B%E6%A6%B4%E5%BD%88%E7%A2%8E%E7%89%87-5b16bc6b)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [颱風小犬／11時30分解除海上警報 屏東滿州2日無電可用](https://news.pts.org.tw/article/660544)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [俄烏戰爭／蒲亭批西方自大 稱攻烏克蘭是為阻戰爭](https://news.pts.org.tw/article/660554)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／默默耕耘出的拳擊大豐收 「人和」是關鍵【觀點】](https://news.pts.org.tw/article/660562)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [礁溪二龍村青農成立無人機隊 精準灌溉施肥盼打造智慧農村](https://news.pts.org.tw/article/660539)
+Append: [潛艦洩密／馬文君：錄音檔曾送韓調查 檢調將判斷是否成案調查](https://news.pts.org.tw/article/660550)
+Append: [杭州亞運／射箭隊不敵越南 反曲弓女團止步8強](https://news.pts.org.tw/article/660547)
+Append: [美豬摻混他國豬肉標示不清 陳建仁：嚴懲不肖業者](https://news.pts.org.tw/article/660558)
+Append: [國慶國軍最後空中操演 契努克直升機掛巨幅國旗](https://news.pts.org.tw/article/660555)
+Append: [2024大選／柯再拋5家民調決定藍白合 侯友宜：會在善意基礎下溝通](https://news.pts.org.tw/article/660552)
+Append: [杭州亞運／台灣卡巴迪女將攻守俱佳 擊敗伊朗晉級金牌戰](https://news.pts.org.tw/article/660530)
+Append: [我的手語名字＼林國華手語名 臉部特徵加名字前兩字](https://news.pts.org.tw/article/660519)
+append_entries: 12
+Finish: 2023-10-06 06:10:31.622391
