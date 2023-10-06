@@ -6572,3 +6572,12 @@ Append: [雲林麥寮高中停電校門無法開 校方緊急宣布停課](https
 Append: [疫後旅遊漲價 春節平價北海道團5天9萬](https://news.pts.org.tw/article/660556)
 append_entries: 8
 Finish: 2023-10-06 08:09:59.580870
+------------------------------------------------------
+Started: 2023-10-06 09:07:35.983489
+Existing_entries: 983
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-06 09:07:37.044812
