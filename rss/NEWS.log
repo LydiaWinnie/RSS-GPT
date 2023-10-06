@@ -6470,3 +6470,19 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-06 02:15:49.041805
+------------------------------------------------------
+Started: 2023-10-06 03:07:44.697408
+Existing_entries: 961
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [被拉黑的中芯國際與美國業務往來仍然紅火](https://cn.wsj.com/articles/%E8%A2%AB%E6%8B%89%E9%BB%91%E7%9A%84%E4%B8%AD%E8%8A%AF%E5%9C%8B%E9%9A%9B%E8%88%87%E7%BE%8E%E5%9C%8B%E6%A5%AD%E5%8B%99%E5%BE%80%E4%BE%86%E4%BB%8D%E7%84%B6%E7%B4%85%E7%81%AB-9f3f3832)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [拜登政府政策逆轉，將恢復修建邊境牆](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E6%94%BF%E7%AD%96%E9%80%86%E8%BD%89-%E5%B0%87%E6%81%A2%E5%BE%A9%E4%BF%AE%E5%BB%BA%E9%82%8A%E5%A2%83%E7%89%86-c4535a8c)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-10-06 03:07:46.668254
