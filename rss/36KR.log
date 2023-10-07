@@ -7217,3 +7217,28 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2023-10-06 23:09:06.229935
+------------------------------------------------------
+Started: 2023-10-07 00:33:49.537311
+Existing_entries: 385
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [没想到，AI成了核能最佳助攻](https://www.36kr.com/p/2462342925277320)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [全球流量Top50的“AI网站”出炉：C端用户都愿意用AI干什么？](https://www.36kr.com/p/2461134261000072)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [又一生成式AI助手将“登机”，谷歌发布多模态Bard助理，交互式AI时代近了？](https://www.36kr.com/p/2463546316658566)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [CMU华人打破大模型黑盒，Llama 2撒谎被一眼看穿：脑电波惨遭曝光，LLM矩阵全破解](https://www.36kr.com/p/2463463675893891)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 4
+Finish: 2023-10-07 00:38:39.397119
