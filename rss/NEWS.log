@@ -6925,3 +6925,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-07 09:06:40.172052
+------------------------------------------------------
+Started: 2023-10-07 10:07:09.453212
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [Linbay好油恐嚇案疑自導自演 桃檢聲押林裕紘](https://news.pts.org.tw/article/660733)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／軟網男單添2獎牌 張祐菘奪銀、陳郁勳摘銅](https://news.pts.org.tw/article/660732)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [嘉義遶境爆炸釀17傷 檢羈押1嫌釐清動機](https://news.pts.org.tw/article/660731)
+append_entries: 3
+Finish: 2023-10-07 10:07:11.917151
