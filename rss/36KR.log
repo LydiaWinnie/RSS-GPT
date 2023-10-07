@@ -7468,3 +7468,22 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-10-07 15:06:33.376086
+Existing_entries: 410
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [干了 7 年软件工程师，我终于当上了“老板”：从 0 到每月 4.5 万美元，还成为了全栈！](https://www.36kr.com/p/2464269708613764)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [百模大战的同质化窘境：百花齐放还是重复造轮子？](https://www.36kr.com/p/2464253165869188)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Feed error: 404
+append_entries: 2
+error when rendering xml, skip rss/36KR
