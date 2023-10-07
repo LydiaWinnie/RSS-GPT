@@ -6836,3 +6836,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／1分之差飲恨 台灣女子卡巴迪奪銀](https://news.pts.org.tw/article/660716)
 append_entries: 2
 Finish: 2023-10-07 04:08:45.379359
+------------------------------------------------------
+Started: 2023-10-07 05:06:53.373214
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-07 05:06:55.378445
