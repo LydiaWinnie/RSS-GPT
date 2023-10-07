@@ -6821,3 +6821,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-07 03:07:51.938094
+------------------------------------------------------
+Started: 2023-10-07 04:08:39.770770
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／棒球因雨提前裁定 台灣0：2不敵日本](https://news.pts.org.tw/article/660715)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／1分之差飲恨 台灣女子卡巴迪奪銀](https://news.pts.org.tw/article/660716)
+append_entries: 2
+Finish: 2023-10-07 04:08:45.379359
