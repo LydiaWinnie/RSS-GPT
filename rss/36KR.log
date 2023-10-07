@@ -7423,3 +7423,23 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 10
 Finish: 2023-10-07 11:07:40.486440
+------------------------------------------------------
+Started: 2023-10-07 12:12:25.057481
+Existing_entries: 407
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [“我第一次给 Linux 内核做贡献，不仅被剥夺了，还遭到了维护者的轻视...”](https://www.36kr.com/p/2464269869717380)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [帽子当键盘？Google 工程师“整活”，发明可打字的帽子，项目已在 GitHub 开源](https://www.36kr.com/p/2464269622696069)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [让 AI 取代人类工作 3 个月，公司 CEO 夸赞：“复制粘贴的工作完全消失了”](https://www.36kr.com/p/2464269262641030)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 3
+Finish: 2023-10-07 12:12:57.772201

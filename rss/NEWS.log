@@ -6952,3 +6952,30 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-07 11:05:34.136076
+------------------------------------------------------
+Started: 2023-10-07 12:12:13.564950
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [颱風小犬／全台逾51萬戶停電 海線因「鹽塵害」災情重](https://news.pts.org.tw/article/660758)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國慶預演建中樂旗聯隊領軍 日本「翡翠騎士」華麗演出](https://news.pts.org.tw/article/660759)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／藍白合侯柯兜不攏 郭台銘宣布連署過30萬門檻](https://news.pts.org.tw/article/660760)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [Linbay好油疑自導自演恐嚇案 版主林裕紘返國訊後遭聲押](https://news.pts.org.tw/article/660763)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／軟網男單獎牌豐收 張祐菘奪銀、陳郁勳獲銅](https://news.pts.org.tw/article/660764)
+Append: [杭州亞運／女子卡巴迪不敵印度奪銀 僅1分之差選手不甘落淚](https://news.pts.org.tw/article/660765)
+Append: [杭州亞運／花式滑輪摘台本屆第18金 洪筱晴將金牌獻給亡父](https://news.pts.org.tw/article/660766)
+Append: [杭州亞運／相隔9年再戰 辜翠萍空手道摘銀](https://news.pts.org.tw/article/660734)
+append_entries: 8
+Finish: 2023-10-07 12:12:22.515505
