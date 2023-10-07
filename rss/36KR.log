@@ -7391,3 +7391,35 @@ Feed error: 404
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-07 10:09:06.122601
+------------------------------------------------------
+Started: 2023-10-07 11:05:36.455267
+Existing_entries: 397
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [别用GPT-4直出文本摘要，MIT、哥大等发布全新“密度链”提示：实体密度是摘要质量的关键](https://www.36kr.com/p/2464130507184263)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [ICCV'23论文颁奖“神仙打架”，Meta分割一切和ControlNet共同入选，还有一篇让评委们很惊讶](https://www.36kr.com/p/2464127067314304)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [CMU华人打破大模型黑盒，Llama 2撒谎被一眼看穿，脑电波惨遭曝光，LLM矩阵全破解](https://www.36kr.com/p/2464128772740992)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [DeepMind创始人：生成式AI只是过渡，AI未来将获得自由，交互式AI将改变人类](https://www.36kr.com/p/2464130097387394)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [Midjourney V6来袭，性能对标DALL·E 3，争夺地表最强作图AI称号](https://www.36kr.com/p/2464130800916352)
+Append: [开源论文神器DocsGPT登顶GitHub热榜，多类型文档查询，支持中文可本地部署](https://www.36kr.com/p/2464126787016577)
+Append: [7.7亿参数，超越5400亿PaLM，UW谷歌提出“分步蒸馏”，只需80%训练数据](https://www.36kr.com/p/2464128014309506)
+Append: [分解大模型的神经元，Claude团队最新研究火了，网友：打开黑盒](https://www.36kr.com/p/2464126541698951)
+Append: [GPT-4竟成Nature审稿人？斯坦福清华校友近5000篇论文实测，超50%结果和人类评审一致](https://www.36kr.com/p/2464127715432325)
+Append: [李嘉诚布局大模型](https://www.36kr.com/p/2464081310668928)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 10
+Finish: 2023-10-07 11:07:40.486440

@@ -6943,3 +6943,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [嘉義遶境爆炸釀17傷 檢羈押1嫌釐清動機](https://news.pts.org.tw/article/660731)
 append_entries: 3
 Finish: 2023-10-07 10:07:11.917151
+------------------------------------------------------
+Started: 2023-10-07 11:05:31.811892
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-07 11:05:34.136076
