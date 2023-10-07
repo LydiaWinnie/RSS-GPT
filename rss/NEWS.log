@@ -6916,3 +6916,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／吳少璿突破上屆成績 激流輕艇男子K1摘銅](https://news.pts.org.tw/article/660730)
 append_entries: 2
 Finish: 2023-10-07 08:08:46.876117
+------------------------------------------------------
+Started: 2023-10-07 09:06:36.642297
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-07 09:06:40.172052
