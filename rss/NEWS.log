@@ -6845,3 +6845,32 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-07 05:06:55.378445
+------------------------------------------------------
+Started: 2023-10-07 06:09:24.842061
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [女權鬥士穆哈瑪迪獲諾貝爾和平獎 伊朗政府與歐美反應兩極](https://news.pts.org.tw/article/660719)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／賴清德：把蕭美琴送進總統府 賴辦澄清副手未討論](https://news.pts.org.tw/article/660720)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台自製氣象衛星「獵風者」 搭乘火箭訊號異常再取消升空](https://news.pts.org.tw/article/660721)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／洪筱晴花式溜冰摘金 台灣隊累計18金破上屆紀錄](https://news.pts.org.tw/article/660729)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [北市稽查豬肉產地標示 潮味決、三顧茅廬等餐飲違規](https://news.pts.org.tw/article/660722)
+Append: [女子望高寮賞夜景跌邊坡 台中消防垂降救出](https://news.pts.org.tw/article/660726)
+Append: [蘇花路廊南下清晨湧車潮 估午後4時紓解](https://news.pts.org.tw/article/660727)
+Append: [台南凌晨2起火警 消防及時搶救肇因待釐清](https://news.pts.org.tw/article/660728)
+Append: [杭州亞運／挺舉3次失敗舉重無緣奪牌 羅楹湲坦言壓力過大](https://news.pts.org.tw/article/660713)
+Append: [杭州亞運／橋牌混團奪第17金 女團0.9分差惜敗摘銀](https://news.pts.org.tw/article/660714)
+append_entries: 10
+Finish: 2023-10-07 06:09:30.530447

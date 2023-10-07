@@ -7320,3 +7320,23 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 3
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-10-07 06:09:32.689782
+Existing_entries: 393
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [开源大模型正在“杀死”闭源？](https://www.36kr.com/p/2463585624660104)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI创业 “赢家通吃”法则消失了？或许你能干个翻身仗](https://www.36kr.com/p/2461308719783817)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [MIT惊人证明：大语言模型就是「世界模型」？吴恩达观点再被证实，LLM竟能理解空间和时间](https://www.36kr.com/p/2461065857161351)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 3
+Finish: 2023-10-07 06:10:10.004573
