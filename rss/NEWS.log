@@ -6979,3 +6979,15 @@ Append: [杭州亞運／花式滑輪摘台本屆第18金 洪筱晴將金牌獻�
 Append: [杭州亞運／相隔9年再戰 辜翠萍空手道摘銀](https://news.pts.org.tw/article/660734)
 append_entries: 8
 Finish: 2023-10-07 12:12:22.515505
+------------------------------------------------------
+Started: 2023-10-07 13:07:02.701376
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [金正恩與普丁在俄羅斯東方航天發射場會晤](https://cn.wsj.com/articles/%E9%87%91%E6%AD%A3%E6%81%A9%E8%88%87%E6%99%AE%E4%B8%81%E5%9C%A8%E4%BF%84%E7%BE%85%E6%96%AF%E6%9D%B1%E6%96%B9%E8%88%AA%E5%A4%A9%E7%99%BC%E5%B0%84%E5%A0%B4%E6%9C%83%E6%99%A4-eff06fa)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-07 13:07:10.164463
