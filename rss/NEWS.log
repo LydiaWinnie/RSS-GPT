@@ -6991,3 +6991,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-07 13:07:10.164463
+------------------------------------------------------
+Started: 2023-10-07 14:06:12.290059
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／金牌戰遭韓國2比0完封 台灣棒球銀牌作收](https://news.pts.org.tw/article/660767)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [印度暴雨致山洪暴發吞噬城鎮 南美遇70年最嚴重乾旱](https://news.pts.org.tw/article/660755)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [哈瑪斯大量火箭突襲以色列 總理宣布進入戰爭狀態](https://news.pts.org.tw/article/660756)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [嘉市遶境爆炸案釀28傷 1嫌住處藏化學品遭逮](https://news.pts.org.tw/article/660757)
+append_entries: 4
+Finish: 2023-10-07 14:06:19.995970
