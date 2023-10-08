@@ -7147,3 +7147,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-08 05:06:58.620596
+------------------------------------------------------
+Started: 2023-10-08 06:09:07.336712
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／台灣打線遭南韓完封 棒球銀牌作收](https://news.pts.org.tw/article/660772)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／輕艇激流迴旋 吳少璿划出97秒12奪銅](https://news.pts.org.tw/article/660770)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [林裕紘涉自導自演恐嚇案 法院凌晨裁定收押禁見](https://news.pts.org.tw/article/660780)
+append_entries: 3
+Finish: 2023-10-08 06:09:12.223068

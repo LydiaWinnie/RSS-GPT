@@ -7696,3 +7696,17 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-08 05:07:18.972169
+------------------------------------------------------
+Started: 2023-10-08 06:09:14.063024
+Existing_entries: 425
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大模型推理bug！问题翻转，回答全错，GPT到Llama无一幸免](https://www.36kr.com/p/2465100458399879)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 1
+Finish: 2023-10-08 06:10:28.553536
