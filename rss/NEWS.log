@@ -7308,3 +7308,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運／金牌女將谷筱霜任閉幕式掌旗官 台灣隊豐收19金【圖輯】](https://news.pts.org.tw/article/660836)
 append_entries: 1
 Finish: 2023-10-08 17:06:16.910945
+------------------------------------------------------
+Started: 2023-10-08 18:08:37.230774
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-08 18:08:39.603186
