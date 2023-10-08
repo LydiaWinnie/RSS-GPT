@@ -7269,3 +7269,12 @@ Append: [以巴擴大交火 哈瑪斯猛襲以色列釀近500死](https://news.p
 Append: [杭州亞運／谷筱霜空手道逆轉勝 為台灣摘第19金](https://news.pts.org.tw/article/660795)
 append_entries: 9
 Finish: 2023-10-08 13:07:09.550923
+------------------------------------------------------
+Started: 2023-10-08 14:06:02.915719
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-08 14:06:05.064528
