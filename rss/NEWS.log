@@ -7165,3 +7165,32 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [林裕紘涉自導自演恐嚇案 法院凌晨裁定收押禁見](https://news.pts.org.tw/article/660780)
 append_entries: 3
 Finish: 2023-10-08 06:09:12.223068
+------------------------------------------------------
+Started: 2023-10-08 07:06:09.035926
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [阿富汗西部6.3強震 至少120死近千人傷](https://news.pts.org.tw/article/660781)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [花蓮首座風雨籃球場 遭民眾騎車燒胎破壞](https://news.pts.org.tw/article/660782)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國軍志願役人數15.5萬人 降至5年來新低](https://news.pts.org.tw/article/660783)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／輕艇激流標竿1金1銅 選手盼台設人工賽道](https://news.pts.org.tw/article/660785)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [高雄汽車停等佔用輕軌軌道 可處3000至7500元罰鍰](https://news.pts.org.tw/article/660788)
+Append: [國慶連假下午現北返車潮 避楊梅新竹等7壅塞路段](https://news.pts.org.tw/article/660789)
+Append: [颱風小犬／強風餘威伴東北季風 彰化雲林沿海農作「鹽水哀」](https://news.pts.org.tw/article/660790)
+Append: [新北再查獲7家美豬洗產地 食藥署：進口豬即日起100%查驗](https://news.pts.org.tw/article/660791)
+Append: [杭州亞運／谷筱霜逆轉勝 空手道完成連霸](https://news.pts.org.tw/article/660794)
+Append: [以色列遭哈瑪斯空襲 台灣5旅團124人均安](https://news.pts.org.tw/article/660793)
+append_entries: 10
+Finish: 2023-10-08 07:06:14.593326
