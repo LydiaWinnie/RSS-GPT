@@ -7658,3 +7658,30 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-08 03:07:51.965804
+------------------------------------------------------
+Started: 2023-10-08 04:08:47.411100
+Existing_entries: 420
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [ChatGPT的“地下经济”，给AI行业带来了什么？](https://www.36kr.com/p/2465196614573961)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [英伟达做VC，不差钱](https://www.36kr.com/p/2465185574623369)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [OpenAI自研芯片，有何独特之处？](https://www.36kr.com/p/2465104536082565)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [未来，真正的竞争优势将是判断力](https://www.36kr.com/p/2465003027568773)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [你的高管团队有没有“不可讨论之事”和“断点”？](https://www.36kr.com/p/2465134682841216)
+append_entries: 5
+Finish: 2023-10-08 04:10:48.315604
