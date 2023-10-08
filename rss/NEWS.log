@@ -7241,3 +7241,31 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-08 12:12:30.751549
+------------------------------------------------------
+Started: 2023-10-08 13:07:05.972720
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運／台灣選手順利完賽 或準備奧運或轉換跑道](https://news.pts.org.tw/article/660819)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [被指污名動漫模型愛好者 「0至6歲國家養」廣告下架](https://news.pts.org.tw/article/660818)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [小琉球兩天登島人數破萬 花瓶岩涼亭被占用露營](https://news.pts.org.tw/article/660817)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [颱風小犬／蘭嶼尚有900多戶停電 台電力拚9日23時全復電](https://news.pts.org.tw/article/660796)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴加薩走廊戰火再起 留學生：有恐怖份子潛入掃射](https://news.pts.org.tw/article/660816)
+Append: [以色列哈瑪斯交火 3台灣團74人將提前返國](https://news.pts.org.tw/article/660799)
+Append: [一週大事／杭州亞運台灣摘19金平紀錄 哈瑪斯空襲以色列（2023.10.2-10.8）](https://news.pts.org.tw/article/660797)
+Append: [以巴擴大交火 哈瑪斯猛襲以色列釀近500死](https://news.pts.org.tw/article/660798)
+Append: [杭州亞運／谷筱霜空手道逆轉勝 為台灣摘第19金](https://news.pts.org.tw/article/660795)
+append_entries: 9
+Finish: 2023-10-08 13:07:09.550923
