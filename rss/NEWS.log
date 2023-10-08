@@ -7194,3 +7194,12 @@ Append: [杭州亞運／谷筱霜逆轉勝 空手道完成連霸](https://news.p
 Append: [以色列遭哈瑪斯空襲 台灣5旅團124人均安](https://news.pts.org.tw/article/660793)
 append_entries: 10
 Finish: 2023-10-08 07:06:14.593326
+------------------------------------------------------
+Started: 2023-10-08 08:08:39.656259
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-08 08:08:40.436798
