@@ -8000,3 +8000,20 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-09 00:35:19.630793
+------------------------------------------------------
+Started: 2023-10-09 01:42:19.602000
+Existing_entries: 444
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [我，25岁，在朝阳公园玩“躲猫猫”](https://www.36kr.com/p/2466383989332097)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI大模型折叠：数据标注“民工”月入不过5000，单价从5毛降到4分](https://www.36kr.com/p/2465907389323145)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-09 01:42:46.701426
