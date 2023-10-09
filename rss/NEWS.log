@@ -7505,3 +7505,18 @@ Append: [美介入以巴衝突 學者憂削弱對台海關注](https://news.pts.
 Append: [哈瑪斯突襲音樂節挾持人質 以色列反擊空襲加薩走廊](https://news.pts.org.tw/article/660909)
 append_entries: 15
 Finish: 2023-10-09 08:11:03.232864
+------------------------------------------------------
+Started: 2023-10-09 09:08:28.199889
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國工廠正在遷移，目的地並非印度或墨西哥](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E5%B7%A5%E5%BB%A0%E6%AD%A3%E5%9C%A8%E9%81%B7%E7%A7%BB-%E7%9B%AE%E7%9A%84%E5%9C%B0%E4%B8%A6%E9%9D%9E%E5%8D%B0%E5%BA%A6%E6%88%96%E5%A2%A8%E8%A5%BF%E5%93%A5-f6273972)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」面對房地產危機，中國銀行業壓力空前](https://cn.nytimes.com/business/20231009/china-evergrande-banks-property/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-10-09 09:08:32.340658
