@@ -7602,3 +7602,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-09 14:07:46.480376
+------------------------------------------------------
+Started: 2023-10-09 15:08:03.755312
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [哈瑪斯為何襲擊以色列？ 一文認識不是國家卻有統治權的哈瑪斯](https://news.pts.org.tw/article/661023)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [易肇事路段推改善計畫 87處事故不減反增](https://news.pts.org.tw/article/661012)
+append_entries: 2
+Finish: 2023-10-09 15:08:07.072229
