@@ -7429,3 +7429,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-10-09 04:09:24.308796
+------------------------------------------------------
+Started: 2023-10-09 05:07:38.615191
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [哈馬斯襲擊以色列後，拜登主要外交政策目標面臨考驗](https://cn.wsj.com/articles/%E5%93%88%E9%A6%AC%E6%96%AF%E8%A5%B2%E6%93%8A%E4%BB%A5%E8%89%B2%E5%88%97%E5%BE%8C-%E6%8B%9C%E7%99%BB%E4%B8%BB%E8%A6%81%E5%A4%96%E4%BA%A4%E6%94%BF%E7%AD%96%E7%9B%AE%E6%A8%99%E9%9D%A2%E8%87%A8%E8%80%83%E9%A9%97-f0425464)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」從赤貧到巨富再到涉罪被查：許家印的人生起落](https://cn.nytimes.com/business/20231009/china-evergrande-founder-hui-ka-yan/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」關於哈馬斯突襲以色列，我們目前所知的](https://cn.nytimes.com/world/20231009/israel-gaza-hamas-what-we-know/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」中國正經歷人才流失，美國並非理想目的地](https://cn.nytimes.com/china/20231009/china-brain-drain/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞運19金榮耀紀錄 邁向巴黎奧運面對隱憂【觀點】](https://news.pts.org.tw/article/660879)
+append_entries: 5
+Finish: 2023-10-09 05:07:43.296891
