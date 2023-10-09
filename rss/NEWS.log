@@ -7617,3 +7617,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [易肇事路段推改善計畫 87處事故不減反增](https://news.pts.org.tw/article/661012)
 append_entries: 2
 Finish: 2023-10-09 15:08:07.072229
+------------------------------------------------------
+Started: 2023-10-09 16:09:54.309989
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-09 16:09:56.282638
