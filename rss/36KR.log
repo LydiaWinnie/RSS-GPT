@@ -8092,3 +8092,20 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [创始人要充分认识自己，公司才能走向卓越](https://www.36kr.com/p/2444031802464387)
 append_entries: 1
 Finish: 2023-10-09 07:08:50.332655
+------------------------------------------------------
+Started: 2023-10-09 08:11:05.305237
+Existing_entries: 449
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [突破型谈判——影响世界35年的哈佛经典谈判术](https://www.36kr.com/p/2466831230441349)
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [一年要新栽7万根：日本为什么成了“电线杆大国”？](https://www.36kr.com/p/2466679120844672)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-09 08:12:00.801635

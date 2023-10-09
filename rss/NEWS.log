@@ -7471,3 +7471,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-09 07:07:32.459201
+------------------------------------------------------
+Started: 2023-10-09 08:10:59.148383
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台灣碳權交易所成立，碳抵換仍有爭議【獨立特派員】](https://news.pts.org.tw/article/660910)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [鼓山最美魚市場遭釣客擋動線 高雄市府加強稽查取締](https://news.pts.org.tw/article/660892)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [阿富汗強震死傷逾萬人 糧食危機區孩童急需援助](https://news.pts.org.tw/article/660889)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭警報 雄獅團29人今自港轉機回台](https://news.pts.org.tw/article/660890)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [颱風小犬／蘭嶼遭重創 志工組團救災拚校園復原](https://news.pts.org.tw/article/660893)
+Append: [理髮價從15漲到3000披索 阿根廷理髮師逾30年筆記現通膨史](https://news.pts.org.tw/article/660888)
+Append: [台中垃圾車動態App不即時 民眾丟垃圾常苦等](https://news.pts.org.tw/article/660891)
+Append: [潛艦洩密／綠營立委參選人李正皓、吳崢 控告馬文君涉犯外患罪](https://news.pts.org.tw/article/660895)
+Append: [一家3口遊宜蘭大溪漁港 導航指引不慎墜海](https://news.pts.org.tw/article/660903)
+Append: [連假第3天國道北返車流增 高公局：國5雪隧恐塞到深夜](https://news.pts.org.tw/article/660904)
+Append: [2024大選／柯文哲倡內閣制 盼終結總統有權無責](https://news.pts.org.tw/article/660896)
+Append: [台灣首枚自製氣象衛星「獵風者」升空 提升劇烈天氣監測精準度](https://news.pts.org.tw/article/660899)
+Append: [傳國產天弓三型飛彈進駐萬里 北海岸防空展現自主量能](https://news.pts.org.tw/article/660905)
+Append: [美介入以巴衝突 學者憂削弱對台海關注](https://news.pts.org.tw/article/660906)
+Append: [哈瑪斯突襲音樂節挾持人質 以色列反擊空襲加薩走廊](https://news.pts.org.tw/article/660909)
+append_entries: 15
+Finish: 2023-10-09 08:11:03.232864
