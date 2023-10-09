@@ -7593,3 +7593,12 @@ Append: [以巴衝突1948年以來之最 以色列：不惜代價消滅哈瑪斯
 Append: [以巴衝突海外延燒 美國兩方支持民眾示威互嗆](https://news.pts.org.tw/article/660965)
 append_entries: 15
 Finish: 2023-10-09 13:13:16.608714
+------------------------------------------------------
+Started: 2023-10-09 14:07:44.293321
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-09 14:07:46.480376
