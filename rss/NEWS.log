@@ -7559,3 +7559,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-10-09 12:15:17.932247
+------------------------------------------------------
+Started: 2023-10-09 13:13:11.803520
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [玉里玉水圳洄瀾藝術祭 以蘆葦為題替地方找願景](https://news.pts.org.tw/article/660998)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [遊客合歡山違規紮營 國家公園內可罰1500元](https://news.pts.org.tw/article/661000)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國慶焰火台中估湧10萬人 警9日午後大範圍交管](https://news.pts.org.tw/article/661001)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [巴瑤族遊牧馬、菲、印尼海域 無國籍以船屋為家](https://news.pts.org.tw/article/661003)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [巴黎奧運明年7月登場 臭蟲、舊書攤問題棘手](https://news.pts.org.tw/article/661004)
+Append: [颱風小犬／強風豪雨襲香港 機場、港股一度停擺](https://news.pts.org.tw/article/661006)
+Append: [諾貝爾經濟學獎得主高爾丁 長年研究女性勞動力議題](https://news.pts.org.tw/article/661008)
+Append: [以色列發戰爭狀態警報 我國29人旅團轉機返台](https://news.pts.org.tw/article/661010)
+Append: [「0-6歲國家養」 宣傳片惹議 潘文忠為劇情涉歧視致歉](https://news.pts.org.tw/article/661013)
+Append: [消促會凱道辦追思會受阻 為國慶管制路權與警衝突](https://news.pts.org.tw/article/661014)
+Append: [中對台貿易壁壘延後公布 截止日訂明年大選前1天](https://news.pts.org.tw/article/661017)
+Append: [2024大選／柯文哲拋內閣制還政於民 侯友宜：政黨合作可充分溝通](https://news.pts.org.tw/article/661018)
+Append: [國慶典禮預演 翡翠騎士、行進樂隊引圍觀](https://news.pts.org.tw/article/660996)
+Append: [以巴衝突1948年以來之最 以色列：不惜代價消滅哈瑪斯](https://news.pts.org.tw/article/660995)
+Append: [以巴衝突海外延燒 美國兩方支持民眾示威互嗆](https://news.pts.org.tw/article/660965)
+append_entries: 15
+Finish: 2023-10-09 13:13:16.608714
