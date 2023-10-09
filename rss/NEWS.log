@@ -7529,3 +7529,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-09 10:08:51.857501
+------------------------------------------------------
+Started: 2023-10-09 11:06:49.087857
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」哈馬斯襲擊與以色列的「永恆困境」](https://cn.nytimes.com/world/20231009/israel-hamas-gaza-analysis/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-09 11:06:54.685088
