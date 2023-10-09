@@ -7396,3 +7396,12 @@ Append: [涉用「林姿妙」名義誆騙詐財上億 縣府許姓專員落網�
 Append: [以巴衝突加劇 以色列正式向哈瑪斯宣戰](https://news.pts.org.tw/article/660862)
 append_entries: 6
 Finish: 2023-10-09 01:42:17.715404
+------------------------------------------------------
+Started: 2023-10-09 02:15:36.827202
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-09 02:15:41.353252
