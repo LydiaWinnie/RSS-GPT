@@ -7414,3 +7414,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-09 03:07:52.664548
+------------------------------------------------------
+Started: 2023-10-09 04:09:20.291127
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列當前發生了什麼？](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E7%95%B6%E5%89%8D%E7%99%BC%E7%94%9F%E4%BA%86%E4%BB%80%E9%BA%BC-a0aed600)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中菲船隻在南中國海險些相撞，凸顯兩國爭端風險加劇](https://cn.wsj.com/articles/%E4%B8%AD%E8%8F%B2%E8%88%B9%E9%9A%BB%E5%9C%A8%E5%8D%97%E4%B8%AD%E5%9C%8B%E6%B5%B7%E9%9A%AA%E4%BA%9B%E7%9B%B8%E6%92%9E-%E5%87%B8%E9%A1%AF%E5%85%A9%E5%9C%8B%E7%88%AD%E7%AB%AF%E9%A2%A8%E9%9A%AA%E5%8A%A0%E5%8A%87-c7c4095b)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-10-09 04:09:24.308796
