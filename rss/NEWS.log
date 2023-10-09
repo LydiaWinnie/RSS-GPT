@@ -7453,3 +7453,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [杭州亞運19金榮耀紀錄 邁向巴黎奧運面對隱憂【觀點】](https://news.pts.org.tw/article/660879)
 append_entries: 5
 Finish: 2023-10-09 05:07:43.296891
+------------------------------------------------------
+Started: 2023-10-09 06:10:54.593059
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-09 06:10:56.649319
