@@ -7891,3 +7891,37 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [俄烏戰爭／戰火重創烏克蘭人身心 無國界醫生協助「心理急救」](https://news.pts.org.tw/article/661142)
 append_entries: 3
 Finish: 2023-10-10 12:13:58.000834
+------------------------------------------------------
+Started: 2023-10-10 13:10:48.503941
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [加里山區近日常見長鬃山羊 苗栗縣府憂心有人餵食改變行為](https://news.pts.org.tw/article/661187)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [日本光明寺本堂10年整修 專業第三方全程監督建議](https://news.pts.org.tw/article/661186)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [5年無申報量、有代替品 4000項藥品退出健保](https://news.pts.org.tw/article/661188)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美豪宅買賣實境秀熱播 房市交易量卻冷清](https://news.pts.org.tw/article/661190)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [哈瑪斯暗中練兵無意開戰 部署兩年突擊以色列境內](https://news.pts.org.tw/article/661193)
+Append: [捍衛灣寶農地熱心社運 農村女俠洪箱69歲辭世](https://news.pts.org.tw/article/661198)
+Append: [北捷文湖線傳性騷擾 男子裸露欲騷擾女高中生](https://news.pts.org.tw/article/661197)
+Append: [巨龍號擱淺滿州外海損珊瑚礁 墾管處求償一審判賠65萬](https://news.pts.org.tw/article/661199)
+Append: [立院估志願役明年僅15.5萬人 一線部隊編現比多低於8成](https://news.pts.org.tw/article/661201)
+Append: [台作家稱以國籲人民備3日物資 觀光團74人陸續經約旦返台](https://news.pts.org.tw/article/661202)
+Append: [2024大選／侯陣營拋2對2溝通方案 柯派黃珊珊2人代表磋商](https://news.pts.org.tw/article/661204)
+Append: [台中國慶焰火估10萬人潮 雙鐵加開全車自由座列車](https://news.pts.org.tw/article/661200)
+Append: [蔡總統接見澳前總理莫里森 盼擴大台澳安全合作](https://news.pts.org.tw/article/661205)
+Append: [英科學家最新預測 全球逾75%不知名植物瀕絕](https://news.pts.org.tw/article/661191)
+Append: [高爾丁獲諾貝爾經濟學獎 籲以家庭照護政策促進女性平權](https://news.pts.org.tw/article/661192)
+append_entries: 15
+Finish: 2023-10-10 13:10:55.528747

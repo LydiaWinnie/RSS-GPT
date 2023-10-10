@@ -8553,3 +8553,23 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2023-10-10 12:14:34.849796
+------------------------------------------------------
+Started: 2023-10-10 13:10:57.642845
+Existing_entries: 495
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [走向平衡：生成式AI的开源与专有模型之争](https://www.36kr.com/p/2468419532675207)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [Meta 开源新的 AI 图像水印技术，但真的靠谱吗？](https://www.36kr.com/p/2468455545968514)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [支持20万字输入，月之暗面杨植麟：千亿大模型进入“长文本”时代](https://www.36kr.com/p/2468455352145798)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 3
+Finish: 2023-10-10 13:12:35.388848
