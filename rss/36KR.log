@@ -8395,3 +8395,21 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-10 03:08:15.757841
+------------------------------------------------------
+Started: 2023-10-10 04:08:50.740962
+Existing_entries: 477
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [内部赛马、外部结盟，大厂掀起AI原生风暴](https://www.36kr.com/p/2468007621255305)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大模型有能力打穿智能音箱/硬件的市场壁垒么？](https://www.36kr.com/p/2467377541996423)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-10 04:09:18.570949
