@@ -7809,3 +7809,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-10 07:07:25.843120
+------------------------------------------------------
+Started: 2023-10-10 08:10:27.248623
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列國防軍稱以色列境內發現約1,500具哈馬斯武裝分子屍體](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9C%8B%E9%98%B2%E8%BB%8D%E7%A8%B1%E4%BB%A5%E8%89%B2%E5%88%97%E5%A2%83%E5%85%A7%E7%99%BC%E7%8F%BE%E7%B4%841-500%E5%85%B7%E5%93%88%E9%A6%AC%E6%96%AF%E6%AD%A6%E8%A3%9D%E5%88%86%E5%AD%90%E5%B1%8D%E9%AB%94-149b8eeb)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」新一輪巴以衝突與全球新秩序](https://cn.nytimes.com/world/20231010/hamas-israel-war/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [農業部投百億改建養豬場 雲縣改善率逾2成](https://news.pts.org.tw/article/661078)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [漁民憂大溪漁港大冰箱影響安全 漁會：確認不會阻礙行船視線](https://news.pts.org.tw/article/661079)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [南投紫南宮傳有「攝狼」 檢警證實烏龍一場](https://news.pts.org.tw/article/661080)
+Append: [蘭嶼近半住家受損 將召募人力及募款重建家園](https://news.pts.org.tw/article/661083)
+Append: [國慶收假湧北返車潮 國5北向恐塞到晚間8時](https://news.pts.org.tw/article/661090)
+Append: [國慶寶寶報到 台安醫院已接生3名新生兒](https://news.pts.org.tw/article/661092)
+Append: [控犬隻遭民眾擅餵糯米腸致死 動保處：若相關最高可罰7.5萬](https://news.pts.org.tw/article/661084)
+Append: [高雄鳳山一家三口輕生 疑久病及經濟困頓](https://news.pts.org.tw/article/661085)
+Append: [中國駐舊金山總領事館 轎車衝進簽證大廳駕駛遭擊斃](https://news.pts.org.tw/article/661093)
+Append: [2024大選／韓國瑜貼與柯合照 朱立倫證實邀韓任國民黨副主席](https://news.pts.org.tw/article/661094)
+Append: [4千僑胞返台參加國慶 3位友邦領導人出席](https://news.pts.org.tw/article/661096)
+Append: [國內外樂旗隊國慶表演吸睛 雷虎小組壓軸衝場](https://news.pts.org.tw/article/661095)
+Append: [蔡英文國慶文告強調信守承諾 重申和平是兩岸唯一選項](https://news.pts.org.tw/article/661097)
+append_entries: 15
+Finish: 2023-10-10 08:10:37.116701
