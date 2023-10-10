@@ -8344,3 +8344,32 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 6
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-10-10 01:41:46.806841
+Existing_entries: 469
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [上海的「饮料分级」要来了？红橙绿三色标签让你少喝高糖饮料](https://www.36kr.com/p/2467875538180228)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [年轻人该治治自己的“小红书病”了](https://www.36kr.com/p/2467103176515458)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [你肯定刷到过这张表情包，“无语菩萨”是怎么破圈的？](https://www.36kr.com/p/2467257901897607)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [90后AI天才的大模型首战](https://www.36kr.com/p/2467109393880968)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [统一图像和文字生成的MiniGPT-5来了：Token变Voken，模型不仅能续写，还会自动配图了](https://www.36kr.com/p/2467790153930887)
+Append: [DeepMind 全新 AI 项目曝光：可控制各类机器人，数据集有望开源](https://www.36kr.com/p/2467786855389312)
+Append: [Window 12将至，AI唱大戏](https://www.36kr.com/p/2467107895304070)
+Append: [获红杉等20亿投资，清华系大模型新星完成首秀](https://www.36kr.com/p/2467713641912195)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 8
+Finish: 2023-10-10 01:42:12.301606

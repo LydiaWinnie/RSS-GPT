@@ -7700,3 +7700,34 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-10 00:34:08.286817
+------------------------------------------------------
+Started: 2023-10-10 01:41:40.930209
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國準備打擊逃避對俄石油制裁的行為](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E6%BA%96%E5%82%99%E6%89%93%E6%93%8A%E9%80%83%E9%81%BF%E5%B0%8D%E4%BF%84%E7%9F%B3%E6%B2%B9%E5%88%B6%E8%A3%81%E7%9A%84%E8%A1%8C%E7%82%BA-e0abd817)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國調查違反對俄制裁行為，瞄準一位石油貿易商大亨](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E8%AA%BF%E6%9F%A5%E9%81%95%E5%8F%8D%E5%B0%8D%E4%BF%84%E5%88%B6%E8%A3%81%E8%A1%8C%E7%82%BA-%E7%9E%84%E6%BA%96%E4%B8%80%E4%BD%8D%E7%9F%B3%E6%B2%B9%E8%B2%BF%E6%98%93%E5%95%86%E5%A4%A7%E4%BA%A8-9382918)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列人質危機惡化，哈馬斯威脅處決人質](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E4%BA%BA%E8%B3%AA%E5%8D%B1%E6%A9%9F%E6%83%A1%E5%8C%96-%E5%93%88%E9%A6%AC%E6%96%AF%E5%A8%81%E8%84%85%E8%99%95%E6%B1%BA%E4%BA%BA%E8%B3%AA-7be07e87)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [拜登已就機密文件事宜接受特別檢察官面談](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E5%B7%B2%E5%B0%B1%E6%A9%9F%E5%AF%86%E6%96%87%E4%BB%B6%E4%BA%8B%E5%AE%9C%E6%8E%A5%E5%8F%97%E7%89%B9%E5%88%A5%E6%AA%A2%E5%AF%9F%E5%AE%98%E9%9D%A2%E8%AB%87-d03a951c)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列對加沙發動猛烈攻擊](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%8D%E5%8A%A0%E6%B2%99%E7%99%BC%E5%8B%95%E7%8C%9B%E7%83%88%E6%94%BB%E6%93%8A-99f6d4d5)
+Append: [美國國防部提議幫助以色列國防軍策劃人質解救行動](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E9%98%B2%E9%83%A8%E6%8F%90%E8%AD%B0%E5%B9%AB%E5%8A%A9%E4%BB%A5%E8%89%B2%E5%88%97%E5%9C%8B%E9%98%B2%E8%BB%8D%E7%AD%96%E5%8A%83%E4%BA%BA%E8%B3%AA%E8%A7%A3%E6%95%91%E8%A1%8C%E5%8B%95-89af383b)
+Append: [小羅伯特·肯尼迪宣布獨立參加2024年美國總統競選，可能成為攪局者](https://cn.wsj.com/articles/%E5%B0%8F%E7%BE%85%E4%BC%AF%E7%89%B9-%E8%82%AF%E5%B0%BC%E8%BF%AA%E5%AE%A3%E5%B8%83%E7%8D%A8%E7%AB%8B%E5%8F%83%E5%8A%A02024%E5%B9%B4%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1%E7%AB%B6%E9%81%B8-%E5%8F%AF%E8%83%BD%E6%88%90%E7%82%BA%E6%94%AA%E5%B1%80%E8%80%85-fbe71e28)
+Append: [美國和中國都力圖在習拜會前佔據上風](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%92%8C%E4%B8%AD%E5%9C%8B%E9%83%BD%E5%8A%9B%E5%9C%96%E5%9C%A8%E7%BF%92%E6%8B%9C%E6%9C%83%E5%89%8D%E4%BD%94%E6%93%9A%E4%B8%8A%E9%A2%A8-203e1495)
+Append: [舒默提出批評後，中國譴責傷害平民的行為](https://cn.wsj.com/articles/%E8%88%92%E9%BB%98%E6%8F%90%E5%87%BA%E6%89%B9%E8%A9%95%E5%BE%8C-%E4%B8%AD%E5%9C%8B%E8%AD%B4%E8%B2%AC%E5%82%B7%E5%AE%B3%E5%B9%B3%E6%B0%91%E7%9A%84%E8%A1%8C%E7%82%BA-abfab64f)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Append: [以色列稱炸死領導人辛瓦 哈瑪斯揚言殺人質反制空襲](https://news.pts.org.tw/article/661040)
+Append: [消防員凱道國殤日晚會提3訴求 遭警告3次和平解散](https://news.pts.org.tw/article/661042)
+Append: [杭州亞運／奪19金20銀28銅 F-16伴飛國手凱旋](https://news.pts.org.tw/article/661045)
+append_entries: 12
+Finish: 2023-10-10 01:41:44.665143
