@@ -7843,3 +7843,12 @@ Append: [國內外樂旗隊國慶表演吸睛 雷虎小組壓軸衝場](https://
 Append: [蔡英文國慶文告強調信守承諾 重申和平是兩岸唯一選項](https://news.pts.org.tw/article/661097)
 append_entries: 15
 Finish: 2023-10-10 08:10:37.116701
+------------------------------------------------------
+Started: 2023-10-10 09:07:47.676739
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-10 09:07:50.606317
