@@ -7776,3 +7776,27 @@ Append: [「中英」習近平會晤舒默，巴以衝突或影響美中關係�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-10 05:07:19.619426
+------------------------------------------------------
+Started: 2023-10-10 06:10:29.612442
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [FBI稱哈馬斯對美國本土不構成具體威脅](https://cn.wsj.com/articles/fbi%E7%A8%B1%E5%93%88%E9%A6%AC%E6%96%AF%E5%B0%8D%E7%BE%8E%E5%9C%8B%E6%9C%AC%E5%9C%9F%E4%B8%8D%E6%A7%8B%E6%88%90%E5%85%B7%E9%AB%94%E5%A8%81%E8%84%85-ce5691df)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」陷入達賴與中共活佛轉世之爭的八歲男孩](https://cn.nytimes.com/asia-pacific/20231010/mongolia-tibetan-buddhism-bogd/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [批漁場遭侵害台中漁民再抗爭 台中港務：持續協調溝通](https://news.pts.org.tw/article/661087)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列下令全面封鎖加薩 哈瑪斯：已做好準備可撐數月](https://news.pts.org.tw/article/661089)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [任內最後一次國慶演說 蔡總統：自信沉穩的台灣仍會繼續前行](https://news.pts.org.tw/article/661064)
+append_entries: 5
+Finish: 2023-10-10 06:10:33.241857
