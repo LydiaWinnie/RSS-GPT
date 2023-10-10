@@ -8487,3 +8487,30 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 4
 Finish: 2023-10-10 09:08:03.667533
+------------------------------------------------------
+Started: 2023-10-10 10:08:39.129765
+Existing_entries: 485
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [GPT-4推理更像人了，中国科学院提出“思维传播”，类比思考完胜CoT，即插即用](https://www.36kr.com/p/2468358638933897)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [陕建股份因环境问题被罚近百次，应收账款1513亿，坏账风险高](https://www.36kr.com/p/2468257165826179)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [搞大模型巨亏，微软都还没挣到钱，GitHub Copilot每月收10刀，倒赔20](https://www.36kr.com/p/2468359012079745)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [Nature调查：仅4%科学家认为AI已成“必需品”](https://www.36kr.com/p/2468359356454791)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [一个公司最大的危害，是摊上个纸上谈兵的领导](https://www.36kr.com/p/2468116029003652)
+append_entries: 5
+Finish: 2023-10-10 10:09:02.924941
