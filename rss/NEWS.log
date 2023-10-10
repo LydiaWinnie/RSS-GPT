@@ -7873,3 +7873,21 @@ Append: [「中英」關於達賴與中共活佛轉世之爭，你應該知道�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-10 11:06:42.636978
+------------------------------------------------------
+Started: 2023-10-10 12:13:54.249950
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中十一黃金周國旅恢復疫前水準 出國人潮不如預期](https://news.pts.org.tw/article/661146)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [小羅勃甘迺迪退出黨內初選 宣布獨立參選美總統](https://news.pts.org.tw/article/661148)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [俄烏戰爭／戰火重創烏克蘭人身心 無國界醫生協助「心理急救」](https://news.pts.org.tw/article/661142)
+append_entries: 3
+Finish: 2023-10-10 12:13:58.000834
