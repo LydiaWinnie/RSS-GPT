@@ -7925,3 +7925,12 @@ Append: [英科學家最新預測 全球逾75%不知名植物瀕絕](https://new
 Append: [高爾丁獲諾貝爾經濟學獎 籲以家庭照護政策促進女性平權](https://news.pts.org.tw/article/661192)
 append_entries: 15
 Finish: 2023-10-10 13:10:55.528747
+------------------------------------------------------
+Started: 2023-10-10 14:07:29.067746
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-10 14:07:31.168770
