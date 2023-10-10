@@ -7800,3 +7800,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [任內最後一次國慶演說 蔡總統：自信沉穩的台灣仍會繼續前行](https://news.pts.org.tw/article/661064)
 append_entries: 5
 Finish: 2023-10-10 06:10:33.241857
+------------------------------------------------------
+Started: 2023-10-10 07:07:23.693520
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-10 07:07:25.843120
