@@ -8728,3 +8728,22 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-11 02:15:16.023332
+------------------------------------------------------
+Started: 2023-10-11 03:08:15.921129
+Existing_entries: 500
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [网球风，更适合新中产的“Cosplay”](https://www.36kr.com/p/2469213853767552)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [这些自研人力资源系统的“坑”，你都踩过吗？](https://www.36kr.com/p/2468174783568007)
+append_entries: 2
+Finish: 2023-10-11 03:09:29.328234

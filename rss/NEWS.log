@@ -8066,3 +8066,29 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-11 02:15:10.134608
+------------------------------------------------------
+Started: 2023-10-11 03:08:07.701420
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列從遏制哈馬斯轉向清除策略，或付出巨大代價](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E5%BE%9E%E9%81%8F%E5%88%B6%E5%93%88%E9%A6%AC%E6%96%AF%E8%BD%89%E5%90%91%E6%B8%85%E9%99%A4%E7%AD%96%E7%95%A5-%E6%88%96%E4%BB%98%E5%87%BA%E5%B7%A8%E5%A4%A7%E4%BB%A3%E5%83%B9-35a6cbbd)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列在遭迫擊炮襲擊後炮擊敘利亞](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9C%A8%E9%81%AD%E8%BF%AB%E6%93%8A%E7%82%AE%E8%A5%B2%E6%93%8A%E5%BE%8C%E7%82%AE%E6%93%8A%E6%95%98%E5%88%A9%E4%BA%9E-e84b2fd8)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [哈馬斯突襲後，首架載有美國武器的飛機降落以色列](https://cn.wsj.com/articles/%E5%93%88%E9%A6%AC%E6%96%AF%E7%AA%81%E8%A5%B2%E5%BE%8C-%E9%A6%96%E6%9E%B6%E8%BC%89%E6%9C%89%E7%BE%8E%E5%9C%8B%E6%AD%A6%E5%99%A8%E7%9A%84%E9%A3%9B%E6%A9%9F%E9%99%8D%E8%90%BD%E4%BB%A5%E8%89%B2%E5%88%97-e7fe7892)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [芬蘭稱連接該國與愛沙尼亞的天然氣管道和通訊電纜可能遭到破壞](https://cn.wsj.com/articles/%E8%8A%AC%E8%98%AD%E7%A8%B1%E9%80%A3%E6%8E%A5%E8%A9%B2%E5%9C%8B%E8%88%87%E6%84%9B%E6%B2%99%E5%B0%BC%E4%BA%9E%E7%9A%84%E5%A4%A9%E7%84%B6%E6%B0%A3%E7%AE%A1%E9%81%93%E5%92%8C%E9%80%9A%E8%A8%8A%E9%9B%BB%E7%BA%9C%E5%8F%AF%E8%83%BD%E9%81%AD%E5%88%B0%E7%A0%B4%E5%A3%9E-d4cdd1a4)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [俄羅斯法院維持對《華爾街日報》在押記者埃文·格什科維奇的拘押判決](https://cn.wsj.com/articles/%E4%BF%84%E7%BE%85%E6%96%AF%E6%B3%95%E9%99%A2%E7%B6%AD%E6%8C%81%E5%B0%8D-%E8%8F%AF%E7%88%BE%E8%A1%97%E6%97%A5%E5%A0%B1-%E5%9C%A8%E6%8A%BC%E8%A8%98%E8%80%85%E5%9F%83%E6%96%87-%E6%A0%BC%E4%BB%80%E7%A7%91%E7%B6%AD%E5%A5%87%E7%9A%84%E6%8B%98%E6%8A%BC%E5%88%A4%E6%B1%BA-89896d89)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Append: [「中英」中國駐舊金山領事館遭汽車衝撞，嫌疑人被擊斃](https://cn.nytimes.com/usa/20231011/car-crash-chinese-consulate-san-francisco/zh-hant/dual)
+Append: [「中英」超短髮、素顏、衣著寬鬆：拒絕「服美役」的中國女性](https://cn.nytimes.com/china/20231011/china-women-defying-beauty/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 7
+Finish: 2023-10-11 03:08:13.249244
