@@ -8255,3 +8255,36 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [以巴衝突釀至少2000死 外籍人士遭綁架失聯生死未卜](https://news.pts.org.tw/article/661335)
 append_entries: 5
 Finish: 2023-10-11 13:11:37.926734
+------------------------------------------------------
+Started: 2023-10-11 14:07:52.804153
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台9月出口年增3.4%回穩 主計總處：後續通膨關鍵是油價](https://news.pts.org.tw/article/661377)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [民眾壽山登山遭獼猴搶包咬傷 遇猴群切勿對峙或驅趕](https://news.pts.org.tw/article/661372)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [工會控宅配通欠5年加班費 宅配通：樂意協調處理](https://news.pts.org.tw/article/661376)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [日本《改正旅館業法》12月上路 允限定情況下拒奧客入住](https://news.pts.org.tw/article/661378)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美日韓聯合軍演「海上攔截」 意在嚇阻北韓](https://news.pts.org.tw/article/661380)
+Append: [美濃獅子頭圳擬設光電板引反彈 農業部：暫停圳路設太陽能板](https://news.pts.org.tw/article/661383)
+Append: [全台本土登革熱破1.5萬例 全運會將於台南舉行引憂](https://news.pts.org.tw/article/661389)
+Append: [長榮航工會致函蔡總統 女空服員盼落實性別平等](https://news.pts.org.tw/article/661382)
+Append: [台北窗型冷氣突從3樓掉落 警研判支架鏽蝕難支撐](https://news.pts.org.tw/article/661386)
+Append: [嘉義溪口鵪鶉場今年2度染H5N1 緊急撲殺3.5萬隻](https://news.pts.org.tw/article/661391)
+Append: [農業部擬降進口雞蛋關稅 由貿易商解決缺蛋問題](https://news.pts.org.tw/article/661390)
+Append: [護理人力荒衝擊醫療量能 公會籲開放男護理師服替代役](https://news.pts.org.tw/article/661387)
+Append: [2024大選／藍白合有望？ 柯辦拋先辯論後民調未獲同意](https://news.pts.org.tw/article/661393)
+Append: [以色列解除作戰限制進攻加薩 黎巴嫩趁機襲以國北部](https://news.pts.org.tw/article/661395)
+append_entries: 14
+Finish: 2023-10-11 14:07:56.598317
