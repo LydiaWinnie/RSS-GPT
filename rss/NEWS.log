@@ -8210,3 +8210,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [11日晚間NASA將「開箱」小行星樣本 一文了解貝努小行星](https://news.pts.org.tw/article/661311)
 append_entries: 3
 Finish: 2023-10-11 10:08:33.956192
+------------------------------------------------------
+Started: 2023-10-11 11:06:37.121479
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-11 11:06:38.906186
