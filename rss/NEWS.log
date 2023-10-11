@@ -8113,3 +8113,37 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [走進老街屋—觀看府城戰後現代建築之美【副刊】](https://news.pts.org.tw/article/661141)
 append_entries: 1
 Finish: 2023-10-11 05:07:14.764511
+------------------------------------------------------
+Started: 2023-10-11 06:10:38.447220
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [拜登應對巴以衝突猶如走鋼絲](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E6%87%89%E5%B0%8D%E5%B7%B4%E4%BB%A5%E8%A1%9D%E7%AA%81%E7%8C%B6%E5%A6%82%E8%B5%B0%E9%8B%BC%E7%B5%B2-b56570c6)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」「這是一場大屠殺」：探訪遭哈馬斯致命襲擊的以色列村莊](https://cn.nytimes.com/world/20231011/israel-gaza-kibbutz-kfar-azza/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴衝突恐影響台藥品供應 食藥署：皆有替代用藥](https://news.pts.org.tw/article/661271)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [玉山論壇集結多國政要 總統：展現台灣是可信賴的夥伴](https://news.pts.org.tw/article/661265)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [民團提6大住宅改革建言 盼社宅政策穩定長遠](https://news.pts.org.tw/article/661263)
+Append: [民團籲總統參選人提身障政見 盼障礙意識平權](https://news.pts.org.tw/article/661262)
+Append: [10月起新冠疫情升高 莫德納XBB疫苗全面開放接種](https://news.pts.org.tw/article/661272)
+Append: [颱風小犬／雲林鹽害農損2.3億 農民急復耕](https://news.pts.org.tw/article/661275)
+Append: [農業部進口雞蛋引發爭議 未來擬降關稅由民間處理](https://news.pts.org.tw/article/661276)
+Append: [教育部宣傳廣告引歧視爭議 潘文忠立法院二度致歉](https://news.pts.org.tw/article/661273)
+Append: [反對興建晶鼎焚化爐 彰濱居民向環境部長下跪陳情](https://news.pts.org.tw/article/661274)
+Append: [半夜戴骷髏面具隨機嚇人 高雄男觸《社維法》遭罰](https://news.pts.org.tw/article/661278)
+Append: [以色列對加薩全面圍城 20萬人流離失所斷水限電](https://news.pts.org.tw/article/661270)
+Append: [潛艦洩密／拒簽保密切結書惹議 馬文君要求黃曙光出面澄清](https://news.pts.org.tw/article/661266)
+Append: [遭詐騙者生活陷困頓 立委籲提供低利率貸款救急](https://news.pts.org.tw/article/661261)
+append_entries: 15
+Finish: 2023-10-11 06:10:42.268189
