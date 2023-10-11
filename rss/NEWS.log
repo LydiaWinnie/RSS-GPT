@@ -8192,3 +8192,21 @@ Append: [「中英」為何以色列安全部門未能阻止哈馬斯襲擊](htt
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-10-11 09:08:11.718798
+------------------------------------------------------
+Started: 2023-10-11 10:08:27.687643
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [研究：人類遠比獅子恐怖 非洲野生動物聽到人聲逃更快](https://news.pts.org.tw/article/661323)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [歐盟碳關稅將上路，對台灣將造成哪些影響？【獨立特派員】](https://news.pts.org.tw/article/661312)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [11日晚間NASA將「開箱」小行星樣本 一文了解貝努小行星](https://news.pts.org.tw/article/661311)
+append_entries: 3
+Finish: 2023-10-11 10:08:33.956192

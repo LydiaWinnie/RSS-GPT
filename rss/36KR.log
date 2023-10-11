@@ -8828,3 +8828,26 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-11 09:10:14.081238
+------------------------------------------------------
+Started: 2023-10-11 10:08:36.296629
+Existing_entries: 506
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [生成式AI流量国别观察：美国遥遥领先，印度悄然跟上，国人涌入Hugging Face](https://www.36kr.com/p/2469600634787977)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [米哈游联合复旦，全面解读AI Agents现状与未来，网友：原神启动？！](https://www.36kr.com/p/2469805704583047)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [他们是精神分裂吗？最新研究：AI 语言模型能更好地告诉你](https://www.36kr.com/p/2469717046253701)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [微信算法扰乱了用户体验](https://www.36kr.com/p/2469686853376130)
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 4
+Finish: 2023-10-11 10:08:57.995547
