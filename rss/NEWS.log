@@ -8288,3 +8288,12 @@ Append: [2024大選／藍白合有望？ 柯辦拋先辯論後民調未獲同意
 Append: [以色列解除作戰限制進攻加薩 黎巴嫩趁機襲以國北部](https://news.pts.org.tw/article/661395)
 append_entries: 14
 Finish: 2023-10-11 14:07:56.598317
+------------------------------------------------------
+Started: 2023-10-11 15:07:02.056228
+Existing_entries: 1014
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-11 15:07:04.793571
