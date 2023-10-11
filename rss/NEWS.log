@@ -8147,3 +8147,12 @@ Append: [潛艦洩密／拒簽保密切結書惹議 馬文君要求黃曙光出�
 Append: [遭詐騙者生活陷困頓 立委籲提供低利率貸款救急](https://news.pts.org.tw/article/661261)
 append_entries: 15
 Finish: 2023-10-11 06:10:42.268189
+------------------------------------------------------
+Started: 2023-10-11 07:07:19.788128
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-11 07:07:24.518626
