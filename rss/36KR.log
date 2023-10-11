@@ -8700,3 +8700,20 @@ Feed error: 404
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-11 00:36:04.940406
+------------------------------------------------------
+Started: 2023-10-11 01:41:59.032197
+Existing_entries: 498
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [10亿营收，900亿估值？OpenAI的本质是模型工厂+超级入口](https://www.36kr.com/p/2468679314759554)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [当AI来敲门，国漫产业喜忧参半](https://www.36kr.com/p/2468558624790664)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-11 01:42:21.213684

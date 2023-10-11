@@ -8042,3 +8042,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 6
 Finish: 2023-10-11 00:34:10.662962
+------------------------------------------------------
+Started: 2023-10-11 01:41:54.869586
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [北市某高中遭恐嚇將大屠殺 警方獲報加強戒備](https://news.pts.org.tw/article/661209)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國慶焰火提早20分鐘施放 無人機展演受干擾臨時取消](https://news.pts.org.tw/article/661208)
+append_entries: 2
+Finish: 2023-10-11 01:41:56.703692
