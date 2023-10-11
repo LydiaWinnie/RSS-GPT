@@ -8092,3 +8092,12 @@ Append: [「中英」超短髮、素顏、衣著寬鬆：拒絕「服美役」�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 7
 Finish: 2023-10-11 03:08:13.249244
+------------------------------------------------------
+Started: 2023-10-11 04:08:48.996305
+Existing_entries: 1007
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-11 04:08:50.636287
