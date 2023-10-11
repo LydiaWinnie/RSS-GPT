@@ -8156,3 +8156,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-11 07:07:24.518626
+------------------------------------------------------
+Started: 2023-10-11 08:10:05.948711
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [桃園復興奎輝里反覆停電釀火災 台電允速改善山區供電](https://news.pts.org.tw/article/661280)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [各界憂以巴衝突加劇通膨 主計長：油價是關鍵](https://news.pts.org.tw/article/661264)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [東華大學會館變更旅館經營 預計明年開放民眾入住](https://news.pts.org.tw/article/661268)
+append_entries: 3
+Finish: 2023-10-11 08:10:08.125435
