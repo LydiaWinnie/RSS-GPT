@@ -8966,3 +8966,33 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 9
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-10-11 16:09:41.744112
+Existing_entries: 515
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [Meta再放“”长文本杀器Llama 2-Long：70B尺寸登顶最强“32k上下文”模型，超越ChatGPT](https://www.36kr.com/p/2469841838905217)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [“味精大王”跨界AI，大佬李厚文布下的“熟人局”](https://www.36kr.com/p/2469819946522501)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [ChatGPT/GPT-4/Llama电车难题大PK，小模型道德感反而更高？](https://www.36kr.com/p/2469841696397193)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [OpenAI举办ChatGPT应用开发大赛，平台经济“真香”](https://www.36kr.com/p/2469890062817408)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [挑战GPT-4V，浙大校友推出开源版多模态大模型，获GitHub 6k+星标](https://www.36kr.com/p/2469902787090562)
+Append: [GPT-4野生代言人陶哲轩：搞论文学新工具没它得崩溃，11页“超简短”新作已上线](https://www.36kr.com/p/2469902590105728)
+Append: [OpenAI科学家最新演讲：GPT-4即将超越拐点，1000倍性能必定涌现](https://www.36kr.com/p/2469841330591881)
+Append: [Adobe新版AI绘画炸场，2k分辨率在线就能玩，网友：效果比DALL·E 3更强](https://www.36kr.com/p/2469902396561287)
+Append: [用差异化打破英伟达“垄断”，d-Matrix将AI推理算力成本降低30倍](https://www.36kr.com/p/2469866093516678)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 9
+Finish: 2023-10-11 16:09:59.010596
