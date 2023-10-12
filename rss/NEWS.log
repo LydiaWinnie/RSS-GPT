@@ -8496,3 +8496,15 @@ Append: [進口冷凍液蛋未招標 藍委批審計部查3個月是包庇](http
 Append: [1022醫療勞權遊行訴困境 籲三班制護病比入法](https://news.pts.org.tw/article/661457)
 append_entries: 15
 Finish: 2023-10-12 06:10:31.496877
+------------------------------------------------------
+Started: 2023-10-12 07:07:36.609420
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國審視深入參與以色列-哈馬斯衝突的風險](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%AF%A9%E8%A6%96%E6%B7%B1%E5%85%A5%E5%8F%83%E8%88%87%E4%BB%A5%E8%89%B2%E5%88%97-%E5%93%88%E9%A6%AC%E6%96%AF%E8%A1%9D%E7%AA%81%E7%9A%84%E9%A2%A8%E9%9A%AA-2253860b)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-12 07:07:38.084878
