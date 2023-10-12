@@ -9133,3 +9133,18 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [数字化如何从业务中来然后到业务中去](https://www.36kr.com/p/2470599902402439)
 append_entries: 4
 Finish: 2023-10-12 02:14:33.098127
+------------------------------------------------------
+Started: 2023-10-12 03:08:01.563303
+Existing_entries: 531
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [现在的AI作曲，写出来的歌可以当短视频的BGM了](https://www.36kr.com/p/2470705200486276)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 1
+Finish: 2023-10-12 03:08:22.722423

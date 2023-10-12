@@ -8423,3 +8423,12 @@ Append: [台南歸仁「呷辦桌」熱鬧回歸 半小時內90桌預訂一空](
 Append: [昨18:36花蓮富里規模5.8地震 氣象署：3日內可能發生餘震](https://news.pts.org.tw/article/661423)
 append_entries: 15
 Finish: 2023-10-12 02:14:09.571239
+------------------------------------------------------
+Started: 2023-10-12 03:07:58.417449
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-12 03:07:59.305070
