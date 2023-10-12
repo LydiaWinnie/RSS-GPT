@@ -8554,3 +8554,36 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-12 11:06:45.243218
+------------------------------------------------------
+Started: 2023-10-12 12:14:03.155996
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」讓世界變得一團糟的四個人](https://cn.nytimes.com/opinion/20231012/putin-xi-trump/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國5塞車有解方？ 交部研估台62線延伸到宜蘭](https://news.pts.org.tw/article/661585)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [旅宿業缺工未解 擬開放聘僱外籍移工](https://news.pts.org.tw/article/661584)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／藍白合14日「會前會」 賴清德：做最好準備面對變化](https://news.pts.org.tw/article/661590)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台灣調升以色列旅遊「橙色」警示 暫無派遣專機撤僑需求](https://news.pts.org.tw/article/661591)
+Append: [美P-8A反潛機飛台海中線 國防部：全程掌握、狀況正常](https://news.pts.org.tw/article/661589)
+Append: [要讓哈瑪斯「從地球消失」 以色列組戰時內閣全力應戰](https://news.pts.org.tw/article/661593)
+Append: [美商科慕關廠拆爐 爐內磚塊崩落2工人遭砸不治](https://news.pts.org.tw/article/661587)
+Append: [肯亞巴林哥湖鱷魚激增成患 湖畔居民盼政府正視](https://news.pts.org.tw/article/661521)
+Append: [潔達蘋姬宣傳新書 坦言與丈夫威爾史密斯分居7年](https://news.pts.org.tw/article/661522)
+Append: [雙聲道切換自如 美地鐵廣播員勇於跨性做自己](https://news.pts.org.tw/article/661520)
+Append: [東京奧運連爆收賄醜聞 札幌放棄申辦2030冬奧](https://news.pts.org.tw/article/661524)
+Append: [俄烏戰爭／以巴衝突分散關注度 美：有能力繼續支持烏克蘭](https://news.pts.org.tw/article/661528)
+append_entries: 13
+Finish: 2023-10-12 12:14:12.012102

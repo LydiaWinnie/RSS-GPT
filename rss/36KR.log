@@ -9277,3 +9277,21 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-12 11:07:08.988930
+------------------------------------------------------
+Started: 2023-10-12 12:14:14.378301
+Existing_entries: 547
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [对话清华刘嘉：ChatGPT意味着第二次认知革命的到来](https://www.36kr.com/p/2471252360271750)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [用AI招聘AI人才，华裔女生完成千万美元融资](https://www.36kr.com/p/2471239223056517)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-12 12:14:57.456143
