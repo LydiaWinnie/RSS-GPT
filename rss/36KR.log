@@ -9252,3 +9252,17 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 9
 Finish: 2023-10-12 09:08:12.108627
+------------------------------------------------------
+Started: 2023-10-12 10:08:11.740356
+Existing_entries: 546
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [“AI大模型+电子签”，下一站在哪？](https://www.36kr.com/p/2471185096710022)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 1
+Finish: 2023-10-12 10:09:37.748376
