@@ -8389,3 +8389,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-12 01:40:07.003946
+------------------------------------------------------
+Started: 2023-10-12 02:14:06.271628
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [白宮稱還未決定是否派美軍進入加沙幫助營救人質](https://cn.wsj.com/articles/%E7%99%BD%E5%AE%AE%E7%A8%B1%E9%82%84%E6%9C%AA%E6%B1%BA%E5%AE%9A%E6%98%AF%E5%90%A6%E6%B4%BE%E7%BE%8E%E8%BB%8D%E9%80%B2%E5%85%A5%E5%8A%A0%E6%B2%99%E5%B9%AB%E5%8A%A9%E7%87%9F%E6%95%91%E4%BA%BA%E8%B3%AA-1899cf2a)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國稱伊朗事先知道哈馬斯正在策劃襲擊，但不清楚確切時間及範圍](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E7%A8%B1%E4%BC%8A%E6%9C%97%E4%BA%8B%E5%85%88%E7%9F%A5%E9%81%93%E5%93%88%E9%A6%AC%E6%96%AF%E6%AD%A3%E5%9C%A8%E7%AD%96%E5%8A%83%E8%A5%B2%E6%93%8A-%E4%BD%86%E4%B8%8D%E6%B8%85%E6%A5%9A%E7%A2%BA%E5%88%87%E6%99%82%E9%96%93%E5%8F%8A%E7%AF%84%E5%9C%8D-b1d53a5a)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [內塔尼亞衚衕意與反對派組建聯合政府指揮作戰](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E7%B8%BD%E7%90%86%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%A1%9A%E8%A1%95%E6%84%8F%E8%88%87%E5%8F%8D%E5%B0%8D%E6%B4%BE%E6%88%90%E5%93%A1%E7%B5%84%E5%BB%BA%E6%B0%91%E6%97%8F%E5%9C%98%E7%B5%90%E6%94%BF%E5%BA%9C-ece41c9)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列轟炸加沙，對人道主義災難的擔憂加劇](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E8%BD%9F%E7%82%B8%E5%8A%A0%E6%B2%99-%E5%B0%8D%E4%BA%BA%E9%81%93%E4%B8%BB%E7%BE%A9%E7%81%BD%E9%9B%A3%E7%9A%84%E6%93%94%E6%86%82%E5%8A%A0%E5%8A%87-5cbe1ec8)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [教皇呼籲釋放在加沙被哈馬斯扣押的人質](https://cn.wsj.com/articles/%E6%95%99%E7%9A%87%E5%91%BC%E7%B1%B2%E9%87%8B%E6%94%BE%E5%9C%A8%E5%8A%A0%E6%B2%99%E8%A2%AB%E5%93%88%E9%A6%AC%E6%96%AF%E6%89%A3%E6%8A%BC%E7%9A%84%E4%BA%BA%E8%B3%AA-56da60a)
+Append: [拜登告訴內塔尼亞胡美國「支持以色列」](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E5%91%8A%E8%A8%B4%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E7%BE%8E%E5%9C%8B-%E6%94%AF%E6%8C%81%E4%BB%A5%E8%89%B2%E5%88%97-f5715ebb)
+Append: [共和黨人提名斯卡利塞為眾議院議長候選人](https://cn.wsj.com/articles/%E5%85%B1%E5%92%8C%E9%BB%A8%E4%BA%BA%E6%8F%90%E5%90%8D%E6%96%AF%E5%8D%A1%E5%88%A9%E5%A1%9E%E7%82%BA%E7%9C%BE%E8%AD%B0%E9%99%A2%E8%AD%B0%E9%95%B7%E5%80%99%E9%81%B8%E4%BA%BA-fb644715)
+Append: [美國與以色列和埃及討論確保加沙平民安全通行的方案](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E8%88%87%E4%BB%A5%E8%89%B2%E5%88%97%E5%92%8C%E5%9F%83%E5%8F%8A%E8%A8%8E%E8%AB%96%E7%A2%BA%E4%BF%9D%E5%8A%A0%E6%B2%99%E5%B9%B3%E6%B0%91%E5%AE%89%E5%85%A8%E9%80%9A%E8%A1%8C%E7%9A%84%E6%96%B9%E6%A1%88-c44f255d)
+Append: [拜登告訴猶太社區領袖美國在就以色列人質問題的各個方面展開工作](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E5%91%8A%E8%A8%B4%E7%8C%B6%E5%A4%AA%E7%A4%BE%E5%8D%80%E9%A0%98%E8%A2%96%E7%BE%8E%E5%9C%8B%E5%9C%A8%E5%B0%B1%E4%BB%A5%E8%89%B2%E5%88%97%E4%BA%BA%E8%B3%AA%E5%95%8F%E9%A1%8C%E7%9A%84%E5%90%84%E5%80%8B%E6%96%B9%E9%9D%A2%E5%B1%95%E9%96%8B%E5%B7%A5%E4%BD%9C-48822f5b)
+Append: [阻力增多之際，美國宣布向烏克蘭提供新的軍事援助](https://cn.wsj.com/articles/%E9%98%BB%E5%8A%9B%E5%A2%9E%E5%A4%9A%E4%B9%8B%E9%9A%9B-%E7%BE%8E%E5%9C%8B%E5%AE%A3%E5%B8%83%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E6%8F%90%E4%BE%9B%E6%96%B0%E7%9A%84%E8%BB%8D%E4%BA%8B%E6%8F%B4%E5%8A%A9-3f992f86)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Append: [「中英」被中國關押三年後，前CGTN主持人成蕾返回澳洲](https://cn.nytimes.com/world/20231012/china-releases-australian-journalist-lei/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Append: [涉違中國《國安法》服刑3年 澳洲籍華裔記者成蕾獲釋](https://news.pts.org.tw/article/661411)
+Append: [以色列成立緊急政府與戰時內閣 對抗哈瑪斯](https://news.pts.org.tw/article/661413)
+Append: [台南歸仁「呷辦桌」熱鬧回歸 半小時內90桌預訂一空](https://news.pts.org.tw/article/661414)
+Append: [昨18:36花蓮富里規模5.8地震 氣象署：3日內可能發生餘震](https://news.pts.org.tw/article/661423)
+append_entries: 15
+Finish: 2023-10-12 02:14:09.571239
