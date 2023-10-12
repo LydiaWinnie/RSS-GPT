@@ -8462,3 +8462,37 @@ Append: [「中英」中國掀起消費降級潮：價格戰「內卷」中的�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 4
 Finish: 2023-10-12 05:07:28.022387
+------------------------------------------------------
+Started: 2023-10-12 06:10:27.451794
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [桃園社宅「八德一號」租金傳漲6成 引租戶反彈](https://news.pts.org.tw/article/661453)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／民團批準公幼假公共化 籲參選人正視學前教育](https://news.pts.org.tw/article/661454)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴開戰掀示威潮 兩方聲援者壁壘分明](https://news.pts.org.tw/article/661460)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [自由座連假疏運引民怨 高鐵：未來乘客到站即分流](https://news.pts.org.tw/article/661459)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [潛艦洩密／民進黨團提案 機密會議禁帶手機、通訊設備](https://news.pts.org.tw/article/661463)
+Append: [藍營質疑論文涉抄襲 立委張宏陸：比對相似度僅16%](https://news.pts.org.tw/article/661464)
+Append: [im.B吸金案開庭提訊張淑芬 自救會要求北檢徹查金流](https://news.pts.org.tw/article/661465)
+Append: [捐腎者若不注意均衡飲食 術後慢性腎衰竭風險增6.63倍](https://news.pts.org.tw/article/661456)
+Append: [屏東社宅「瑞屏安居」砂湧損鄰 縣府令停工修繕](https://news.pts.org.tw/article/661466)
+Append: [美豬洗產地引發食安把關疑慮 薛瑞元：是衛生單位查出來](https://news.pts.org.tw/article/661468)
+Append: [語言模型CKIP答我國籍為中國 中研院下架澄清「導入明清研究」](https://news.pts.org.tw/article/661455)
+Append: [麻豆轉運公用單車站違停機車 警協助取締](https://news.pts.org.tw/article/661452)
+Append: [觀光署提旅宿業聘移工方案 勞團反對：缺工癥結為低薪](https://news.pts.org.tw/article/661458)
+Append: [進口冷凍液蛋未招標 藍委批審計部查3個月是包庇](https://news.pts.org.tw/article/661469)
+Append: [1022醫療勞權遊行訴困境 籲三班制護病比入法](https://news.pts.org.tw/article/661457)
+append_entries: 15
+Finish: 2023-10-12 06:10:31.496877
