@@ -9222,3 +9222,33 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2023-10-12 08:10:39.689250
+------------------------------------------------------
+Started: 2023-10-12 09:07:57.209793
+Existing_entries: 537
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [GPT-4就是AGI，谷歌斯坦福科学家揭秘大模型如何超智能](https://www.36kr.com/p/2471167211149447)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [离职谷歌，75岁Hinton官宣下场AI机器人，加盟初创公司，师徒再联手，打造“基础模型”](https://www.36kr.com/p/2471167157802887)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [机器人瓦力来了，迪士尼亮出新机器人，用RL学习走路，还能进行社交互动](https://www.36kr.com/p/2471167417260160)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI搞定谷歌验证码，最新多模态大模型比GPT-4V空间理解更准确](https://www.36kr.com/p/2471159010875522)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [DALL·E 3瞬间生成素材，零成本制作数千万流水游戏，OpenAI总裁转赞](https://www.36kr.com/p/2471028291197059)
+Append: [国产大模型开源一哥再登场，最强双语LLM“全家桶”级开源，340亿参数超越Llama2-70B](https://www.36kr.com/p/2471027851516036)
+Append: [神经网络行为也可以被解释，大语言模型前所未有的突破](https://www.36kr.com/p/2470926079383432)
+Append: [英伟达卖软件，微软造芯片，大模型竞争格局生变](https://www.36kr.com/p/2470983508383621)
+Append: [卷完参数后，大模型公司又盯上了“长文本”？](https://www.36kr.com/p/2470939687950470)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 9
+Finish: 2023-10-12 09:08:12.108627

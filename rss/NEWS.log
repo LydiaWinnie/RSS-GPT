@@ -8523,3 +8523,15 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [台62線延伸案路線敲定 預計年底前完成評估](https://news.pts.org.tw/article/661470)
 append_entries: 2
 Finish: 2023-10-12 08:10:06.475900
+------------------------------------------------------
+Started: 2023-10-12 09:07:52.377901
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [加沙目前有34萬平民流離失所](https://cn.wsj.com/articles/%E5%8A%A0%E6%B2%99%E7%9B%AE%E5%89%8D%E6%9C%8934%E8%90%AC%E5%B9%B3%E6%B0%91%E6%B5%81%E9%9B%A2%E5%A4%B1%E6%89%80-1cc60c93)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-12 09:07:54.264071
