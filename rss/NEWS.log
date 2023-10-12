@@ -8653,3 +8653,12 @@ Append: [以色列將徵召36萬後備軍人 海外以國僑民紛紛返國支�
 Append: [疫後鼓勵中高齡就業 勞團籲應創造合適就業環境](https://news.pts.org.tw/article/661583)
 append_entries: 8
 Finish: 2023-10-12 16:09:30.914052
+------------------------------------------------------
+Started: 2023-10-12 17:06:59.935865
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-12 17:07:01.597944
