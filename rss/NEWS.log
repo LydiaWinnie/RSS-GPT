@@ -8626,3 +8626,30 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-12 15:07:57.152117
+------------------------------------------------------
+Started: 2023-10-12 16:09:28.696422
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [改善身心障照護服務 政院通過5年480億計畫](https://news.pts.org.tw/article/661572)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [環境部公布氣候兩子法 鼓勵排放大戶減碳獲碳權](https://news.pts.org.tw/article/661575)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [亞運19金僅9面屬奧運項目 體育署提職業版黃金計畫](https://news.pts.org.tw/article/661576)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [馬來西亞僑生連年遞減 台海緊張、治安與天災成主因](https://news.pts.org.tw/article/661577)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [彰化線西鄉8天3騎士車禍亡 交安協會：交通動線有改善空間](https://news.pts.org.tw/article/661586)
+Append: [日本將棋史首位 21歲藤井聰太獨攬8冠棋王](https://news.pts.org.tw/article/661579)
+Append: [以色列將徵召36萬後備軍人 海外以國僑民紛紛返國支援](https://news.pts.org.tw/article/661580)
+Append: [疫後鼓勵中高齡就業 勞團籲應創造合適就業環境](https://news.pts.org.tw/article/661583)
+append_entries: 8
+Finish: 2023-10-12 16:09:30.914052
