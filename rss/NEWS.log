@@ -8508,3 +8508,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-12 07:07:38.084878
+------------------------------------------------------
+Started: 2023-10-12 08:10:01.142474
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」巴以衝突或威脅中國石油進口：中立姿態不再適用？](https://cn.nytimes.com/business/20231012/china-oil-saudi-arabia-iran/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台62線延伸案路線敲定 預計年底前完成評估](https://news.pts.org.tw/article/661470)
+append_entries: 2
+Finish: 2023-10-12 08:10:06.475900
