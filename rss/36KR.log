@@ -9148,3 +9148,19 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2023-10-12 03:08:22.722423
+------------------------------------------------------
+Started: 2023-10-12 04:09:10.648275
+Existing_entries: 532
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [万字长文详解：大模型时代AI价值对齐的问题、对策和展望](https://www.36kr.com/p/2469833834666113)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 1
+Finish: 2023-10-12 04:10:57.976079
