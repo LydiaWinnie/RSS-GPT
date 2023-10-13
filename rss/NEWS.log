@@ -8862,3 +8862,18 @@ Append: [續年巴黎奧運參賽資格 楊勇緯、連珍羚等選手爭積分]
 Append: [高雄里長獲邀赴中國旅遊 可全程報銷費用引發政治聯想](https://news.pts.org.tw/article/661667)
 append_entries: 15
 Finish: 2023-10-13 07:07:32.971347
+------------------------------------------------------
+Started: 2023-10-13 08:10:32.318028
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國國防部長奧斯汀抵達以色列](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E9%98%B2%E9%83%A8%E9%95%B7%E5%A5%A7%E6%96%AF%E6%B1%80%E6%8A%B5%E9%81%94%E4%BB%A5%E8%89%B2%E5%88%97-745e8fb4)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」在巴以戰爭中尋找道德指南針](https://cn.nytimes.com/opinion/20231013/israel-gaza-hamas/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-10-13 08:10:37.679368
