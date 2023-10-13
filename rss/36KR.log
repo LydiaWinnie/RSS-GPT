@@ -9509,3 +9509,24 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-13 04:12:40.344870
+------------------------------------------------------
+Started: 2023-10-13 05:07:26.512783
+Existing_entries: 558
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [36氪首发丨清维如风获千万级天使轮融资，试运营机场无人驾驶](https://www.36kr.com/p/2472161123260546)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [麦肯锡发布人工智能10大洞察，怎么利用好这波机会？](https://www.36kr.com/p/2472195546062725)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AIGC裁员潮继续，又一家明星初创企业撑不住了](https://www.36kr.com/p/2472161444946055)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 3
+Finish: 2023-10-13 05:09:30.970974
