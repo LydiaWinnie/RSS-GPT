@@ -8991,3 +8991,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-13 14:07:36.995389
+------------------------------------------------------
+Started: 2023-10-13 15:07:45.138628
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [液化石油氣儲存場災演遭抗議 彰化縣府籲業者另覓他處](https://news.pts.org.tw/article/661764)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [桃機第三跑道防洪規劃 百年暴雨不溢堤環差初審通過](https://news.pts.org.tw/article/661761)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [全運會再次上演壓線奪金 滑輪溜冰趙祖政逆轉黃玉霖](https://news.pts.org.tw/article/661765)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [安倍遭槍擊引出宗教問題 日本申請解散舊統一教](https://news.pts.org.tw/article/661768)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美對中晶片禁令 台積電再獲1年期豁免](https://news.pts.org.tw/article/661772)
+append_entries: 5
+Finish: 2023-10-13 15:07:53.973253
