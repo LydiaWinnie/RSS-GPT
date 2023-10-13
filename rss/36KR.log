@@ -9577,3 +9577,29 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 1
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-10-13 09:07:43.893921
+Existing_entries: 563
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [好莱坞编剧大罢工落幕：创作者的近忧与远虑，不止有AI](https://www.36kr.com/p/2472461498130563)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [业界领先的这些大模型，都被一家“收编”了](https://www.36kr.com/p/2472363190622087)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [粉笔科技张小龙：我不是网红，是天生的企业家｜36氪专访](https://www.36kr.com/p/2472428413572998)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [微软和SAP AI新动向，正不断加注“赢未来”的筹码](https://www.36kr.com/p/2472370929211522)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [OpenAI靠大模型赚翻了，年收入暴涨4500%，每月入账1亿刀](https://www.36kr.com/p/2472401393672073)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 5
+Finish: 2023-10-13 09:08:07.286557
