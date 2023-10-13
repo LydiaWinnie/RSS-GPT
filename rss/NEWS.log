@@ -8982,3 +8982,12 @@ Append: [賭城MSG Sphere正式營運 多感官體驗民眾呼神奇](https://ne
 Append: [日本去年10萬人請辭顧家 企業提互利措施留才](https://news.pts.org.tw/article/661725)
 append_entries: 16
 Finish: 2023-10-13 13:11:13.866985
+------------------------------------------------------
+Started: 2023-10-13 14:07:33.663417
+Existing_entries: 1016
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-13 14:07:36.995389
