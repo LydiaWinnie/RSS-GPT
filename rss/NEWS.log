@@ -8828,3 +8828,37 @@ Append: [「中英」《星火》書評：讓中國歷史不再被遺忘](https:
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-10-13 06:10:33.880512
+------------------------------------------------------
+Started: 2023-10-13 07:07:29.210660
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [桃園航空城自救會赴政院抗議 批拆遷補償與安置住宅金額落差大](https://news.pts.org.tw/article/661648)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台中舊城區都更進度慢 民代籲設都市再生中心專責](https://news.pts.org.tw/article/661651)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [民團籲各黨團加重課空房稅 改善租屋族困境](https://news.pts.org.tw/article/661652)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [有條件通過台灣大併台灣之星 消基會憂壟斷籲嚴監控費率走勢](https://news.pts.org.tw/article/661653)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [8單位生物辨識打卡用中製產品 北巿工務局：將請廠商供產地](https://news.pts.org.tw/article/661655)
+Append: [宜蘭85歲老婦橫穿道路遭輾斃 大貨車駕駛涉肇逃稱不知撞到人](https://news.pts.org.tw/article/661658)
+Append: [多國挺巴勒斯坦聲浪湧現 德法禁止親巴示威活動](https://news.pts.org.tw/article/661664)
+Append: [台股今一度跌至16741點 盤中跌幅收斂](https://news.pts.org.tw/article/661654)
+Append: [金門擬蓋人工湖恐衝擊水獺棲地 水利署：暫緩辦理](https://news.pts.org.tw/article/661650)
+Append: [台南28日起31路口試辦取消待轉 部分機車族憂習慣難改](https://news.pts.org.tw/article/661657)
+Append: [北監受刑人爭取在監投票 法院准許判決前暫設投票所](https://news.pts.org.tw/article/661660)
+Append: [明揚大火4消防員殉職 行政院邀消促會開消安諮商會](https://news.pts.org.tw/article/661666)
+Append: [潛艦洩密／黃曙光捲入弊案 國民黨要求立院專案報告](https://news.pts.org.tw/article/661665)
+Append: [續年巴黎奧運參賽資格 楊勇緯、連珍羚等選手爭積分](https://news.pts.org.tw/article/661661)
+Append: [高雄里長獲邀赴中國旅遊 可全程報銷費用引發政治聯想](https://news.pts.org.tw/article/661667)
+append_entries: 15
+Finish: 2023-10-13 07:07:32.971347
