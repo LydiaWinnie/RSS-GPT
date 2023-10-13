@@ -9468,3 +9468,21 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-10-13 02:19:09.425730
+Existing_entries: 556
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [王怀南：ChatGPT、口述史、硅谷往事](https://www.36kr.com/p/2468120046327944)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [一夜春风来，亚马逊大规模恢复品牌，包括黑名单品牌](https://www.36kr.com/p/2471594821163137)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-13 02:21:04.354246
