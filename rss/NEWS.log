@@ -8886,3 +8886,28 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-13 09:07:41.257097
+------------------------------------------------------
+Started: 2023-10-13 10:08:27.461278
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國似乎不顧國際壓力遣返了大批北韓人](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E4%BC%BC%E4%B9%8E%E4%B8%8D%E9%A1%A7%E5%9C%8B%E9%9A%9B%E5%A3%93%E5%8A%9B%E9%81%A3%E8%BF%94%E4%BA%86%E5%A4%A7%E6%89%B9%E5%8C%97%E9%9F%93%E4%BA%BA-daeeb168)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [哈馬斯稱過去24小時內以色列的空襲炸死了13名人質](https://cn.wsj.com/articles/%E5%93%88%E9%A6%AC%E6%96%AF%E7%A8%B1%E9%81%8E%E5%8E%BB24%E5%B0%8F%E6%99%82%E5%85%A7%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E7%A9%BA%E8%A5%B2%E7%82%B8%E6%AD%BB%E4%BA%8613%E5%90%8D%E4%BA%BA%E8%B3%AA-d22c5a66)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列戰鬥機前夜襲擊了加沙750個軍事目標](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E6%88%B0%E9%AC%A5%E6%A9%9F%E5%89%8D%E5%A4%9C%E8%A5%B2%E6%93%8A%E4%BA%86%E5%8A%A0%E6%B2%99750%E5%80%8B%E8%BB%8D%E4%BA%8B%E7%9B%AE%E6%A8%99-98a3e28f)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國稱以色列沒有與布林肯討論加沙撤離令問題](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E7%A8%B1%E4%BB%A5%E8%89%B2%E5%88%97%E6%B2%92%E6%9C%89%E8%88%87%E5%B8%83%E6%9E%97%E8%82%AF%E8%A8%8E%E8%AB%96%E5%8A%A0%E6%B2%99%E6%92%A4%E9%9B%A2%E4%BB%A4%E5%95%8F%E9%A1%8C-730a34e9)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」蔚來賣一輛車虧25萬元，中國電動汽車靠什麼崛起](https://cn.nytimes.com/business/20231013/nio-china-electric-vehicles/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Append: [太空垃圾氾濫成災 恐以10倍彈速打穿衛星](https://news.pts.org.tw/article/661678)
+append_entries: 6
+Finish: 2023-10-13 10:08:33.462543
