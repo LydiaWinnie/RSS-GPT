@@ -9438,3 +9438,20 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-10-13 00:35:28.287414
+Existing_entries: 554
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [徒步旅行：当代年轻人的氪金重灾区](https://www.36kr.com/p/2471962956142721)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [为什么业务部门总是抱怨系统不好用](https://www.36kr.com/p/2472018071590791)
+append_entries: 2
+Finish: 2023-10-13 00:35:51.167605
