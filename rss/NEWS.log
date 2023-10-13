@@ -8938,3 +8938,12 @@ Append: [哈瑪斯發動阿克薩風暴 釀以色列建國後最慘重傷亡](ht
 Append: [從動物散熱皮膚發想外牆設計 新加坡致力發展綠建築](https://news.pts.org.tw/article/661677)
 append_entries: 8
 Finish: 2023-10-13 11:06:36.893491
+------------------------------------------------------
+Started: 2023-10-13 12:14:11.509629
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-13 12:14:13.566856
