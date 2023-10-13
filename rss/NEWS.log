@@ -8947,3 +8947,38 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-13 12:14:13.566856
+------------------------------------------------------
+Started: 2023-10-13 13:11:11.486998
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [布林肯在約旦會見巴勒斯坦民族權力機構主席阿巴斯](https://cn.wsj.com/articles/%E5%B8%83%E6%9E%97%E8%82%AF%E5%9C%A8%E7%B4%84%E6%97%A6%E6%9C%83%E8%A6%8B%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%B0%91%E6%97%8F%E6%AC%8A%E5%8A%9B%E6%A9%9F%E6%A7%8B%E4%B8%BB%E5%B8%AD%E9%98%BF%E5%B7%B4%E6%96%AF-34de15e2)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [聯合國敦促以色列撤銷加沙北部平民撤離令](https://cn.wsj.com/articles/%E8%81%AF%E5%90%88%E5%9C%8B%E6%95%A6%E4%BF%83%E4%BB%A5%E8%89%B2%E5%88%97%E6%92%A4%E9%8A%B7%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E5%B9%B3%E6%B0%91%E6%92%A4%E9%9B%A2%E4%BB%A4-b79baa0)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列駐華大使館工作人員在北京遇襲](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E9%A7%90%E8%8F%AF%E5%A4%A7%E4%BD%BF%E9%A4%A8%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%93%A1%E5%9C%A8%E5%8C%97%E4%BA%AC%E9%81%87%E8%A5%B2-dbfabf36)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國北京香山論壇 美國防長獲邀但恐不會出席](https://news.pts.org.tw/article/661771)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [瑞穗農會疑棄置滯銷文旦柚 花蓮環保局介入籲立刻清除](https://news.pts.org.tw/article/661773)
+Append: [2024大選／賴侯柯皆強調兩岸和平 美中台關係成總統必考題](https://news.pts.org.tw/article/661766)
+Append: [大直民宅塌／自救會拋3大訴求 北市府：尊重災戶意見將予協助](https://news.pts.org.tw/article/661776)
+Append: [涉賄2000萬遭起訴 沈宗隆辭雲議長盼獲公平判決](https://news.pts.org.tw/article/661779)
+Append: [單親母外出賺錢鐵鍊栓6歲女 遭判刑3月受強制親職教育](https://news.pts.org.tw/article/661775)
+Append: [台電首試賣6組合小額綠電 分2階段競標販售](https://news.pts.org.tw/article/661778)
+Append: [2024大選／藍白合會前會明登場 侯重申在野團結、柯盼達共識](https://news.pts.org.tw/article/661781)
+Append: [加薩人道危機惡化 WHO急協商盼恢復物資通道](https://news.pts.org.tw/article/661782)
+Append: [以色列呼籲加薩北部居民撤離 被解讀為全面開戰警告](https://news.pts.org.tw/article/661783)
+Append: [歐洲核能研究所轉型科普 新設博物館開放大眾參觀](https://news.pts.org.tw/article/661679)
+Append: [賭城MSG Sphere正式營運 多感官體驗民眾呼神奇](https://news.pts.org.tw/article/661680)
+Append: [日本去年10萬人請辭顧家 企業提互利措施留才](https://news.pts.org.tw/article/661725)
+append_entries: 16
+Finish: 2023-10-13 13:11:13.866985
