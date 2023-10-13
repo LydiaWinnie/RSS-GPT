@@ -8783,3 +8783,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-13 03:08:15.316591
+------------------------------------------------------
+Started: 2023-10-13 04:09:09.851457
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [烏克蘭的下一個目標：俄軍補給線](https://cn.wsj.com/articles/%E7%83%8F%E5%85%8B%E8%98%AD%E7%9A%84%E4%B8%8B%E4%B8%80%E5%80%8B%E7%9B%AE%E6%A8%99-%E4%BF%84%E8%BB%8D%E8%A3%9C%E7%B5%A6%E7%B7%9A-480285ee)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國敦促以色列恢復和談](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E6%95%A6%E4%BF%83%E4%BB%A5%E8%89%B2%E5%88%97%E6%81%A2%E5%BE%A9%E5%92%8C%E8%AB%87-c8cf3dae)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國眾議院多數黨領袖斯卡利塞退出議長競選](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E7%9C%BE%E8%AD%B0%E9%99%A2%E5%A4%9A%E6%95%B8%E9%BB%A8%E9%A0%98%E8%A2%96%E6%96%AF%E5%8D%A1%E5%88%A9%E5%A1%9E%E9%80%80%E5%87%BA%E8%AD%B0%E9%95%B7%E7%AB%B6%E9%81%B8-b5bb3f71)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2023-10-13 04:09:11.980442
