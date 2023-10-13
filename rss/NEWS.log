@@ -8747,3 +8747,21 @@ Append: [北監受刑人酒駕擦撞事 犯公共危險罪停止監外作業送�
 Append: [台南東區工安意外 30歲工人誤觸高壓電身亡](https://news.pts.org.tw/article/661622)
 append_entries: 12
 Finish: 2023-10-13 00:35:25.656736
+------------------------------------------------------
+Started: 2023-10-13 01:44:51.685311
+Existing_entries: 1012
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國制裁兩艘被控違反俄羅斯油價上限的油輪](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%88%B6%E8%A3%81%E5%85%A9%E8%89%98%E8%A2%AB%E6%8E%A7%E9%81%95%E5%8F%8D%E4%BF%84%E7%BE%85%E6%96%AF%E6%B2%B9%E5%83%B9%E4%B8%8A%E9%99%90%E7%9A%84%E6%B2%B9%E8%BC%AA-96430a40)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [哈馬斯稱其對以色列的襲擊行動已策劃兩年之久](https://cn.wsj.com/articles/%E5%93%88%E9%A6%AC%E6%96%AF%E7%A8%B1%E5%85%B6%E5%B0%8D%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E8%A5%B2%E6%93%8A%E8%A1%8C%E5%8B%95%E5%B7%B2%E7%AD%96%E5%8A%83%E5%85%A9%E5%B9%B4%E4%B9%8B%E4%B9%85-80de5c4c)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國向西太平洋派遣無人艦艇，首次在中國附近部署](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%90%91%E8%A5%BF%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B4%BE%E9%81%A3%E7%84%A1%E4%BA%BA%E8%89%A6%E8%89%87-%E9%A6%96%E6%AC%A1%E5%9C%A8%E4%B8%AD%E5%9C%8B%E9%99%84%E8%BF%91%E9%83%A8%E7%BD%B2-54bd673d)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2023-10-13 01:44:54.127674
