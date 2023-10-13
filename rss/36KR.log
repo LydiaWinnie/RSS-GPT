@@ -9614,3 +9614,31 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-13 10:09:03.881311
+------------------------------------------------------
+Started: 2023-10-13 11:06:39.573061
+Existing_entries: 568
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [0.2美元微调就能让ChatGPT彻底破防，普林斯顿、斯坦福发布LLM风险预警：普通用户微调也影响LLM安全性](https://www.36kr.com/p/2472699542280329)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [打造ChatGPT平替，成本暴降95%，OpenAI硬核更新下月发布，视觉API要来](https://www.36kr.com/p/2472681039665280)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [用Colingo，开发AI应用就像做可颂一样简单](https://www.36kr.com/p/2472429205706889)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [96岁李嘉诚拥抱AI](https://www.36kr.com/p/2472641222844292)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [孩子用AIGC写故事，居然还不赖？](https://www.36kr.com/p/2472557258168457)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 5
+Finish: 2023-10-13 11:10:09.598487
