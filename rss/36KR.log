@@ -10091,3 +10091,15 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-10-14 20:07:40.365484
+Existing_entries: 583
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 0
+Finish: 2023-10-14 20:08:56.102348
