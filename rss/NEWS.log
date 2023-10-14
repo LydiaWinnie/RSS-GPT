@@ -9087,3 +9087,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-13 23:07:06.708706
+------------------------------------------------------
+Started: 2023-10-14 00:33:13.856466
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [早前情報稱哈馬斯實施暴力的風險增加，但沒有預測襲擊規模](https://cn.wsj.com/articles/%E6%97%A9%E5%89%8D%E6%83%85%E5%A0%B1%E7%A8%B1%E5%93%88%E9%A6%AC%E6%96%AF%E5%AF%A6%E6%96%BD%E6%9A%B4%E5%8A%9B%E7%9A%84%E9%A2%A8%E9%9A%AA%E5%A2%9E%E5%8A%A0-%E4%BD%86%E6%B2%92%E6%9C%89%E9%A0%90%E6%B8%AC%E8%A5%B2%E6%93%8A%E8%A6%8F%E6%A8%A1-46fbfeba)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-14 00:33:15.915001
