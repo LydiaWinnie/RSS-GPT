@@ -9261,3 +9261,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [2024大選／藍白合會前會雙方稱融洽 但候選人整合方式無共識](https://news.pts.org.tw/article/661805)
 append_entries: 1
 Finish: 2023-10-14 12:12:32.509142
+------------------------------------------------------
+Started: 2023-10-14 13:07:09.189103
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-14 13:07:10.842891
