@@ -9192,3 +9192,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-14 06:09:31.796542
+------------------------------------------------------
+Started: 2023-10-14 07:06:22.742937
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中研院首辦兒童科普日 學術殿堂化身遊戲樂園](https://news.pts.org.tw/article/661795)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [宜蘭民間社團復興北管 創新編曲盼打破喪葬刻板印象](https://news.pts.org.tw/article/661796)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [疑因積欠賭債 彰化1嫌銀樓行搶遭逮](https://news.pts.org.tw/article/661798)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [85大樓違法日租套房猖獗 高巿府裁罰強制斷水電](https://news.pts.org.tw/article/661797)
+append_entries: 4
+Finish: 2023-10-14 07:06:25.190633
