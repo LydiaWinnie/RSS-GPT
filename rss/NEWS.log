@@ -9213,3 +9213,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [85大樓違法日租套房猖獗 高巿府裁罰強制斷水電](https://news.pts.org.tw/article/661797)
 append_entries: 4
 Finish: 2023-10-14 07:06:25.190633
+------------------------------------------------------
+Started: 2023-10-14 08:08:44.626528
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-14 08:08:48.404853
