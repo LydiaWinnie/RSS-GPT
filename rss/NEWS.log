@@ -9159,3 +9159,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-10-14 04:08:54.752634
+------------------------------------------------------
+Started: 2023-10-14 05:06:53.617084
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中高齡就業博覽會登場 勞動部加碼旅宿餐飲就業獎勵](https://news.pts.org.tw/article/661800)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [半導體已無自由貿易 張忠謀坦言台積電挑戰嚴峻](https://news.pts.org.tw/article/661802)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [習近平大動作整肅火箭軍 學者指中共內部現鬥爭](https://news.pts.org.tw/article/661803)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [加薩離城車隊遇空襲至少70死 黎南邊界砲火外媒記者1死4傷](https://news.pts.org.tw/article/661804)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列軍稱已對加薩地面突襲 清除地區恐怖分子](https://news.pts.org.tw/article/661793)
+append_entries: 5
+Finish: 2023-10-14 05:07:01.434320
