@@ -9270,3 +9270,29 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-14 13:07:10.842891
+------------------------------------------------------
+Started: 2023-10-14 14:05:58.700951
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「安寧照護不是放棄病人」 微電影《餘暉》倡安寧緩和與器捐](https://news.pts.org.tw/article/661827)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [新法上路增檢舉項目 各縣市交通違規通報暴增](https://news.pts.org.tw/article/661831)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台南高鐵站意外 婦攜2行李箱搭電扶梯摔傷](https://news.pts.org.tw/article/661832)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／藍白合會前會衝擊選情？ 郭台銘：無邊緣化問題](https://news.pts.org.tw/article/661834)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／藍白會談同意3場辯論 人選產生方式無共識](https://news.pts.org.tw/article/661835)
+Append: [以巴衝突爆發 各國猶太社區發生仇恨攻擊](https://news.pts.org.tw/article/661837)
+Append: [花蓮15:53規模5.3地震 12分鐘內3起極淺層震](https://news.pts.org.tw/article/661833)
+append_entries: 7
+Finish: 2023-10-14 14:06:02.218222
