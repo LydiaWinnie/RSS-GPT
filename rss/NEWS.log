@@ -9123,3 +9123,12 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 5
 Finish: 2023-10-14 01:39:34.835032
+------------------------------------------------------
+Started: 2023-10-14 02:12:53.784577
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-14 02:12:55.346794
