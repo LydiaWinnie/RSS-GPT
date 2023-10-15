@@ -9493,3 +9493,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-15 09:06:48.303033
+------------------------------------------------------
+Started: 2023-10-15 10:07:24.208814
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [一週大事／以色列開戰反擊哈瑪斯 總統大選藍白合啟動協商（2023.10.2-10.8）](https://news.pts.org.tw/article/661862)
+append_entries: 1
+Finish: 2023-10-15 10:07:28.182014
