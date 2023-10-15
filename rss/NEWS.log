@@ -9422,3 +9422,32 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-15 04:08:33.738346
+------------------------------------------------------
+Started: 2023-10-15 05:06:57.995032
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [埔里萬噸垃圾山前拍婚紗 新人籲正視台灣垃圾爆量](https://news.pts.org.tw/article/661853)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [花蓮瑞穗文旦柚產量過剩 滯銷900噸果農醞釀棄種](https://news.pts.org.tw/article/661854)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [網友貼照稱好市多牛肉變質 高市衛生局：抽驗未發現](https://news.pts.org.tw/article/661855)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [明揚工廠爆炸／罹難員工補償40個月工資 消防員補償金待計](https://news.pts.org.tw/article/661856)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [傳放棄龍潭擴廠計畫 台積電：19日說明會](https://news.pts.org.tw/article/661857)
+Append: [法凡爾賽宮與羅浮宮收炸彈威脅 地毯式搜索暫無任何發現](https://news.pts.org.tw/article/661858)
+Append: [基隆協和電廠四接環評案 環團促各總統參選人現勘](https://news.pts.org.tw/article/661859)
+Append: [2024大選／民主初選遭疑將不當動員 候友宜：科學民主最直接](https://news.pts.org.tw/article/661860)
+Append: [2024大選／藍白合首度協商 共識辦3場電視台辯論](https://news.pts.org.tw/article/661848)
+Append: [法羅浮宮與凡爾賽宮收炸彈威脅 緊急閉館撤離遊客](https://news.pts.org.tw/article/661839)
+append_entries: 10
+Finish: 2023-10-15 05:06:59.722270
