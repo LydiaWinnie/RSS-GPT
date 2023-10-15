@@ -9472,3 +9472,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-15 07:06:24.010946
+------------------------------------------------------
+Started: 2023-10-15 08:08:45.926688
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台灣藥師逾半任職藥局診所 醫院事多錢少難招聘](https://news.pts.org.tw/article/661851)
+append_entries: 1
+Finish: 2023-10-15 08:08:48.765957
