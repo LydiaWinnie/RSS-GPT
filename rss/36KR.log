@@ -10237,3 +10237,20 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 2
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-10-15 07:06:26.538920
+Existing_entries: 585
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [《封神训练营》：一部“偷懒”的团综？](https://www.36kr.com/p/2472964813297801)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [除了主动示爱的机器人，AI还能给社区产品带来什么？](https://www.36kr.com/p/2474878713174147)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-15 07:06:57.225450
