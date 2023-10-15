@@ -9514,3 +9514,30 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-15 11:05:14.962087
+------------------------------------------------------
+Started: 2023-10-15 12:12:34.428521
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國旅房價飆漲超越疫前 旅館上半年住用率僅4至5成](https://news.pts.org.tw/article/661869)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [北市規劃樂齡安全區 速限20公里或設置曲線道路](https://news.pts.org.tw/article/661868)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [男子戴面具攜利器逛台中賣場 警認定違法將偵辦](https://news.pts.org.tw/article/661867)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [疑詐騙集團分贓不均 逾13人高雄宮廟駁火3傷](https://news.pts.org.tw/article/661866)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [六都民防人力減 青壯年不加入平均年齡逾50歲](https://news.pts.org.tw/article/661865)
+Append: [又查獲美豬改標加拿大豬 桃園出貨6縣市61業者](https://news.pts.org.tw/article/661861)
+Append: [2024大選／柯文哲批藍沒打算合作 金溥聰：應就事論事](https://news.pts.org.tw/article/661864)
+Append: [以色列宣布海陸空清剿哈瑪斯 放寬巴人撤離時間](https://news.pts.org.tw/article/661863)
+append_entries: 8
+Finish: 2023-10-15 12:12:38.023763
