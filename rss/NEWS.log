@@ -9451,3 +9451,15 @@ Append: [2024大選／藍白合首度協商 共識辦3場電視台辯論](https:
 Append: [法羅浮宮與凡爾賽宮收炸彈威脅 緊急閉館撤離遊客](https://news.pts.org.tw/article/661839)
 append_entries: 10
 Finish: 2023-10-15 05:06:59.722270
+------------------------------------------------------
+Started: 2023-10-15 06:09:24.847811
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國國會預算爭鬥恐危及在太平洋地區對抗中國的策略](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E6%9C%83%E9%A0%90%E7%AE%97%E7%88%AD%E9%AC%A5%E6%81%90%E5%8D%B1%E5%8F%8A%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%9C%B0%E5%8D%80%E5%B0%8D%E6%8A%97%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%AD%96%E7%95%A5-7666af60)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-15 06:09:27.795201
