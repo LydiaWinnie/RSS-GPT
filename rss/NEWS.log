@@ -9541,3 +9541,12 @@ Append: [2024大選／柯文哲批藍沒打算合作 金溥聰：應就事論事
 Append: [以色列宣布海陸空清剿哈瑪斯 放寬巴人撤離時間](https://news.pts.org.tw/article/661863)
 append_entries: 8
 Finish: 2023-10-15 12:12:38.023763
+------------------------------------------------------
+Started: 2023-10-15 13:07:21.189651
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-15 13:07:22.396364
