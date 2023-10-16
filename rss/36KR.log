@@ -10593,3 +10593,33 @@ Feed error: 404
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-16 07:09:10.015442
+------------------------------------------------------
+Started: 2023-10-16 08:11:13.186944
+Existing_entries: 604
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [GPT-4肆虐「谁是卧底」桌游，交谈逼真，类人属性仍有发展空间](https://www.36kr.com/p/2476790272055425)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [百度谷歌成为AI黄埔军校，Transformer八子融资超8.7亿刀，「AI行业全景报告」总结GenAI大爆发](https://www.36kr.com/p/2476766237743241)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [OpenAI悄悄改变核心价值观惹争议：埋头搞AGI，其他的都是浮云](https://www.36kr.com/p/2476750364694659)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [GPT-4V被曝离谱bug：突然执行神秘代码，空白图片读出打折信息，网友们都看呆了](https://www.36kr.com/p/2476745988626305)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI大模型到底应不应该开源？Meta和OpenAI为此展开了较量](https://www.36kr.com/p/2476714668136324)
+Append: [英伟达爆火智能体研究：AI逼真还原人类情感，会饿会孤独，会跑步会发火](https://www.36kr.com/p/2476709082781575)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Append: [掌握这几类爆款标题的文案思路，原地起飞](https://www.36kr.com/p/2475703292764039)
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Append: [最容易被辞退的10种管理者](https://www.36kr.com/p/2476755757619333)
+append_entries: 8
+Finish: 2023-10-16 08:13:58.843088

@@ -9769,3 +9769,29 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-16 07:07:28.970151
+------------------------------------------------------
+Started: 2023-10-16 08:11:03.985682
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [聯合國官員稱加沙正在被扼殺](https://cn.wsj.com/articles/%E8%81%AF%E5%90%88%E5%9C%8B%E5%AE%98%E5%93%A1%E7%A8%B1%E5%8A%A0%E6%B2%99%E6%AD%A3%E5%9C%A8%E8%A2%AB%E6%89%BC%E6%AE%BA-618a0ca8)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」中國比特幣礦場在美引發國安憂慮](https://cn.nytimes.com/usa/20231016/bitcoin-mines-china-united-states/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [嘉義民雄三合院火警2童亡 警將查為何獨留在家](https://news.pts.org.tw/article/661973)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [入秋東北風增強 風電發電量連8天破150萬瓩](https://news.pts.org.tw/article/661957)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [高雄宮廟槍戰 主嫌在內共3未成年嫌遭逮](https://news.pts.org.tw/article/661963)
+Append: [以巴戰爭／南韓與泰國出動軍機撤僑 日僑需自費6.5千台幣](https://news.pts.org.tw/article/661964)
+Append: [雲林縣殯葬量能不足 擬修法放寬殯儀館周界惹議](https://news.pts.org.tw/article/661969)
+append_entries: 7
+Finish: 2023-10-16 08:11:09.794460
