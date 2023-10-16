@@ -10452,3 +10452,22 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-15 23:07:21.842892
+------------------------------------------------------
+Started: 2023-10-16 00:35:29.878458
+Existing_entries: 588
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [90后回流东北，花10万块自建房：没有房贷，身体都变好了](https://www.36kr.com/p/2474901149341829)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [36氪首发｜金睛云华完成近亿元B轮融资，自研网络安全行业大模型](https://www.36kr.com/p/2474976020469635)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Feed error: 404
+append_entries: 2
+error when rendering xml, skip rss/36KR
