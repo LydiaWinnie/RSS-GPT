@@ -9816,3 +9816,12 @@ Append: [「中英」震驚與悲痛過後，以色列人面臨一場新的戰�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-16 10:08:51.065767
+------------------------------------------------------
+Started: 2023-10-16 11:06:35.702133
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-16 11:06:37.566559

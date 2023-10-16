@@ -10657,3 +10657,20 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 1
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-10-16 11:06:40.228646
+Existing_entries: 614
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [App不备案不得上架，新规将扼杀苹果“涉黄”App？](https://www.36kr.com/p/2476848247117702)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [21岁大学生揭开2000年前古卷之谜：用AI重现“消失的”文字，赢得4万美元奖金](https://www.36kr.com/p/2476649648707712)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-16 11:09:29.200059
