@@ -9873,3 +9873,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-16 13:11:50.954011
+------------------------------------------------------
+Started: 2023-10-16 14:07:51.828476
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [陽明山溫泉浴室一度缺水關閉 業者：少雨致源頭水量不足](https://news.pts.org.tw/article/662075)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [清潔不合格扣住宿保證金 亞洲大學：比照校外租屋機制](https://news.pts.org.tw/article/662066)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [婦人擅闖未鎖車猝死 法院判家屬賠車主32萬](https://news.pts.org.tw/article/662077)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [桃園觀音錦美紙業傍晚大火 廠內多易燃物火勢猛烈](https://news.pts.org.tw/article/662070)
+append_entries: 4
+Finish: 2023-10-16 14:07:55.797429
