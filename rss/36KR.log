@@ -10623,3 +10623,22 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Append: [最容易被辞退的10种管理者](https://www.36kr.com/p/2476755757619333)
 append_entries: 8
 Finish: 2023-10-16 08:13:58.843088
+------------------------------------------------------
+Started: 2023-10-16 09:08:37.692490
+Existing_entries: 612
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [现代学校如何与管理员、教师和学生一起应用AI技术？](https://www.36kr.com/p/2476594580103305)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [碾压GPT-4，微软最强AutoGen爆火，多个智能体协作，编码速度飙升4倍，GitHub狂揽10k星](https://www.36kr.com/p/2476817631713413)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-16 09:12:02.013162

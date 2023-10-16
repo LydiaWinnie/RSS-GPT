@@ -9795,3 +9795,12 @@ Append: [以巴戰爭／南韓與泰國出動軍機撤僑 日僑需自費6.5千�
 Append: [雲林縣殯葬量能不足 擬修法放寬殯儀館周界惹議](https://news.pts.org.tw/article/661969)
 append_entries: 7
 Finish: 2023-10-16 08:11:09.794460
+------------------------------------------------------
+Started: 2023-10-16 09:08:33.983452
+Existing_entries: 1007
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-16 09:08:34.834306
