@@ -9760,3 +9760,12 @@ Append: [網路冒用名人投資廣告 24小時內不下架最高罰60萬](http
 Append: [傳三軍主戰兵力編現比未達8成 擬分發義務役補缺額](https://news.pts.org.tw/article/661961)
 append_entries: 12
 Finish: 2023-10-16 06:11:00.215727
+------------------------------------------------------
+Started: 2023-10-16 07:07:28.164309
+Existing_entries: 1012
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-16 07:07:28.970151
