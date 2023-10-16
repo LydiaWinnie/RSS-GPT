@@ -9894,3 +9894,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [桃園觀音錦美紙業傍晚大火 廠內多易燃物火勢猛烈](https://news.pts.org.tw/article/662070)
 append_entries: 4
 Finish: 2023-10-16 14:07:55.797429
+------------------------------------------------------
+Started: 2023-10-16 15:07:56.288281
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-16 15:07:57.244660
