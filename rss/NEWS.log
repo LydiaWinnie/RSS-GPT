@@ -9669,3 +9669,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-10-16 01:44:29.676140
+------------------------------------------------------
+Started: 2023-10-16 02:17:43.538545
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [札幌爭辦2034冬奧恐也無望 美國鹽湖城呼聲高](https://news.pts.org.tw/article/661916)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以軍將揮軍進入加薩 哈瑪斯稱自黎巴嫩發射2枚火箭](https://news.pts.org.tw/article/661917)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [竹北工地旁瓦斯外洩 開挖後釀道路塌陷](https://news.pts.org.tw/article/661926)
+append_entries: 3
+Finish: 2023-10-16 02:17:44.863910
