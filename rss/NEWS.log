@@ -9687,3 +9687,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [竹北工地旁瓦斯外洩 開挖後釀道路塌陷](https://news.pts.org.tw/article/661926)
 append_entries: 3
 Finish: 2023-10-16 02:17:44.863910
+------------------------------------------------------
+Started: 2023-10-16 03:08:34.572745
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-16 03:08:36.786099
