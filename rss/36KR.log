@@ -10471,3 +10471,30 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 2
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-10-16 01:44:33.062750
+Existing_entries: 588
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [月薪两万的新中产，都在沉迷这种快乐](https://www.36kr.com/p/2476330195769474)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [90后回流东北，花10万块自建房：没有房贷，身体都变好了](https://www.36kr.com/p/2474901149341829)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [对齐的人为性：如何让AI“符合人类价值”？巨头们的探索是为产品，还是人类？](https://www.36kr.com/p/2473866928185478)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大模型引发“暴力计算”，巨头加速推进液冷“降温”](https://www.36kr.com/p/2476324258355334)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [千万人围观「烧焦婴儿」图片，伯克利教授辟谣：AI图片检测器无用](https://www.36kr.com/p/2475194673797256)
+Append: [36氪首发｜金睛云华完成近亿元B轮融资，自研网络安全行业大模型](https://www.36kr.com/p/2474976020469635)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 6
+Finish: 2023-10-16 01:46:43.279522
