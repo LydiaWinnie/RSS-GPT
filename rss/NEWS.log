@@ -9720,3 +9720,12 @@ Append: [「中英」巴以之間錯失的和平機會](https://cn.nytimes.com/o
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 5
 Finish: 2023-10-16 04:09:28.521458
+------------------------------------------------------
+Started: 2023-10-16 05:07:49.037561
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-16 05:07:50.337784
