@@ -9729,3 +9729,34 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-16 05:07:50.337784
+------------------------------------------------------
+Started: 2023-10-16 06:10:56.756859
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國內緝毒史產量最多製毒廠 警方破獲北中南三地據點](https://news.pts.org.tw/article/661972)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴衝突影響國際金融市場 台股一度跌近160點](https://news.pts.org.tw/article/661962)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [宜蘭遊覽車險撞2行人 路口號誌與動線設計引檢討](https://news.pts.org.tw/article/661953)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [預立醫療諮商最快明年納健保 失智等11類人優先可省3千](https://news.pts.org.tw/article/661956)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [駐中幹部宿舍猝死 勞檢處促六和機械說明](https://news.pts.org.tw/article/661954)
+Append: [海基會金門舉辦考察 傳中國施壓台商勿參加](https://news.pts.org.tw/article/661959)
+Append: [MeToo浪潮曝性平意識不足 民團籲國中小應落實性教育](https://news.pts.org.tw/article/661955)
+Append: [心靈成長機構被控無資格卻開課 初估受害金額上千萬且涉性騷](https://news.pts.org.tw/article/661966)
+Append: [大人放手讓女童騎機車 警方：將吊扣駕照3個月](https://news.pts.org.tw/article/661967)
+Append: [台鐵EMU3000將成東部主力 交通部：普、太並非全面退出](https://news.pts.org.tw/article/661968)
+Append: [網路冒用名人投資廣告 24小時內不下架最高罰60萬](https://news.pts.org.tw/article/661971)
+Append: [傳三軍主戰兵力編現比未達8成 擬分發義務役補缺額](https://news.pts.org.tw/article/661961)
+append_entries: 12
+Finish: 2023-10-16 06:11:00.215727
