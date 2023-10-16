@@ -9825,3 +9825,38 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-16 11:06:37.566559
+------------------------------------------------------
+Started: 2023-10-16 12:14:29.670492
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國呼籲締造中東和平，但避談哈馬斯對以色列的襲擊](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E5%91%BC%E7%B1%B2%E7%B7%A0%E9%80%A0%E4%B8%AD%E6%9D%B1%E5%92%8C%E5%B9%B3-%E4%BD%86%E9%81%BF%E8%AB%87%E5%93%88%E9%A6%AC%E6%96%AF%E5%B0%8D%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E8%A5%B2%E6%93%8A-ecdb8c89)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列準備疏散黎巴嫩邊境附近居民](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E6%BA%96%E5%82%99%E7%96%8F%E6%95%A3%E9%BB%8E%E5%B7%B4%E5%AB%A9%E9%82%8A%E5%A2%83%E9%99%84%E8%BF%91%E5%B1%85%E6%B0%91-241f2918)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2050年氫能占9到12% 中油：除了進口也要自產](https://news.pts.org.tw/article/662065)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／藍白合二次會卡關 侯友宜：會釋最大善意溝通](https://news.pts.org.tw/article/662080)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [疫情後國際觀光僅恢復一半 陸客團2023年不會解禁](https://news.pts.org.tw/article/662082)
+Append: [北市東湖國小合唱團階梯架倒塌 10學童摔落送醫均輕傷](https://news.pts.org.tw/article/662083)
+Append: [嘉義民雄平房火警 獨留2名幼童在家不幸喪命](https://news.pts.org.tw/article/662084)
+Append: [以巴戰爭／部分國家出現仇恨犯罪 美房東殺害穆斯林房客](https://news.pts.org.tw/article/662085)
+Append: [以巴戰爭／美遊走阿拉伯6國阻衝突 與埃及協議重啟加薩拉法關口](https://news.pts.org.tw/article/662086)
+Append: [波蘭大選出口民調 在野聯盟贏過半勝出](https://news.pts.org.tw/article/662071)
+Append: [AIT主席訪台重申美承諾 盼台允保持現狀](https://news.pts.org.tw/article/662079)
+Append: [住宅價格指數較上季漲1.51% 內政部：連4季房價漲勢趨緩](https://news.pts.org.tw/article/662076)
+Append: [以巴戰爭／以色列死亡人數逾1400人 財長認：未能維護公民安全](https://news.pts.org.tw/article/662025)
+Append: [紐西蘭國會大選變天 國家黨盧克森上任將組聯合政府](https://news.pts.org.tw/article/662021)
+Append: [南韓老化部分城鎮瀕臨消失 社區推在地經濟盼重現活力](https://news.pts.org.tw/article/662017)
+append_entries: 15
+Finish: 2023-10-16 12:14:32.804391
