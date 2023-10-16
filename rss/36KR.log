@@ -10687,3 +10687,20 @@ Feed error: 524
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-16 12:19:20.816978
+------------------------------------------------------
+Started: 2023-10-16 13:11:54.146323
+Existing_entries: 616
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [手机厂商抢滩AI换机潮](https://www.36kr.com/p/2477006689539973)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [对标马斯克的X，前IG创始人打造新闻「神器」，用生成AI整治「标题党」](https://www.36kr.com/p/2477006364530565)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-16 13:12:24.596604
