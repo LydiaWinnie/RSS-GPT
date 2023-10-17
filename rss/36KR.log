@@ -10869,3 +10869,26 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-10-17 03:08:05.056456
+Existing_entries: 621
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [短剧进入下半场：单部分账千万级，观看用户超1亿](https://www.36kr.com/p/2477236790206594)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2023快过完了，到底还有多少积压剧“无家可归”？](https://www.36kr.com/p/2477206593673091)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [北京教师12年遍寻野庙，每个睡一晚：无意义的事最治愈](https://www.36kr.com/p/2477733553199237)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Feed error: 404
+append_entries: 3
+error when rendering xml, skip rss/36KR
