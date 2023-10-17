@@ -10125,3 +10125,12 @@ Append: [長榮航空迎賓詩卡引曖昧爭議 空服工會發起拒簽](https
 Append: [6成糾紛以租客退讓收場 民團籲設法扶助租屋族](https://news.pts.org.tw/article/662137)
 append_entries: 18
 Finish: 2023-10-17 07:07:44.853297
+------------------------------------------------------
+Started: 2023-10-17 08:10:14.928970
+Existing_entries: 1018
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-17 08:10:20.710069
