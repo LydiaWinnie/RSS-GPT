@@ -10007,3 +10007,12 @@ Append: [桃園觀音紙業公司大火 堆滿大量易燃物幸無傷亡](https
 Append: [桃捷A5站機房傳爆炸聲 A1至A7站停駛逾1小時](https://news.pts.org.tw/article/662111)
 append_entries: 11
 Finish: 2023-10-17 00:34:47.401256
+------------------------------------------------------
+Started: 2023-10-17 01:43:14.750979
+Existing_entries: 1011
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-17 01:43:15.857441
