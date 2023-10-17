@@ -10183,3 +10183,40 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-17 12:14:18.465677
+------------------------------------------------------
+Started: 2023-10-17 13:10:59.855549
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [不顧美國壓力，中國歡迎普丁訪華](https://cn.wsj.com/articles/%E4%B8%8D%E9%A1%A7%E7%BE%8E%E5%9C%8B%E5%A3%93%E5%8A%9B-%E4%B8%AD%E5%9C%8B%E6%AD%A1%E8%BF%8E%E6%99%AE%E4%B8%81%E8%A8%AA%E8%8F%AF-a6bf8f12)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [布魯塞爾恐襲一名嫌疑人被警方擊斃](https://cn.wsj.com/articles/%E5%B8%83%E9%AD%AF%E5%A1%9E%E7%88%BE%E6%81%90%E8%A5%B2%E4%B8%80%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%93%8A%E6%96%83-cecfc81b)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列在拜登訪問前夕襲擊加沙地帶200個目標](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9C%A8%E6%8B%9C%E7%99%BB%E8%A8%AA%E5%95%8F%E5%89%8D%E5%A4%95%E8%A5%B2%E6%93%8A%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%B6200%E5%80%8B%E7%9B%AE%E6%A8%99-e4d91907)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [銷售降又陷鴉片官司 美國連鎖藥局聲請破產](https://news.pts.org.tw/article/662259)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [未滿1歲小黑熊誤入陷阱獲救 保育團體呼籲改良獵具實名制](https://news.pts.org.tw/article/662256)
+Append: [南韓國防航太展 研發KF-21新戰機受矚目](https://news.pts.org.tw/article/662260)
+Append: [高雄青年失業率不降反升 傳產無法滿足就業需求](https://news.pts.org.tw/article/662263)
+Append: [大直鄰損案災況頻傳住戶憂 技師證實地層持續下陷](https://news.pts.org.tw/article/662267)
+Append: [登革熱流感疫情仍嚴重 最小流感死亡個案僅11個月](https://news.pts.org.tw/article/662268)
+Append: [廖瓊枝獲總統文化獎文化耕耘獎 社會改革獎公視《我們的島》【涉己新聞】](https://news.pts.org.tw/article/662253)
+Append: [相隔逾百年 棒壘球及袋棍球重返2028奧運](https://news.pts.org.tw/article/662254)
+Append: [公然侮辱重判3個月 最高檢：超出法定刑提非常上訴](https://news.pts.org.tw/article/662265)
+Append: [2024大選／藍白合侯陣營盼談折衷方案 柯提全民調2方案](https://news.pts.org.tw/article/662269)
+Append: [徐佩勇等3駐外官員涉性騷 申訴皆成立函送監院](https://news.pts.org.tw/article/662270)
+Append: [以巴戰爭／哈瑪斯首公布人質畫面 稱扣押200至250人](https://news.pts.org.tw/article/662273)
+Append: [龍科3期擴建引部分居民抗爭 竹科：將調整擴建範圍](https://news.pts.org.tw/article/662274)
+Append: [台積電宣布不考慮進駐龍科 王美花：全力助留下先進製程](https://news.pts.org.tw/article/662275)
+Append: [中國一帶一路論壇明揭幕 蒲亭將開幕演說晤習近平](https://news.pts.org.tw/article/662213)
+append_entries: 18
+Finish: 2023-10-17 13:11:02.410751
