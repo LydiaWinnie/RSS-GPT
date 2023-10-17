@@ -10079,3 +10079,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [龍潭擴廠計畫台積電喊停 宣布不考慮進駐龍科園區](https://news.pts.org.tw/article/662125)
 append_entries: 4
 Finish: 2023-10-17 05:07:07.810311
+------------------------------------------------------
+Started: 2023-10-17 06:10:30.925531
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-17 06:10:32.586829
