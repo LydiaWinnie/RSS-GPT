@@ -10892,3 +10892,36 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 3
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-10-17 04:09:14.113787
+Existing_entries: 621
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI大模型「中文逍遥1.0」发布，机器写小说、设计配图的时代来了](https://www.36kr.com/p/2476979746690947)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [短剧进入下半场：单部分账千万级，观看用户超1亿](https://www.36kr.com/p/2477236790206594)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2023快过完了，到底还有多少积压剧“无家可归”？](https://www.36kr.com/p/2477206593673091)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [我倒是想citywalk，但这个city没准备好](https://www.36kr.com/p/2477742890014849)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [北京教师12年遍寻野庙，每个睡一晚：无意义的事最治愈](https://www.36kr.com/p/2477733553199237)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Append: [13 个字母价值 4 万美元？21 岁大学生用 AI 破译千年古卷](https://www.36kr.com/p/2477212368640132)
+Append: [AI多久能取代人类员工？](https://www.36kr.com/p/2477739406743428)
+Append: [百川智能完成A1轮3亿美元战略融资，阿里腾讯小米参与｜最前线](https://www.36kr.com/p/2477865355089792)
+Append: [春江水暖鸭先知：洞悉AIGC技术趋势，把握内容产业变革的先机](https://www.36kr.com/p/2477167682248579)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Append: [职业焦虑？送给想做做自媒体副业的4个忠告](https://www.36kr.com/p/2477862063349641)
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Append: [送给管理者的8条建议，让绩效反馈更有意义](https://www.36kr.com/p/2477739779610754)
+append_entries: 11
+Finish: 2023-10-17 04:11:20.549279
