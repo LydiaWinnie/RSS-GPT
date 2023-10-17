@@ -10173,3 +10173,13 @@ Append: [「中英」普丁訪華參加「一帶一路」論壇，中俄尋求�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-17 11:06:45.504873
+------------------------------------------------------
+Started: 2023-10-17 12:14:15.997817
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-17 12:14:18.465677
