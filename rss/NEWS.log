@@ -10220,3 +10220,15 @@ Append: [台積電宣布不考慮進駐龍科 王美花：全力助留下先進�
 Append: [中國一帶一路論壇明揭幕 蒲亭將開幕演說晤習近平](https://news.pts.org.tw/article/662213)
 append_entries: 18
 Finish: 2023-10-17 13:11:02.410751
+------------------------------------------------------
+Started: 2023-10-17 14:07:19.513482
+Existing_entries: 1018
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國總統候選人怎麼不辯論中國議題了？](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E6%80%8E%E9%BA%BC%E4%B8%8D%E5%B0%B1%E4%B8%AD%E5%9C%8B%E5%B1%95%E9%96%8B%E8%BE%AF%E8%AB%96%E4%BA%86-2f35e24d)
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-17 14:07:20.768775
