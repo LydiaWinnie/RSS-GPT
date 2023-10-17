@@ -10152,3 +10152,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [研究：ChatGPT更能遵循憂鬱症治療指引 且無明顯偏見](https://news.pts.org.tw/article/662155)
 append_entries: 3
 Finish: 2023-10-17 09:07:55.460300
+------------------------------------------------------
+Started: 2023-10-17 10:08:28.579176
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-17 10:08:29.408655
