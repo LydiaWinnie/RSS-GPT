@@ -10088,3 +10088,40 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-17 06:10:32.586829
+------------------------------------------------------
+Started: 2023-10-17 07:07:41.552345
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [韓國稱哈馬斯襲擊以色列可能依賴北韓援助](https://cn.wsj.com/articles/%E9%9F%93%E5%9C%8B%E7%A8%B1%E5%93%88%E9%A6%AC%E6%96%AF%E8%A5%B2%E6%93%8A%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%AF%E8%83%BD%E4%BE%9D%E8%B3%B4%E5%8C%97%E9%9F%93%E6%8F%B4%E5%8A%A9-a2bb09e0)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」美國是如何在台灣問題上「火上澆油」的](https://cn.nytimes.com/opinion/20231017/china-us-taiwan-war/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」成敗皆由它：中國經濟為押注房地產付出代價](https://cn.nytimes.com/business/20231017/china-evergrande-country-garden/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [控某長照機構違法加盟且未分潤 中巿府：待確認有無僱傭關係](https://news.pts.org.tw/article/662136)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台灣民主基金會辦工作坊 防假訊息介入大選](https://news.pts.org.tw/article/662141)
+Append: [墾丁國小鵝鑾分校特色課程多 吸引學生跨40公里通勤就讀](https://news.pts.org.tw/article/662135)
+Append: [防堵「約定轉帳」詐騙 金管會擬3方向最快11月底拍板](https://news.pts.org.tw/article/662143)
+Append: [擱淺宜蘭外澳沙灘 2侏儒抹香鯨1死1傷](https://news.pts.org.tw/article/662150)
+Append: [教師法修法上路4年 全教總指背離本意反添濫訴](https://news.pts.org.tw/article/662152)
+Append: [喊真主至大後射殺2瑞典人 比利時歐洲盃資格賽被迫取消](https://news.pts.org.tw/article/662145)
+Append: [全運會高球選手自付場地費引議 南市府：體育局將全額支應](https://news.pts.org.tw/article/662146)
+Append: [藍批韓不良快篩國庫恐認賠4.7億 疾管署：將請求償還款項](https://news.pts.org.tw/article/662151)
+Append: [立院明審囤房稅2.0 立委指稅率對大戶影響有限](https://news.pts.org.tw/article/662144)
+Append: [以巴戰爭／拜登將出訪以色列 歐盟設人道空中走廊](https://news.pts.org.tw/article/662139)
+Append: [潛艦洩密／南韓3國防承包商遭查辦 陳建仁：洩密不可取](https://news.pts.org.tw/article/662142)
+Append: [助陳情服儀規定遭函送 新北教育局否認提告](https://news.pts.org.tw/article/662148)
+Append: [長榮航空迎賓詩卡引曖昧爭議 空服工會發起拒簽](https://news.pts.org.tw/article/662147)
+Append: [6成糾紛以租客退讓收場 民團籲設法扶助租屋族](https://news.pts.org.tw/article/662137)
+append_entries: 18
+Finish: 2023-10-17 07:07:44.853297
