@@ -10244,3 +10244,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [涉為郭台銘連署賄選 新埔代表會主席王增基遭收押](https://news.pts.org.tw/article/662276)
 append_entries: 1
 Finish: 2023-10-17 15:08:03.050701
+------------------------------------------------------
+Started: 2023-10-17 16:09:40.388238
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-17 16:09:46.422718
