@@ -10346,3 +10346,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 11
 Finish: 2023-10-18 00:34:41.682395
+------------------------------------------------------
+Started: 2023-10-18 01:42:52.575327
+Existing_entries: 1011
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／加薩醫院爆炸500死 以巴互控犯案](https://news.pts.org.tw/article/662279)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／幫郭連署給4百涉賄 新埔鎮代表會主席遭羈押](https://news.pts.org.tw/article/662278)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國1五楊高架火燒遊覽車 駕駛與14乘客逃生幸無傷亡](https://news.pts.org.tw/article/662277)
+append_entries: 3
+Finish: 2023-10-18 01:42:55.742131
