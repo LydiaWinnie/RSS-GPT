@@ -11400,3 +11400,24 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-18 11:08:33.622459
+------------------------------------------------------
+Started: 2023-10-18 12:14:32.468901
+Existing_entries: 657
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [Gartner发布2024年十大战略技术趋势，全民化的生成式AI上榜](https://www.36kr.com/p/2479659396651145)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [抢跑大模型应用大战，从这场黑客松开始](https://www.36kr.com/p/2479576070379649)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [ChatGPT又被「奶奶漏洞」骗了，PS奶奶遗物，骗Bing完美识别验证码](https://www.36kr.com/p/2479562025457798)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 3
+Finish: 2023-10-18 12:15:09.002673

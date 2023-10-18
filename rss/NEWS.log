@@ -10547,3 +10547,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-18 11:06:31.978898
+------------------------------------------------------
+Started: 2023-10-18 12:14:26.675222
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [拜登譴責醫院爆炸事件，稱以色列沒有責任](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E8%AD%B4%E8%B2%AC%E9%86%AB%E9%99%A2%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6-%E7%A8%B1%E4%BB%A5%E8%89%B2%E5%88%97%E6%B2%92%E6%9C%89%E8%B2%AC%E4%BB%BB-b053f6b9)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [共和黨喬登爭取寶座失利 美眾院議長職位仍空缺](https://news.pts.org.tw/article/662410)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [日本傑尼斯正式改名Smile-Up 估11月起賠償性侵受害者](https://news.pts.org.tw/article/662407)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [亞馬遜河遇121年最低水位 巴西預計乾旱持續至12月](https://news.pts.org.tw/article/662408)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [印度高等法院拒絕同婚申請 主張應交由議會立法](https://news.pts.org.tw/article/662406)
+append_entries: 5
+Finish: 2023-10-18 12:14:28.509901
