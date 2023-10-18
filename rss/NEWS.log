@@ -10589,3 +10589,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-18 14:07:30.426198
+------------------------------------------------------
+Started: 2023-10-18 15:07:54.337898
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國一帶一路峰會登場 蒲習會面有意深化合作](https://news.pts.org.tw/article/662464)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美日韓雅加達會談 批北韓與俄武器交易](https://news.pts.org.tw/article/662465)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [芬園行政園區花6千萬荒廢18年 監院糾正彰縣府及鄉公所](https://news.pts.org.tw/article/662467)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [桃園再查出美豬產地標加拿大 食藥署強調2年來未檢出萊劑](https://news.pts.org.tw/article/662472)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [營養午餐連3天變麵包加飲料 高雄中山小學承諾改進](https://news.pts.org.tw/article/662458)
+Append: [以巴戰爭／盼解以哈人質問題 德總理蕭茲訪以色列商討救援](https://news.pts.org.tw/article/662476)
+Append: [美國舊金山無人計程車上路 8月起全面商業化](https://news.pts.org.tw/article/662462)
+Append: [酒駕撞太魯閣釀26列次誤點 台鐵向駕駛求償2475萬](https://news.pts.org.tw/article/662461)
+Append: [東協躍居台對外投資首位 缺工限電等問題成挑戰](https://news.pts.org.tw/article/662466)
+Append: [竹北工地3度坍塌 新竹縣府再開罰9萬元](https://news.pts.org.tw/article/662468)
+Append: [2024大選／藍白合作陷僵局 柯文哲：和郭合作較簡單](https://news.pts.org.tw/article/662469)
+Append: [吳季穎自曝配合簽賭打假球 今到案以25萬交保](https://news.pts.org.tw/article/662470)
+Append: [國軍戰備檢驗防共軍登陸 七星潭再納「紅色沙灘」](https://news.pts.org.tw/article/662473)
+Append: [台積電宣布不考慮進駐龍潭 各地方政府積極爭取](https://news.pts.org.tw/article/662475)
+Append: [以巴戰爭／拜登抵以色列 與總理會談試圖緩解危機](https://news.pts.org.tw/article/662477)
+append_entries: 15
+Finish: 2023-10-18 15:07:57.371703
