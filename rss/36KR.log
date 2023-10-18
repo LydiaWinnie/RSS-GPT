@@ -11481,3 +11481,24 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-18 17:08:57.384116
+------------------------------------------------------
+Started: 2023-10-18 18:10:12.831830
+Existing_entries: 660
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI大模型遇上智能手表，真的能“救命”吗](https://www.36kr.com/p/2479804328318850)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [单件3分钱，那些喂养大模型的人](https://www.36kr.com/p/2479836720322437)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大模型搞“人肉搜索”，准确率高达95.8%，研究作者：已提醒OpenAI谷歌Meta](https://www.36kr.com/p/2479854902532228)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 3
+Finish: 2023-10-18 18:10:50.733323
