@@ -10364,3 +10364,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [國1五楊高架火燒遊覽車 駕駛與14乘客逃生幸無傷亡](https://news.pts.org.tw/article/662277)
 append_entries: 3
 Finish: 2023-10-18 01:42:55.742131
+------------------------------------------------------
+Started: 2023-10-18 02:16:22.097314
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-18 02:16:23.581574
