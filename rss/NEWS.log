@@ -10496,3 +10496,18 @@ Append: [以巴戰爭／加薩醫院爆炸500死 阿拉伯領導人退出與美�
 Append: [台南西市場出現明火設備 市場處：加強攤商古蹟經營教育](https://news.pts.org.tw/article/662349)
 append_entries: 10
 Finish: 2023-10-18 08:10:13.073267
+------------------------------------------------------
+Started: 2023-10-18 09:08:18.444712
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國批准駐黎巴嫩大使館部分人員及家眷撤離](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E6%89%B9%E5%87%86%E9%A7%90%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%A4%A7%E4%BD%BF%E9%A4%A8%E9%83%A8%E5%88%86%E4%BA%BA%E5%93%A1%E5%8F%8A%E5%AE%B6%E7%9C%B7%E6%92%A4%E9%9B%A2-9920621b)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」為什麼佔領加薩對以色列來說是不明智的](https://cn.nytimes.com/opinion/20231018/israel-gaza-war/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-10-18 09:08:20.466935
