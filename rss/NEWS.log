@@ -10443,3 +10443,18 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [台積電退出龍潭廠藍綠互槓 張善政：勿政治口水](https://news.pts.org.tw/article/662352)
 append_entries: 5
 Finish: 2023-10-18 05:07:44.006442
+------------------------------------------------------
+Started: 2023-10-18 06:10:36.874170
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [越境北韓的美國士兵Travis King被驅逐出境，已被美國扣押](https://cn.wsj.com/articles/%E8%B6%8A%E5%A2%83%E9%80%B2%E5%85%A5%E5%8C%97%E9%9F%93%E7%9A%84%E7%BE%8E%E5%9C%8B%E5%A3%AB%E5%85%B5travis-king%E5%B0%87%E8%A2%AB%E9%A9%85%E9%80%90%E5%87%BA%E5%A2%83-d0aecbd1)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」中國三季度GDP增長超預期，房地產危機陰影未散](https://cn.nytimes.com/business/20231018/china-gdp-q3/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-10-18 06:10:45.881852
