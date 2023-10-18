@@ -10467,3 +10467,32 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-18 07:07:23.496140
+------------------------------------------------------
+Started: 2023-10-18 08:10:08.836061
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [宜蘭行口舊倉庫、歷史建物委外 權利金過高3度流標](https://news.pts.org.tw/article/662348)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [花蓮環局設移動式水質感應器 即時監測掌握汙染排放](https://news.pts.org.tw/article/662342)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [擬引移工改善旅宿業缺工遭批 勞動部長：以本國勞工優先](https://news.pts.org.tw/article/662346)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美再限縮AI晶片銷中 恐衝擊輝達等大廠影響台積電](https://news.pts.org.tw/article/662347)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [石門水庫SUP誤入船艇航道 北水分署：將加強巡檢](https://news.pts.org.tw/article/662343)
+Append: [公費流感疫苗現拒打高端潮 食藥署：查驗登記都符合法規](https://news.pts.org.tw/article/662354)
+Append: [馬來西亞籍男攀奇萊山墜邊坡 消防吊掛救出](https://news.pts.org.tw/article/662355)
+Append: [以巴衝突負面效應擴散 法國凡爾賽宮又收炸彈威脅](https://news.pts.org.tw/article/662357)
+Append: [以巴戰爭／加薩醫院爆炸500死 阿拉伯領導人退出與美峰會](https://news.pts.org.tw/article/662358)
+Append: [台南西市場出現明火設備 市場處：加強攤商古蹟經營教育](https://news.pts.org.tw/article/662349)
+append_entries: 10
+Finish: 2023-10-18 08:10:13.073267
