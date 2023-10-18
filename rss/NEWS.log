@@ -10635,3 +10635,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [球星吳季穎涉配合簽賭打假球 籃協決議註銷球員資格](https://news.pts.org.tw/article/662479)
 append_entries: 1
 Finish: 2023-10-18 16:09:19.253296
+------------------------------------------------------
+Started: 2023-10-18 17:07:01.984174
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-18 17:07:02.872611
