@@ -10623,3 +10623,15 @@ Append: [台積電宣布不考慮進駐龍潭 各地方政府積極爭取](https
 Append: [以巴戰爭／拜登抵以色列 與總理會談試圖緩解危機](https://news.pts.org.tw/article/662477)
 append_entries: 15
 Finish: 2023-10-18 15:07:57.371703
+------------------------------------------------------
+Started: 2023-10-18 16:09:14.751733
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [球星吳季穎涉配合簽賭打假球 籃協決議註銷球員資格](https://news.pts.org.tw/article/662479)
+append_entries: 1
+Finish: 2023-10-18 16:09:19.253296
