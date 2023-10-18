@@ -10316,3 +10316,33 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-17 23:07:18.072023
+------------------------------------------------------
+Started: 2023-10-18 00:34:36.808134
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [巴勒斯坦官員稱加沙醫院遇襲，至少500人喪生](https://cn.wsj.com/articles/%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%AE%98%E5%93%A1%E7%A8%B1%E5%8A%A0%E6%B2%99%E9%86%AB%E9%99%A2%E9%81%87%E8%A5%B2-%E8%87%B3%E5%B0%91500%E4%BA%BA%E5%96%AA%E7%94%9F-a978967f)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [抗議者在約旦街頭批評以色列和拜登](https://cn.wsj.com/articles/%E6%8A%97%E8%AD%B0%E8%80%85%E5%9C%A8%E7%B4%84%E6%97%A6%E8%A1%97%E9%A0%AD%E6%89%B9%E8%A9%95%E4%BB%A5%E8%89%B2%E5%88%97%E5%92%8C%E6%8B%9C%E7%99%BB-39e7f3ab)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [Jim Jordan在美國眾議院議長的首輪投票中落敗](https://cn.wsj.com/articles/jim-jordan%E5%9C%A8%E7%BE%8E%E5%9C%8B%E7%9C%BE%E8%AD%B0%E9%99%A2%E8%AD%B0%E9%95%B7%E7%9A%84%E9%A6%96%E8%BC%AA%E6%8A%95%E7%A5%A8%E4%B8%AD%E8%90%BD%E6%95%97-8cae35cb)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列仍未就地面入侵加沙作出決定](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E4%BB%8D%E6%9C%AA%E5%B0%B1%E5%9C%B0%E9%9D%A2%E5%85%A5%E4%BE%B5%E5%8A%A0%E6%B2%99%E4%BD%9C%E5%87%BA%E6%B1%BA%E5%AE%9A-a5c39047)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國延長在以色列附近執行任務的航母打擊群的巡航時間](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%BB%B6%E9%95%B7%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E9%99%84%E8%BF%91%E5%9F%B7%E8%A1%8C%E4%BB%BB%E5%8B%99%E7%9A%84%E8%88%AA%E6%AF%8D%E6%89%93%E6%93%8A%E7%BE%A4%E7%9A%84%E5%B7%A1%E8%88%AA%E6%99%82%E9%96%93-48492505)
+Append: [伊朗警告以色列：若不停止在加沙的暴行將面臨又一波攻擊](https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E4%BB%A5%E8%89%B2%E5%88%97-%E8%8B%A5%E4%B8%8D%E5%81%9C%E6%AD%A2%E5%9C%A8%E5%8A%A0%E6%B2%99%E7%9A%84%E6%9A%B4%E8%A1%8C%E5%B0%87%E9%9D%A2%E8%87%A8%E5%8F%88%E4%B8%80%E6%B3%A2%E6%94%BB%E6%93%8A-1990af43)
+Append: [中國銀行和中國進出口銀行前行長劉連舸因涉嫌腐敗被捕](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E9%8A%80%E8%A1%8C%E5%92%8C%E4%B8%AD%E5%9C%8B%E9%80%B2%E5%87%BA%E5%8F%A3%E9%8A%80%E8%A1%8C%E5%89%8D%E8%A1%8C%E9%95%B7%E5%8A%89%E9%80%A3%E8%88%B8%E5%9B%A0%E6%B6%89%E5%AB%8C%E8%85%90%E6%95%97%E8%A2%AB%E6%8D%95-659fb39)
+Append: [美國駐俄大使第五次探視被拘留的《華爾街日報》記者埃文·格什科維奇](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E9%A7%90%E4%BF%84%E5%A4%A7%E4%BD%BF%E7%AC%AC%E4%BA%94%E6%AC%A1%E6%8E%A2%E8%A6%96%E8%A2%AB%E6%8B%98%E7%95%99%E7%9A%84-%E8%8F%AF%E7%88%BE%E8%A1%97%E6%97%A5%E5%A0%B1-%E8%A8%98%E8%80%85%E5%9F%83%E6%96%87-%E6%A0%BC%E4%BB%80%E7%A7%91%E7%B6%AD%E5%A5%87-ba241a99)
+Append: [瑞典稱第二條波羅的海水下電纜遭到破壞](https://cn.wsj.com/articles/%E7%91%9E%E5%85%B8%E7%A8%B1%E7%AC%AC%E4%BA%8C%E6%A2%9D%E6%B3%A2%E7%BE%85%E7%9A%84%E6%B5%B7%E6%B0%B4%E4%B8%8B%E9%9B%BB%E7%BA%9C%E9%81%AD%E5%88%B0%E7%A0%B4%E5%A3%9E-9ad9c36d)
+Append: [烏克蘭首次向俄羅斯軍隊發射ATACMS飛彈](https://cn.wsj.com/articles/%E7%83%8F%E5%85%8B%E8%98%AD%E9%A6%96%E6%AC%A1%E5%90%91%E4%BF%84%E7%BE%85%E6%96%AF%E8%BB%8D%E9%9A%8A%E7%99%BC%E5%B0%84atacms%E9%A3%9B%E5%BD%88-3601b150)
+Append: [俄羅斯國家杜馬投票撤銷對國際禁止核試驗條約的批准](https://cn.wsj.com/articles/%E4%BF%84%E7%BE%85%E6%96%AF%E5%9C%8B%E5%AE%B6%E6%9D%9C%E9%A6%AC%E6%8A%95%E7%A5%A8%E6%92%A4%E9%8A%B7%E5%B0%8D%E5%9C%8B%E9%9A%9B%E7%A6%81%E6%AD%A2%E6%A0%B8%E8%A9%A6%E9%A9%97%E6%A2%9D%E7%B4%84%E7%9A%84%E6%89%B9%E5%87%86-f284854d)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 11
+Finish: 2023-10-18 00:34:41.682395
