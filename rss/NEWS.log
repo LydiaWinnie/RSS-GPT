@@ -10511,3 +10511,27 @@ Append: [「中英」為什麼佔領加薩對以色列來說是不明智的](htt
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-10-18 09:08:20.466935
+------------------------------------------------------
+Started: 2023-10-18 10:08:10.732911
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [普丁出席一帶一路論壇 另提「北方海路」邀參與開發](https://news.pts.org.tw/article/662390)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／美約埃巴四方會談破局 認識巴勒斯坦自治政府主席阿巴斯](https://news.pts.org.tw/article/662389)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [什麼是碳捕捉？台灣能藉此達成2050淨零願景嗎？【獨立特派員】](https://news.pts.org.tw/article/662388)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國人愛吃保健食品，如何食用要留意！【獨立特派員】](https://news.pts.org.tw/article/662360)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [護理人員爆離職潮，職場環境如何改善？【獨立特派員】](https://news.pts.org.tw/article/662359)
+append_entries: 5
+Finish: 2023-10-18 10:08:15.137393
