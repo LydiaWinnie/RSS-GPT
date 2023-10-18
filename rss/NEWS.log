@@ -10458,3 +10458,12 @@ Append: [「中英」中國三季度GDP增長超預期，房地產危機陰影�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-10-18 06:10:45.881852
+------------------------------------------------------
+Started: 2023-10-18 07:07:21.226708
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-18 07:07:23.496140
