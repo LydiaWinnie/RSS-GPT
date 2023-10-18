@@ -10418,3 +10418,28 @@ Append: [「中英」拜登出訪以色列：一次充滿政治風險和人身�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 5
 Finish: 2023-10-18 04:09:13.740893
+------------------------------------------------------
+Started: 2023-10-18 05:07:25.891954
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 522
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [擺脫行人地獄惡名 《道交法》拚本會期通過草案](https://news.pts.org.tw/article/662350)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [馬英九批美意圖把台積電當武器 吳釗燮：對馬言論感到遺憾](https://news.pts.org.tw/article/662351)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [小琉球每平方公尺不到1隻魚 綠色和平：沿岸生態資源枯竭](https://news.pts.org.tw/article/662341)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [失聯移工增2倍達8.4萬人 立委疑語言與高仲介費為主因](https://news.pts.org.tw/article/662345)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台積電退出龍潭廠藍綠互槓 張善政：勿政治口水](https://news.pts.org.tw/article/662352)
+append_entries: 5
+Finish: 2023-10-18 05:07:44.006442
