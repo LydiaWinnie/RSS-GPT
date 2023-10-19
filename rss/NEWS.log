@@ -10814,3 +10814,40 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-10-19 06:10:24.158558
+------------------------------------------------------
+Started: 2023-10-19 07:07:14.306891
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」「五眼聯盟」指中國間諜活動日益針對科技公司](https://cn.nytimes.com/technology/20231019/china-spying-technology/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」攜手普丁，習近平展示改寫全球秩序雄心](https://cn.nytimes.com/china/20231019/putin-xi-china-russia/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [遭投資詐騙220萬 警變裝店員、清潔員埋伏逮人](https://news.pts.org.tw/article/662552)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [立院開公聽會強化警消權益 學者建議由消防署統籌](https://news.pts.org.tw/article/662538)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [控健身房防滑不足致粉碎性骨折 業者稱淋浴間地磚通過試驗](https://news.pts.org.tw/article/662543)
+Append: [台糖屏東豬場統包欠8千萬 工人陳抗決定罷工](https://news.pts.org.tw/article/662546)
+Append: [龍科3期擴建續進行 自救會赴科管局抗議](https://news.pts.org.tw/article/662548)
+Append: [宜蘭監獄外家屬放鞭炮慶生 獄方：影響安寧將通報警方](https://news.pts.org.tw/article/662550)
+Append: [以巴戰爭／柏林猶太教堂被丟汽油彈 歐盟憂仇恨言論與假新聞](https://news.pts.org.tw/article/662553)
+Append: [經濟部視SRF為綠能 環團批製造空污不應獎勵補助](https://news.pts.org.tw/article/662547)
+Append: [滿16歲可報考金門酒廠惹議 金酒：廠內碰不到酒](https://news.pts.org.tw/article/662544)
+Append: [護師公會提納替代役等9訴求 衛福部：有待討論](https://news.pts.org.tw/article/662539)
+Append: [立委促加重家暴罪刑責 並設寵物安置所免受害者顧慮](https://news.pts.org.tw/article/662540)
+Append: [轉型正義雙法修正拍板 刪永久保密規定](https://news.pts.org.tw/article/662537)
+Append: [黨產會進高中辦座談引爭議 潘文忠：為研習未違行政中立](https://news.pts.org.tw/article/662541)
+Append: [境外IP訂台灣飯店房價降2成 同業分析：不同客源價差策略](https://news.pts.org.tw/article/662545)
+Append: [2024大選／藍白合破局？ 二次會前會無果卻隔空交戰](https://news.pts.org.tw/article/662542)
+append_entries: 17
+Finish: 2023-10-19 07:07:18.022921
