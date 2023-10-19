@@ -10851,3 +10851,13 @@ Append: [境外IP訂台灣飯店房價降2成 同業分析：不同客源價差�
 Append: [2024大選／藍白合破局？ 二次會前會無果卻隔空交戰](https://news.pts.org.tw/article/662542)
 append_entries: 17
 Finish: 2023-10-19 07:07:18.022921
+------------------------------------------------------
+Started: 2023-10-19 08:10:18.462912
+Existing_entries: 1017
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-19 08:10:20.589919
