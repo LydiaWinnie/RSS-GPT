@@ -10912,3 +10912,37 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [2024大選／郭台銘副手賴佩霞 宣布已放棄美國籍](https://news.pts.org.tw/article/662588)
 append_entries: 4
 Finish: 2023-10-19 12:14:04.775900
+------------------------------------------------------
+Started: 2023-10-19 13:10:49.885442
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [外籍觀光客暴增消費創新高 日本擬車票浮動價格緩人潮](https://news.pts.org.tw/article/662664)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI推升3奈米量產動能 台積電Q3盈餘優於市場預期](https://news.pts.org.tw/article/662668)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [預防台海緊急事態 日將訂沖繩先島群島撤離計畫](https://news.pts.org.tw/article/662676)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台鐵明年元旦公司化 現任局長杜微接董座](https://news.pts.org.tw/article/662659)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [北市高公設比建案漸減少 專家指市場買氣影響](https://news.pts.org.tw/article/662666)
+Append: [永靖公墓用地出租種電偷動工 鄉民不滿抗議](https://news.pts.org.tw/article/662661)
+Append: [外籍移工疑不熟路況卡平交道 巡警按緊急鈕及時解圍](https://news.pts.org.tw/article/662660)
+Append: [自救會籲撤龍科擴建案 竹科：不終止但做適當調整](https://news.pts.org.tw/article/662669)
+Append: [考試院草案僅允成立特種協會 警消反彈籲組工會](https://news.pts.org.tw/article/662675)
+Append: [桃捷棕線輕軌變捷運 經費分攤成審議通過重點](https://news.pts.org.tw/article/662667)
+Append: [屏漁船昇豐128號失聯7個月 運安會：疑遇惡劣海象](https://news.pts.org.tw/article/662662)
+Append: [2024大選／侯友宜稱續與柯文哲溝通 賴清德提淨零五大策略](https://news.pts.org.tw/article/662674)
+Append: [以巴戰爭／衝突情勢升溫 我外交部明啟動專機撤僑](https://news.pts.org.tw/article/662677)
+Append: [以巴戰爭／加薩傷患4成為兒童 埃及允20輛物資車借道](https://news.pts.org.tw/article/662678)
+Append: [以巴戰爭／決議未提以色列自衛權 美否決聯合國人道停火案](https://news.pts.org.tw/article/662679)
+append_entries: 15
+Finish: 2023-10-19 13:10:53.514689
