@@ -10861,3 +10861,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-19 08:10:20.589919
+------------------------------------------------------
+Started: 2023-10-19 09:07:46.853757
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」美國收緊對華人工智慧晶片出口限制](https://cn.nytimes.com/technology/20231019/ai-chips-china-restrictions/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-19 09:07:49.507960
