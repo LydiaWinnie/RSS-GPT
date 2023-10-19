@@ -10796,3 +10796,21 @@ Append: [「中英」從俄烏戰爭到巴以衝突，被重塑的全球政治�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-19 05:07:17.836246
+------------------------------------------------------
+Started: 2023-10-19 06:10:20.856667
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [拜登在訪問以色列、達成加沙援助協議後回到美國](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E5%9C%A8%E8%A8%AA%E5%95%8F%E4%BB%A5%E8%89%B2%E5%88%97-%E9%81%94%E6%88%90%E5%8A%A0%E6%B2%99%E6%8F%B4%E5%8A%A9%E5%8D%94%E8%AD%B0%E5%BE%8C%E5%9B%9E%E5%88%B0%E7%BE%8E%E5%9C%8B-6770a7c0)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [習近平和普丁強調「一帶一路」是通往全球新秩序之路](https://cn.wsj.com/articles/%E7%BF%92%E8%BF%91%E5%B9%B3%E5%92%8C%E6%99%AE%E4%B8%81%E5%A4%A7%E5%8A%9B%E5%BC%B7%E8%AA%BF-%E4%B8%80%E5%B8%B6%E4%B8%80%E8%B7%AF-%E6%98%AF%E9%80%9A%E5%BE%80%E5%85%A8%E7%90%83%E6%96%B0%E7%A7%A9%E5%BA%8F%E4%B9%8B%E8%B7%AF-8ed066c8)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國國防部稱中國領導人指示戰機騷擾美國飛機](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E9%98%B2%E9%83%A8%E7%A8%B1%E4%B8%AD%E5%9C%8B%E9%A0%98%E5%B0%8E%E4%BA%BA%E6%8C%87%E7%A4%BA%E6%88%B0%E6%A9%9F%E9%A8%B7%E6%93%BE%E7%BE%8E%E5%9C%8B%E9%A3%9B%E6%A9%9F-2a07113b)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2023-10-19 06:10:24.158558
