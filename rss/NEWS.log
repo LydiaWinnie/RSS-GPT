@@ -10891,3 +10891,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-19 11:06:38.826404
+------------------------------------------------------
+Started: 2023-10-19 12:14:03.018236
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [英國首相蘇納克抵達以色列](https://cn.wsj.com/articles/%E8%8B%B1%E5%9C%8B%E9%A6%96%E7%9B%B8%E8%98%87%E7%B4%8D%E5%85%8B%E6%8A%B5%E9%81%94%E4%BB%A5%E8%89%B2%E5%88%97-2b8c0d37)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [財政和金融失衡嚴重，警惕中國可能爆發危機](https://cn.wsj.com/articles/%E8%B2%A1%E6%94%BF%E5%92%8C%E9%87%91%E8%9E%8D%E5%A4%B1%E8%A1%A1%E5%9A%B4%E9%87%8D-%E8%AD%A6%E6%83%95%E4%B8%AD%E5%9C%8B%E5%8F%AF%E8%83%BD%E7%88%86%E7%99%BC%E5%8D%B1%E6%A9%9F-b734b8d3)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [委內瑞拉同意舉行大選 美國將對委解除石油等部分制裁](https://news.pts.org.tw/article/662587)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／郭台銘副手賴佩霞 宣布已放棄美國籍](https://news.pts.org.tw/article/662588)
+append_entries: 4
+Finish: 2023-10-19 12:14:04.775900

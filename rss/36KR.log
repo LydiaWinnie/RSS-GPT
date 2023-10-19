@@ -11762,3 +11762,25 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-19 11:06:57.486178
+------------------------------------------------------
+Started: 2023-10-19 12:14:07.955623
+Existing_entries: 682
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [要花多少钱，才敢说自己在“徒步”](https://www.36kr.com/p/2481181627947144)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台积电三季度营收净利双下滑，代工AI芯片成一大收入来源](https://www.36kr.com/p/2481244635191176)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [一文读懂：AI大模型训练中的核心版权问题](https://www.36kr.com/p/2481193779583112)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Feed error: 404
+append_entries: 3
+error when rendering xml, skip rss/36KR
