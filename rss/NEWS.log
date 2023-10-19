@@ -10716,3 +10716,29 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [向心夫婦涉控案件皆無罪 遭境管近4年昨返港](https://news.pts.org.tw/article/662507)
 append_entries: 3
 Finish: 2023-10-19 00:34:14.989236
+------------------------------------------------------
+Started: 2023-10-19 01:42:22.677557
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [真主黨稱其多次襲擊了以色列軍事哨所](https://cn.wsj.com/articles/%E7%9C%9F%E4%B8%BB%E9%BB%A8%E7%A8%B1%E5%85%B6%E5%A4%9A%E6%AC%A1%E8%A5%B2%E6%93%8A%E4%BA%86%E4%BB%A5%E8%89%B2%E5%88%97%E8%BB%8D%E4%BA%8B%E5%93%A8%E6%89%80-da94d21a)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國暫時解除對委內瑞拉的廣泛制裁，為期六個月](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E6%9A%AB%E6%99%82%E8%A7%A3%E9%99%A4%E5%B0%8D%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E7%9A%84%E5%BB%A3%E6%B3%9B%E5%88%B6%E8%A3%81-%E7%82%BA%E6%9C%9F%E5%85%AD%E5%80%8B%E6%9C%88-cc0b8573)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [拜登離開以色列，未會見阿拉伯領導人，也未開放拉法邊境口岸](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E9%9B%A2%E9%96%8B%E4%BB%A5%E8%89%B2%E5%88%97-%E6%9C%AA%E6%9C%83%E8%A6%8B%E9%98%BF%E6%8B%89%E4%BC%AF%E9%A0%98%E5%B0%8E%E4%BA%BA-%E4%B9%9F%E6%9C%AA%E9%96%8B%E6%94%BE%E6%8B%89%E6%B3%95%E9%82%8A%E5%A2%83%E5%8F%A3%E5%B2%B8-4890d049)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [Jim Jordan在眾議長投票中再次落敗，共和黨人正在權衡替代選項](https://cn.wsj.com/articles/jim-jordan%E5%9C%A8%E7%9C%BE%E8%AD%B0%E9%95%B7%E6%8A%95%E7%A5%A8%E4%B8%AD%E5%86%8D%E6%AC%A1%E8%90%BD%E6%95%97-%E5%85%B1%E5%92%8C%E9%BB%A8%E4%BA%BA%E6%AD%A3%E5%9C%A8%E6%AC%8A%E8%A1%A1%E6%9B%BF%E4%BB%A3%E9%81%B8%E9%A0%85-cc1acc54)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [英國首相計劃訪問中東](https://cn.wsj.com/articles/%E8%8B%B1%E5%9C%8B%E9%A6%96%E7%9B%B8%E8%A8%88%E5%8A%83%E8%A8%AA%E5%95%8F%E4%B8%AD%E6%9D%B1-8f5691b9)
+Append: [美國針對哈馬斯資金來源採取制裁措施](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E9%87%9D%E5%B0%8D%E5%93%88%E9%A6%AC%E6%96%AF%E8%B3%87%E9%87%91%E4%BE%86%E6%BA%90%E6%8E%A1%E5%8F%96%E5%88%B6%E8%A3%81%E6%8E%AA%E6%96%BD-e955a2be)
+Append: [美國將為加沙和約旦河西岸提供1億美元的人道主義援助](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%B0%87%E7%82%BA%E5%8A%A0%E6%B2%99%E5%92%8C%E7%B4%84%E6%97%A6%E6%B2%B3%E8%A5%BF%E5%B2%B8%E6%8F%90%E4%BE%9B1%E5%84%84%E7%BE%8E%E5%85%83%E7%9A%84%E4%BA%BA%E9%81%93%E4%B8%BB%E7%BE%A9%E6%8F%B4%E5%8A%A9-e04f5bda)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 7
+Finish: 2023-10-19 01:42:26.430743
