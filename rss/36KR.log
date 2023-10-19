@@ -11603,3 +11603,20 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-19 02:15:50.157366
+------------------------------------------------------
+Started: 2023-10-19 03:07:59.324096
+Existing_entries: 666
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [这届金棕榈，凭什么是“消失的他”?](https://www.36kr.com/p/2480574746449801)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [首次曝光，OpenAI遭遇罕见挫折，中断开发新AI模型](https://www.36kr.com/p/2480636888864905)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-19 03:08:18.814551

@@ -10751,3 +10751,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-19 02:15:45.929432
+------------------------------------------------------
+Started: 2023-10-19 03:07:53.009182
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國國務院一官員因對以色列軍事援助之事而辭職](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E5%8B%99%E9%99%A2%E4%B8%80%E5%AE%98%E5%93%A1%E5%9B%A0%E5%B0%8D%E4%BB%A5%E8%89%B2%E5%88%97%E8%BB%8D%E4%BA%8B%E6%8F%B4%E5%8A%A9%E4%B9%8B%E4%BA%8B%E8%80%8C%E8%BE%AD%E8%81%B7-b2799df3)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [印度高等法院駁回同婚申請 認屬國會職責](https://news.pts.org.tw/article/662495)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／以國同意人道物資借道埃及 拜登：加薩武裝分子誤炸醫院](https://news.pts.org.tw/article/662497)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [籃球球星涉簽賭打假球 吳季穎訊後25萬元交保](https://news.pts.org.tw/article/662506)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [機車逆向闖國道3號 騎士遭休旅車迎面撞擊身亡](https://news.pts.org.tw/article/662500)
+append_entries: 5
+Finish: 2023-10-19 03:07:56.199776
