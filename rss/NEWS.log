@@ -10946,3 +10946,12 @@ Append: [以巴戰爭／加薩傷患4成為兒童 埃及允20輛物資車借道]
 Append: [以巴戰爭／決議未提以色列自衛權 美否決聯合國人道停火案](https://news.pts.org.tw/article/662679)
 append_entries: 15
 Finish: 2023-10-19 13:10:53.514689
+------------------------------------------------------
+Started: 2023-10-19 14:07:38.477031
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-19 14:07:39.875749
