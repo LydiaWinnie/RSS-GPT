@@ -10775,3 +10775,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [機車逆向闖國道3號 騎士遭休旅車迎面撞擊身亡](https://news.pts.org.tw/article/662500)
 append_entries: 5
 Finish: 2023-10-19 03:07:56.199776
+------------------------------------------------------
+Started: 2023-10-19 04:08:52.089848
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-19 04:08:53.744518
