@@ -10784,3 +10784,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-19 04:08:53.744518
+------------------------------------------------------
+Started: 2023-10-19 05:07:15.502400
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」從俄烏戰爭到巴以衝突，被重塑的全球政治格局](https://cn.nytimes.com/world/20231019/biden-israel-putin-china/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-19 05:07:17.836246
