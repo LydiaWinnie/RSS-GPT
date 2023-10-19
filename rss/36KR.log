@@ -11735,3 +11735,17 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [AI时代，领导者的“变与不变”](https://www.36kr.com/p/2480983906639748)
 append_entries: 1
 Finish: 2023-10-19 09:10:06.466778
+------------------------------------------------------
+Started: 2023-10-19 10:08:22.181148
+Existing_entries: 681
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [去世5年后，霍金的终极理论终于面世：这是他留下的最后忠告……](https://www.36kr.com/p/2481060149762180)
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 1
+Finish: 2023-10-19 10:08:48.782212
