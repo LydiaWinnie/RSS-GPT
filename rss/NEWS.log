@@ -11388,3 +11388,12 @@ Append: [拜登欲追加千億美元支援以烏台 國務院發布旅遊警戒]
 Append: [澳洲雪梨歌劇院落成50週年 門票售出達6300萬張](https://news.pts.org.tw/article/662863)
 append_entries: 15
 Finish: 2023-10-20 15:06:53.614419
+------------------------------------------------------
+Started: 2023-10-20 16:09:15.119130
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-20 16:09:18.199583
