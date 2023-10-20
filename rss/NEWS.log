@@ -11153,3 +11153,29 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-20 03:07:59.619067
+------------------------------------------------------
+Started: 2023-10-20 04:09:18.784050
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [五角大樓稱駐中東美軍數次遭到襲擊](https://cn.wsj.com/articles/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A8%93%E7%A8%B1%E9%A7%90%E4%B8%AD%E6%9D%B1%E7%BE%8E%E8%BB%8D%E6%95%B8%E6%AC%A1%E9%81%AD%E5%88%B0%E8%A5%B2%E6%93%8A-79c344f)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國不顧日本呼籲，正式逮捕一名日企高管](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E4%B8%8D%E9%A1%A7%E6%97%A5%E6%9C%AC%E5%91%BC%E7%B1%B2-%E6%AD%A3%E5%BC%8F%E9%80%AE%E6%8D%95%E4%B8%80%E5%90%8D%E6%97%A5%E4%BC%81%E9%AB%98%E7%AE%A1-dd494994)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: Internal server error {
+    "error": {
+        "message": "Internal server error",
+        "type": "auth_subrequest_error",
+        "param": null,
+        "code": "internal_error"
+    }
+}
+ 500 {'error': {'message': 'Internal server error', 'type': 'auth_subrequest_error', 'param': None, 'code': 'internal_error'}} {'Date': 'Fri, 20 Oct 2023 04:09:37 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '166', 'Connection': 'keep-alive', 'vary': 'Origin', 'x-request-id': '977ef5b291369774a1fbd4e0e39d0f1c', 'strict-transport-security': 'max-age=15724800; includeSubDomains', 'CF-Cache-Status': 'DYNAMIC', 'Server': 'cloudflare', 'CF-RAY': '818e67eae911fad2-SJC', 'alt-svc': 'h3=":443"; ma=86400'}
+Append: [「中英」中企承建尼泊爾機場背後：債務、霸王條款和地緣政治](https://cn.nytimes.com/business/20231020/nepal-pokhara-airport-china/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2023-10-20 04:09:37.834224

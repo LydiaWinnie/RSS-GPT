@@ -12020,3 +12020,34 @@ error: Internal server error {
 Append: [想留住好员工，只谈钱真的不行了](https://www.36kr.com/p/2481413604038790)
 append_entries: 1
 Finish: 2023-10-20 03:08:19.678947
+------------------------------------------------------
+Started: 2023-10-20 04:09:41.814366
+Existing_entries: 690
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Internal server error {
+    "error": {
+        "message": "Internal server error",
+        "type": "auth_subrequest_error",
+        "param": null,
+        "code": "internal_error"
+    }
+}
+ 500 {'error': {'message': 'Internal server error', 'type': 'auth_subrequest_error', 'param': None, 'code': 'internal_error'}} {'Date': 'Fri, 20 Oct 2023 04:10:13 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '166', 'Connection': 'keep-alive', 'vary': 'Origin', 'x-request-id': '083f37aa16af2b6cc68384140235280d', 'strict-transport-security': 'max-age=15724800; includeSubDomains', 'CF-Cache-Status': 'DYNAMIC', 'Server': 'cloudflare', 'CF-RAY': '818e68caa966fad2-SJC', 'alt-svc': 'h3=":443"; ma=86400'}
+Append: [OpenAI以860亿美元估值融资，是利好老员工还是有其他目的？](https://www.36kr.com/p/2482210104137603)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI读脑成真，延迟仅0.25秒，Meta里程碑新研究：MEG实时解码大脑图像，LeCun转赞](https://www.36kr.com/p/2482015359293319)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [对话美图创始人吴欣鸿：“妙鸭们”昙花一现，我们要做中国的Midjourney ｜ 36氪专访](https://www.36kr.com/p/2481265900869511)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [互联网到处是“演员”](https://www.36kr.com/p/2482039038875784)
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 4
+Finish: 2023-10-20 04:10:30.452603
