@@ -12187,3 +12187,15 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [明年增长？战略，效率，组织，三个都要硬](https://www.36kr.com/p/2482435253248130)
 append_entries: 2
 Finish: 2023-10-20 12:15:29.514957
+------------------------------------------------------
+Started: 2023-10-20 13:10:15.378406
+Existing_entries: 712
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 0
+Finish: 2023-10-20 13:12:05.230624
