@@ -11073,3 +11073,29 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 4
 Finish: 2023-10-20 00:34:41.028145
+------------------------------------------------------
+Started: 2023-10-20 01:42:18.195294
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: Internal server error {
+    "error": {
+        "message": "Internal server error",
+        "type": "auth_subrequest_error",
+        "param": null,
+        "code": "internal_error"
+    }
+}
+ 500 {'error': {'message': 'Internal server error', 'type': 'auth_subrequest_error', 'param': None, 'code': 'internal_error'}} {'Date': 'Fri, 20 Oct 2023 01:42:29 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '166', 'Connection': 'keep-alive', 'vary': 'Origin', 'x-request-id': '3456e77f8afe3ac59a765317e2ba2145', 'strict-transport-security': 'max-age=15724800; includeSubDomains', 'CF-Cache-Status': 'DYNAMIC', 'Server': 'cloudflare', 'CF-RAY': '818d90620812388b-IAD', 'alt-svc': 'h3=":443"; ma=86400'}
+Append: [日本福島氚水排海 IAEA率團調查6種魚類採樣](https://news.pts.org.tw/article/662694)
+Summarization failed, append the original article
+error: Bad gateway. {"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}} 502 {'error': {'code': 502, 'message': 'Bad gateway.', 'param': None, 'type': 'cf_bad_gateway'}} {'Date': 'Fri, 20 Oct 2023 01:42:29 GMT', 'Content-Type': 'application/json', 'Content-Length': '84', 'Connection': 'keep-alive', 'X-Frame-Options': 'SAMEORIGIN', 'Referrer-Policy': 'same-origin', 'Cache-Control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'Expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'Server': 'cloudflare', 'CF-RAY': '818d90821d7f388b-IAD', 'alt-svc': 'h3=":443"; ma=86400'}
+Append: [以巴戰爭／以再空襲加薩 南部甘尤尼斯市樓房被炸](https://news.pts.org.tw/article/662695)
+Summarization failed, append the original article
+error: Bad gateway. {"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}} 502 {'error': {'code': 502, 'message': 'Bad gateway.', 'param': None, 'type': 'cf_bad_gateway'}} {'Date': 'Fri, 20 Oct 2023 01:42:29 GMT', 'Content-Type': 'application/json', 'Content-Length': '84', 'Connection': 'keep-alive', 'X-Frame-Options': 'SAMEORIGIN', 'Referrer-Policy': 'same-origin', 'Cache-Control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'Expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'Server': 'cloudflare', 'CF-RAY': '818d9082ee86388b-IAD', 'alt-svc': 'h3=":443"; ma=86400'}
+Append: [不滿救護車值勤暫停擋去路 騎士返家拿螺絲起子攻擊救護員](https://news.pts.org.tw/article/662707)
+append_entries: 3
+Finish: 2023-10-20 01:42:29.731035
