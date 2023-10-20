@@ -11998,3 +11998,25 @@ Append: [月入十万的“普通人”，太招人烦了](https://www.36kr.com/
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 3
 Finish: 2023-10-20 02:16:51.133293
+------------------------------------------------------
+Started: 2023-10-20 03:08:03.649941
+Existing_entries: 689
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Summarization failed, append the original article
+error: Internal server error {
+    "error": {
+        "message": "Internal server error",
+        "type": "auth_subrequest_error",
+        "param": null,
+        "code": "internal_error"
+    }
+}
+ 500 {'error': {'message': 'Internal server error', 'type': 'auth_subrequest_error', 'param': None, 'code': 'internal_error'}} {'Date': 'Fri, 20 Oct 2023 03:08:19 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '166', 'Connection': 'keep-alive', 'vary': 'Origin', 'x-request-id': 'aee942765c86e3362c840afdfb7e38e0', 'strict-transport-security': 'max-age=15724800; includeSubDomains', 'CF-Cache-Status': 'DYNAMIC', 'Server': 'cloudflare', 'CF-RAY': '818e0e1ed9943b60-IAD', 'alt-svc': 'h3=":443"; ma=86400'}
+Append: [想留住好员工，只谈钱真的不行了](https://www.36kr.com/p/2481413604038790)
+append_entries: 1
+Finish: 2023-10-20 03:08:19.678947
