@@ -11313,3 +11313,25 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-20 11:06:26.530011
+------------------------------------------------------
+Started: 2023-10-20 12:13:31.430902
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [西班牙偵破寵物走私案 逾400隻貓狗遭不當對待](https://news.pts.org.tw/article/662812)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [波蘭怪賊扮櫥窗模特兒 趁商場打烊行竊多次得手](https://news.pts.org.tw/article/662813)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [蘇丹內戰半年未歇 士兵屢侵害平民釀逾5000死](https://news.pts.org.tw/article/662817)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [南韓地方避免滅村危機 推衝浪小漁村翻身熱門景點](https://news.pts.org.tw/article/662762)
+append_entries: 4
+Finish: 2023-10-20 12:13:33.662428
