@@ -11179,3 +11179,12 @@ Append: [「中英」中企承建尼泊爾機場背後：債務、霸王條款�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-10-20 04:09:37.834224
+------------------------------------------------------
+Started: 2023-10-20 05:07:12.933839
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-20 05:07:15.243853
