@@ -11354,3 +11354,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-20 14:07:25.303761
+------------------------------------------------------
+Started: 2023-10-20 15:06:51.801706
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國限制石墨出口 日本質疑違反WTO規範](https://news.pts.org.tw/article/662865)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中龍鋼鐵環評變更案 行政訴訟更一審判敗訴](https://news.pts.org.tw/article/662858)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [墾丁南灣現海豚 墾管處籲民眾通報避免打擾](https://news.pts.org.tw/article/662855)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台灣黑熊闖卓溪工寮 全身抽搐初判肝衰竭亡](https://news.pts.org.tw/article/662856)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／中國屢設外銷壁壘 總統候選人立場受關注](https://news.pts.org.tw/article/662861)
+Append: [護理師公會提9大訴求 衛福部：優先處理夜班津貼](https://news.pts.org.tw/article/662868)
+Append: [2024大選／郭台銘稱與柯文哲會談 已獲初步合作共識](https://news.pts.org.tw/article/662870)
+Append: [2026年進駐12處弓三飛彈陣地 整合提升防衛能量](https://news.pts.org.tw/article/662871)
+Append: [以巴戰爭／我國專機撤僑 14人飛往羅馬137人拒撤離](https://news.pts.org.tw/article/662873)
+Append: [以巴戰爭／埃及拒巴人入境 人道救援物資杯水車薪](https://news.pts.org.tw/article/662874)
+Append: [以巴戰爭／以色列軍坦克聚集 被指加薩地面戰蓄勢待發](https://news.pts.org.tw/article/662875)
+Append: [極端氣候致水源不足 陽明山溫泉浴室再缺水關閉](https://news.pts.org.tw/article/662859)
+Append: [台塑5千員工進駐內湖 學生尖峰時段難搭公車](https://news.pts.org.tw/article/662857)
+Append: [拜登欲追加千億美元支援以烏台 國務院發布旅遊警戒](https://news.pts.org.tw/article/662876)
+Append: [澳洲雪梨歌劇院落成50週年 門票售出達6300萬張](https://news.pts.org.tw/article/662863)
+append_entries: 15
+Finish: 2023-10-20 15:06:53.614419
