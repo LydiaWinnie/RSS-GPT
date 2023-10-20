@@ -11954,3 +11954,47 @@ Feed error: 404
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-20 01:44:07.599560
+------------------------------------------------------
+Started: 2023-10-20 02:16:12.948607
+Existing_entries: 686
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: Internal server error {
+    "error": {
+        "message": "Internal server error",
+        "type": "auth_subrequest_error",
+        "param": null,
+        "code": "internal_error"
+    }
+}
+ 500 {'error': {'message': 'Internal server error', 'type': 'auth_subrequest_error', 'param': None, 'code': 'internal_error'}} {'Date': 'Fri, 20 Oct 2023 02:16:27 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '166', 'Connection': 'keep-alive', 'vary': 'Origin', 'x-request-id': 'bc38610db7d518529f0d0f82a01966fd', 'strict-transport-security': 'max-age=15724800; includeSubDomains', 'CF-Cache-Status': 'DYNAMIC', 'Server': 'cloudflare', 'CF-RAY': '818dc2224e603b7e-IAD', 'alt-svc': 'h3=":443"; ma=86400'}
+Append: [下沉、怀旧、高级感，音综出圈“三板斧”](https://www.36kr.com/p/2481343834822787)
+Summarization failed, append the original article
+error: Internal server error {
+    "error": {
+        "message": "Internal server error",
+        "type": "auth_subrequest_error",
+        "param": null,
+        "code": "internal_error"
+    }
+}
+ 500 {'error': {'message': 'Internal server error', 'type': 'auth_subrequest_error', 'param': None, 'code': 'internal_error'}} {'Date': 'Fri, 20 Oct 2023 02:16:32 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '166', 'Connection': 'keep-alive', 'vary': 'Origin', 'x-request-id': '20c470bb5a99ce7a5f62167eac4f46d2', 'strict-transport-security': 'max-age=15724800; includeSubDomains', 'CF-Cache-Status': 'DYNAMIC', 'Server': 'cloudflare', 'CF-RAY': '818dc2426e6f3b7e-IAD', 'alt-svc': 'h3=":443"; ma=86400'}
+Append: [涉过审查的海](https://www.36kr.com/p/2481344102996105)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Summarization failed, append the original article
+error: Internal server error {
+    "error": {
+        "message": "Internal server error",
+        "type": "auth_subrequest_error",
+        "param": null,
+        "code": "internal_error"
+    }
+}
+ 500 {'error': {'message': 'Internal server error', 'type': 'auth_subrequest_error', 'param': None, 'code': 'internal_error'}} {'Date': 'Fri, 20 Oct 2023 02:16:50 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '166', 'Connection': 'keep-alive', 'vary': 'Origin', 'x-request-id': 'c5860c34168ddefb6e0ebd9982dbcb53', 'strict-transport-security': 'max-age=15724800; includeSubDomains', 'CF-Cache-Status': 'DYNAMIC', 'Server': 'cloudflare', 'CF-RAY': '818dc2b66e333b7e-IAD', 'alt-svc': 'h3=":443"; ma=86400'}
+Append: [月入十万的“普通人”，太招人烦了](https://www.36kr.com/p/2481991084873609)
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 3
+Finish: 2023-10-20 02:16:51.133293
