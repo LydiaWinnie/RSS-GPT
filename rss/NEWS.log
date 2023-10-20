@@ -11274,3 +11274,30 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-20 09:07:29.469612
+------------------------------------------------------
+Started: 2023-10-20 10:08:12.190625
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」拜登的生涯時刻：證明美國是決定世界歷史走向的唯一國家](https://cn.nytimes.com/usa/20231020/biden-israel-ukraine/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [WHO建議擬訂健康高齡生活指南 迎接退休生活健康慢老](https://news.pts.org.tw/article/662754)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [泰國人口急遽老化 預計2029年邁入超高齡社會](https://news.pts.org.tw/article/662755)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [地球暖化融冰加速 衝擊格陵蘭斯科斯比松居民生活](https://news.pts.org.tw/article/662763)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [奧地利畜牧業萎縮 農場轉型精緻路線友善動物](https://news.pts.org.tw/article/662764)
+Append: [日本兒童安寧之家 提供病童安心玩樂空間](https://news.pts.org.tw/article/662757)
+Append: [丹麥高中反其道而行 鼓勵學生正確使用ChatGPT](https://news.pts.org.tw/article/662758)
+Append: [法國藝術家結合演算法生成作品 引發藝術與科技論辯](https://news.pts.org.tw/article/662759)
+append_entries: 8
+Finish: 2023-10-20 10:08:14.525523
