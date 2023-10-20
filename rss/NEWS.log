@@ -11188,3 +11188,33 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-20 05:07:15.243853
+------------------------------------------------------
+Started: 2023-10-20 06:10:23.709959
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國限制部分石墨產品出口](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E9%99%90%E5%88%B6%E9%83%A8%E5%88%86%E7%9F%B3%E5%A2%A8%E7%94%A2%E5%93%81%E5%87%BA%E5%8F%A3-7e60547f)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」五角大廈：中國加快核武庫擴張，軍方「高風險」行動增多](https://cn.nytimes.com/china/20231020/china-military-nuclear-weapons/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」碧桂園瀕臨違約，否認創始人父女離境](https://cn.nytimes.com/business/20231020/country-garden-bond-payment/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [拜登任內二度辦公室演說 追加預算援以、烏、台](https://news.pts.org.tw/article/662749)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [65歲以上高血糖機率達27% 醫籲糖尿病患者注意老年低血糖](https://news.pts.org.tw/article/662739)
+Append: [家屬質疑普悠瑪事故影像遭偽造 時速與時間恐有誤盼重啟調查](https://news.pts.org.tw/article/662744)
+Append: [台南2歲男童疑遭虐死 生母和同居人聲押](https://news.pts.org.tw/article/662747)
+Append: [中國軍力報告：擁逾500枚核彈 2022年共機擾台增79%](https://news.pts.org.tw/article/662738)
+Append: [北市幼園童體訓倒地被拖著跑 園方：醫院評估需供早療課程](https://news.pts.org.tw/article/662731)
+Append: [潛艦洩密／馬文君領銜提案凍結 潛艦第2階段預算惹議](https://news.pts.org.tw/article/662737)
+Append: [2024大選／郭柯會談達初步共識 侯友宜稱藍白溝通順暢](https://news.pts.org.tw/article/662732)
+append_entries: 11
+Finish: 2023-10-20 06:10:25.976478
