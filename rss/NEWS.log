@@ -11262,3 +11262,15 @@ Append: [龜山島導覽資訊錯誤百出 風管處允年底前完成改善](ht
 Append: [歐司瑪假綠能空殼公司 違法吸金逾4億受害者破千人](https://news.pts.org.tw/article/662746)
 append_entries: 13
 Finish: 2023-10-20 08:09:50.948650
+------------------------------------------------------
+Started: 2023-10-20 09:07:27.593236
+Existing_entries: 1013
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列軍方聲稱對加沙教堂爆炸事件負責](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E8%BB%8D%E6%96%B9%E8%81%B2%E7%A8%B1%E5%B0%8D%E5%8A%A0%E6%B2%99%E6%95%99%E5%A0%82%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E8%B2%A0%E8%B2%AC-c9522dba)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-20 09:07:29.469612

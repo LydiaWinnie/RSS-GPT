@@ -12110,3 +12110,17 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [SaaS 要搞定 PMF，公司的第一位销售得是『关键先生』](https://www.36kr.com/p/2482234542249860)
 append_entries: 3
 Finish: 2023-10-20 08:11:47.963697
+------------------------------------------------------
+Started: 2023-10-20 09:07:32.475781
+Existing_entries: 697
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [奈飞飘红的业绩里有根刺](https://www.36kr.com/p/2482320925859714)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 1
+Finish: 2023-10-20 09:07:57.072187
