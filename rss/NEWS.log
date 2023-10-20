@@ -11218,3 +11218,15 @@ Append: [潛艦洩密／馬文君領銜提案凍結 潛艦第2階段預算惹議
 Append: [2024大選／郭柯會談達初步共識 侯友宜稱藍白溝通順暢](https://news.pts.org.tw/article/662732)
 append_entries: 11
 Finish: 2023-10-20 06:10:25.976478
+------------------------------------------------------
+Started: 2023-10-20 07:07:27.456758
+Existing_entries: 1011
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [日本經濟再生大臣對中國房地產行業困境帶來的風險發出警告](https://cn.wsj.com/articles/%E6%97%A5%E6%9C%AC%E7%B6%93%E6%BF%9F%E5%86%8D%E7%94%9F%E5%A4%A7%E8%87%A3%E5%B0%8D%E4%B8%AD%E5%9C%8B%E6%88%BF%E5%9C%B0%E7%94%A2%E8%A1%8C%E6%A5%AD%E5%9B%B0%E5%A2%83%E5%B8%B6%E4%BE%86%E7%9A%84%E9%A2%A8%E9%9A%AA%E7%99%BC%E5%87%BA%E8%AD%A6%E5%91%8A-e8b85339)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-20 07:07:28.519626
