@@ -11649,3 +11649,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-21 14:06:06.989602
+------------------------------------------------------
+Started: 2023-10-21 15:06:21.849272
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [谷關6溫泉業者無旅館證 台中巿府整頓輔導合法](https://news.pts.org.tw/article/662908)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [巴貝特風暴襲英國 各地淹水已知3人死亡](https://news.pts.org.tw/article/662905)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台大擬設「國際政經學院」 師生憂排擠資源決議擱置](https://news.pts.org.tw/article/662901)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [小一英文課本開學兩月未發 竹市教育處：25日送達各校](https://news.pts.org.tw/article/662902)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [人力、物價及運量考量 國道客運擬調漲18%至30%](https://news.pts.org.tw/article/662903)
+append_entries: 5
+Finish: 2023-10-21 15:06:24.840979
