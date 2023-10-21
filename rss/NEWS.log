@@ -11640,3 +11640,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [科技公司出遊車禍4死17傷 警方查超速與變換車道不當](https://news.pts.org.tw/article/662906)
 append_entries: 3
 Finish: 2023-10-21 13:07:09.512643
+------------------------------------------------------
+Started: 2023-10-21 14:06:05.922197
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-21 14:06:06.989602
