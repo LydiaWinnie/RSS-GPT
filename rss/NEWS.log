@@ -11547,3 +11547,12 @@ Append: [東北季風及鋒面影響 週末全台降溫雙北基宜大雨](https
 Append: [宜蘭賞鯨船疑遭迫擊砲波及 船家圖證未進入管制區](https://news.pts.org.tw/article/662888)
 append_entries: 6
 Finish: 2023-10-21 05:07:55.079221
+------------------------------------------------------
+Started: 2023-10-21 06:09:17.557932
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-21 06:09:19.363516
