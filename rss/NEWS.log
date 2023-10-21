@@ -11556,3 +11556,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-21 06:09:19.363516
+------------------------------------------------------
+Started: 2023-10-21 07:06:16.757652
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [竹科廠員旅國道車禍 遊覽車與自小客碰撞4死22傷](https://news.pts.org.tw/article/662900)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [反對興建晶鼎焚化爐 鹿港居民再上街頭](https://news.pts.org.tw/article/662891)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [不繳學生會會費挨告 台師大博士生上訴被駁回](https://news.pts.org.tw/article/662893)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [林為洲控巴西蛋過期 農業部批假訊息造謠](https://news.pts.org.tw/article/662894)
+append_entries: 4
+Finish: 2023-10-21 07:06:19.695218
