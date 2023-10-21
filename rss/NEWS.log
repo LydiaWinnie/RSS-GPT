@@ -11622,3 +11622,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-21 12:12:12.067584
+------------------------------------------------------
+Started: 2023-10-21 13:07:07.015030
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／柯文哲主張尋兩岸平衡點 賴清德重申不應接受九二共識](https://news.pts.org.tw/article/662904)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [歐盟外交代表發文談一中政策 外交部：台灣早已是獨立國家](https://news.pts.org.tw/article/662907)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [科技公司出遊車禍4死17傷 警方查超速與變換車道不當](https://news.pts.org.tw/article/662906)
+append_entries: 3
+Finish: 2023-10-21 13:07:09.512643
