@@ -11673,3 +11673,18 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [人力、物價及運量考量 國道客運擬調漲18%至30%](https://news.pts.org.tw/article/662903)
 append_entries: 5
 Finish: 2023-10-21 15:06:24.840979
+------------------------------------------------------
+Started: 2023-10-21 16:07:51.370575
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [金鐘58／《村子裡來了個暴走女外科》 蔡淑臻3度入圍終封后](https://news.pts.org.tw/article/662941)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [金鐘58／薛仕凌再獲金鐘影帝 台上激動感謝作品](https://news.pts.org.tw/article/662940)
+append_entries: 2
+Finish: 2023-10-21 16:07:53.748070
