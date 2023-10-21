@@ -11522,3 +11522,28 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-21 04:08:39.121606
+------------------------------------------------------
+Started: 2023-10-21 05:07:52.351301
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國道三車禍1死4傷 4個月大幼兒拋飛身亡](https://news.pts.org.tw/article/662892)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [桃園市立泳池、運動中心 連3月水質檢測不合格](https://news.pts.org.tw/article/662890)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／柯文哲主張兩岸尋平衡點 賴清德：不應接受九二共識](https://news.pts.org.tw/article/662895)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／哈瑪斯釋放美籍母女人質 以色列仍未開放拉法關卡](https://news.pts.org.tw/article/662897)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [東北季風及鋒面影響 週末全台降溫雙北基宜大雨](https://news.pts.org.tw/article/662899)
+Append: [宜蘭賞鯨船疑遭迫擊砲波及 船家圖證未進入管制區](https://news.pts.org.tw/article/662888)
+append_entries: 6
+Finish: 2023-10-21 05:07:55.079221
