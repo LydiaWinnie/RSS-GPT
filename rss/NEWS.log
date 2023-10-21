@@ -11577,3 +11577,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [林為洲控巴西蛋過期 農業部批假訊息造謠](https://news.pts.org.tw/article/662894)
 append_entries: 4
 Finish: 2023-10-21 07:06:19.695218
+------------------------------------------------------
+Started: 2023-10-21 08:08:36.839176
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-21 08:08:37.814519
