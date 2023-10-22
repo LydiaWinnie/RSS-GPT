@@ -11851,3 +11851,12 @@ Append: [逢甲10生昨登山遭虎頭蜂螫傷 警消馳援傷者今清晨下�
 Append: [腸病毒71型重症具致死風險 第2劑疫苗食藥署尚在檢驗中](https://news.pts.org.tw/article/662963)
 append_entries: 9
 Finish: 2023-10-22 07:06:35.691604
+------------------------------------------------------
+Started: 2023-10-22 08:08:35.139518
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-22 08:08:37.724214
