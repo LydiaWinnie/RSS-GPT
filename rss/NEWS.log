@@ -11823,3 +11823,31 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-22 06:09:10.054628
+------------------------------------------------------
+Started: 2023-10-22 07:06:29.811312
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [拒續租瑠公民生新村遭控圖利 農田水利署稱憂地震危害](https://news.pts.org.tw/article/662955)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／20車救援物資進加薩 以宣布加強攻擊籲盡速南撤](https://news.pts.org.tw/article/662953)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [相隔15年再辦守護神祭 傳承巴布麓部落祭典文化](https://news.pts.org.tw/article/662954)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [108課綱上線滿4年 近6成學生學習疲勞](https://news.pts.org.tw/article/662957)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [新建物屋頂逾300坪須裝光電板 50瓩成本300萬平均9年回本](https://news.pts.org.tw/article/662958)
+Append: [美國防部稱6大因素恐致中犯台 張其祿：應採溝通嚇阻策略](https://news.pts.org.tw/article/662960)
+Append: [台中毒品通緝犯拒捕與警扭打 遭噴辣椒水壓制移送地檢署](https://news.pts.org.tw/article/662961)
+Append: [逢甲10生昨登山遭虎頭蜂螫傷 警消馳援傷者今清晨下山就醫](https://news.pts.org.tw/article/662962)
+Append: [腸病毒71型重症具致死風險 第2劑疫苗食藥署尚在檢驗中](https://news.pts.org.tw/article/662963)
+append_entries: 9
+Finish: 2023-10-22 07:06:35.691604
