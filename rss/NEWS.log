@@ -11814,3 +11814,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [竹科公司員旅車禍4死17傷 遊覽車超速、疑變換車道不當](https://news.pts.org.tw/article/662952)
 append_entries: 3
 Finish: 2023-10-22 05:07:18.869565
+------------------------------------------------------
+Started: 2023-10-22 06:09:08.978779
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-22 06:09:10.054628
