@@ -11796,3 +11796,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-22 04:08:37.139450
+------------------------------------------------------
+Started: 2023-10-22 05:07:16.615047
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [醫療工會今上街遊行 衛福部邀「公會」承諾定期協商](https://news.pts.org.tw/article/662949)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [《女外科》奪金鐘最佳戲劇 蔡淑臻封后、薛仕凌稱帝](https://news.pts.org.tw/article/662950)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [竹科公司員旅車禍4死17傷 遊覽車超速、疑變換車道不當](https://news.pts.org.tw/article/662952)
+append_entries: 3
+Finish: 2023-10-22 05:07:18.869565
