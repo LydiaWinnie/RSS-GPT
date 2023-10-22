@@ -11925,3 +11925,12 @@ Append: [立院旁辦醫療勞權遊行 提改革過勞、改善待遇等4訴求
 Append: [以巴戰爭／全球多地挺巴示威 法加稱加薩醫院遇襲非以國所為](https://news.pts.org.tw/article/662966)
 append_entries: 7
 Finish: 2023-10-22 13:07:11.902611
+------------------------------------------------------
+Started: 2023-10-22 14:06:19.646631
+Existing_entries: 1007
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-22 14:06:20.585608
