@@ -11899,3 +11899,29 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-22 12:12:18.592865
+------------------------------------------------------
+Started: 2023-10-22 13:07:07.772484
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [日客來台數僅恢復疫前一半 觀光署推千人來台吸團客](https://news.pts.org.tw/article/662988)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [民團邀四黨代表尋空屋解方 在野立委盼修法以重稅迫釋出](https://news.pts.org.tw/article/662987)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／藍白合陷僵局 柯：先協調立委也是一個辦法](https://news.pts.org.tw/article/662986)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [嘉義無尾窄巷停車亂象 有住戶控致親人就醫延誤](https://news.pts.org.tw/article/662969)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [宜蘭婦人騎車買菜遭當場撞死 駕駛肇事逃逸遭逮酒測值0.61](https://news.pts.org.tw/article/662968)
+Append: [立院旁辦醫療勞權遊行 提改革過勞、改善待遇等4訴求](https://news.pts.org.tw/article/662967)
+Append: [以巴戰爭／全球多地挺巴示威 法加稱加薩醫院遇襲非以國所為](https://news.pts.org.tw/article/662966)
+append_entries: 7
+Finish: 2023-10-22 13:07:11.902611
