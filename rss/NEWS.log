@@ -12281,3 +12281,12 @@ Append: [傳承「反光鏡菩薩」張秀雄 民團發起接力擦鏡義舉](ht
 Append: [彰化和美道路改善車禍反增 駕駛人不習慣撞行人庇護島](https://news.pts.org.tw/article/663178)
 append_entries: 9
 Finish: 2023-10-23 16:09:20.169982
+------------------------------------------------------
+Started: 2023-10-23 17:06:51.695716
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-23 17:06:52.743226
