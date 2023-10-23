@@ -12160,3 +12160,18 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [美國發布2023中國軍力報告 判讀持有逾500枚核彈頭](https://news.pts.org.tw/article/663076)
 append_entries: 3
 Finish: 2023-10-23 08:10:55.604446
+------------------------------------------------------
+Started: 2023-10-23 09:08:25.161998
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」閉嘴傾聽也許比大聲疾呼更重要](https://cn.nytimes.com/opinion/20231023/social-media-israel-palestine/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」哈馬斯未能提供證據證明以色列為轟炸加薩醫院元兇](https://cn.nytimes.com/world/20231023/israel-gaza-hospital-evidence/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-10-23 09:08:26.503539
