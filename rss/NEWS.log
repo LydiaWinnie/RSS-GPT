@@ -12096,3 +12096,40 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-23 05:07:41.596578
+------------------------------------------------------
+Started: 2023-10-23 06:11:01.616274
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國電影市場上民族主義影片風頭漸弱](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E9%9B%BB%E5%BD%B1%E5%B8%82%E5%A0%B4%E4%B8%8A%E6%B0%91%E6%97%8F%E4%B8%BB%E7%BE%A9%E5%BD%B1%E7%89%87%E9%A2%A8%E9%A0%AD%E6%BC%B8%E5%BC%B1-5c3a2bdd)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以哈戰爭重燃美國為鐵穹系統生產飛彈的興趣](https://cn.wsj.com/articles/%E4%BB%A5%E5%93%88%E6%88%B0%E7%88%AD%E9%87%8D%E7%87%83%E7%BE%8E%E5%9C%8B%E7%82%BA%E9%90%B5%E7%A9%B9%E7%B3%BB%E7%B5%B1%E7%94%9F%E7%94%A2%E9%A3%9B%E5%BD%88%E7%9A%84%E8%88%88%E8%B6%A3-b548671e)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」為什麼美國應該更擔憂中國而不是中東的戰爭](https://cn.nytimes.com/opinion/20231023/china-taiwan-war/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [教團公布家長最關心10大議題 品格教育居首位](https://news.pts.org.tw/article/663060)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [北院強制拆除遠航總部 自救會「守護家園」喊蛋洗怪手](https://news.pts.org.tw/article/663064)
+Append: [陳昆和胞兄告發論文涉造假 郭國文反批選舉造謠](https://news.pts.org.tw/article/663061)
+Append: [立委批旅遊電商成打詐破口 NCC：須個案了解](https://news.pts.org.tw/article/663062)
+Append: [菲船艦南海運補與中船隻碰撞 雙方互控危險行為](https://news.pts.org.tw/article/663067)
+Append: [乳膠枕夾藏30公斤愷他命 航警逮父子檔檢求處11年刑](https://news.pts.org.tw/article/663073)
+Append: [台鐵辦公司化說明會 工會批徒具形式且過程不知情](https://news.pts.org.tw/article/663063)
+Append: [富士康在中國各處遭調查 經濟部與國發會允協助](https://news.pts.org.tw/article/663068)
+Append: [自稱幣商助詐團洗錢 虛擬貨幣公開帳本成犯罪證據](https://news.pts.org.tw/article/663074)
+Append: [屏東竹坑海域遊艇翻覆2獲救 船長仍失蹤海巡民團急搜尋](https://news.pts.org.tw/article/663075)
+Append: [新北男子路中攔車險遭撞 警：行人違反《道交法》可開罰](https://news.pts.org.tw/article/663071)
+Append: [醫療提「補足人力」等4訴求 薛瑞元：最快本週與工會討論](https://news.pts.org.tw/article/663065)
+Append: [中藥房違法售犀牛角送辦 藥師：國內禁用擅用易傷身中毒](https://news.pts.org.tw/article/663070)
+Append: [宜蘭賞鯨船疑遭砲彈波及 軍備局：證據交第三方釐清](https://news.pts.org.tw/article/663069)
+Append: [朱學恒涉性騷擾鍾沛君 北檢今依強制猥褻罪起訴](https://news.pts.org.tw/article/663072)
+append_entries: 18
+Finish: 2023-10-23 06:11:05.556679
