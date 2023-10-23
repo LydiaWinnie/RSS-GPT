@@ -12069,3 +12069,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-23 03:08:14.351682
+------------------------------------------------------
+Started: 2023-10-23 04:10:04.536807
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」中澳關係解凍，北京或取消對澳葡萄酒關稅](https://cn.nytimes.com/asia-pacific/20231023/australia-china-wine-tariff/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」中美晶片衝突的關鍵機器：光刻機](https://cn.nytimes.com/business/20231023/us-china-chip-manufacturing-asml/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [韓國新車評鑑計畫KNCAP，如何帶動車輛產業升級？【獨立特派員】](https://news.pts.org.tw/article/663043)
+append_entries: 3
+Finish: 2023-10-23 04:10:05.766536
