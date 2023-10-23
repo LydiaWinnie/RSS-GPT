@@ -12060,3 +12060,12 @@ Append: [亞帕運桌球旗開得勝 程銘志、陳柏諺、黎懿亞直落三]
 Append: [杭州亞帕運開幕 林資惠、呂駿逸任掌旗官](https://news.pts.org.tw/article/663026)
 append_entries: 8
 Finish: 2023-10-23 02:16:46.319454
+------------------------------------------------------
+Started: 2023-10-23 03:08:11.900409
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-23 03:08:14.351682
