@@ -12208,3 +12208,30 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-23 12:14:10.134477
+------------------------------------------------------
+Started: 2023-10-23 13:11:01.097207
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [宜蘭賞鯨船遭不明物擊中 是否砲彈波及需鑑定](https://news.pts.org.tw/article/663179)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／第二批物資進加薩 杯水車薪「整座城市都受苦」](https://news.pts.org.tw/article/663180)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／美歐支持以自我防衛 拉丁美洲中東籲停火](https://news.pts.org.tw/article/663181)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [立陶宛議長訪台 總統蔡英文盼強化雙邊關係](https://news.pts.org.tw/article/663182)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國查稅富士康非首例 工商界看法不一](https://news.pts.org.tw/article/663183)
+Append: [白蝦仁烏骨雞抗生素超標 衛生局開罰台南廠商追流向](https://news.pts.org.tw/article/663166)
+Append: [中國開放進口澳洲葡萄酒 關係回溫澳總理將訪問北京](https://news.pts.org.tw/article/663126)
+Append: [巴黎郊區結合5G網路 送貨車無人自駕](https://news.pts.org.tw/article/663121)
+append_entries: 8
+Finish: 2023-10-23 13:11:03.547733
