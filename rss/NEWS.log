@@ -12235,3 +12235,12 @@ Append: [中國開放進口澳洲葡萄酒 關係回溫澳總理將訪問北京]
 Append: [巴黎郊區結合5G網路 送貨車無人自駕](https://news.pts.org.tw/article/663121)
 append_entries: 8
 Finish: 2023-10-23 13:11:03.547733
+------------------------------------------------------
+Started: 2023-10-23 14:07:43.688645
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-23 14:07:47.189314
