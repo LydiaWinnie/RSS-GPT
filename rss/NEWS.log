@@ -12087,3 +12087,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [韓國新車評鑑計畫KNCAP，如何帶動車輛產業升級？【獨立特派員】](https://news.pts.org.tw/article/663043)
 append_entries: 3
 Finish: 2023-10-23 04:10:05.766536
+------------------------------------------------------
+Started: 2023-10-23 05:07:40.668150
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-23 05:07:41.596578
