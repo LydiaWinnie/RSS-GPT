@@ -12133,3 +12133,12 @@ Append: [宜蘭賞鯨船疑遭砲彈波及 軍備局：證據交第三方釐清]
 Append: [朱學恒涉性騷擾鍾沛君 北檢今依強制猥褻罪起訴](https://news.pts.org.tw/article/663072)
 append_entries: 18
 Finish: 2023-10-23 06:11:05.556679
+------------------------------------------------------
+Started: 2023-10-23 07:07:32.072130
+Existing_entries: 1018
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-23 07:07:33.655030
