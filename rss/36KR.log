@@ -12895,3 +12895,21 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-22 23:08:44.420521
+------------------------------------------------------
+Started: 2023-10-23 00:34:46.921132
+Existing_entries: 717
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [手机厂商扎堆布局大模型，到底是不是噱头？](https://www.36kr.com/p/2485272513241217)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [GPT-4不知道自己错了，LLM新缺陷曝光，自我纠正成功率仅1%，LeCun马库斯惊呼越改越错](https://www.36kr.com/p/2485105634793608)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-23 00:36:44.677990
