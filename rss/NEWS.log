@@ -12253,3 +12253,31 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-23 15:08:15.246351
+------------------------------------------------------
+Started: 2023-10-23 16:09:17.355017
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美濃憨兒窯遭鄰火波及 暫時安置盼外界伸援](https://news.pts.org.tw/article/663163)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [陳列中國贈統戰書籍 北市圖暫下架但強調讓讀者判斷](https://news.pts.org.tw/article/663174)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [檢舉黃牛票高雄罰6人 北市獲報511案尚未罰](https://news.pts.org.tw/article/663165)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／美國內聲援者較勁 有猶太裔挺巴籲停火](https://news.pts.org.tw/article/663167)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [名古屋禁電扶梯上行走 因應超高齡社會學者籲台灣考慮](https://news.pts.org.tw/article/663171)
+Append: [阿根廷大選投票 中間派馬薩領先進入2輪投票](https://news.pts.org.tw/article/663169)
+Append: [雲林男嬰遭晃腦致傷 無照保母判刑2年定讞](https://news.pts.org.tw/article/663175)
+Append: [傳承「反光鏡菩薩」張秀雄 民團發起接力擦鏡義舉](https://news.pts.org.tw/article/663177)
+Append: [彰化和美道路改善車禍反增 駕駛人不習慣撞行人庇護島](https://news.pts.org.tw/article/663178)
+append_entries: 9
+Finish: 2023-10-23 16:09:20.169982
