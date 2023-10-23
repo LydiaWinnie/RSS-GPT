@@ -12142,3 +12142,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-23 07:07:33.655030
+------------------------------------------------------
+Started: 2023-10-23 08:10:52.360490
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列稱空襲擊中武裝分子的隧道和指揮中心](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E7%A8%B1%E7%A9%BA%E8%A5%B2%E6%93%8A%E4%B8%AD%E6%AD%A6%E8%A3%9D%E5%88%86%E5%AD%90%E7%9A%84%E9%9A%A7%E9%81%93%E5%92%8C%E6%8C%87%E6%8F%AE%E4%B8%AD%E5%BF%83-53b27d6b)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [半島電視：非所有共軍視台美為主要威脅 部分認為無法戰勝美國](https://news.pts.org.tw/article/663077)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國發布2023中國軍力報告 判讀持有逾500枚核彈頭](https://news.pts.org.tw/article/663076)
+append_entries: 3
+Finish: 2023-10-23 08:10:55.604446
