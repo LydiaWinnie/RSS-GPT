@@ -12567,3 +12567,15 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [2025起瑞典首都禁行燃油車 專家籲須完善交通配套](https://news.pts.org.tw/article/663303)
 append_entries: 3
 Finish: 2023-10-24 12:13:27.653585
+------------------------------------------------------
+Started: 2023-10-24 13:10:17.340602
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國華盛頓州參議員攜帶槍支抵達香港被捕](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E8%8F%AF%E7%9B%9B%E9%A0%93%E5%B7%9E%E5%8F%83%E8%AD%B0%E5%93%A1%E6%94%9C%E5%B8%B6%E6%A7%8D%E6%94%AF%E6%8A%B5%E9%81%94%E9%A6%99%E6%B8%AF%E8%A2%AB%E6%8D%95-c986c2e9)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-24 13:10:19.240448
