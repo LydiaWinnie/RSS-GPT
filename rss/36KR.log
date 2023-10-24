@@ -13355,3 +13355,20 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-24 09:08:44.354201
+------------------------------------------------------
+Started: 2023-10-24 10:08:43.366946
+Existing_entries: 740
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [GPT悄悄卖货200亿，谁在颠覆“淘京拼”？](https://www.36kr.com/p/2488118668418949)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [科技改变生活，AIGC让产品更有温度](https://www.36kr.com/p/2488211802036100)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-24 10:09:34.568768

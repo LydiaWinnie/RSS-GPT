@@ -12520,3 +12520,22 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-24 09:08:06.047250
+------------------------------------------------------
+Started: 2023-10-24 10:08:37.927468
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國外交部長王毅呼籲加沙停火](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%B7%E7%8E%8B%E6%AF%85%E5%91%BC%E7%B1%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB-f12731b3)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」哈馬斯恐襲打破了多年來界定巴以衝突的一系列假設](https://cn.nytimes.com/world/20231024/israeli-hamas-middle-east-implications/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／侯友宜鬆口願當副手 柯文哲：藍白合需公平規則](https://news.pts.org.tw/article/663286)
+append_entries: 3
+Finish: 2023-10-24 10:08:39.210276
