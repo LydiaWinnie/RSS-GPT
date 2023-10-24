@@ -12377,3 +12377,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 5
 Finish: 2023-10-24 01:42:12.506902
+------------------------------------------------------
+Started: 2023-10-24 02:15:52.928117
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [沙國明年主辦電競世界盃 盼創造就業機會並實現經濟多元](https://news.pts.org.tw/article/663198)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [騎士疑天雨路滑墜谷 石頭敲擊山壁成功獲救](https://news.pts.org.tw/article/663203)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／哈瑪斯再釋放2人質 傳為以國女性長者家屬已獲通知](https://news.pts.org.tw/article/663209)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞帕運首金出爐 跆拳道蕭翔文擊退日本好手](https://news.pts.org.tw/article/663214)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台灣今年最大地震 氣象署：5天內可能有餘震但影響不大](https://news.pts.org.tw/article/663185)
+append_entries: 5
+Finish: 2023-10-24 02:15:55.606821
