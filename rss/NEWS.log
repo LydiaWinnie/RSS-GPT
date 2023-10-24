@@ -12498,3 +12498,12 @@ Append: [趙天麟婚外情公開道歉 陳其邁：應審慎評估立委布局]
 Append: [東海域清晨6.2地震今年最大 5天內不排除規模5.5到6地震](https://news.pts.org.tw/article/663258)
 append_entries: 12
 Finish: 2023-10-24 07:07:29.583737
+------------------------------------------------------
+Started: 2023-10-24 08:10:41.201555
+Existing_entries: 1012
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-24 08:10:42.118305
