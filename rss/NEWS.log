@@ -12401,3 +12401,15 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [台灣今年最大地震 氣象署：5天內可能有餘震但影響不大](https://news.pts.org.tw/article/663185)
 append_entries: 5
 Finish: 2023-10-24 02:15:55.606821
+------------------------------------------------------
+Started: 2023-10-24 03:08:24.921822
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」發展中國家指西方在俄烏和加薩問題上雙重標準](https://cn.nytimes.com/world/20231023/ukraine-gaza-global-south-hypocrisy/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-24 03:08:26.028058
