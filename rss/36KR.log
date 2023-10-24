@@ -13291,3 +13291,20 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-24 04:09:31.200912
+------------------------------------------------------
+Started: 2023-10-24 05:07:19.963725
+Existing_entries: 737
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI协同创新中心主理人杨巍：大模型第二幕，AI原生应用是突围关键](https://www.36kr.com/p/2487927200651399)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [不想上班？谷歌执行官：AI不会取代你的职位，只会让你更爱工作](https://www.36kr.com/p/2487043662929794)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-24 05:07:40.807767

@@ -12431,3 +12431,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-10-24 04:09:06.547519
+------------------------------------------------------
+Started: 2023-10-24 05:07:12.127940
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／民團解析總統參選人數位政見 侯柯郭表態立專法管網路](https://news.pts.org.tw/article/663246)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [立陶宛國會議長立院演說 強調台灣是歐盟民主盟友](https://news.pts.org.tw/article/663244)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／侯友宜鬆口藍白合 「名字要在同張選票」](https://news.pts.org.tw/article/663247)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國軍刺針飛彈發射筒傳遭盜賣 龜山陸戰隊66旅4軍士官聲押](https://news.pts.org.tw/article/663238)
+append_entries: 4
+Finish: 2023-10-24 05:07:16.793886
