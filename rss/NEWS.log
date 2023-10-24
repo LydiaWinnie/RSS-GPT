@@ -12413,3 +12413,21 @@ Append: [「中英」發展中國家指西方在俄烏和加薩問題上雙重�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-24 03:08:26.028058
+------------------------------------------------------
+Started: 2023-10-24 04:09:03.691400
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [拜登與內塔尼亞胡通話，討論爭取人質獲釋和加沙平民安全通道問題](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E8%88%87%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E9%80%9A%E8%A9%B1-%E8%A8%8E%E8%AB%96%E7%88%AD%E5%8F%96%E4%BA%BA%E8%B3%AA%E7%8D%B2%E9%87%8B%E5%92%8C%E5%8A%A0%E6%B2%99%E5%B9%B3%E6%B0%91%E5%AE%89%E5%85%A8%E9%80%9A%E9%81%93%E5%95%8F%E9%A1%8C-ca04c98b)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國發起魅力攻勢為習近平訪美鋪路](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E7%99%BC%E8%B5%B7%E9%AD%85%E5%8A%9B%E6%94%BB%E5%8B%A2%E7%82%BA%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E9%8B%AA%E8%B7%AF-c88113ef)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [馬斯克警告稱當前的中東和俄烏衝突有可能演變成第三次世界大戰](https://cn.wsj.com/articles/%E9%A6%AC%E6%96%AF%E5%85%8B%E8%AD%A6%E5%91%8A%E7%A8%B1%E7%95%B6%E5%89%8D%E7%9A%84%E4%B8%AD%E6%9D%B1%E5%92%8C%E4%BF%84%E7%83%8F%E8%A1%9D%E7%AA%81%E6%9C%89%E5%8F%AF%E8%83%BD%E6%BC%94%E8%AE%8A%E6%88%90%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%B0-58c2581a)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2023-10-24 04:09:06.547519
