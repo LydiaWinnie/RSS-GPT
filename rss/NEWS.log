@@ -12539,3 +12539,13 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [2024大選／侯友宜鬆口願當副手 柯文哲：藍白合需公平規則](https://news.pts.org.tw/article/663286)
 append_entries: 3
 Finish: 2023-10-24 10:08:39.210276
+------------------------------------------------------
+Started: 2023-10-24 11:06:23.431462
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-24 11:06:24.531964
