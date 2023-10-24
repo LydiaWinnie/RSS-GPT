@@ -12452,3 +12452,18 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [國軍刺針飛彈發射筒傳遭盜賣 龜山陸戰隊66旅4軍士官聲押](https://news.pts.org.tw/article/663238)
 append_entries: 4
 Finish: 2023-10-24 05:07:16.793886
+------------------------------------------------------
+Started: 2023-10-24 06:10:23.396683
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」美國人為何愛吃炸魷魚圈](https://cn.nytimes.com/opinion/20231024/calamari-squid-restaurants-china/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」中美關係回暖，從彼此傾聽開始](https://cn.nytimes.com/opinion/20231024/us-china-music-connection/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-10-24 06:10:25.397279
