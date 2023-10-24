@@ -12588,3 +12588,38 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-24 14:06:20.219560
+------------------------------------------------------
+Started: 2023-10-24 15:08:25.631234
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／哈瑪斯釋2以國高齡人質 卡達和埃及盼促再放50人](https://news.pts.org.tw/article/663362)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／以色列軍全力備地面戰 美籲哈瑪斯先放人質再談停火](https://news.pts.org.tw/article/663363)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [嚴查短期住院癌友無法理賠 立院邀健保署保險局討論](https://news.pts.org.tw/article/663365)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [宜蘭仁澤地熱發電廠今啟用 每年可供電1200戶](https://news.pts.org.tw/article/663359)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大直民宅塌／鄰地住戶公辦都更意願高 北市府將啟動程序助重建](https://news.pts.org.tw/article/663366)
+Append: [南投艦衝撞基隆碼頭棧道毀損 海巡：操作失誤配合修復賠償](https://news.pts.org.tw/article/663367)
+Append: [彰化查獲違法掩埋廢棄物 假承租真棄置獲利逾億元](https://news.pts.org.tw/article/663369)
+Append: [登革熱單週確診數可望減半 秋冬新冠流感活躍病患增](https://news.pts.org.tw/article/663370)
+Append: [2024大選／侯友宜稱接受柯侯配 柯文哲：逼婚無選擇餘地](https://news.pts.org.tw/article/663375)
+Append: [美休班機師企圖製造墜機 遭控83謀殺重罪原因待釐清](https://news.pts.org.tw/article/663361)
+Append: [台東縣長赴中會宋濤 盼全面重啟鳳梨釋迦銷中](https://news.pts.org.tw/article/663364)
+Append: [4士官疑盜賣刺針飛彈遭聲押 陸戰隊證實遺失飛彈發射筒](https://news.pts.org.tw/article/663376)
+Append: [環團檢舉農地違建遭洩個資 彰縣府：不適用個資法但檢討](https://news.pts.org.tw/article/663368)
+Append: [17歲少年裝太陽能板摔落亡 無防護無投保家屬申訴卻無效](https://news.pts.org.tw/article/663371)
+Append: [台9線新澳隧道16車連環追撞 釀1死11輕重傷](https://news.pts.org.tw/article/663373)
+append_entries: 15
+Finish: 2023-10-24 15:08:29.907180
