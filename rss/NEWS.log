@@ -12467,3 +12467,34 @@ Append: [「中英」中美關係回暖，從彼此傾聽開始](https://cn.nyti
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-10-24 06:10:25.397279
+------------------------------------------------------
+Started: 2023-10-24 07:07:24.492213
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「幼兒專責醫師制度」是什麼？ 11月起0至3歲醫生一起顧](https://news.pts.org.tw/article/663259)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美10年債殖利率觸5%拖累美股 台股一度探16163點創5個月低](https://news.pts.org.tw/article/663248)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [環團發起「沒塑去旅行」 籲業者及民眾從源頭減塑](https://news.pts.org.tw/article/663242)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [復康巴士難預約惹民怨 中市府調中巴支援並鼓勵共乘](https://news.pts.org.tw/article/663251)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [幼兒專責醫師制度11月上路 新生兒全納入](https://news.pts.org.tw/article/663252)
+Append: [1-7月查獲毒品逾5600公斤 學生涉毒近300人](https://news.pts.org.tw/article/663253)
+Append: [傳中國8千萬挖角科技業副總 經長：竊關鍵技術違法重罰](https://news.pts.org.tw/article/663254)
+Append: [長青17號操演長達7天6夜 上午集結雲林台西演訓](https://news.pts.org.tw/article/663255)
+Append: [環團：每5隻石虎1隻死於犬殺 週日上街「為野生動物而走」](https://news.pts.org.tw/article/663243)
+Append: [亞旭工會決議展開罷工投票 勞動部籲公司具體解決](https://news.pts.org.tw/article/663245)
+Append: [趙天麟婚外情公開道歉 陳其邁：應審慎評估立委布局](https://news.pts.org.tw/article/663257)
+Append: [東海域清晨6.2地震今年最大 5天內不排除規模5.5到6地震](https://news.pts.org.tw/article/663258)
+append_entries: 12
+Finish: 2023-10-24 07:07:29.583737
