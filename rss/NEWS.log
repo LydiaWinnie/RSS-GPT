@@ -12623,3 +12623,13 @@ Append: [17歲少年裝太陽能板摔落亡 無防護無投保家屬申訴卻�
 Append: [台9線新澳隧道16車連環追撞 釀1死11輕重傷](https://news.pts.org.tw/article/663373)
 append_entries: 15
 Finish: 2023-10-24 15:08:29.907180
+------------------------------------------------------
+Started: 2023-10-24 16:09:43.952904
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-24 16:09:46.661687
