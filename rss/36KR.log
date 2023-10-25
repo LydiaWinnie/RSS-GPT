@@ -13549,3 +13549,17 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 2
 Finish: 2023-10-25 00:34:57.253879
+------------------------------------------------------
+Started: 2023-10-25 01:41:59.744026
+Existing_entries: 748
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [数字化转型，为什么他们能成功？](https://www.36kr.com/p/2489065493354372)
+append_entries: 1
+Finish: 2023-10-25 01:42:10.465206
