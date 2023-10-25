@@ -12763,3 +12763,21 @@ Append: [海陸66旅涉盜賣刺針飛彈發射筒 4軍士官2收押1交保1飭�
 Append: [台9線新澳隧道16車連環追撞 釀1死11輕重傷](https://news.pts.org.tw/article/663403)
 append_entries: 6
 Finish: 2023-10-25 02:15:20.068725
+------------------------------------------------------
+Started: 2023-10-25 03:08:10.257411
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國久未公開露面的國防部長李尚福被免職](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E4%B9%85%E6%9C%AA%E5%85%AC%E9%96%8B%E9%9C%B2%E9%9D%A2%E7%9A%84%E5%9C%8B%E9%98%B2%E9%83%A8%E9%95%B7%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%A2%AB%E5%85%8D%E8%81%B7-59c5de3d)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國敦促海灣國家制裁哈馬斯資助者](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E6%95%A6%E4%BF%83%E6%B5%B7%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%88%B6%E8%A3%81%E5%93%88%E9%A6%AC%E6%96%AF%E8%B3%87%E5%8A%A9%E8%80%85-e7ea766f)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [伊朗放任地區民兵組織襲擊美軍基地，布林肯發出警告](https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E6%94%BE%E4%BB%BB%E5%9C%B0%E5%8D%80%E6%B0%91%E5%85%B5%E7%B5%84%E7%B9%94%E8%A5%B2%E6%93%8A%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0-%E5%B8%83%E6%9E%97%E8%82%AF%E7%99%BC%E5%87%BA%E8%AD%A6%E5%91%8A-a4b12ab3)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2023-10-25 03:08:12.806971

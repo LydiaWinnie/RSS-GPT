@@ -13577,3 +13577,32 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2023-10-25 02:15:30.529247
+------------------------------------------------------
+Started: 2023-10-25 03:08:17.167221
+Existing_entries: 750
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [“AI”微软来了，互联网再入微软统治时代？](https://www.36kr.com/p/2489170976954499)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [《蔺相如》一头撞停科大讯飞？](https://www.36kr.com/p/2489043952375686)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI能赚到钱了么？](https://www.36kr.com/p/2489058529091715)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [50张图“毒倒”Stable Diffusion，汽车和牛都分不清了](https://www.36kr.com/p/2489091892107396)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [爆火AutoGPT获1200万美元融资，GitHub已有151k星](https://www.36kr.com/p/2489096572786563)
+Append: [净利润暴涨1763%，世界第三大软件公司如何靠AIGC逆风翻盘？](https://www.36kr.com/p/2488600340338561)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Feed error: 404
+append_entries: 6
+error when rendering xml, skip rss/36KR
