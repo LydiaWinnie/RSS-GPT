@@ -12938,3 +12938,12 @@ Append: [印加木乃伊胡安妮塔冰封百年 3D技術重現真容](https://n
 Append: [里約黑幫洩憤縱火影響交通 州長請求中央助掃黑](https://news.pts.org.tw/article/663510)
 append_entries: 8
 Finish: 2023-10-25 12:13:36.691845
+------------------------------------------------------
+Started: 2023-10-25 13:09:34.423059
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-25 13:09:36.471729

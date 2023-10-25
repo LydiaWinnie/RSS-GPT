@@ -13745,3 +13745,26 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2023-10-25 12:16:53.877513
+------------------------------------------------------
+Started: 2023-10-25 13:09:39.790281
+Existing_entries: 763
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI大模型的尽头，是发电厂吗？](https://www.36kr.com/p/2489713404336265)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI真的很烧钱？不，微软赚麻了](https://www.36kr.com/p/2489735799036039)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [开源不是活雷锋，但搭便车的机会出现了](https://www.36kr.com/p/2489684762974084)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [讯飞大模型新品发布，股价一度跌停，讯飞：已上线新内容安全机制](https://www.36kr.com/p/2489701998729346)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 4
+Finish: 2023-10-25 13:10:12.843817
