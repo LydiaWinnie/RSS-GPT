@@ -12738,3 +12738,28 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-10-25 01:41:56.196999
+------------------------------------------------------
+Started: 2023-10-25 02:15:17.702738
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [亞帕運桌球男單四強戰 程銘志惜敗詹達順奪銅牌](https://news.pts.org.tw/article/663389)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [杭州亞帕運田徑女子標槍 劉雅婷擲出33.40公尺奪銅牌](https://news.pts.org.tw/article/663390)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／以再空襲4百次 加薩一夜700逾死](https://news.pts.org.tw/article/663393)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [民進黨立委趙天麟傳婚外情 宣布退出2024選舉](https://news.pts.org.tw/article/663399)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [海陸66旅涉盜賣刺針飛彈發射筒 4軍士官2收押1交保1飭回](https://news.pts.org.tw/article/663402)
+Append: [台9線新澳隧道16車連環追撞 釀1死11輕重傷](https://news.pts.org.tw/article/663403)
+append_entries: 6
+Finish: 2023-10-25 02:15:20.068725
