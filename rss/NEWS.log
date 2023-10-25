@@ -12808,3 +12808,12 @@ Append: [「中英」反共、反通膨、反尹錫悅：韓國為何「盛產�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-25 05:07:14.547571
+------------------------------------------------------
+Started: 2023-10-25 06:10:16.698496
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-25 06:10:21.613625
