@@ -12851,3 +12851,21 @@ Append: [文化部科員涉共諜移送懲戒 赴中旅遊洩藏獨情資](https
 Append: [趙天麟宣布退選高雄市立委 陳其邁將評估年輕世代接棒](https://news.pts.org.tw/article/663449)
 append_entries: 15
 Finish: 2023-10-25 07:07:06.413242
+------------------------------------------------------
+Started: 2023-10-25 08:10:10.465901
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／全球反猶太主義滋長 矽谷猶太人集結盼救以國人質](https://news.pts.org.tw/article/663439)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [立陶宛議長希米利特參訪 期許台立科技、經濟有更多合作](https://news.pts.org.tw/article/663451)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [桃園公車司機荒影響班次 議員推雙層巴士增客運量](https://news.pts.org.tw/article/663450)
+append_entries: 3
+Finish: 2023-10-25 08:10:12.139313

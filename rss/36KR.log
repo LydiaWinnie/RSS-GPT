@@ -13673,3 +13673,23 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2023-10-25 07:07:34.090943
+------------------------------------------------------
+Started: 2023-10-25 08:10:16.377411
+Existing_entries: 758
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [130亿大模型塞进电脑手机，高通骁龙性能全面升级，碾压苹果英特尔](https://www.36kr.com/p/2489516512843912)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [老黄苏妈齐聚现场，芯片巨头围观首款AI PC，联想造](https://www.36kr.com/p/2489483666233481)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [Bengio、Hinton、张亚勤等AI大佬再发联名信：AI太危险，我们需要重新定位](https://www.36kr.com/p/2489476186347651)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 3
+Finish: 2023-10-25 08:10:38.134241
