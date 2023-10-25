@@ -12899,3 +12899,15 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [導演侯孝賢受阿茲海默症所苦 家人證實回歸家庭](https://news.pts.org.tw/article/663486)
 append_entries: 4
 Finish: 2023-10-25 10:08:16.778841
+------------------------------------------------------
+Started: 2023-10-25 11:06:11.184251
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」「二戰」以來最激烈的巷戰？若以色列入侵加薩會發生什麼](https://cn.nytimes.com/world/20231025/israel-hamas-invasion/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-25 11:06:12.303837
