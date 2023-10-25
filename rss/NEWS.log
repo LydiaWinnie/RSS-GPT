@@ -12817,3 +12817,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-25 06:10:21.613625
+------------------------------------------------------
+Started: 2023-10-25 07:07:04.615067
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台大擱置政經學院投票 潘文忠：不會排擠現有資源](https://news.pts.org.tw/article/663434)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [政院版《道安法》送立院審查 時力批草案徒具形式](https://news.pts.org.tw/article/663435)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國內貧富差距創10年新高 經濟部擬延長施行加薪抵稅](https://news.pts.org.tw/article/663443)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [馬文君等凍3億原型艦第2階預算 邱國正：盼能夠和平處理](https://news.pts.org.tw/article/663441)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [巴西外交官墜樓案 馮光中處長涉貪諭令10萬交保](https://news.pts.org.tw/article/663437)
+Append: [2024大選／侯籲民調初選各半 柯文哲：砒霜一罐半罐都會死](https://news.pts.org.tw/article/663438)
+Append: [「布可星球」閱讀平台注音錯 南市教育局：程式修正再上線](https://news.pts.org.tw/article/663433)
+Append: [蘇花新澳隧道連環撞釀1死11傷 砂石車駕駛依過失致死送辦](https://news.pts.org.tw/article/663436)
+Append: [獲評全球最性平國家 冰島女性罷工爭取薪資平權](https://news.pts.org.tw/article/663428)
+Append: [戰車操演突漏油 軍方急交管清馬路油漬](https://news.pts.org.tw/article/663445)
+Append: [李尚福遭免職中國防部長 3個月內拔2副國級官員](https://news.pts.org.tw/article/663446)
+Append: [勞保估2028年破產 勞長：有政府不會倒](https://news.pts.org.tw/article/663442)
+Append: [蛋商稱受進口蛋錯標衝擊 產地批發價每台斤降2元](https://news.pts.org.tw/article/663444)
+Append: [文化部科員涉共諜移送懲戒 赴中旅遊洩藏獨情資](https://news.pts.org.tw/article/663447)
+Append: [趙天麟宣布退選高雄市立委 陳其邁將評估年輕世代接棒](https://news.pts.org.tw/article/663449)
+append_entries: 15
+Finish: 2023-10-25 07:07:06.413242
