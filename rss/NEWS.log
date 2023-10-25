@@ -12987,3 +12987,12 @@ Append: [2024大選／賴回應趙天麟婚外情風波 藍白合卡關侯喊話
 Append: [2024大選／防境外勢力介入及突發狀況 中選會辦投開票演練](https://news.pts.org.tw/article/663579)
 append_entries: 12
 Finish: 2023-10-25 15:07:42.257956
+------------------------------------------------------
+Started: 2023-10-25 16:09:18.034747
+Existing_entries: 1012
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-25 16:09:21.271470
