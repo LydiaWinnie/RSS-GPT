@@ -12796,3 +12796,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-10-25 04:09:26.506281
+------------------------------------------------------
+Started: 2023-10-25 05:07:12.753959
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」反共、反通膨、反尹錫悅：韓國為何「盛產」抗議集會](https://cn.nytimes.com/asia-pacific/20231025/south-korea-protests/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-25 05:07:14.547571
