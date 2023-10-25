@@ -12869,3 +12869,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [桃園公車司機荒影響班次 議員推雙層巴士增客運量](https://news.pts.org.tw/article/663450)
 append_entries: 3
 Finish: 2023-10-25 08:10:12.139313
+------------------------------------------------------
+Started: 2023-10-25 09:07:52.158542
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-25 09:07:54.244496
