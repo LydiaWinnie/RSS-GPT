@@ -12956,3 +12956,34 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-25 14:07:18.806628
+------------------------------------------------------
+Started: 2023-10-25 15:07:39.735065
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [4脫北者搭船經海路投誠南韓 當局暫予拘留調查](https://news.pts.org.tw/article/663566)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／不滿UN秘書長譴責加薩慘況 以色列大使要求下台](https://news.pts.org.tw/article/663567)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大馬全球第6半導體出口國 檳城成跨國企業投資聖地](https://news.pts.org.tw/article/663568)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [印尼看護染漢生病亡 醫師指合併羅氏現象加速惡化](https://news.pts.org.tw/article/663570)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美42州控社群功能使兒童成癮 Meta：已提工具支持青少年](https://news.pts.org.tw/article/663564)
+Append: [台中梅花鹿誤闖民宅 通報救援疑遭勒死亡惹議](https://news.pts.org.tw/article/663571)
+Append: [台加完成FIPA談判 學者指有助台企全球投資布局](https://news.pts.org.tw/article/663569)
+Append: [幼園5童遭膠帶綁椅及地板 雲縣府依法解職2幼保員](https://news.pts.org.tw/article/663572)
+Append: [新北1日2起大車事故 交通部擬加強回訓制度改善](https://news.pts.org.tw/article/663573)
+Append: [日排核廢水後首批秋刀魚返台 樣品送驗目前無檢出](https://news.pts.org.tw/article/663575)
+Append: [2024大選／賴回應趙天麟婚外情風波 藍白合卡關侯喊話柯讓步](https://news.pts.org.tw/article/663581)
+Append: [2024大選／防境外勢力介入及突發狀況 中選會辦投開票演練](https://news.pts.org.tw/article/663579)
+append_entries: 12
+Finish: 2023-10-25 15:07:42.257956
