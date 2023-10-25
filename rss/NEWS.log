@@ -12911,3 +12911,30 @@ Append: [「中英」「二戰」以來最激烈的巷戰？若以色列入侵�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-25 11:06:12.303837
+------------------------------------------------------
+Started: 2023-10-25 12:13:33.534625
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [埃爾多安取消以色列訪問行程，稱哈馬斯是「解放組織」](https://cn.wsj.com/articles/%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89%E5%8F%96%E6%B6%88%E4%BB%A5%E8%89%B2%E5%88%97%E8%A8%AA%E5%95%8F%E8%A1%8C%E7%A8%8B-%E7%A8%B1%E5%93%88%E9%A6%AC%E6%96%AF%E6%98%AF-%E8%A7%A3%E6%94%BE%E7%B5%84%E7%B9%94-b5461c98)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [真主黨領導人與哈馬斯和傑哈德高級官員會面](https://cn.wsj.com/articles/%E7%9C%9F%E4%B8%BB%E9%BB%A8%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%88%87%E5%93%88%E9%A6%AC%E6%96%AF%E5%92%8C%E5%82%91%E5%93%88%E5%BE%B7%E9%AB%98%E7%B4%9A%E5%AE%98%E5%93%A1%E6%9C%83%E9%9D%A2-a5766912)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [富士康遭查稅 國台辦證實稱「正常執法行為」](https://news.pts.org.tw/article/663577)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [網傳與女子飯店私會影像 鄭文燦澄清非影中人已提告](https://news.pts.org.tw/article/663580)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [高雄路竹科學園區土堆坍塌 工人遭埋1脫險1無呼吸心跳](https://news.pts.org.tw/article/663562)
+Append: [羅馬尼亞棕熊襲擊事件增 動保團體籲尋人熊共存措施](https://news.pts.org.tw/article/663508)
+Append: [印加木乃伊胡安妮塔冰封百年 3D技術重現真容](https://news.pts.org.tw/article/663509)
+Append: [里約黑幫洩憤縱火影響交通 州長請求中央助掃黑](https://news.pts.org.tw/article/663510)
+append_entries: 8
+Finish: 2023-10-25 12:13:36.691845
