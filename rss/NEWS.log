@@ -12878,3 +12878,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-25 09:07:54.244496
+------------------------------------------------------
+Started: 2023-10-25 10:08:14.977043
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [租屋市場糾紛多，租客成立聯盟發聲！【獨立特派員】](https://news.pts.org.tw/article/663503)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [家庭照顧協議，協助解決長輩照顧問題！【獨立特派員】](https://news.pts.org.tw/article/663502)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／獲釋人質談遭囚經歷 稱受醫療照顧等人道待遇](https://news.pts.org.tw/article/663501)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [導演侯孝賢受阿茲海默症所苦 家人證實回歸家庭](https://news.pts.org.tw/article/663486)
+append_entries: 4
+Finish: 2023-10-25 10:08:16.778841
