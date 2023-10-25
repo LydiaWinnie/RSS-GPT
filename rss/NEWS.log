@@ -12781,3 +12781,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-10-25 03:08:12.806971
+------------------------------------------------------
+Started: 2023-10-25 04:09:21.768193
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [芬蘭懷疑中方船錨導致一天然氣管道受損](https://cn.wsj.com/articles/%E8%8A%AC%E8%98%AD%E6%87%B7%E7%96%91%E4%B8%AD%E6%96%B9%E8%88%B9%E9%8C%A8%E5%B0%8E%E8%87%B4%E4%B8%80%E5%A4%A9%E7%84%B6%E6%B0%A3%E7%AE%A1%E9%81%93%E5%8F%97%E6%90%8D-8991612a)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [湯姆·埃默退選後，共和黨提名邁克·約翰遜為眾議院議長候選人](https://cn.wsj.com/articles/%E6%B9%AF%E5%A7%86-%E5%9F%83%E9%BB%98%E9%80%80%E9%81%B8%E5%BE%8C-%E5%85%B1%E5%92%8C%E9%BB%A8%E6%8F%90%E5%90%8D%E9%82%81%E5%85%8B-%E7%B4%84%E7%BF%B0%E9%81%9C%E7%82%BA%E7%9C%BE%E8%AD%B0%E9%99%A2%E8%AD%B0%E9%95%B7%E5%80%99%E9%81%B8%E4%BA%BA-548325b1)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-10-25 04:09:26.506281
