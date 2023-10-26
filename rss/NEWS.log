@@ -13325,3 +13325,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [高雄光武國小藝術包裝垃圾場 獲日本國際設計大獎](https://news.pts.org.tw/article/663755)
 append_entries: 2
 Finish: 2023-10-26 15:07:29.454761
+------------------------------------------------------
+Started: 2023-10-26 16:09:02.057798
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-26 16:09:04.849888
