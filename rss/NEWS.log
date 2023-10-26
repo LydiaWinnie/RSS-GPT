@@ -13216,3 +13216,12 @@ Append: [高雄街頭債務糾紛擄人毆打 警逮7人送辦](https://news.pts
 Append: [2024大選／藍白政黨協商 侯友宜、柯文哲表態同意](https://news.pts.org.tw/article/663643)
 append_entries: 13
 Finish: 2023-10-26 07:07:23.905688
+------------------------------------------------------
+Started: 2023-10-26 08:09:32.796253
+Existing_entries: 1013
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-26 08:09:37.531303
