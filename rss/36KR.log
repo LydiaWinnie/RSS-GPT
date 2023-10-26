@@ -14034,3 +14034,28 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-26 09:08:14.056731
+------------------------------------------------------
+Started: 2023-10-26 10:08:14.578992
+Existing_entries: 778
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [市值飙升千亿美元，Adobe示范掘金AIGC](https://www.36kr.com/p/2491036478461828)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [《时代》人工智能百人榜（一）：领袖](https://www.36kr.com/p/2443934653060997)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [从使命初心到商业化之旅：OpenAI 究竟想要什么？](https://www.36kr.com/p/2437112462545284)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [OpenAI的「最大挑战」，可能是「微软」](https://www.36kr.com/p/2490969320085376)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Feed error: 404
+append_entries: 4
+error when rendering xml, skip rss/36KR
