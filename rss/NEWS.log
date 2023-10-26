@@ -13147,3 +13147,28 @@ Append: [「中英」以色列稱將消滅哈馬斯，但加薩仍將面臨政�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 5
 Finish: 2023-10-26 04:09:01.829555
+------------------------------------------------------
+Started: 2023-10-26 05:07:02.767069
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」習近平會見加州州長紐森，外界提高對「習拜會」期待](https://cn.nytimes.com/china/20231026/gavin-newsom-china-xi/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [趙天麟外遇對象曾入統戰組織 法務部、國安局調查中](https://news.pts.org.tw/article/663644)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [王美花：中科二期為台積電用 專家樂看助提升產能](https://news.pts.org.tw/article/663651)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [導演侯孝賢罹阿茲海默症 《刺客聶隱娘》恐成最後作品](https://news.pts.org.tw/article/663632)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [知本廂型車載7學生赴校 與轎車互撞廂型車駕駛不治](https://news.pts.org.tw/article/663654)
+Append: [行政院通過《公務人員協會法》修正草案 警消可組「特種協會」](https://news.pts.org.tw/article/663626)
+append_entries: 6
+Finish: 2023-10-26 05:07:07.154145
