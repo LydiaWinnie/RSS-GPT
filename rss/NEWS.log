@@ -13090,3 +13090,15 @@ Append: [吳農彬跳遠摘亞帕運銅牌 短跑轉跳遠解鎖生涯里程碑]
 Append: [亞帕運桌球陳柏諺、林姿妤奪金 田曉雯摘銀](https://news.pts.org.tw/article/663611)
 append_entries: 9
 Finish: 2023-10-26 00:33:40.274113
+------------------------------------------------------
+Started: 2023-10-26 01:40:18.167135
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [至少有21名美軍士兵在中東基地遇襲事件中受傷](https://cn.wsj.com/articles/%E8%87%B3%E5%B0%91%E6%9C%8921%E5%90%8D%E7%BE%8E%E8%BB%8D%E5%A3%AB%E5%85%B5%E5%9C%A8%E4%B8%AD%E6%9D%B1%E5%9F%BA%E5%9C%B0%E9%81%87%E8%A5%B2%E4%BA%8B%E4%BB%B6%E4%B8%AD%E5%8F%97%E5%82%B7-7497af67)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-26 01:40:20.432210
