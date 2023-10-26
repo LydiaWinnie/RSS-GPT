@@ -13172,3 +13172,15 @@ Append: [知本廂型車載7學生赴校 與轎車互撞廂型車駕駛不治](h
 Append: [行政院通過《公務人員協會法》修正草案 警消可組「特種協會」](https://news.pts.org.tw/article/663626)
 append_entries: 6
 Finish: 2023-10-26 05:07:07.154145
+------------------------------------------------------
+Started: 2023-10-26 06:10:01.875835
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [颶風奧蒂斯襲擊墨西哥太平洋沿岸地區，引發洪水和災害](https://cn.wsj.com/articles/%E9%A2%B6%E9%A2%A8%E5%A5%A7%E8%92%82%E6%96%AF%E8%A5%B2%E6%93%8A%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B2%BF%E5%B2%B8%E5%9C%B0%E5%8D%80-%E5%BC%95%E7%99%BC%E6%B4%AA%E6%B0%B4%E5%92%8C%E7%81%BD%E5%AE%B3-184a655f)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-26 06:10:05.810936
