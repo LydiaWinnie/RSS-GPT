@@ -13301,3 +13301,12 @@ Append: [岡山違停車突開門撞倒機車 騎士丈夫遭後車輾斃](https
 Append: [俄烏戰爭／澤倫斯基控俄空襲 攻擊目標恐為核電廠](https://news.pts.org.tw/article/663761)
 append_entries: 15
 Finish: 2023-10-26 13:09:42.647571
+------------------------------------------------------
+Started: 2023-10-26 14:07:08.806516
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-26 14:07:11.669423
