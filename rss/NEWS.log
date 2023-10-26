@@ -13310,3 +13310,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-26 14:07:11.669423
+------------------------------------------------------
+Started: 2023-10-26 15:07:27.355381
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大馬檳城半導體產業遇挑戰 用地不足、人才外流成隱憂](https://news.pts.org.tw/article/663763)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [高雄光武國小藝術包裝垃圾場 獲日本國際設計大獎](https://news.pts.org.tw/article/663755)
+append_entries: 2
+Finish: 2023-10-26 15:07:29.454761
