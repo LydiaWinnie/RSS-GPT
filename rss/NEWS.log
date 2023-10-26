@@ -13184,3 +13184,35 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-26 06:10:05.810936
+------------------------------------------------------
+Started: 2023-10-26 07:07:17.860087
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」美國眾議院新任議長：反墮胎、反同性戀、挺川普](https://cn.nytimes.com/usa/20231026/mike-johnson-house-speaker/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [行政院通過修法 警消可組特種公務人員協會](https://news.pts.org.tw/article/663649)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [海峽論壇赫見我故宮文創品 故宮：中不肖業者趁機盜版](https://news.pts.org.tw/article/663648)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國眾院終結22天僵局 共和黨強生當選新議長](https://news.pts.org.tw/article/663646)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [潛艦預算未凍結 邱國正：踏出這步不容易](https://news.pts.org.tw/article/663647)
+Append: [柯侯提長照保險制 衛福部長回應需評估3缺點](https://news.pts.org.tw/article/663639)
+Append: [環團點名中鋼、中龍鋼鐵釀空污 籲總統參選人提褐轉綠政見](https://news.pts.org.tw/article/663650)
+Append: [平均每小時2件家暴僅139社工 桃家防中心：將逐步增加人力](https://news.pts.org.tw/article/663640)
+Append: [北市公費流感疫苗接種率落後 王必勝批北市禁高端入校](https://news.pts.org.tw/article/663641)
+Append: [台積電ADR暴跌超過4% 台股重挫一度跌逾260點](https://news.pts.org.tw/article/663652)
+Append: [高中教師打高端疫苗引反彈 台中衛生局：教職員也不接種](https://news.pts.org.tw/article/663642)
+Append: [高雄街頭債務糾紛擄人毆打 警逮7人送辦](https://news.pts.org.tw/article/663653)
+Append: [2024大選／藍白政黨協商 侯友宜、柯文哲表態同意](https://news.pts.org.tw/article/663643)
+append_entries: 13
+Finish: 2023-10-26 07:07:23.905688
