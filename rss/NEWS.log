@@ -13267,3 +13267,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-26 12:13:20.103723
+------------------------------------------------------
+Started: 2023-10-26 13:09:39.984044
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [爭托育幼教師權益 教團發起10/28遊行](https://news.pts.org.tw/article/663757)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [彰化建火葬場意見兩極 市公所辦說明會持續溝通](https://news.pts.org.tw/article/663765)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [金漫獎鼓勵跨界合作 漫畫音樂化《芭樂歌》奪2大獎](https://news.pts.org.tw/article/663753)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [KIBO機器人程式設計挑戰賽 台灣學生蟬聯冠軍](https://news.pts.org.tw/article/663754)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [梨泰院事故屆週年 首爾推AI管控人流防悲劇重演](https://news.pts.org.tw/article/663759)
+Append: [海外逃犯逾7800人 警指防逃機制缺失學者籲修法](https://news.pts.org.tw/article/663767)
+Append: [長者流感疫苗接種率台北僅3成 北市：較去年同期上升](https://news.pts.org.tw/article/663769)
+Append: [中國山東號穿越巴士海峽 國防部：綿密掌握動態](https://news.pts.org.tw/article/663777)
+Append: [以巴戰爭／台灣猶太社區中心辦說明會 同為喪生以色列民眾默哀](https://news.pts.org.tw/article/663772)
+Append: [以巴戰爭／以色列應美要求暫緩進攻 加薩燃料將用盡醫療瀕停擺](https://news.pts.org.tw/article/663773)
+Append: [永豐金大股東不當干政 金管會重罰千萬董事長減薪](https://news.pts.org.tw/article/663768)
+Append: [美國「最安全州」緬因州 連續槍擊已釀22死近60傷](https://news.pts.org.tw/article/663762)
+Append: [內湖運動中心1女攀岩墜落亡 欠缺安全標示判賠105萬](https://news.pts.org.tw/article/663770)
+Append: [岡山違停車突開門撞倒機車 騎士丈夫遭後車輾斃](https://news.pts.org.tw/article/663771)
+Append: [俄烏戰爭／澤倫斯基控俄空襲 攻擊目標恐為核電廠](https://news.pts.org.tw/article/663761)
+append_entries: 15
+Finish: 2023-10-26 13:09:42.647571
