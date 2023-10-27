@@ -13498,3 +13498,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 4
 Finish: 2023-10-27 05:07:20.880086
+------------------------------------------------------
+Started: 2023-10-27 06:10:08.185281
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」以色列對加薩轟炸規模之大、傷亡之重令全球矚目](https://cn.nytimes.com/world/20231027/israel-gaza-airstrikes/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [外澳至烏石港擬建自行車道 途經私有地降高度引安全疑慮](https://news.pts.org.tw/article/663827)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [現行性教育仍著重生理 民團籲實施「全面性教育」](https://news.pts.org.tw/article/663831)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [新光醫院11月率先加薪 盼提高待遇留住護理人才](https://news.pts.org.tw/article/663832)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大型車事故頻傳 立委籲業者連帶處分「停牌」](https://news.pts.org.tw/article/663841)
+Append: [提醒騎士「不停讓行人罰6千」 新莊高中生遭打、家長提告](https://news.pts.org.tw/article/663842)
+Append: [台南男子無急病叫53次救護車 市府：將研擬辦法遏止行為](https://news.pts.org.tw/article/663840)
+Append: [台北大巨蛋11月辦比賽測試 球迷可以免費進場體驗](https://news.pts.org.tw/article/663828)
+Append: [王毅訪華府見布林肯 美盼重啟軍事溝通](https://news.pts.org.tw/article/663845)
+Append: [台中多名大學生遭無卡分期詐騙 誆買手機賺5千卻遭融資催討](https://news.pts.org.tw/article/663835)
+Append: [烏骨雞顏色變淺被指次級品 公私合作選育11世代育成新品種](https://news.pts.org.tw/article/663830)
+Append: [3家固態再生燃料發電進駐桃科 觀音居民強力反對](https://news.pts.org.tw/article/663834)
+Append: [中國共軍「死神無人機」繞台 陳玉珍：大陸進逼已改變現狀](https://news.pts.org.tw/article/663837)
+Append: [2024大選／藍白合原訂今政黨協商延期 侯喊話柯不要再拖](https://news.pts.org.tw/article/663829)
+Append: [中國國務院前總理李克強病逝 享壽68歲](https://news.pts.org.tw/article/663846)
+append_entries: 15
+Finish: 2023-10-27 06:10:09.828424
