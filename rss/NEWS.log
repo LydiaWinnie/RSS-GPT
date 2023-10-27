@@ -13477,3 +13477,24 @@ Append: [「中英」普丁在巴以衝突中得到了他想要的](https://cn.n
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-10-27 04:09:06.298858
+------------------------------------------------------
+Started: 2023-10-27 05:07:16.705436
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [加沙醫院和避難所因燃料短缺而減少服務](https://cn.wsj.com/articles/%E5%8A%A0%E6%B2%99%E9%86%AB%E9%99%A2%E5%92%8C%E9%81%BF%E9%9B%A3%E6%89%80%E5%9B%A0%E7%87%83%E6%96%99%E7%9F%AD%E7%BC%BA%E8%80%8C%E6%B8%9B%E5%B0%91%E6%9C%8D%E5%8B%99-c07db498)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國對疑似伊朗支持的敘利亞基地發動打擊](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E7%96%91%E4%BC%BC%E4%BC%8A%E6%9C%97%E6%94%AF%E6%8C%81%E7%9A%84%E6%95%98%E5%88%A9%E4%BA%9E%E5%9F%BA%E5%9C%B0%E7%99%BC%E5%8B%95%E6%89%93%E6%93%8A-90090956)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [習近平尋求對中國房地產困局追責](https://cn.wsj.com/articles/%E7%BF%92%E8%BF%91%E5%B9%B3%E5%B0%8B%E6%B1%82%E5%B0%8D%E4%B8%AD%E5%9C%8B%E6%88%BF%E5%9C%B0%E7%94%A2%E5%9B%B0%E5%B1%80%E8%BF%BD%E8%B2%AC-1ae94a58)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [哈馬斯代表團訪問俄羅斯](https://cn.wsj.com/articles/%E5%93%88%E9%A6%AC%E6%96%AF%E4%BB%A3%E8%A1%A8%E5%9C%98%E8%A8%AA%E5%95%8F%E4%BF%84%E7%BE%85%E6%96%AF-e34e2274)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 4
+Finish: 2023-10-27 05:07:20.880086
