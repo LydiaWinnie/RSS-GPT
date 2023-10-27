@@ -13666,3 +13666,12 @@ Append: [費科回鍋任斯洛伐克總理 表態停止前朝援烏承諾](https
 Append: [因應全球暖化極端高溫 巴黎首推50度高溫演習](https://news.pts.org.tw/article/663862)
 append_entries: 7
 Finish: 2023-10-27 12:13:06.794070
+------------------------------------------------------
+Started: 2023-10-27 13:08:57.475008
+Existing_entries: 1007
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-27 13:09:00.195118
