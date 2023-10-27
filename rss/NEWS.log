@@ -13597,3 +13597,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-27 09:07:22.087673
+------------------------------------------------------
+Started: 2023-10-27 10:07:54.336682
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [最大氦氣飛船因減碳重獲關注 英國預計2026年量產](https://news.pts.org.tw/article/663858)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [高齡化失智人口大幅上升 安養院設假公車站降低焦慮](https://news.pts.org.tw/article/663860)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [70%奧地利人選擇現金付款 執政黨擬將「付現權」入法](https://news.pts.org.tw/article/663861)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [飼主寵物盛裝參加萬聖節 獸醫：需顧慮毛孩心情](https://news.pts.org.tw/article/663857)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [全球首太陽能越野車 不斷電千里長征撒哈拉沙漠](https://news.pts.org.tw/article/663859)
+Append: [越南藝術家客製化仿真羊毛氈 寵物獲得新生伴飼主](https://news.pts.org.tw/article/663856)
+Append: [分解塑膠提煉冰淇淋原料遭批 設計團隊盼喚醒環保意識](https://news.pts.org.tw/article/663855)
+Append: [哈佛學者研發永續冷媒 舊冷氣冰箱重生環保家電](https://news.pts.org.tw/article/663854)
+Append: [「將在播放3部影片後封鎖」 為什麼YouTube封鎖廣告攔截器？](https://news.pts.org.tw/article/663889)
+Append: [法國業者以馬車蒐集廚餘 民眾回收效果顯著](https://news.pts.org.tw/article/663853)
+Append: [美水運命脈密西西比河乾旱 衝擊上下游農產銷路](https://news.pts.org.tw/article/663852)
+Append: [俄烏戰爭／迎來戰爭第2個嚴冬 烏克蘭修電力設備並加強空防](https://news.pts.org.tw/article/663851)
+Append: [以巴戰爭／以色列無差別軍事攻擊加薩 800年歷史東正教堂遭砲擊](https://news.pts.org.tw/article/663850)
+Append: [吉爾吉斯菸農自製口嚼菸維生 醫生：恐致癌](https://news.pts.org.tw/article/663848)
+Append: [以巴戰爭／戰火延燒影響經濟 專家憂衝突升級引發全球震盪](https://news.pts.org.tw/article/663849)
+append_entries: 15
+Finish: 2023-10-27 10:07:56.510079
