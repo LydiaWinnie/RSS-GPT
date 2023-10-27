@@ -13713,3 +13713,12 @@ Append: [自救會籲廢除自辦市地重劃 內政部盼改「公辦」優先]
 Append: [中國國務院前總理李克強猝逝 生前與習不同調遭架空](https://news.pts.org.tw/article/663967)
 append_entries: 10
 Finish: 2023-10-27 15:07:27.304836
+------------------------------------------------------
+Started: 2023-10-27 16:08:49.637360
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-27 16:08:51.562867
