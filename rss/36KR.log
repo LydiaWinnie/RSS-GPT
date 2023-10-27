@@ -14237,3 +14237,18 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-26 23:08:18.415263
+------------------------------------------------------
+Started: 2023-10-27 00:33:48.730593
+Existing_entries: 788
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [竞逐文生图大模型，百度、快手、网易“明争暗斗”](https://www.36kr.com/p/2491343880886150)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Feed error: 404
+append_entries: 1
+error when rendering xml, skip rss/36KR
