@@ -13438,3 +13438,15 @@ Append: [亞帕運圍棋男團奪銅 創隊史紀錄](https://news.pts.org.tw/ar
 Append: [吳于嫣搭檔蔡奕琳 亞帕運羽球女雙奪銀](https://news.pts.org.tw/article/663799)
 append_entries: 10
 Finish: 2023-10-27 01:40:43.619447
+------------------------------------------------------
+Started: 2023-10-27 02:14:32.680040
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國前總理李克強突發心臟病去世，享年68歲](https://cn.nytimes.com/china/20231027/li-keqiang-china-dead/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-27 02:14:34.561520
