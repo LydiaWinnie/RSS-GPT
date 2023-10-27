@@ -13640,3 +13640,29 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-27 11:06:23.529786
+------------------------------------------------------
+Started: 2023-10-27 12:13:03.090550
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／高房價居住正義難落實 總統參選人各端政策牛肉](https://news.pts.org.tw/article/663953)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／高屏傳收購總統連署書 高市府顧問30萬元交保](https://news.pts.org.tw/article/663965)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國山東艦穿越巴士海峽 邱國正：例行演訓非針對台](https://news.pts.org.tw/article/663969)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [骨折送醫後續上陣完賽 62歲蔡明宜極限超鐵創亞洲紀錄](https://news.pts.org.tw/article/663950)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [泰國恐怖咖啡廳慶萬聖 日本警方戒備防踩踏意外](https://news.pts.org.tw/article/663909)
+Append: [費科回鍋任斯洛伐克總理 表態停止前朝援烏承諾](https://news.pts.org.tw/article/663912)
+Append: [因應全球暖化極端高溫 巴黎首推50度高溫演習](https://news.pts.org.tw/article/663862)
+append_entries: 7
+Finish: 2023-10-27 12:13:06.794070
