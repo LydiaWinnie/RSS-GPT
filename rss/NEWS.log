@@ -13560,3 +13560,28 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 9
 Finish: 2023-10-27 07:06:56.093147
+------------------------------------------------------
+Started: 2023-10-27 08:10:03.784314
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國前總理李克強去世，曾被習近平邊緣化，終年68歲](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E5%89%8D%E7%B8%BD%E7%90%86%E6%9D%8E%E5%85%8B%E5%BC%B7%E5%8E%BB%E4%B8%96-%E6%9B%BE%E8%A2%AB%E7%BF%92%E8%BF%91%E5%B9%B3%E9%82%8A%E7%B7%A3%E5%8C%96-%E7%B5%82%E5%B9%B468%E6%AD%B2-081033dd)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」距離不足3米：美軍方稱中美軍機在南海險相撞](https://cn.nytimes.com/asia-pacific/20231027/china-jet-us-b52-bomber/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [雲林歇業KTV成流動賭場 49賭客依《社維法》裁罰](https://news.pts.org.tw/article/663843)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台積電赴德設12吋晶圓廠 投審會核准：無技術外流疑慮](https://news.pts.org.tw/article/663844)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [趙天麟退選立委接棒人選引議 郭建盟喊話陳其邁勿堅持空降](https://news.pts.org.tw/article/663836)
+Append: [以巴戰爭／連線接噩耗 半島駐加薩記者家人遭空襲亡](https://news.pts.org.tw/article/663839)
+append_entries: 6
+Finish: 2023-10-27 08:10:20.516036
