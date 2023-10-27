@@ -13684,3 +13684,32 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-27 14:06:59.988473
+------------------------------------------------------
+Started: 2023-10-27 15:07:21.042082
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／歐盟峰會籲以哈暫時停火 聯合國大會意見分歧](https://news.pts.org.tw/article/663957)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [勞退準備金不足挨罰聲請釋憲 法庭指可保勞權判合憲](https://news.pts.org.tw/article/663958)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [新光護理師11月加薪1680元 多家醫院亦有調薪計畫](https://news.pts.org.tw/article/663959)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [徐翔聖獲日職選秀第1指名 成台應屆高中生第1人](https://news.pts.org.tw/article/663949)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [洛杉磯車居族引環安爭議 議會通過露營車規範盼整頓](https://news.pts.org.tw/article/663948)
+Append: [中國西藏建寄宿學校強制漢化 藏人憂失去文化認同](https://news.pts.org.tw/article/663955)
+Append: [趙天麟第三者疑共諜檢分案查 鄭文燦提告散布影片粉專](https://news.pts.org.tw/article/663964)
+Append: [美中互控南海機艦挑釁 王毅訪美雙方透露盼恢復對話](https://news.pts.org.tw/article/663968)
+Append: [自救會籲廢除自辦市地重劃 內政部盼改「公辦」優先](https://news.pts.org.tw/article/663952)
+Append: [中國國務院前總理李克強猝逝 生前與習不同調遭架空](https://news.pts.org.tw/article/663967)
+append_entries: 10
+Finish: 2023-10-27 15:07:27.304836
