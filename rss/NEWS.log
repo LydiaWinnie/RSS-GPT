@@ -13631,3 +13631,12 @@ Append: [吉爾吉斯菸農自製口嚼菸維生 醫生：恐致癌](https://new
 Append: [以巴戰爭／戰火延燒影響經濟 專家憂衝突升級引發全球震盪](https://news.pts.org.tw/article/663849)
 append_entries: 15
 Finish: 2023-10-27 10:07:56.510079
+------------------------------------------------------
+Started: 2023-10-27 11:06:20.512673
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-27 11:06:23.529786
