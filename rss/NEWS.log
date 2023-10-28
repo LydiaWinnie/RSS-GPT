@@ -13806,3 +13806,12 @@ Append: [「中英」中國人哀悼李克強，也哀悼一個希望尚存的�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-28 01:39:01.150197
+------------------------------------------------------
+Started: 2023-10-28 02:12:42.393887
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-28 02:12:43.947013
