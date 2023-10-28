@@ -13983,3 +13983,12 @@ Append: [22台人自行組團遊新疆 1車撞分隔島1死3傷](https://news.pt
 Append: [2024大選／賴清德出席同志遊行 柯文哲侯友宜台南搶票](https://news.pts.org.tw/article/663998)
 append_entries: 8
 Finish: 2023-10-28 13:07:03.875210
+------------------------------------------------------
+Started: 2023-10-28 14:06:08.636181
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-28 14:06:11.539701
