@@ -14654,3 +14654,18 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-28 05:07:02.803685
+------------------------------------------------------
+Started: 2023-10-28 06:09:04.557852
+Existing_entries: 815
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [智谱AI新大模型来袭：部署价格大降50%，免费商用，做应用能力逼近GPT3.5 | 最前线](https://www.36kr.com/p/2492837362112392)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 1
+Finish: 2023-10-28 06:11:02.835602

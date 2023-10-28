@@ -13870,3 +13870,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [以巴戰爭／以軍擴大地面行動 加薩地面戰恐展開](https://news.pts.org.tw/article/663979)
 append_entries: 3
 Finish: 2023-10-28 05:06:46.172106
+------------------------------------------------------
+Started: 2023-10-28 06:08:59.816485
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-28 06:09:00.754563
