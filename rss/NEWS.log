@@ -13956,3 +13956,30 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-28 12:11:50.744195
+------------------------------------------------------
+Started: 2023-10-28 13:07:02.284642
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [21屆台灣同志遊行北巿登場 訴求與多元同行、減少對立](https://news.pts.org.tw/article/664013)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [紐約猶太團體示威促以色列停火 千人集結中央車站一度關閉](https://news.pts.org.tw/article/663992)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [T1聯盟球季開幕嚴防簽賭假球 警方共同宣導反詐騙](https://news.pts.org.tw/article/663993)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [無卡分期詐90大學生購手機 台中逮1主嫌與下線](https://news.pts.org.tw/article/663994)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [遊客鹿谷鳳凰山步道健行 疑遭虎頭蜂螫6傷](https://news.pts.org.tw/article/663995)
+Append: [獲徵召接棒趙天麟參選立委 黃捷：全力以赴](https://news.pts.org.tw/article/663997)
+Append: [22台人自行組團遊新疆 1車撞分隔島1死3傷](https://news.pts.org.tw/article/663996)
+Append: [2024大選／賴清德出席同志遊行 柯文哲侯友宜台南搶票](https://news.pts.org.tw/article/663998)
+append_entries: 8
+Finish: 2023-10-28 13:07:03.875210
