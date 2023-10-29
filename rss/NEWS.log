@@ -14237,3 +14237,12 @@ Append: [中國山東號航母編隊群 宮古島南方海域航訓](https://new
 Append: [明揚死傷追思會 民團籲政府放行警消籌組工會](https://news.pts.org.tw/article/664092)
 append_entries: 8
 Finish: 2023-10-29 12:12:12.371477
+------------------------------------------------------
+Started: 2023-10-29 13:07:21.557965
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-29 13:07:24.262115
