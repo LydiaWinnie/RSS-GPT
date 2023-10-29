@@ -14210,3 +14210,30 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-29 11:05:20.508983
+------------------------------------------------------
+Started: 2023-10-29 12:12:10.676892
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [翠玉白菜肉形石非國寶 故宮認列國寶文物僅276件](https://news.pts.org.tw/article/664071)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [遭控關說段考成績 新北議員黃淑君否認](https://news.pts.org.tw/article/664072)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [控交通扣點新制缺配套 駕駛人動員31日包圍交通部](https://news.pts.org.tw/article/664073)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [孟加拉逾10萬人上街示威 要求總理下台、舉辦公平投票](https://news.pts.org.tw/article/664074)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [移工萬聖節扮「仲介鬼」遊行 促廢私人仲介買工費](https://news.pts.org.tw/article/664075)
+Append: [台中清水工安意外 1人遭砂石掩埋命危](https://news.pts.org.tw/article/664089)
+Append: [中國山東號航母編隊群 宮古島南方海域航訓](https://news.pts.org.tw/article/664090)
+Append: [明揚死傷追思會 民團籲政府放行警消籌組工會](https://news.pts.org.tw/article/664092)
+append_entries: 8
+Finish: 2023-10-29 12:12:12.371477
