@@ -14165,3 +14165,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-29 07:06:34.275732
+------------------------------------------------------
+Started: 2023-10-29 08:08:40.010505
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [埃及高速公路逾30車追撞 釀32死63傷](https://news.pts.org.tw/article/664045)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [施暴父母可查子女戶籍謄本 衛福部擬修法阻騷擾](https://news.pts.org.tw/article/664047)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／藍白合政黨協商階段 傳朱柯最快明見面](https://news.pts.org.tw/article/664048)
+append_entries: 3
+Finish: 2023-10-29 08:08:54.134418
