@@ -14246,3 +14246,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-29 13:07:24.262115
+------------------------------------------------------
+Started: 2023-10-29 14:06:04.174228
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [一週大事／聯合國通過要求以巴停火 台灣庇護島車禍頻傳（2023.10.23-10.29）](https://news.pts.org.tw/article/664094)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [梨泰院踩踏事故週年 倖存者後來怎麼了？](https://news.pts.org.tw/article/664093)
+append_entries: 2
+Finish: 2023-10-29 14:06:05.397143
