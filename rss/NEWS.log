@@ -14156,3 +14156,12 @@ Append: [亞帕運銳劍團體賽擊敗蒙古 輪椅擊劍隊史首勝](https://
 Append: [杭州亞帕運閉幕 台灣勇奪4金4銀12銅](https://news.pts.org.tw/article/664042)
 append_entries: 10
 Finish: 2023-10-29 06:09:07.271240
+------------------------------------------------------
+Started: 2023-10-29 07:06:33.142987
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-29 07:06:34.275732
