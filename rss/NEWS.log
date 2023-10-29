@@ -14127,3 +14127,32 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-29 05:06:47.496698
+------------------------------------------------------
+Started: 2023-10-29 06:09:04.932083
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [北市民憂二殯新火化爐添污染 殯葬處：經環評同意才施作](https://news.pts.org.tw/article/664049)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [赴中禁團令未解 旅行業遊走灰色地帶出團](https://news.pts.org.tw/article/664050)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [火鍋店公告禁煮外食 客違規遭罰怒翻桌](https://news.pts.org.tw/article/664051)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台南屏東紛傳民宅火警 救出4人1送醫不治](https://news.pts.org.tw/article/664052)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [民眾控防疫人員不脫鞋態度差 中市府：依法無須配合](https://news.pts.org.tw/article/664053)
+Append: [以巴戰爭／擴大轟炸與地面戰 以對加薩戰事進入第2階段](https://news.pts.org.tw/article/664055)
+Append: [屏東刺青店火警1死1救回 警鎖定縱火嫌疑人追緝](https://news.pts.org.tw/article/664043)
+Append: [南韓梨泰院踩踏事故週年 街道冷清不辦萬聖節活動](https://news.pts.org.tw/article/664031)
+Append: [亞帕運銳劍團體賽擊敗蒙古 輪椅擊劍隊史首勝](https://news.pts.org.tw/article/664041)
+Append: [杭州亞帕運閉幕 台灣勇奪4金4銀12銅](https://news.pts.org.tw/article/664042)
+append_entries: 10
+Finish: 2023-10-29 06:09:07.271240
