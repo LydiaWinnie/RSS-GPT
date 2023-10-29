@@ -14261,3 +14261,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [梨泰院踩踏事故週年 倖存者後來怎麼了？](https://news.pts.org.tw/article/664093)
 append_entries: 2
 Finish: 2023-10-29 14:06:05.397143
+------------------------------------------------------
+Started: 2023-10-29 15:06:46.416658
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-29 15:06:48.069041
