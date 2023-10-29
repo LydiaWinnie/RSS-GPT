@@ -14873,3 +14873,18 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-28 23:08:37.366296
+------------------------------------------------------
+Started: 2023-10-29 00:36:45.685873
+Existing_entries: 817
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [看懂了这本三国，你就看懂了中国历史](https://www.36kr.com/p/2491014881908616)
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 1
+Finish: 2023-10-29 00:38:37.598354
