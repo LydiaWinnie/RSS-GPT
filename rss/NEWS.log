@@ -14527,3 +14527,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-30 11:06:28.448586
+------------------------------------------------------
+Started: 2023-10-30 12:14:00.143924
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列向加沙城大舉推進](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E8%BB%8D%E9%9A%8A%E6%8E%A8%E9%80%B2%E8%87%B3%E5%8A%A0%E6%B2%99%E5%9F%8E%E9%83%8A%E5%8D%80-618f6289)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-30 12:14:01.610759
