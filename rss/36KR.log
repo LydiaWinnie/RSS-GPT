@@ -15364,3 +15364,23 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-30 10:10:16.536233
+------------------------------------------------------
+Started: 2023-10-30 11:06:32.460009
+Existing_entries: 845
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [苹果文生图大模型亮相：俄罗斯套娃式扩散，支持1024x1024分辨率](https://www.36kr.com/p/2496661187238025)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [图灵奖得主吵起来了，LeCun：Bengio、Hinton等的AI灭绝论是荒谬的](https://www.36kr.com/p/2496660948801668)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [炒作归炒作，新报告表明，仅15%的企业组织为生成AI做好准备](https://www.36kr.com/p/2496607658055554)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 3
+Finish: 2023-10-30 11:06:59.501239
