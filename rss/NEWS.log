@@ -14391,3 +14391,15 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [印度連環爆炸釀1死30餘傷 火車相撞至少10死25傷](https://news.pts.org.tw/article/664119)
 append_entries: 5
 Finish: 2023-10-30 02:17:08.122973
+------------------------------------------------------
+Started: 2023-10-30 03:08:07.559442
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」中國官方尋求調停巴以衝突，民間反猶反以情緒高漲](https://cn.nytimes.com/china/20231030/china-israel-hamas-antisemitism/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-30 03:08:10.204066
