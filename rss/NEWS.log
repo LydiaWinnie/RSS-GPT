@@ -14582,3 +14582,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-30 14:07:17.222291
+------------------------------------------------------
+Started: 2023-10-30 15:07:56.000390
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [三貂嶺生態隧道開放觀光 葉鼻蝠銳減一度剩10幾隻](https://news.pts.org.tw/article/664254)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [民團推2對多「互相喘息」計畫 幫助照顧者輪休](https://news.pts.org.tw/article/664264)
+append_entries: 2
+Finish: 2023-10-30 15:07:58.475592
