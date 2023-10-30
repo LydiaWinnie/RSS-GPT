@@ -14442,3 +14442,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-30 06:10:22.772385
+------------------------------------------------------
+Started: 2023-10-30 07:07:36.752158
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中藥材農藥或黃麴毒素超標 北市查8件不合格下架](https://news.pts.org.tw/article/664147)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [緬因槍擊釀18死13傷 美國週末又2起](https://news.pts.org.tw/article/664155)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [用含酒精漱口水後酒測超標 車禍男法院實測獲判無罪](https://news.pts.org.tw/article/664146)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [8家公股銀行明年加薪4-5% 軍公教月退金也可望調漲](https://news.pts.org.tw/article/664150)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [雲林前議長涉賄辭職 無黨籍黃凱高票當選新議長](https://news.pts.org.tw/article/664152)
+Append: [中正紀念堂轉型 民團籲蔡政府卸任前落實](https://news.pts.org.tw/article/664153)
+Append: [宜蘭回收車翻落農田駕駛亡 公所清潔隊事故10月已2起](https://news.pts.org.tw/article/664157)
+Append: [中部11所大學95名學生受騙 立委促打擊「無卡分期」詐欺](https://news.pts.org.tw/article/664160)
+Append: [2024大選／藍白合政黨協商 朱柯強調盡速找侯友宜會談](https://news.pts.org.tw/article/664163)
+Append: [以巴戰爭／以色列要求撤離加薩醫院 紅新月會：形同殺死加護病人](https://news.pts.org.tw/article/664156)
+Append: [高雄駕駛撞騎士肇逃昨自首 議員：若為逃逸移工恐難求償](https://news.pts.org.tw/article/664158)
+Append: [詐團設公司假冒會計提款 28人受害、金額達1.2億](https://news.pts.org.tw/article/664159)
+Append: [國軍擬9億增建45戰甲車掩體 承商預算無共識暫未招標](https://news.pts.org.tw/article/664154)
+Append: [世新中文系傳114學年將停招 校方：其他系所亦討論調整](https://news.pts.org.tw/article/664161)
+Append: [2024大選／民眾黨徐春鶯列不分區 中國籍配偶身分引爭議](https://news.pts.org.tw/article/664162)
+append_entries: 15
+Finish: 2023-10-30 07:07:40.428796
