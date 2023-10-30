@@ -14491,3 +14491,18 @@ Append: [「中英」再見，錢德勒：馬修·佩里的光芒與掙扎](http
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-10-30 08:10:23.964739
+------------------------------------------------------
+Started: 2023-10-30 09:08:03.371461
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」以色列對哈馬斯多年誤判和政策失敗如何釀成惡果](https://cn.nytimes.com/world/20231030/israel-intelligence-hamas-attack/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [反桃園龍科園區擴建 居民赴政院抗議籲政府重視](https://news.pts.org.tw/article/664151)
+append_entries: 2
+Finish: 2023-10-30 09:08:04.743223
