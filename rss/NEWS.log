@@ -14539,3 +14539,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-30 12:14:01.610759
+------------------------------------------------------
+Started: 2023-10-30 13:09:54.008564
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台灣第一本國防教育繪本 盼拉近國人與軍人距離](https://news.pts.org.tw/article/664255)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [無國籍者長居馬國沙巴掩埋場 以撿拾回收獲溫飽](https://news.pts.org.tw/article/664259)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美研發吸碳石灰石 目標年消除10億噸二氧化碳](https://news.pts.org.tw/article/664260)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [日本野熊頻出沒市區襲路人 新潟國營公園設AI感應防範](https://news.pts.org.tw/article/664261)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／美再拋兩國方案 外界疑執行不易](https://news.pts.org.tw/article/664263)
+Append: [內政部公布菜市場名 新世代愛取「恩碩」、「品妍」](https://news.pts.org.tw/article/664266)
+Append: [北市議員視察大巨蛋 促修正眩光、休息室太矮等問題](https://news.pts.org.tw/article/664268)
+Append: [台電推批次生產時間電價 離峰18小時電價每度省7元](https://news.pts.org.tw/article/664269)
+Append: [登革熱噴藥憂出現抗藥性 高雄首創用菌以蚊克蚊](https://news.pts.org.tw/article/664272)
+Append: [台大醫院遭護理師投訴 以訓練之名不當調動](https://news.pts.org.tw/article/664273)
+Append: [籃壇涉賭打假球疑有教練涉入 體署籃協將召集3聯盟開會](https://news.pts.org.tw/article/664271)
+Append: [駕駛輔助系統上國道又釀禍 專家：應手握方向盤直視前方](https://news.pts.org.tw/article/664274)
+Append: [離不開火山的村民 菲律賓塔爾火山村刼後尋共生](https://news.pts.org.tw/article/664216)
+Append: [以巴戰爭／達吉斯坦暴徒闖機場滋事 穆斯林領袖出面譴責](https://news.pts.org.tw/article/664217)
+Append: [北京香山論壇睽違4年舉行 中美關係與台灣問題成焦點](https://news.pts.org.tw/article/664219)
+append_entries: 15
+Finish: 2023-10-30 13:10:17.230726

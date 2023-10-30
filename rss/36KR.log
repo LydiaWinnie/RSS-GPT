@@ -15399,3 +15399,20 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2023-10-30 12:17:15.581659
+------------------------------------------------------
+Started: 2023-10-30 13:10:21.170766
+Existing_entries: 849
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [BAT地图新战争：大模型、流量与生态重构](https://www.36kr.com/p/2496765978924933)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI加持千亿市场，教育企业“群雄逐鹿”](https://www.36kr.com/p/2496708659765126)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-30 13:11:41.634995
