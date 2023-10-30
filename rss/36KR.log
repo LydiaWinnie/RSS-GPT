@@ -15270,3 +15270,34 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 6
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-10-30 06:10:26.707722
+Existing_entries: 828
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [不去酒吧去夜校，中国这一代年轻人提前“中年化”](https://www.36kr.com/p/2496339518740357)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [让 GPT-4 修改文件，真的太难了](https://www.36kr.com/p/2496321321277312)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [北大团队：诱导大模型“幻觉”只需一串乱码，大小羊驼全中招](https://www.36kr.com/p/2496312415623044)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [多模态LLM幻觉问题降低30%，业内首个“啄木鸟”免重训方法诞生](https://www.36kr.com/p/2496312288139392)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [清华系ChatGLM3现场怼脸演示，多模态直逼GPT-4V，国产Code Interpreter来了](https://www.36kr.com/p/2492598955595906)
+Append: [姚期智Hinton Bengio联名发文：18个月内AI规模将扩大100倍，得有人管管了](https://www.36kr.com/p/2496321626658952)
+Append: [最好7B模型再易主，打败700亿LLaMA2，苹果电脑就能跑](https://www.36kr.com/p/2496321710118785)
+Append: [AI智能超越人类终破解，李飞飞高徒新作破圈，5万个合成数据碾压人类示例，备咖啡动作超丝滑](https://www.36kr.com/p/2496291466975110)
+Append: [首个人体动捕基模型面世，SMPLer-X：横扫七大榜单](https://www.36kr.com/p/2496291627243392)
+Append: [前OpenAI科学家：走一步看一步，未定目标也有路](https://www.36kr.com/p/2496290087786372)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 10
+Finish: 2023-10-30 06:10:45.383062
