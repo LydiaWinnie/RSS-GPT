@@ -14476,3 +14476,18 @@ Append: [世新中文系傳114學年將停招 校方：其他系所亦討論調�
 Append: [2024大選／民眾黨徐春鶯列不分區 中國籍配偶身分引爭議](https://news.pts.org.tw/article/664162)
 append_entries: 15
 Finish: 2023-10-30 07:07:40.428796
+------------------------------------------------------
+Started: 2023-10-30 08:10:22.407010
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」不，習近平不會立即「武統」台灣](https://cn.nytimes.com/opinion/20231030/china-taiwan-us-war/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」再見，錢德勒：馬修·佩里的光芒與掙扎](https://cn.nytimes.com/film-tv/20231030/matthew-perry-chandler-bing/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-10-30 08:10:23.964739
