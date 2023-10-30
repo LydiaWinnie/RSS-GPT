@@ -14367,3 +14367,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-30 01:43:26.391074
+------------------------------------------------------
+Started: 2023-10-30 02:17:02.454566
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國貿易代表稱希望下月就印太經濟框架的貿易支柱達成協議](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E8%B2%BF%E6%98%93%E4%BB%A3%E8%A1%A8%E7%A8%B1%E5%B8%8C%E6%9C%9B%E4%B8%8B%E6%9C%88%E5%B0%B1%E5%8D%B0%E5%A4%AA%E7%B6%93%E6%BF%9F%E6%A1%86%E6%9E%B6%E7%9A%84%E8%B2%BF%E6%98%93%E6%94%AF%E6%9F%B1%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-a876130d)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列地面部隊向加沙縱深推進，要求北部居民緊急撤離](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E8%A6%81%E6%B1%82%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E5%9C%B0%E5%8D%80%E5%B1%85%E6%B0%91-%E7%B7%8A%E6%80%A5-%E6%92%A4%E9%9B%A2-c27a6688)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [拜登與內塔尼亞胡通話，稱需立即大幅增加對加沙的人道援助](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E8%88%87%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E9%80%9A%E8%A9%B1-%E7%A8%B1%E9%9C%80%E7%AB%8B%E5%8D%B3%E5%A4%A7%E5%B9%85%E5%A2%9E%E5%8A%A0%E5%B0%8D%E5%8A%A0%E6%B2%99%E7%9A%84%E4%BA%BA%E9%81%93%E6%8F%B4%E5%8A%A9-7a2ea022)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [體育週報／法國羽球公開賽不敵陳雨菲 戴資穎無緣本季第3冠](https://news.pts.org.tw/article/664101)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [印度連環爆炸釀1死30餘傷 火車相撞至少10死25傷](https://news.pts.org.tw/article/664119)
+append_entries: 5
+Finish: 2023-10-30 02:17:08.122973
