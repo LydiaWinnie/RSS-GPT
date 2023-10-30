@@ -14573,3 +14573,12 @@ Append: [以巴戰爭／達吉斯坦暴徒闖機場滋事 穆斯林領袖出面�
 Append: [北京香山論壇睽違4年舉行 中美關係與台灣問題成焦點](https://news.pts.org.tw/article/664219)
 append_entries: 15
 Finish: 2023-10-30 13:10:17.230726
+------------------------------------------------------
+Started: 2023-10-30 14:07:14.537786
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-30 14:07:17.222291
