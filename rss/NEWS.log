@@ -14418,3 +14418,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-10-30 04:09:28.826837
+------------------------------------------------------
+Started: 2023-10-30 05:07:53.585929
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」為何巴以問題在美國大學引發風暴](https://cn.nytimes.com/opinion/20231030/israel-palestine-college-campuses/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／藍白協商會後4點共識 國會合作拚席次最大化](https://news.pts.org.tw/article/664136)
+append_entries: 2
+Finish: 2023-10-30 05:07:59.117499
