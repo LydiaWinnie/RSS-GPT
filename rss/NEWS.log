@@ -14744,3 +14744,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-31 05:07:07.114228
+------------------------------------------------------
+Started: 2023-10-31 06:10:15.570326
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」「我們為沒有犯下的罪付出了過高的代價」](https://cn.nytimes.com/opinion/20231028/israel-gaza-hamas-invasion/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-10-31 06:10:17.697416
