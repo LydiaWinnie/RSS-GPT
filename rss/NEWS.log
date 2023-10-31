@@ -14851,3 +14851,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [日本籲「勿來澀谷過萬聖節」 嚴防人潮過度密集](https://news.pts.org.tw/article/664384)
 append_entries: 2
 Finish: 2023-10-31 11:06:24.674964
+------------------------------------------------------
+Started: 2023-10-31 12:13:44.774471
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-31 12:13:46.424360

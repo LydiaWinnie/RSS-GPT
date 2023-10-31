@@ -15737,3 +15737,23 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-31 11:08:17.957019
+------------------------------------------------------
+Started: 2023-10-31 12:13:50.607323
+Existing_entries: 878
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [跟三位老板聊了聊，“中式bistro”的赚钱秘诀](https://www.36kr.com/p/2498150373808257)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI玩推理桌游一眼识破骗局，清华通院联合推出心智理论新框架，6个指标评估表现均明显优于思维链](https://www.36kr.com/p/2498242758432646)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [GPT-4V连小学生都不如？最新基准测试错误率竟高达90%：红绿灯认错、勾股定理也不会](https://www.36kr.com/p/2497974416316548)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 3
+Finish: 2023-10-31 12:14:17.519338
