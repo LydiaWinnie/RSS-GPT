@@ -15552,3 +15552,20 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-31 01:43:16.721719
+------------------------------------------------------
+Started: 2023-10-31 02:16:27.916498
+Existing_entries: 851
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [优必选、小鹏、小米，人形机器人“奋勇争先”](https://www.36kr.com/p/2496911414745222)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [《时代》杂志公布“年度最佳发明”，这些AI产品正在颠覆我们的生活](https://www.36kr.com/p/2496909284874121)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-10-31 02:16:37.078211
