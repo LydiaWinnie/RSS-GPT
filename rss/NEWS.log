@@ -14821,3 +14821,18 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [泰國宣布台人入境30天內免簽 11/10上路](https://news.pts.org.tw/article/664350)
 append_entries: 1
 Finish: 2023-10-31 09:07:43.301744
+------------------------------------------------------
+Started: 2023-10-31 10:08:17.770939
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」馬斯克是如何讓Twitter變得面目全非的](https://cn.nytimes.com/technology/20231031/elon-musk-twitter-year/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」「小甜甜」布蘭妮：在《我心之女》中奪回自己的身體和聲音](https://cn.nytimes.com/culture/20231031/britney-spears-woman-in-me/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-10-31 10:08:22.371235

@@ -15698,3 +15698,30 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-31 09:07:57.459853
+------------------------------------------------------
+Started: 2023-10-31 10:08:27.551707
+Existing_entries: 872
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [用童话训练AI模型，微软找到了探索生成模型参数的新切入点](https://www.36kr.com/p/2498070446545026)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [哪里跪了？人和 AI 合作，到底有什么危险？](https://www.36kr.com/p/2497823691315332)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [万万没想到，ChatGPT参数只有200亿？](https://www.36kr.com/p/2498070069368969)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [周鸿祎：未来属于正确使用大模型的人](https://www.36kr.com/p/2498056895600513)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [GPT-4、Midjourney之外，谭平创业团队要造一个3D基础模型](https://www.36kr.com/p/2497809357870983)
+Append: [Science：AI应成为新法律主体，拥有权利和义务，“跨物种”法律框架亟需制定](https://www.36kr.com/p/2497784727459975)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 6
+Finish: 2023-10-31 10:08:50.970032
