@@ -14836,3 +14836,18 @@ Append: [「中英」「小甜甜」布蘭妮：在《我心之女》中奪回�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-10-31 10:08:22.371235
+------------------------------------------------------
+Started: 2023-10-31 11:06:23.345476
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列軍方稱武裝分子在加沙地帶劫持的人質增至240人](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E8%BB%8D%E6%96%B9%E7%A8%B1%E6%AD%A6%E8%A3%9D%E5%88%86%E5%AD%90%E5%9C%A8%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%B6%E5%8A%AB%E6%8C%81%E4%BA%86240%E5%90%8D%E4%BA%BA%E8%B3%AA-56d97323)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [日本籲「勿來澀谷過萬聖節」 嚴防人潮過度密集](https://news.pts.org.tw/article/664384)
+append_entries: 2
+Finish: 2023-10-31 11:06:24.674964
