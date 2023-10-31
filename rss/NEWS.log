@@ -14860,3 +14860,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-31 12:13:46.424360
+------------------------------------------------------
+Started: 2023-10-31 13:09:40.952567
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [泰國開放台灣免簽半年 學者：應努力爭取恢復免簽國](https://news.pts.org.tw/article/664463)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [拜登簽署首份AI行政命令 業者開發有違國安須通報政府](https://news.pts.org.tw/article/664452)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／砲火致加薩難民搶物資 聯合國憂公共秩序瓦解](https://news.pts.org.tw/article/664455)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [緬甸情勢仍嚴峻 軍事鎮壓平民與武裝反抗頻傳](https://news.pts.org.tw/article/664450)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台灣籃壇擬防賭機制 體育署召籃協與T1代表研議](https://news.pts.org.tw/article/664459)
+Append: [不滿批准北海油氣田開發 英國環團車道慢行62人遭捕](https://news.pts.org.tw/article/664451)
+Append: [本土登革熱破2萬例 疾管署將新加坡取經防疫](https://news.pts.org.tw/article/664458)
+Append: [以巴戰爭／地面部隊深入加薩 以總理稱停火形同投降](https://news.pts.org.tw/article/664454)
+Append: [日本埼玉縣醫院傳槍響2傷 嫌犯挾人質](https://news.pts.org.tw/article/664456)
+Append: [中國揚言取消ECFA早收清單 王美花：協助轉型分散市場](https://news.pts.org.tw/article/664464)
+Append: [行人闖馬路害騎士閃避摔車 一審判刑3個月](https://news.pts.org.tw/article/664460)
+Append: [行車飛來斧頭砸裂鈑金 國道掉落物事故頻傳](https://news.pts.org.tw/article/664465)
+Append: [國防部檢驗宜蘭賞鯨船 未受迫砲靶彈擊中](https://news.pts.org.tw/article/664466)
+Append: [抖音爆紅「蘿蔔刀」進台灣校園 多縣市要求校方加強宣導管理](https://news.pts.org.tw/article/664467)
+Append: [蛋價每台斤再降3元 部分縣市營養午餐液蛋未解禁](https://news.pts.org.tw/article/664468)
+append_entries: 15
+Finish: 2023-10-31 13:09:43.721068
