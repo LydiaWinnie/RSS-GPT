@@ -14684,3 +14684,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-10-31 00:34:44.252415
+------------------------------------------------------
+Started: 2023-10-31 01:43:02.422174
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列總理內塔尼亞胡排除與哈馬斯停火的可能性](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E7%B8%BD%E7%90%86%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E6%8E%92%E9%99%A4%E8%88%87%E5%93%88%E9%A6%AC%E6%96%AF%E5%81%9C%E7%81%AB%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7-f49440fe)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國社交媒體上的反猶言論增加](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94%E4%B8%8A%E7%9A%84%E5%8F%8D%E7%8C%B6%E8%A8%80%E8%AB%96%E5%A2%9E%E5%8A%A0-08ade5d7)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國主要在線電子地圖未標註以色列國名](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E4%B8%BB%E8%A6%81%E5%9C%A8%E7%B7%9A%E9%9B%BB%E5%AD%90%E5%9C%B0%E5%9C%96%E6%9C%AA%E6%A8%99%E8%A8%BB%E4%BB%A5%E8%89%B2%E5%88%97%E5%9C%8B%E5%90%8D-409768d0)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／以軍救出遭挾女兵 音樂節被綁德籍女子證實身亡](https://news.pts.org.tw/article/664295)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中禁日海產進口 美伸出援手採購供應駐軍](https://news.pts.org.tw/article/664303)
+append_entries: 5
+Finish: 2023-10-31 01:43:04.075575
