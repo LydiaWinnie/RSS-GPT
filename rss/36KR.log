@@ -15646,3 +15646,17 @@ Feed error: 503
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-10-31 06:15:18.700155
+------------------------------------------------------
+Started: 2023-10-31 07:07:09.069290
+Existing_entries: 866
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [如何让经济持续增长？必须打破“鲍莫尔病”！](https://www.36kr.com/p/2497786704337029)
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 1
+Finish: 2023-10-31 07:07:23.161019

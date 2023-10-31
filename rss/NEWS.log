@@ -14756,3 +14756,38 @@ Append: [「中英」「我們為沒有犯下的罪付出了過高的代價」](
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-10-31 06:10:17.697416
+------------------------------------------------------
+Started: 2023-10-31 07:07:02.561312
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [環境部推資源循環法草案 廢棄物改稱廢棄資源並課排出費](https://news.pts.org.tw/article/664333)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台南大樓垃圾費喊漲 民代提清運平台待研議](https://news.pts.org.tw/article/664334)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [世界甜點師大賽 台灣林芃儀與滕民猷奪銅牌](https://news.pts.org.tw/article/664335)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [雲林11月起禁一次性塑膠杯 違者最高罰6千元](https://news.pts.org.tw/article/664341)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台灣60年民航史上首次 我國主辦國際飛行員會議](https://news.pts.org.tw/article/664343)
+Append: [2024大選／柯朱侯會面未定 賴清德：藍白共識一字「空」](https://news.pts.org.tw/article/664344)
+Append: [母公司在中俄 微信、卡巴斯基遭加國政府禁用](https://news.pts.org.tw/article/664339)
+Append: [宜蘭賞鯨船被不明物體擊中 採證結果證實非國軍砲彈](https://news.pts.org.tw/article/664340)
+Append: [緬甸毒品氾濫，問題家庭陷入惡性循環【獨立特派員】](https://news.pts.org.tw/article/664349)
+Append: [網傳國發基金拋售台積電股票 王美花否認稱持股反增](https://news.pts.org.tw/article/664336)
+Append: [緬甸政局動盪，華文教育為何成為脫貧契機？【獨立特派員】](https://news.pts.org.tw/article/664348)
+Append: [台中國中生疑持槍械霸凌打架 涉案少年稱不滿無法參加畢旅](https://news.pts.org.tw/article/664345)
+Append: [恆春最南端海域1潛水客失聯 把握黃金72小時陸海空搜尋](https://news.pts.org.tw/article/664346)
+Append: [有感緬甸偏鄉孩童生存不易，雜貨店夫婦如何翻轉他們的命運？【獨立特派員】](https://news.pts.org.tw/article/664347)
+Append: [好市多A肝莓果案 消基會提團訟求償1107萬](https://news.pts.org.tw/article/664342)
+append_entries: 15
+Finish: 2023-10-31 07:07:05.055965
