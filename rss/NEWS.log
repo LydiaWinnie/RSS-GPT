@@ -14894,3 +14894,12 @@ Append: [抖音爆紅「蘿蔔刀」進台灣校園 多縣市要求校方加強�
 Append: [蛋價每台斤再降3元 部分縣市營養午餐液蛋未解禁](https://news.pts.org.tw/article/664468)
 append_entries: 15
 Finish: 2023-10-31 13:09:43.721068
+------------------------------------------------------
+Started: 2023-10-31 14:07:16.286616
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-10-31 14:07:23.421355
