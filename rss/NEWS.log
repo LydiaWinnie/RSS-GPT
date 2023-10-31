@@ -14791,3 +14791,21 @@ Append: [有感緬甸偏鄉孩童生存不易，雜貨店夫婦如何翻轉他�
 Append: [好市多A肝莓果案 消基會提團訟求償1107萬](https://news.pts.org.tw/article/664342)
 append_entries: 15
 Finish: 2023-10-31 07:07:05.055965
+------------------------------------------------------
+Started: 2023-10-31 08:10:08.944872
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列瞄準哈馬斯的「重心」](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E7%9E%84%E6%BA%96%E5%93%88%E9%A6%AC%E6%96%AF%E7%9A%84-%E9%87%8D%E5%BF%83-f5527d66)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以哈戰爭在歐洲引發反猶浪潮](https://cn.wsj.com/articles/%E4%BB%A5%E5%93%88%E6%88%B0%E7%88%AD%E5%9C%A8%E6%AD%90%E6%B4%B2%E5%BC%95%E7%99%BC%E5%8F%8D%E7%8C%B6%E6%B5%AA%E6%BD%AE-aa76c38c)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」美國還會「毫無保留」支持以色列多久](https://cn.nytimes.com/usa/20231031/biden-israel/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2023-10-31 08:10:13.150479
