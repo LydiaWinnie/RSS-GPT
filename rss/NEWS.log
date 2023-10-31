@@ -14669,3 +14669,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-10-30 23:07:13.555148
+------------------------------------------------------
+Started: 2023-10-31 00:34:43.023823
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [拜登動用緊急權力，對AI系統施加監管](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E5%8B%95%E7%94%A8%E7%B7%8A%E6%80%A5%E6%AC%8A%E5%8A%9B-%E5%B0%8Dai%E7%B3%BB%E7%B5%B1%E6%96%BD%E5%8A%A0%E7%9B%A3%E7%AE%A1-c05ad090)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [加拿大禁止在政府設備上使用微信](https://cn.wsj.com/articles/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%A6%81%E6%AD%A2%E5%9C%A8%E6%94%BF%E5%BA%9C%E8%A8%AD%E5%82%99%E4%B8%8A%E4%BD%BF%E7%94%A8%E5%BE%AE%E4%BF%A1%E5%92%8C%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F-96bbc368)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-10-31 00:34:44.252415
