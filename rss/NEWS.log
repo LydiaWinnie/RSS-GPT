@@ -15232,3 +15232,37 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-01 14:07:07.337960
+------------------------------------------------------
+Started: 2023-11-01 15:07:39.559038
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [控阿富汗移民犯罪與走私 巴基斯坦驅逐無證移民](https://news.pts.org.tw/article/664654)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／以軍空襲加薩難民營 聯合國呼籲人道停火](https://news.pts.org.tw/article/664657)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [楠梓吊臂車勾斷電線致停電 78戶停電、部分住家電器燒壞](https://news.pts.org.tw/article/664662)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [澎湖監獄收容人送台灣就醫 機上揮拳攻擊救護員](https://news.pts.org.tw/article/664663)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [籃協邀3聯盟代表開會 擬設專員防賭及假球事務](https://news.pts.org.tw/article/664664)
+Append: [高雄員警疑利用警政系統洩密 依違反《個資法》等罪嫌聲押](https://news.pts.org.tw/article/664665)
+Append: [幫派吸收銀行理專共謀詐騙 不法吸金逾4800萬](https://news.pts.org.tw/article/664666)
+Append: [陳揆備詢稱「核電是綠電」政院澄清非核家園立場未變](https://news.pts.org.tw/article/664658)
+Append: [力積電宣布進軍日本 落腳宮城縣建半導體廠](https://news.pts.org.tw/article/664659)
+Append: [以自由行名目帶團遊中國 導遊兼司機撞護欄難理賠](https://news.pts.org.tw/article/664661)
+Append: [以哈衝突恐引石油危機 世銀警告油價可能漲至157美元](https://news.pts.org.tw/article/664667)
+Append: [台中四方客運無法發車傳停業 市府：已啟動收回路權程序](https://news.pts.org.tw/article/664668)
+Append: [新北捷運擬延至國父紀念館 路線更名「中和光復線」](https://news.pts.org.tw/article/664669)
+Append: [2024大選／侯柯朱3人昨日密會 但總統人選仍未定案](https://news.pts.org.tw/article/664670)
+Append: [2024大選／郭台銘赴選委會遞交連署書 未公布送件數量但稱遠超門檻](https://news.pts.org.tw/article/664671)
+append_entries: 15
+Finish: 2023-11-01 15:07:41.783149
