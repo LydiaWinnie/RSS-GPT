@@ -15051,3 +15051,12 @@ Append: [「中英」「一切都發生在暗中」：以色列對加薩地面�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-11-01 03:08:27.917529
+------------------------------------------------------
+Started: 2023-11-01 04:09:11.316431
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-01 04:09:12.415057
