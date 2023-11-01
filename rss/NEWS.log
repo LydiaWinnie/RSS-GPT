@@ -15214,3 +15214,12 @@ Append: [菲國衝浪天堂錫亞高島貧困 跨國團體辦學助學童迎新�
 Append: [以巴戰爭／不滿美國聲援以軍 約旦抵制麥當勞等美企](https://news.pts.org.tw/article/664603)
 append_entries: 8
 Finish: 2023-11-01 12:13:56.158196
+------------------------------------------------------
+Started: 2023-11-01 13:09:24.505820
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-01 13:09:25.747303
