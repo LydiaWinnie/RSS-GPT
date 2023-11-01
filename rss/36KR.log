@@ -16079,3 +16079,32 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-11-01 11:06:26.656665
+------------------------------------------------------
+Started: 2023-11-01 12:14:00.097924
+Existing_entries: 905
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [谁会成为下一座网红之城？](https://www.36kr.com/p/2499514086709376)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [谷歌更新政策，监管AIGC成为了开发者的责任](https://www.36kr.com/p/2499618114967683)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [OpenAI，想挖自己的富矿](https://www.36kr.com/p/2499602809708421)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [DeepMind曝新一代AlphaFold，预测准确率暴涨近10%，DNA和RNA的AlphaFold时刻来了](https://www.36kr.com/p/2499564014360457)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [斯坦福马腾宇创业，大模型方向，Manning、Christopher Ré是顾问](https://www.36kr.com/p/2499457761450113)
+Append: [风投大佬给AI初创公司泼凉水：被高估严重，大多数无法实现盈利](https://www.36kr.com/p/2499371967043456)
+Append: [GPT-4写代码，DALL·E 3+MJ搞定画面，AI版「愤怒的南瓜」来袭](https://www.36kr.com/p/2499268753119107)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Append: [美国的传统媒体，为什么都在做播客？](https://www.36kr.com/p/2499562453931906)
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 8
+Finish: 2023-11-01 12:15:10.186754

@@ -15187,3 +15187,30 @@ Append: [「中英」第一位離開我們的「老友」](https://cn.nytimes.co
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-11-01 11:06:14.534718
+------------------------------------------------------
+Started: 2023-11-01 12:13:46.087423
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [韓國間諜機構稱金正恩命令北韓官員支持巴勒斯坦人](https://cn.wsj.com/articles/%E9%9F%93%E5%9C%8B%E9%96%93%E8%AB%9C%E6%A9%9F%E6%A7%8B%E7%A8%B1%E9%87%91%E6%AD%A3%E6%81%A9%E5%91%BD%E4%BB%A4%E5%8C%97%E9%9F%93%E5%AE%98%E5%93%A1%E6%94%AF%E6%8C%81%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA-b090e795)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [又有九名以色列士兵在加沙北部交火中喪生](https://cn.wsj.com/articles/%E5%8F%88%E6%9C%89%E4%B9%9D%E5%90%8D%E4%BB%A5%E8%89%B2%E5%88%97%E5%A3%AB%E5%85%B5%E5%9C%A8%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E4%BA%A4%E7%81%AB%E4%B8%AD%E5%96%AA%E7%94%9F-ad1cd23b)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [埃及官員稱外國人開始撤離加沙](https://cn.wsj.com/articles/%E5%9F%83%E5%8F%8A%E5%AE%98%E5%93%A1%E7%A8%B1%E5%A4%96%E5%9C%8B%E4%BA%BA%E9%96%8B%E5%A7%8B%E6%92%A4%E9%9B%A2%E5%8A%A0%E6%B2%99-3eefc24e)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [受乾旱與極端氣候影響 美國南瓜與全球柳橙產量銳減](https://news.pts.org.tw/article/664597)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [世界最寬南美伊瓜蘇瀑布 水量達平時16倍創近10年新高](https://news.pts.org.tw/article/664598)
+Append: [月薪不足2400台幣 孟加拉上萬成衣工罷工求加薪](https://news.pts.org.tw/article/664601)
+Append: [菲國衝浪天堂錫亞高島貧困 跨國團體辦學助學童迎新生](https://news.pts.org.tw/article/664602)
+Append: [以巴戰爭／不滿美國聲援以軍 約旦抵制麥當勞等美企](https://news.pts.org.tw/article/664603)
+append_entries: 8
+Finish: 2023-11-01 12:13:56.158196
