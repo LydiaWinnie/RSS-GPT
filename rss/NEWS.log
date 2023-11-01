@@ -15115,3 +15115,33 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 4
 Finish: 2023-11-01 07:07:28.608160
+------------------------------------------------------
+Started: 2023-11-01 08:10:06.592697
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [宜蘭利澤焚化廠裝AI監錄系統 加強空汙稽查效率](https://news.pts.org.tw/article/664528)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [違法棄置廢土獲利2億 清運業者等63人遭起訴](https://news.pts.org.tw/article/664529)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國際人才延攬中心啟用 一站式服務助留外國人才](https://news.pts.org.tw/article/664525)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [電信詐欺案3年增3.6倍 立委籲NCC加強控管並立專法](https://news.pts.org.tw/article/664527)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國際執法安全會議今登場 陳揆：假訊息是民主最大威脅](https://news.pts.org.tw/article/664526)
+Append: [潛艦洩密／吳子嘉等人控告黃曙光 涉洩漏及交付國防機密罪](https://news.pts.org.tw/article/664530)
+Append: [《教師法》修法導致家長濫訴 全教總籲提對策](https://news.pts.org.tw/article/664534)
+Append: [男童玩公園旋轉遊具摔落 醫師：年齡過小使用恐腦震盪](https://news.pts.org.tw/article/664533)
+Append: [2階公費流感疫苗今開打 全聯80門市設接種站送農產品](https://news.pts.org.tw/article/664535)
+Append: [2024大選／柯侯朱深夜密會 柯文哲：若無共識可不再見](https://news.pts.org.tw/article/664536)
+Append: [陳建仁稱核能是綠能 核安會主委：綠能有嚴謹定義](https://news.pts.org.tw/article/664537)
+append_entries: 11
+Finish: 2023-11-01 08:10:12.063788
