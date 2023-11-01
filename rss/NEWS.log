@@ -15069,3 +15069,28 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-01 05:07:40.901259
+------------------------------------------------------
+Started: 2023-11-01 06:10:21.141006
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」農民工曾推動中國經濟崛起，現在他們已失去退路](https://cn.nytimes.com/china/20231101/china-rural-jobs-migrant-workers/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台電離岸風電一期故障率高 王美花：明年3月好轉](https://news.pts.org.tw/article/664538)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [高雄外送員等紅燈忙追劇 警方：最高可罰3千元](https://news.pts.org.tw/article/664539)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／反對以色列侵略行徑 玻利維亞首宣布與以國斷交](https://news.pts.org.tw/article/664531)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [桃園查獲大型私菸廠 自越進口下腳料違製私菸](https://news.pts.org.tw/article/664541)
+Append: [高鐵12月起早鳥票採實名制 未出示證件加收50%票價](https://news.pts.org.tw/article/664511)
+append_entries: 6
+Finish: 2023-11-01 06:10:23.462257
