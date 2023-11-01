@@ -15172,3 +15172,18 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [2024大選／郭台銘偕副手賴佩霞親送連署書 郭競辦：已遠超門檻](https://news.pts.org.tw/article/664542)
 append_entries: 2
 Finish: 2023-11-01 10:08:02.797935
+------------------------------------------------------
+Started: 2023-11-01 11:06:13.222922
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」巴以局勢影響下歐洲出現反猶浪潮](https://cn.nytimes.com/world/20231101/europe-antisemitism-israel-hamas/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」第一位離開我們的「老友」](https://cn.nytimes.com/culture/20231101/matthew-perry-death/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-11-01 11:06:14.534718
