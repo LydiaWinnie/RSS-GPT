@@ -15033,3 +15033,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-01 02:19:48.578172
+------------------------------------------------------
+Started: 2023-11-01 03:08:26.447163
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中美籌備習拜會之際，兩國軍方關係緊張](https://cn.wsj.com/articles/%E4%B8%AD%E7%BE%8E%E7%B1%8C%E5%82%99%E7%BF%92%E6%8B%9C%E6%9C%83%E4%B9%8B%E9%9A%9B-%E5%85%A9%E5%9C%8B%E8%BB%8D%E6%96%B9%E9%97%9C%E4%BF%82%E7%B7%8A%E5%BC%B5-4e1115e9)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列襲擊難民營遭譴責，卡塔爾稱此舉有可能破壞調解工作](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E8%A5%B2%E6%93%8A%E9%9B%A3%E6%B0%91%E7%87%9F%E9%81%AD%E8%AD%B4%E8%B2%AC-%E5%8D%A1%E5%A1%94%E7%88%BE%E7%A8%B1%E6%AD%A4%E8%88%89%E6%9C%89%E5%8F%AF%E8%83%BD%E7%A0%B4%E5%A3%9E%E8%AA%BF%E8%A7%A3%E5%B7%A5%E4%BD%9C-331d4bb8)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」「一切都發生在暗中」：以色列對加薩地面入侵隱秘開始](https://cn.nytimes.com/world/20231101/israel-gaza-invasion-secrecy/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2023-11-01 03:08:27.917529
