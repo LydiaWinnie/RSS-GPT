@@ -15157,3 +15157,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-11-01 09:07:54.419231
+------------------------------------------------------
+Started: 2023-11-01 10:08:01.521364
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [籃協召集3大聯盟會議 各隊將設專職人員防簽賭](https://news.pts.org.tw/article/664580)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／郭台銘偕副手賴佩霞親送連署書 郭競辦：已遠超門檻](https://news.pts.org.tw/article/664542)
+append_entries: 2
+Finish: 2023-11-01 10:08:02.797935
