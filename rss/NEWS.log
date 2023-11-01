@@ -15024,3 +15024,12 @@ Append: [以巴戰爭／巴國指以空襲難民營釀50死 以色列：鎖定�
 Append: [2024大選／朱侯柯昨深夜會面 賴透露副手優先考量蕭美琴](https://news.pts.org.tw/article/664497)
 append_entries: 12
 Finish: 2023-11-01 01:48:47.332789
+------------------------------------------------------
+Started: 2023-11-01 02:19:46.442265
+Existing_entries: 1012
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-01 02:19:48.578172
