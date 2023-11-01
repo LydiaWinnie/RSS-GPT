@@ -15266,3 +15266,12 @@ Append: [2024大選／侯柯朱3人昨日密會 但總統人選仍未定案](htt
 Append: [2024大選／郭台銘赴選委會遞交連署書 未公布送件數量但稱遠超門檻](https://news.pts.org.tw/article/664671)
 append_entries: 15
 Finish: 2023-11-01 15:07:41.783149
+------------------------------------------------------
+Started: 2023-11-01 16:09:24.133820
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-01 16:09:25.021266
