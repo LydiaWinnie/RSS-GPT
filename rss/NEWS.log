@@ -15145,3 +15145,15 @@ Append: [2024大選／柯侯朱深夜密會 柯文哲：若無共識可不再見
 Append: [陳建仁稱核能是綠能 核安會主委：綠能有嚴謹定義](https://news.pts.org.tw/article/664537)
 append_entries: 11
 Finish: 2023-11-01 08:10:12.063788
+------------------------------------------------------
+Started: 2023-11-01 09:07:53.275116
+Existing_entries: 1011
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國房地產開發商降價，業主群起抵制](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E6%88%BF%E5%9C%B0%E7%94%A2%E9%96%8B%E7%99%BC%E5%95%86%E9%99%8D%E5%83%B9-%E6%A5%AD%E4%B8%BB%E7%BE%A4%E8%B5%B7%E6%8A%B5%E5%88%B6-837506d6)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-11-01 09:07:54.419231
