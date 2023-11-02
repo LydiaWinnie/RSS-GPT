@@ -15531,3 +15531,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [以哈戰爭／逃離戰火的唯一通道 拉法關口為什麼重要？](https://news.pts.org.tw/article/664794)
 append_entries: 1
 Finish: 2023-11-02 11:06:27.855736
+------------------------------------------------------
+Started: 2023-11-02 12:13:22.067948
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-02 12:13:23.025044

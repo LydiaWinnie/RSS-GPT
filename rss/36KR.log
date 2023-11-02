@@ -16418,3 +16418,24 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-11-02 11:06:53.633122
+------------------------------------------------------
+Started: 2023-11-02 12:13:26.355983
+Existing_entries: 933
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [GPT-4变笨加剧，被曝缓存历史回复：一个笑话讲八百遍，让换新的也不听](https://www.36kr.com/p/2500986916595713)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [首个AI规范的全球宣言，浅评《布莱切利宣言》对AI的全球规制影响](https://www.36kr.com/p/2500948558637314)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「联网」ChatGPT：一个不完美的新闻助手](https://www.36kr.com/p/2500830115899656)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Feed error: 404
+append_entries: 3
+error when rendering xml, skip rss/36KR
