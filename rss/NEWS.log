@@ -15416,3 +15416,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-02 04:09:17.638987
+------------------------------------------------------
+Started: 2023-11-02 05:07:34.315229
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」從LGBT到政治諷刺：上海萬聖節活動的「放飛」與表達](https://cn.nytimes.com/china/20231102/shanghai-halloween-party-costumes/zh-hant/dual)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」找工作「怎麼這麼難」：那些青旅裡的中國年輕人](https://cn.nytimes.com/china/20231102/china-unemployment-youth-hostels/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-11-02 05:07:35.779198
