@@ -15483,3 +15483,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-02 08:09:38.357402
+------------------------------------------------------
+Started: 2023-11-02 09:07:25.108608
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」兩國方案是化解巴以衝突的答案嗎](https://cn.nytimes.com/world/20231102/israel-palestine-two-state-solution/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「晶創台灣方案」 10年3千億預算明年啟動](https://news.pts.org.tw/article/664727)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美Fed決議利率不變 維持5.25%-5.5%區間](https://news.pts.org.tw/article/664728)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中國加速建南極第5座考察站 美憂含衛星地面站可情蒐](https://news.pts.org.tw/article/664733)
+append_entries: 4
+Finish: 2023-11-02 09:07:27.576918
