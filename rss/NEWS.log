@@ -15368,3 +15368,21 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 4
 Finish: 2023-11-02 01:42:07.150361
+------------------------------------------------------
+Started: 2023-11-02 02:15:42.938246
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI安全峰會英國登場 28國簽布萊切利宣言監管AI](https://news.pts.org.tw/article/664682)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以巴戰爭／拉法關口首度放行 逾400外籍人士與傷患撤離](https://news.pts.org.tw/article/664684)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台馬合作破獲詐騙機房 首波10台嫌遣返](https://news.pts.org.tw/article/664697)
+append_entries: 3
+Finish: 2023-11-02 02:15:44.717615
