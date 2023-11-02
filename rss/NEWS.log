@@ -15465,3 +15465,12 @@ Append: [2024大選／藍白協商下通牒？ 侯友宜：火車過站不等人
 Append: [機捷運量大班距長引民怨 議員籲尖峰時段增班次](https://news.pts.org.tw/article/664731)
 append_entries: 15
 Finish: 2023-11-02 06:10:11.102433
+------------------------------------------------------
+Started: 2023-11-02 07:07:04.289507
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-02 07:07:05.015654
