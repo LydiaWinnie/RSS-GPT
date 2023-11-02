@@ -15576,3 +15576,12 @@ Append: [刑事局破大選賭盤 嫌犯涉嫌與中國人士合作](https://new
 Append: [2024大選／藍白合政黨協商各說各話 侯下通牒週五最後期限](https://news.pts.org.tw/article/664872)
 append_entries: 17
 Finish: 2023-11-02 13:09:36.609287
+------------------------------------------------------
+Started: 2023-11-02 14:07:05.963515
+Existing_entries: 1017
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-02 14:07:07.701974
