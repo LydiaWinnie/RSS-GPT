@@ -15431,3 +15431,37 @@ Append: [「中英」找工作「怎麼這麼難」：那些青旅裡的中國�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-11-02 05:07:35.779198
+------------------------------------------------------
+Started: 2023-11-02 06:10:06.664324
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國參議院確認Herro Mustafa Garg為駐埃及大使](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%8F%83%E8%AD%B0%E9%99%A2%E7%A2%BA%E8%AA%8Dherro-mustafa-garg%E7%82%BA%E9%A7%90%E5%9F%83%E5%8F%8A%E5%A4%A7%E4%BD%BF-088ea187)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [運安會過去負面新聞頻傳 新主委：若再公器私用就下台](https://news.pts.org.tw/article/664732)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [體育署公布六都肥胖排行榜 台南蟬聯冠軍](https://news.pts.org.tw/article/664730)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以哈戰爭／美亞裔大學生嗆殺猶太人被捕 出庭未認罪還押](https://news.pts.org.tw/article/664735)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [俄烏戰爭／烏克蘭稱俄夜襲10州118聚落 創今年單日新高](https://news.pts.org.tw/article/664720)
+Append: [千萬藥費CAR-T療法納健保 成血癌病友福音](https://news.pts.org.tw/article/664729)
+Append: [北市某私立高中傳霸凌 校方稱偶發肢體衝突將調查](https://news.pts.org.tw/article/664737)
+Append: [花蓮原民館涉性騷霸凌員工 積欠役男退役津貼](https://news.pts.org.tw/article/664713)
+Append: [抽水馬達電線遭剪斷偷走 彰化溪州農民無水灌溉](https://news.pts.org.tw/article/664738)
+Append: [高雄新興分局員警涉貪洩密 記2大過免職、聲押獲准](https://news.pts.org.tw/article/664740)
+Append: [APEC拜習會恐牽動台海 吳釗燮：美有與我方溝通](https://news.pts.org.tw/article/664734)
+Append: [以白蘿蔔合法申報掩護 業者走私中國蒜頭、香菇絲](https://news.pts.org.tw/article/664739)
+Append: [刑事局破總統大選賭盤 發現為中國人士主導](https://news.pts.org.tw/article/664742)
+Append: [2024大選／藍白協商下通牒？ 侯友宜：火車過站不等人](https://news.pts.org.tw/article/664743)
+Append: [機捷運量大班距長引民怨 議員籲尖峰時段增班次](https://news.pts.org.tw/article/664731)
+append_entries: 15
+Finish: 2023-11-02 06:10:11.102433
