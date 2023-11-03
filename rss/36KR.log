@@ -16689,3 +16689,20 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2023-11-03 05:07:35.671059
+------------------------------------------------------
+Started: 2023-11-03 06:10:12.420311
+Existing_entries: 955
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [通义千问发布半年，大模型已不是阿里云唯一主角 | 焦点分析](https://www.36kr.com/p/2502143578006916)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [钉钉AI正式公测，17款产品60+场景，超50万家企业启用 | 最前线](https://www.36kr.com/p/2502072560592771)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-11-03 06:10:55.962911
