@@ -15706,3 +15706,12 @@ Append: [風暴夏蘭襲西北歐 風速近200公里釀7死](https://news.pts.or
 Append: [網傳富士康需補稅近8千億 鴻海否認稱經營正常](https://news.pts.org.tw/article/664895)
 append_entries: 12
 Finish: 2023-11-03 01:42:56.300111
+------------------------------------------------------
+Started: 2023-11-03 02:16:58.666693
+Existing_entries: 1012
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-03 02:16:59.502704
