@@ -15823,3 +15823,12 @@ Append: [國內蛋價連2週調降 陳駿季：預防缺蛋將續建庫存](http
 Append: [台北國際旅展登場 1300個攤位參展滿出場外](https://news.pts.org.tw/article/664935)
 append_entries: 6
 Finish: 2023-11-03 08:09:48.697856
+------------------------------------------------------
+Started: 2023-11-03 09:07:53.279895
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-03 09:07:54.172613
