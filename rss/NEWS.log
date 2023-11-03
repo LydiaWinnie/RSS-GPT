@@ -15798,3 +15798,28 @@ Feed error: 404
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-03 07:07:11.029307
+------------------------------------------------------
+Started: 2023-11-03 08:09:47.102854
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以色列稱又有四名士兵在加沙戰鬥中喪生](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E7%A8%B1%E5%8F%88%E6%9C%89%E5%9B%9B%E5%90%8D%E5%A3%AB%E5%85%B5%E5%9C%A8%E5%8A%A0%E6%B2%99%E6%88%B0%E9%AC%A5%E4%B8%AD%E5%96%AA%E7%94%9F-452c727f)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [藍白合最後談判日 柯文哲：全民調若只贏誤差值願任副手](https://news.pts.org.tw/article/664943)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台北大巨蛋停車動線混亂 議員憂釀交通黑暗期](https://news.pts.org.tw/article/664926)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以哈戰爭使美元與黃金雙漲 進口家電年底估漲5%](https://news.pts.org.tw/article/664927)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國內蛋價連2週調降 陳駿季：預防缺蛋將續建庫存](https://news.pts.org.tw/article/664928)
+Append: [台北國際旅展登場 1300個攤位參展滿出場外](https://news.pts.org.tw/article/664935)
+append_entries: 6
+Finish: 2023-11-03 08:09:48.697856
