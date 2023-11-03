@@ -15897,3 +15897,12 @@ Append: [IMAX紀錄片《Deep Sky》 重現韋伯望遠鏡宇宙景象](https://
 Append: [巴西暗空公園成觀星熱點 民宿偕天文學家推套裝行程](https://news.pts.org.tw/article/664953)
 append_entries: 13
 Finish: 2023-11-03 12:13:46.483873
+------------------------------------------------------
+Started: 2023-11-03 13:10:26.243393
+Existing_entries: 1013
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-03 13:10:27.890407
