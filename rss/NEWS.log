@@ -15832,3 +15832,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-03 09:07:54.172613
+------------------------------------------------------
+Started: 2023-11-03 10:08:14.679778
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美國國務卿布林肯抵達以色列](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E5%8B%99%E5%8D%BF%E5%B8%83%E6%9E%97%E8%82%AF%E6%8A%B5%E9%81%94%E4%BB%A5%E8%89%B2%E5%88%97-e0d475f3)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」FTX創始人班克曼-弗里德：昔日加密貨幣之王的驚人墜落](https://cn.nytimes.com/business/20231103/sam-bankman-fried-rise-crash/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [南韓無現金業務擬擴海外 行動支付業者百家爭鳴](https://news.pts.org.tw/article/664954)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [日本街頭扮武士撿垃圾 年輕志工盼大眾注意垃圾問題](https://news.pts.org.tw/article/664957)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [吸血鬼原型人物弗拉德三世 專家研究生前疑患「淚血症」](https://news.pts.org.tw/article/664958)
+append_entries: 5
+Finish: 2023-11-03 10:08:17.483105
