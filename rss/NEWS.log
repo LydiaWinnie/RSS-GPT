@@ -15938,3 +15938,12 @@ Append: [涉每張200元收購連署書 共和黨主席周克琦遭收押](https
 Append: [今偵獲39架共機與8艘共艦 疑不滿美加軍艦越台演習](https://news.pts.org.tw/article/665078)
 append_entries: 13
 Finish: 2023-11-03 14:07:38.641676
+------------------------------------------------------
+Started: 2023-11-03 15:07:57.257348
+Existing_entries: 1013
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-03 15:07:59.174847
