@@ -15788,3 +15788,13 @@ Append: [議員朱正軒控遭勒脖恐嚇 李全教：僅搭肩上而已](https
 Append: [FTX創辦人佛瑞德判決出爐 詐欺等7罪名全成立](https://news.pts.org.tw/article/664914)
 append_entries: 12
 Finish: 2023-11-03 06:10:08.269034
+------------------------------------------------------
+Started: 2023-11-03 07:07:10.310623
+Existing_entries: 1012
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-03 07:07:11.029307
