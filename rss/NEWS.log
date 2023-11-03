@@ -15965,3 +15965,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-03 17:07:01.224794
+------------------------------------------------------
+Started: 2023-11-03 18:09:50.895602
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [流行病學家吳尊友去世，因解釋中國新冠防控政策為公眾熟知，終年60歲](https://cn.wsj.com/articles/%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%B8%E5%AE%B6%E5%90%B3%E5%B0%8A%E5%8F%8B%E5%8E%BB%E4%B8%96-%E5%9B%A0%E8%A7%A3%E9%87%8B%E4%B8%AD%E5%9C%8B%E6%96%B0%E5%86%A0%E9%98%B2%E6%8E%A7%E6%94%BF%E7%AD%96%E7%82%BA%E5%85%AC%E7%9C%BE%E7%86%9F%E7%9F%A5-%E7%B5%82%E5%B9%B460%E6%AD%B2-e0046e47)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-11-03 18:10:01.505060
