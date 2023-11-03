@@ -15906,3 +15906,35 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-03 13:10:27.890407
+------------------------------------------------------
+Started: 2023-11-03 14:07:34.119335
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [秋冬泡湯季將至 消保官：留意泡湯禮券履約保障](https://news.pts.org.tw/article/665061)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台灣能源政策轉型 總統參選人各有立場與規劃](https://news.pts.org.tw/article/665063)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國際閱讀素養調查 台灣小四生表現與瑞典並列第7](https://news.pts.org.tw/article/665065)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [英球星父遭綁架 哥倫比亞政府稱解叛軍所為](https://news.pts.org.tw/article/665067)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以哈戰爭／各界籲人道停火 美盼暫停衝突撤受困民眾](https://news.pts.org.tw/article/665068)
+Append: [快時尚每年棄衣430萬噸 歐盟草案：生產者預付廢管費](https://news.pts.org.tw/article/665066)
+Append: [規劃建彰濱資源化處理中心 居民反對、質疑強行過關](https://news.pts.org.tw/article/665070)
+Append: [新店分隔島疑見山羌屍塊 捕殺野生動物最高罰30萬](https://news.pts.org.tw/article/665071)
+Append: [社子島開發案擬取消同意比例 居民批9大聚落標準不明](https://news.pts.org.tw/article/665072)
+Append: [空屋稅呼聲高 業界：英日實施後房價漲幅更劇](https://news.pts.org.tw/article/665074)
+Append: [以巴戰爭／日助台僑撤離以色列 我計劃人道援助巴勒斯坦](https://news.pts.org.tw/article/665077)
+Append: [涉每張200元收購連署書 共和黨主席周克琦遭收押](https://news.pts.org.tw/article/665079)
+Append: [今偵獲39架共機與8艘共艦 疑不滿美加軍艦越台演習](https://news.pts.org.tw/article/665078)
+append_entries: 13
+Finish: 2023-11-03 14:07:38.641676
