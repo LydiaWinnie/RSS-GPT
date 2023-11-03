@@ -15856,3 +15856,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [吸血鬼原型人物弗拉德三世 專家研究生前疑患「淚血症」](https://news.pts.org.tw/article/664958)
 append_entries: 5
 Finish: 2023-11-03 10:08:17.483105
+------------------------------------------------------
+Started: 2023-11-03 11:06:45.272208
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-03 11:06:47.213606
