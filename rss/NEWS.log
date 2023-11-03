@@ -15865,3 +15865,35 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-03 11:06:47.213606
+------------------------------------------------------
+Started: 2023-11-03 12:13:44.305689
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [巴基斯坦開始驅逐逃離塔利班的阿富汗人](https://cn.wsj.com/articles/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%96%8B%E5%A7%8B%E9%A9%85%E9%80%90%E9%80%83%E9%9B%A2%E5%A1%94%E5%88%A9%E7%8F%AD%E7%9A%84%E9%98%BF%E5%AF%8C%E6%B1%97%E4%BA%BA-2467ca6e)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／郭台銘送百萬份連署 檢調搜索站點行賄案](https://news.pts.org.tw/article/665080)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／國民黨提2整合方案 柯文哲仍堅持全民調](https://news.pts.org.tw/article/665081)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [北韓疑百萬枚飛彈輸俄 擬交換衛星與核武技術](https://news.pts.org.tw/article/665012)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [拜登挺以色列引美穆斯林失望 關鍵少數恐衝擊2024連任](https://news.pts.org.tw/article/665013)
+Append: [披頭四「最後新曲」 借助AI重現藍儂歌聲](https://news.pts.org.tw/article/665009)
+Append: [烏拉圭街友較疫情前增5成 染毒酒癮難返正常生活](https://news.pts.org.tw/article/665010)
+Append: [日本偏鄉派報員高齡化 被迫停止送報或改無人機配送](https://news.pts.org.tw/article/664955)
+Append: [歐洲泳池裝AI智慧攝影機 助救生員偵測異常防溺水](https://news.pts.org.tw/article/664956)
+Append: [菲律賓廣播劇仍有死忠聽眾 卡拉OK高歌帶歡樂](https://news.pts.org.tw/article/664950)
+Append: [大英博館緬甸特展 重現全盛期璀璨風華](https://news.pts.org.tw/article/664951)
+Append: [IMAX紀錄片《Deep Sky》 重現韋伯望遠鏡宇宙景象](https://news.pts.org.tw/article/664952)
+Append: [巴西暗空公園成觀星熱點 民宿偕天文學家推套裝行程](https://news.pts.org.tw/article/664953)
+append_entries: 13
+Finish: 2023-11-03 12:13:46.483873
