@@ -16091,3 +16091,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [以哈戰爭／真主黨領袖發表談話 警告中東衝突恐擴大](https://news.pts.org.tw/article/665092)
 append_entries: 1
 Finish: 2023-11-04 05:06:58.383332
+------------------------------------------------------
+Started: 2023-11-04 06:09:19.925186
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-04 06:09:22.671206
