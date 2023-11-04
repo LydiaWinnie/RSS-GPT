@@ -16067,3 +16067,15 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 4
 Finish: 2023-11-04 03:07:37.209603
+------------------------------------------------------
+Started: 2023-11-04 04:08:41.079691
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [尼泊爾西北強震 已知至少69死數十傷](https://news.pts.org.tw/article/665093)
+append_entries: 1
+Finish: 2023-11-04 04:08:43.822185
