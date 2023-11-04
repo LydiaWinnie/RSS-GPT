@@ -16100,3 +16100,30 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-04 06:09:22.671206
+------------------------------------------------------
+Started: 2023-11-04 07:07:53.247796
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [靶場緊鄰步道誤傷工人 南市府：設分隔板、明年遷場](https://news.pts.org.tw/article/665095)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [民怨頭城濱海公園日僅開放8小時 宜縣府：縣民不受限制](https://news.pts.org.tw/article/665096)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大武崙海灘緊縮警戒線並重罰 民眾抗議未公告開罰無據](https://news.pts.org.tw/article/665097)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [教授運動後突昏倒休克 在旁菜鳥消防員及時搶救](https://news.pts.org.tw/article/665098)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以哈戰爭／以稱不放人質免談停火 真主黨火箭轟以色列](https://news.pts.org.tw/article/665099)
+Append: [上萬人等待器官移植 台北榮總盼大眾響應器捐](https://news.pts.org.tw/article/665103)
+Append: [赴中團客明年3月前解禁 旅遊業樂見盼兩岸航點復甦](https://news.pts.org.tw/article/665104)
+Append: [2024大選／藍白合柯堅持全民調 朱立倫：要算誰贏就難談下去](https://news.pts.org.tw/article/665105)
+append_entries: 8
+Finish: 2023-11-04 07:07:55.327801
