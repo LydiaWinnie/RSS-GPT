@@ -16173,3 +16173,31 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-04 12:12:00.345321
+------------------------------------------------------
+Started: 2023-11-04 13:07:06.914758
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [保存傳統北管 靈安社獲無形文化資產肯定](https://news.pts.org.tw/article/665125)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [下週2波東北季風報到 北部轉濕涼高溫降6至7度](https://news.pts.org.tw/article/665131)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [流感疫情升溫 雲林5日內6校10班級停課](https://news.pts.org.tw/article/665132)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [疑穿拖鞋不當操作油門 駕駛衝撞機車釀1死6傷](https://news.pts.org.tw/article/665134)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [尼泊爾規模5.6淺層強震 已知至少128死](https://news.pts.org.tw/article/665136)
+Append: [2024大選／藍白合仍陷僵局 侯友宜台北萬人誓師談避戰](https://news.pts.org.tw/article/665137)
+Append: [2024大選／賴清德新北競總成立 蔡英文指藍白合為利益結合](https://news.pts.org.tw/article/665138)
+Append: [英返還牡丹社事件勇士遺骨 古堡內舉行排灣祭儀](https://news.pts.org.tw/article/665129)
+append_entries: 8
+Finish: 2023-11-04 13:07:08.500518
