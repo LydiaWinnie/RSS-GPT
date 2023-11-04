@@ -16127,3 +16127,12 @@ Append: [赴中團客明年3月前解禁 旅遊業樂見盼兩岸航點復甦](h
 Append: [2024大選／藍白合柯堅持全民調 朱立倫：要算誰贏就難談下去](https://news.pts.org.tw/article/665105)
 append_entries: 8
 Finish: 2023-11-04 07:07:55.327801
+------------------------------------------------------
+Started: 2023-11-04 08:08:48.249281
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-04 08:08:49.381193
