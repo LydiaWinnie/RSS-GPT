@@ -16457,3 +16457,27 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-05 13:07:57.124065
+------------------------------------------------------
+Started: 2023-11-05 14:06:07.550787
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [疫後中藥材飆漲 中藥司明年規劃國內種植](https://news.pts.org.tw/article/665189)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以哈戰爭／中東各國勸停火 美反對：憂哈瑪斯捲土重來](https://news.pts.org.tw/article/665188)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [被質疑曾任中國國家幹部 民眾黨不分區名單徐春鶯澄清](https://news.pts.org.tw/article/665191)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [2024大選／柯文哲籲耐心等待藍白合 侯友宜重申善意誠意](https://news.pts.org.tw/article/665192)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [新北夫妻吵架被警制止心生不滿 返家後聚眾包圍派出所](https://news.pts.org.tw/article/665167)
+append_entries: 5
+Finish: 2023-11-05 14:06:10.730802
