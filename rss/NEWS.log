@@ -16339,3 +16339,28 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-05 04:08:55.603816
+------------------------------------------------------
+Started: 2023-11-05 05:07:06.568298
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [梧棲沙鹿路面遭撒大量鐵釘損車 警鎖定1撒釘行為人](https://news.pts.org.tw/article/665158)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [米糕藏疑似塑膠片 丹丹漢堡證實疏失致歉](https://news.pts.org.tw/article/665159)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [1年義務役陸軍反甲連 傳將訓練實射紅隼火箭彈](https://news.pts.org.tw/article/665161)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [尼泊爾強震逾150死 近8年死傷最慘重](https://news.pts.org.tw/article/665162)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [愛沙尼亞準備設「台北」代表處 外交部：仍在討論階段](https://news.pts.org.tw/article/665163)
+Append: [星宇曼谷飛台北延誤近7小時 233旅客一度留置機艙](https://news.pts.org.tw/article/665151)
+append_entries: 6
+Finish: 2023-11-05 05:07:12.879437
