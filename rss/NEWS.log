@@ -16364,3 +16364,12 @@ Append: [愛沙尼亞準備設「台北」代表處 外交部：仍在討論階�
 Append: [星宇曼谷飛台北延誤近7小時 233旅客一度留置機艙](https://news.pts.org.tw/article/665151)
 append_entries: 6
 Finish: 2023-11-05 05:07:12.879437
+------------------------------------------------------
+Started: 2023-11-05 06:09:20.246541
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-05 06:09:26.210776
