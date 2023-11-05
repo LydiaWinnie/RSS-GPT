@@ -17346,3 +17346,16 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [拜伦 · 韦恩去世，留下了他的10个人生建议](https://www.36kr.com/p/2503458143675777)
 append_entries: 1
 Finish: 2023-11-05 08:09:37.716065
+------------------------------------------------------
+Started: 2023-11-05 09:07:10.761490
+Existing_entries: 981
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip rss/36KR
