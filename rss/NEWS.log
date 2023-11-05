@@ -16373,3 +16373,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-05 06:09:26.210776
+------------------------------------------------------
+Started: 2023-11-05 07:06:31.816598
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [花蓮關懷弱勢35年 顧美玲宣教士將返德鄉親不捨](https://news.pts.org.tw/article/665154)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [有氧運動有益改善癌友生活 台灣抗癌協會連11年辦單車環台](https://news.pts.org.tw/article/665155)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [台灣腦庫揭牌 有助研發新藥及治病機轉](https://news.pts.org.tw/article/665156)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [校園50公尺內禁設夾娃娃機店 北市議員提案修法合理規範](https://news.pts.org.tw/article/665157)
+append_entries: 4
+Finish: 2023-11-05 07:06:36.222878
