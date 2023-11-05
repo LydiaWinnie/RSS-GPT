@@ -16394,3 +16394,12 @@ error: You exceeded your current quota, please check your plan and billing detai
 Append: [校園50公尺內禁設夾娃娃機店 北市議員提案修法合理規範](https://news.pts.org.tw/article/665157)
 append_entries: 4
 Finish: 2023-11-05 07:06:36.222878
+------------------------------------------------------
+Started: 2023-11-05 08:08:44.318243
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-05 08:08:45.504620
