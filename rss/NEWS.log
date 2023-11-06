@@ -16681,3 +16681,15 @@ Append: [自救會擋台中林家祖厝拆除 地主稱一切合法](https://new
 Append: [音樂劇《徽因》停電中斷1小時 衛武營：供電設備異常](https://news.pts.org.tw/article/665265)
 append_entries: 15
 Finish: 2023-11-06 06:10:27.717154
+------------------------------------------------------
+Started: 2023-11-06 07:07:39.240259
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」巴以衝突引發輿論「世界大戰」：伊俄中支持哈馬斯](https://cn.nytimes.com/world/20231106/israel-hamas-information-war/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-11-06 07:07:41.175175
