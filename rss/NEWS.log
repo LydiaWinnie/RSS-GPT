@@ -16731,3 +16731,21 @@ Append: [「中英」擺脫恥感、迷思和恐懼：女性的更年期「受�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-11-06 09:08:31.444741
+------------------------------------------------------
+Started: 2023-11-06 10:08:41.606510
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [伊朗總統稱美國是加沙「大屠殺」的同謀](https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E7%A8%B1%E7%BE%8E%E5%9C%8B%E6%98%AF%E5%8A%A0%E6%B2%99-%E5%A4%A7%E5%B1%A0%E6%AE%BA-%E7%9A%84%E5%90%8C%E8%AC%80-431c3a6a)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [加沙電信在第三次中斷後逐步恢復](https://cn.wsj.com/articles/%E5%8A%A0%E6%B2%99%E9%9B%BB%E4%BF%A1%E5%9C%A8%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%AD%E6%96%B7%E5%BE%8C%E9%80%90%E6%AD%A5%E6%81%A2%E5%BE%A9-492e2ee2)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [大學校內住宿生可望領補助 最高1500元估明年2月上路](https://news.pts.org.tw/article/665300)
+append_entries: 3
+Finish: 2023-11-06 10:08:45.173212
