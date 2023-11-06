@@ -16632,3 +16632,18 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-11-06 04:09:28.789910
+------------------------------------------------------
+Started: 2023-11-06 05:07:52.459943
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」中澳關係何以走向有限度和解](https://cn.nytimes.com/asia-pacific/20231106/china-xi-albanese-relations/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [網路販售鯊魚劍遭提公訴 海保署：可併科30萬至150萬罰金](https://news.pts.org.tw/article/665239)
+append_entries: 2
+Finish: 2023-11-06 05:07:54.407355
