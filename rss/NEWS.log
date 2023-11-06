@@ -16693,3 +16693,29 @@ Append: [「中英」巴以衝突引發輿論「世界大戰」：伊俄中支�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-11-06 07:07:41.175175
+------------------------------------------------------
+Started: 2023-11-06 08:10:54.341042
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [德國漢堡機場男闖停機坪開槍 逾300航班、3.4萬乘客受影響](https://news.pts.org.tw/article/665258)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [AI新創醫療輔助偵測胰臟癌 準確判讀達9成](https://news.pts.org.tw/article/665267)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [國際衝浪賽台東金樽登場 逾2百國內外好手參與](https://news.pts.org.tw/article/665255)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [長照送餐仍維持一餐80元 衛福部：最快明年漲至百元](https://news.pts.org.tw/article/665259)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [審查《數位醫療發展條例》草案 基層醫反開放通訊診療](https://news.pts.org.tw/article/665250)
+Append: [1874年牡丹社事件4勇士頭骨 遭日軍帶走經交涉自英返台](https://news.pts.org.tw/article/665251)
+append_entries: 6
+Finish: 2023-11-06 08:10:56.616281
