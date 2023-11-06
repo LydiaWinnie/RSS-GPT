@@ -16767,3 +16767,29 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-11-06 11:06:55.143638
+------------------------------------------------------
+Started: 2023-11-06 12:14:34.176962
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [美中軍艦出現我太平島周邊 國安局：部署較大船艦到南海](https://news.pts.org.tw/article/665386)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [尼泊爾強震至少158人罹難 重災區偏遠災民苦等救援物資](https://news.pts.org.tw/article/665318)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [印度人口超越中國，人口紅利成崛起契機？【獨立特派員】](https://news.pts.org.tw/article/665326)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [澳總理訪中與習會面 稱兩國貿易障礙陸續鬆綁](https://news.pts.org.tw/article/665324)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [星國總理李顯龍宣布將交棒 副總理黃循財可望扶正](https://news.pts.org.tw/article/665321)
+Append: [FIFA：技術標準如達標 沙烏地有望准辦2034世足賽](https://news.pts.org.tw/article/665316)
+Append: [睽違38年再奪「日本一」 阪神虎球迷跳河慶祝](https://news.pts.org.tw/article/665317)
+append_entries: 7
+Finish: 2023-11-06 12:14:35.856151
