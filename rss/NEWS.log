@@ -16812,3 +16812,36 @@ Feed error: 404
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-11-06 13:11:45.882955
+------------------------------------------------------
+Started: 2023-11-06 14:08:06.512375
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [印度躍升人口最多國 龐大勞動力成翻轉命運契機](https://news.pts.org.tw/article/665369)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [研究指用直髮劑與子宮癌相關 非裔患者提集體訴訟](https://news.pts.org.tw/article/665370)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [俄烏戰爭／澤倫斯基：除非俄撤軍 否則絕不準備談判](https://news.pts.org.tw/article/665371)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [以哈戰爭／以色列持續攻擊加薩 國防軍稱已將加薩「一分為二」](https://news.pts.org.tw/article/665372)
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [中油擬引進首座移動式加氫站 試行1年再擴據點](https://news.pts.org.tw/article/665373)
+Append: [記憶體大廠美光台中四廠啟用 估10年在台創數百工作機會](https://news.pts.org.tw/article/665374)
+Append: [教育部將補助大學校內住宿 預計每月1200至1500元](https://news.pts.org.tw/article/665375)
+Append: [衛福部宣布跟進調薪 部立醫院護理人員加薪4%](https://news.pts.org.tw/article/665376)
+Append: [2024春天恢復赴中國團客 交通部長：釋出善意盼同時開放](https://news.pts.org.tw/article/665377)
+Append: [知名樂團及歌手高雄開唱 4業者趁機哄抬房價挨罰](https://news.pts.org.tw/article/665378)
+Append: [有效處分違法犯紀義務役 軍方研議延後退伍等方案](https://news.pts.org.tw/article/665382)
+Append: [監委台版柬埔寨案調查報告 指個資外洩嚴重籲政院防制](https://news.pts.org.tw/article/665383)
+Append: [新化醬油廠員工清釀造桶昏迷 3人皆陸續恢復心跳](https://news.pts.org.tw/article/665384)
+Append: [太平山遊覽車駕駛20萬交保 煞車失靈或操作不當待調查](https://news.pts.org.tw/article/665385)
+append_entries: 14
+Finish: 2023-11-06 14:08:08.445621
