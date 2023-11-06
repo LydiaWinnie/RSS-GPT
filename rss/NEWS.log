@@ -16719,3 +16719,15 @@ Append: [審查《數位醫療發展條例》草案 基層醫反開放通訊診�
 Append: [1874年牡丹社事件4勇士頭骨 遭日軍帶走經交涉自英返台](https://news.pts.org.tw/article/665251)
 append_entries: 6
 Finish: 2023-11-06 08:10:56.616281
+------------------------------------------------------
+Started: 2023-11-06 09:08:30.167110
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [「中英」擺脫恥感、迷思和恐懼：女性的更年期「受難」該結束了](https://cn.nytimes.com/health/20231106/menopause-hot-flashes-hormone-therapy/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-11-06 09:08:31.444741
