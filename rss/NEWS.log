@@ -16845,3 +16845,15 @@ Append: [新化醬油廠員工清釀造桶昏迷 3人皆陸續恢復心跳](http
 Append: [太平山遊覽車駕駛20萬交保 煞車失靈或操作不當待調查](https://news.pts.org.tw/article/665385)
 append_entries: 14
 Finish: 2023-11-06 14:08:08.445621
+------------------------------------------------------
+Started: 2023-11-06 15:08:39.966081
+Existing_entries: 1014
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: You exceeded your current quota, please check your plan and billing details.
+Append: [韓國稱哈馬斯襲擊以色列可能依賴北韓援助](https://cn.wsj.com/articles/%E9%9F%93%E5%9C%8B%E7%A8%B1%E5%93%88%E9%A6%AC%E6%96%AF%E8%A5%B2%E6%93%8A%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%AF%E8%83%BD%E4%BE%9D%E8%B3%B4%E5%8C%97%E9%9F%93%E6%8F%B4%E5%8A%A9-a2bb09e0)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-11-06 15:08:41.376704
