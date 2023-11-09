@@ -17967,3 +17967,81 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-11-09 03:08:35.469674
+------------------------------------------------------
+Started: 2023-11-09 04:09:20.463085
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [月入5千的年轻人，正用“电子大牌”实现富贵梦](https://www.36kr.com/p/2510488770330633)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [在变装派对，我扮演真实的自己](https://www.36kr.com/p/2510419462733824)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [OpenAI工程师平均薪酬92.5万美元，超高薪让科技巨头望尘莫及](https://www.36kr.com/p/2510516942602249)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [别让大模型被基准评估坑了，测试集乱入预训练，分数虚高，模型变傻](https://www.36kr.com/p/2510490319798274)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [OpenAI的刷屏春晚，揭示了科技巨头的两条路线](https://www.36kr.com/p/2510397533372673)
+Append: [让“郭德纲”说英语相声，HeyGen的视频生意不好做](https://www.36kr.com/p/2510457802801152)
+Append: [ChatGPT全线大崩溃，奥特曼亲自致歉：流量远超预期](https://www.36kr.com/p/2510485770600713)
+Append: [2028年第一个AGI将到来？谷歌DeepMind提6条AGI标准，定义5大AGI等级](https://www.36kr.com/p/2510349859242240)
+Append: [OpenAI这波更新会让更多创企走投无路吗？我们汇总了全球从业者的看法](https://www.36kr.com/p/2510461163602181)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Append: [战略需要组织保障，组织工作靠什么保障？](https://www.36kr.com/p/2510469594447872)
+Append: [提高员工忠诚度，领导者究竟该怎么做？](https://www.36kr.com/p/2510296108892422)
+append_entries: 11
+Finish: 2023-11-09 04:13:59.233674
