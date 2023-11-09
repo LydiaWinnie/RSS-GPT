@@ -17819,3 +17819,105 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-11-06 16:10:16.401531
+------------------------------------------------------
+Started: 2023-11-09 01:44:16.916140
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [吉卜力估值18亿元易主背后：动画公司并购再度升温](https://www.36kr.com/p/2509758692343816)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [日韩剧豆瓣虚高2分？揭开海外剧评分面纱](https://www.36kr.com/p/2509682018746376)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [IP与销量有何关系？看看迪士尼、汪汪队、芭比等最新表现](https://www.36kr.com/p/2508436398129157)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [海外IP改编片又迎小高潮，“屡败屡战”为哪番？](https://www.36kr.com/p/2508421645287430)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [平台侧重、市场趋熟，漫改剧的新拐点](https://www.36kr.com/p/2507916150046981)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Append: [天天花钱学习的人，都有毛病](https://www.36kr.com/p/2509681047306503)
+Append: [“商务座都快成景点了”，打工人流行周末坐高铁回血？](https://www.36kr.com/p/2509220372086785)
+Append: [口腔溃疡又发作了，有人说吃辣刺激一下反而好得快？](https://www.36kr.com/p/2509129618014464)
+Append: [KTV没落简史：风靡20年后，被“伍佰”演唱会干没了？](https://www.36kr.com/p/2509124912922626)
+Append: [风景壮丽的地方，为什么让人进退为难？](https://www.36kr.com/p/2509034593501185)
+Append: [一杯咖啡下肚，纸杯应该丢到哪个垃圾桶？可回收？纸类？还是其他？](https://www.36kr.com/p/2507709715153157)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Append: [谁在“吊打”ChatGPT？](https://www.36kr.com/p/2510310095437829)
+Append: [AI彻底改变音乐节行业的十种方式](https://www.36kr.com/p/2509639969062914)
+Append: [Google AI布局的新动向：生成式AI助力广告创意](https://www.36kr.com/p/2509451595923460)
+Append: [AI，芯片巨头的新战场](https://www.36kr.com/p/2509483893571585)
+Append: [“AI 春晚”结束不到 24 小时，大批 GPT 新用例出炉](https://www.36kr.com/p/2509415421616258)
+Append: [GPT商店已至，AI的爆款应用还有多远？](https://www.36kr.com/p/2509362696806278)
+Append: [把ChatGPT塞进副驾驶，清华、中科院、MIT联合提出Co-Pilot人机交互框架：完美把控乘客意图](https://www.36kr.com/p/2509409670316289)
+Append: [ChatGPT泄露陌生男子自拍照，隐私数据被模型偷了？网友大恐慌](https://www.36kr.com/p/2509409440268291)
+Append: [OpenAI大佬甩出「喵喵GPT」调戏黑客，分享ChatGPT成功的秘密：极限压榨GPU资源](https://www.36kr.com/p/2509406697766917)
+Append: [ChatGPT只算L1阶段，谷歌提出AGI完整路线图](https://www.36kr.com/p/2509351160938757)
+Append: [姚班天才开发《完蛋！我被大模型包围了》游戏爆火，一日用户过万挤爆服务器](https://www.36kr.com/p/2509350619693059)
+Append: [热乎的GPTs体验报告：创建专属GPT，不懂代码人的春天来了](https://www.36kr.com/p/2509349106466817)
+Append: [一句输入、秒出 3D 全景，自由打造你的VR世界](https://www.36kr.com/p/2509348878663943)
+Append: [AI帮助下，披头士“复活”了](https://www.36kr.com/p/2509305485050120)
+Append: [解说梅西球赛、英雄联盟，OpenAI GPT-4视觉API被开发者玩出新花样](https://www.36kr.com/p/2509176055595266)
+Append: [用过GPT-4 Turbo以后，我们再也回不去了](https://www.36kr.com/p/2509175880351750)
+Append: [别拿OpenAI当初创公司学了，它已经是一个垄断巨头](https://www.36kr.com/p/2509305730203910)
+Append: [这一次，马斯克只能追赶AI界的苹果](https://www.36kr.com/p/2509284787241218)
+Append: [AI生图有多火？电商向AI狂奔](https://www.36kr.com/p/2509095271620487)
+Append: [AI+美妆，新配方还是“换底色”？](https://www.36kr.com/p/2509097762545537)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Append: [雨果奖的神话，是一种“中国特色”？](https://www.36kr.com/p/2509027532242945)
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Append: [马斯克推动“全力下云”，成本降低60%，对物联网企业有何启示？](https://www.36kr.com/p/2509420890357760)
+Append: [写给CEO：0-1建设绩效管理，我们有这3条建议](https://www.36kr.com/p/2507595131600897)
+Append: [生产计划的精髓：关键要素与执行挑战](https://www.36kr.com/p/2507027689725830)
+Append: [一个公司有没有希望，只看1点就够了](https://www.36kr.com/p/2506845530374403)
+append_entries: 36
+Finish: 2023-11-09 01:44:38.160021
