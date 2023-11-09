@@ -17476,3 +17476,12 @@ Append: [桃園新屋將設雞隻電宰場 民眾抬媽祖鑾轎抗議](https://
 Append: [金門代課師性騷案裁處逆轉 受害學生家屬揚言抗議](https://news.pts.org.tw/article/665980)
 append_entries: 16
 Finish: 2023-11-09 14:07:12.813973
+------------------------------------------------------
+Started: 2023-11-09 15:07:39.565884
+Existing_entries: 1016
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-09 15:07:41.604310
