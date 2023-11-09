@@ -17386,3 +17386,13 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [全球興起草根維修運動，台灣民間有哪些具體作法？【獨立特派員】](https://news.pts.org.tw/article/665910)
 append_entries: 3
 Finish: 2023-11-09 12:13:30.032152
+------------------------------------------------------
+Started: 2023-11-09 13:09:38.431211
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-09 13:09:39.757373
