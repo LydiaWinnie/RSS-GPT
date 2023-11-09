@@ -17203,3 +17203,78 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-11-09 07:07:09.721982
+------------------------------------------------------
+Started: 2023-11-09 08:09:54.419294
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [盼設區間測速改善新澳隧道行安 警方：有難度將請廠商評估](https://news.pts.org.tw/article/665845)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [池上再傳電動自行車摔入田 《台東慢車條例》需修法再送審](https://news.pts.org.tw/article/665846)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [雲林元長二期花生減收5成 收購價漲農民收入卻未增](https://news.pts.org.tw/article/665842)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台南重劃案前議長涉賄 台南高雄自地重劃案爭議大](https://news.pts.org.tw/article/665851)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [花蓮太魯閣馬拉松疏失多 跑者沒水喝部分接山泉水解渴](https://news.pts.org.tw/article/665844)
+Append: [塑膠容器採純料等綠色設計 回收清除處理費最高打7折](https://news.pts.org.tw/article/665850)
+Append: [高雄登革熱單日突新增49例 335戶噴藥防治](https://news.pts.org.tw/article/665856)
+Append: [去年傳銷營業額千億 檢舉詐騙143件、8件法辦](https://news.pts.org.tw/article/665857)
+Append: [民眾郵局匯款10萬現金消失 行員誤踢桌底又拒調監視器](https://news.pts.org.tw/article/665860)
+Append: [騎樓施工被迫走馬路遭撞 法院判肇事駕駛刑期5個月](https://news.pts.org.tw/article/665858)
+Append: [2024大選防堵假訊息 新聞倫理誓言首波6媒體簽署【涉己新聞】](https://news.pts.org.tw/article/665852)
+append_entries: 11
+Finish: 2023-11-09 08:09:55.357014
