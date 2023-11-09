@@ -17921,3 +17921,38 @@ Append: [生产计划的精髓：关键要素与执行挑战](https://www.36kr.c
 Append: [一个公司有没有希望，只看1点就够了](https://www.36kr.com/p/2506845530374403)
 append_entries: 36
 Finish: 2023-11-09 01:44:38.160021
+------------------------------------------------------
+Started: 2023-11-09 02:17:43.989860
+Existing_entries: 1036
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [微软Xbox拥抱AI，走量内卷加剧](https://www.36kr.com/p/2509717334114308)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [产品化的GPT，能否为“百模大战”照亮未来？](https://www.36kr.com/p/2509608572780802)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-11-09 02:18:57.941386
