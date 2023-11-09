@@ -17396,3 +17396,83 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-09 13:09:39.757373
+------------------------------------------------------
+Started: 2023-11-09 14:07:10.537325
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [加沙衝突令烏克蘭推動召開和平峰會的希望變得渺茫](https://cn.wsj.com/articles/%E5%8A%A0%E6%B2%99%E8%A1%9D%E7%AA%81%E4%BB%A4%E7%83%8F%E5%85%8B%E8%98%AD%E6%8E%A8%E5%8B%95%E5%8F%AC%E9%96%8B%E5%92%8C%E5%B9%B3%E5%B3%B0%E6%9C%83%E7%9A%84%E5%B8%8C%E6%9C%9B%E8%AE%8A%E5%BE%97%E6%B8%BA%E8%8C%AB-c6afe6fb)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國演員工會歷史性罷工 歷118天落幕](https://news.pts.org.tw/article/665973)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [語言緊扣國際局勢變化 中文教育受印度新世代青睞](https://news.pts.org.tw/article/665971)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [疑不滿反政府抗爭者設路障 巴拿馬男子開槍釀2死](https://news.pts.org.tw/article/665974)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／5萬加薩市民需4小時內南撤 聯合國譴責以哈皆犯戰爭罪](https://news.pts.org.tw/article/665975)
+Append: [最快明年9月陸生納健保 有居留證即生效](https://news.pts.org.tw/article/665976)
+Append: [張忠謀獲首屆李國鼎獎 11月將第6度出席APEC](https://news.pts.org.tw/article/665977)
+Append: [7旬男子北捷與人碰撞 亮刀揮舞遭警制伏](https://news.pts.org.tw/article/665983)
+Append: [2024大選／柯文哲公布3民調皆贏 侯友宜：加權誤差太大](https://news.pts.org.tw/article/665985)
+Append: [控樓上住戶噪音求償30萬 無從證實源頭法院判敗訴](https://news.pts.org.tw/article/665979)
+Append: [宜蘭蘇澳砂石車撞機車2死 肇事車與新澳隧道車禍同老闆](https://news.pts.org.tw/article/665986)
+Append: [上下客貨和騎樓違停記點暫緩 路權團體籲納更多用路人想法](https://news.pts.org.tw/article/665987)
+Append: [中鐵殼船通霄外海非法捕魚 海巡強靠押13人偵辦](https://news.pts.org.tw/article/665988)
+Append: [共艦山東號再沿台海中線航行 學者：返回整補、政治意圖低](https://news.pts.org.tw/article/665989)
+Append: [桃園新屋將設雞隻電宰場 民眾抬媽祖鑾轎抗議](https://news.pts.org.tw/article/665978)
+Append: [金門代課師性騷案裁處逆轉 受害學生家屬揚言抗議](https://news.pts.org.tw/article/665980)
+append_entries: 16
+Finish: 2023-11-09 14:07:12.813973
