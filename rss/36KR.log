@@ -18138,3 +18138,78 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-11-09 09:07:57.048538
+------------------------------------------------------
+Started: 2023-11-09 10:08:05.986087
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [GPT-4 Turbo 的识图能力将影响哪些行业、业务场景？| AI Trend](https://www.36kr.com/p/2510865030029192)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [到底是谁神化了数据标注师？](https://www.36kr.com/p/2510819172950150)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [AI新闻主播崛起：正在如何融入新闻业？](https://www.36kr.com/p/2510740163903490)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [重塑GitHub、颠覆程序开发：GitHub Universe 2023发布重大更新](https://www.36kr.com/p/2510748816080899)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [机器学习 vs. 数值天气预报，AI 如何改变现有的天气预报模式](https://www.36kr.com/p/2510748589670657)
+Append: [高达2万亿参数，远超GPT-4，亚马逊全新Olympus大模型曝光，即将对外公布](https://www.36kr.com/p/2510727316996361)
+Append: [GPT-5明年降临？爆料人泄露多模态Gobi就是GPT-5，已初现自我意识](https://www.36kr.com/p/2510727168606215)
+Append: [OpenAI上线新功能太强了，服务器瞬间被挤爆](https://www.36kr.com/p/2510690855928069)
+Append: [大模型走捷径「刷榜」？数据污染问题值得重视](https://www.36kr.com/p/2510690620784900)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 9
+Finish: 2023-11-09 10:09:23.650626

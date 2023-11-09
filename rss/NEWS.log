@@ -17323,3 +17323,12 @@ Append: [「中英」隔夜飯反而有益健康嗎](https://cn.nytimes.com/heal
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-11-09 09:07:43.622213
+------------------------------------------------------
+Started: 2023-11-09 10:08:00.127291
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-09 10:08:01.759142
