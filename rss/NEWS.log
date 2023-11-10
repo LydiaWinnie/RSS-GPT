@@ -18129,3 +18129,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-11-10 14:07:17.689774
+------------------------------------------------------
+Started: 2023-11-10 15:07:44.343580
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [前陸軍上校尚德恩簽降共書 監院全票通過彈劾](https://news.pts.org.tw/article/666202)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [印度現代化之路 貧富差距、性別不平等成枷鎖](https://news.pts.org.tw/article/666189)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [華梵大學試辦「生命設計週」 停課讓學生設計自己生命](https://news.pts.org.tw/article/666186)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [印尼浮動式太陽能發電站啟用 每年減排二氧化碳20萬噸](https://news.pts.org.tw/article/666190)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [日硫磺島海底火山噴發成新島 結構不穩恐難長期留存](https://news.pts.org.tw/article/666191)
+Append: [以哈戰爭／國際籲停火聲浪高 以色列同意每日停火4小時](https://news.pts.org.tw/article/666193)
+Append: [全球首例「全眼球」移植手術 術後對光線刺激有反應](https://news.pts.org.tw/article/666192)
+Append: [台南登革熱本週降2成 屏東登革熱累計成7年之冠](https://news.pts.org.tw/article/666197)
+Append: [屏東本土首例日本腦炎 7旬翁確診附近急掛捕蚊燈](https://news.pts.org.tw/article/666198)
+Append: [英樂團Coldplay週末高雄開唱 查獲黃牛依《文創法》送辦](https://news.pts.org.tw/article/666200)
+Append: [請鹿港天后宮作客媽祖不歸還 不肖人士當二手神明網拍](https://news.pts.org.tw/article/666184)
+Append: [台北大巨蛋測試賽門票秒殺 今消防演習確保水源充足](https://news.pts.org.tw/article/666201)
+Append: [2024大選／馬英九表態支持全民調 賴清德副手傳為蕭美琴](https://news.pts.org.tw/article/666204)
+Append: [陸軍士官疑遭迫砲模擬器炸傷 送醫後無大礙肇因待釐清](https://news.pts.org.tw/article/666203)
+Append: [2024大選／政府編列1201億救少子化 民團：補助忽略6到18歲](https://news.pts.org.tw/article/666187)
+append_entries: 15
+Finish: 2023-11-10 15:07:45.907533
