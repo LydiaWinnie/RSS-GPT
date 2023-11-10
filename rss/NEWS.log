@@ -17716,3 +17716,36 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 6
 Finish: 2023-11-10 04:09:23.496405
+------------------------------------------------------
+Started: 2023-11-10 05:07:13.740975
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [更多高管在中國失聯，給營商環境帶來寒意](https://cn.wsj.com/articles/%E6%9B%B4%E5%A4%9A%E9%AB%98%E7%AE%A1%E5%9C%A8%E4%B8%AD%E5%9C%8B%E5%A4%B1%E8%81%AF-%E7%B5%A6%E7%87%9F%E5%95%86%E7%92%B0%E5%A2%83%E5%B8%B6%E4%BE%86%E5%AF%92%E6%84%8F-e0d7717e)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」烏克蘭、以色列，捲入兩場戰爭的美國還有餘力對抗中國嗎](https://cn.nytimes.com/world/20231110/gaza-israel-asia/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-11-10 05:07:15.078929
