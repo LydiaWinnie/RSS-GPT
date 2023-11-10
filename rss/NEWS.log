@@ -17626,3 +17626,13 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [中國長征火箭飛越台灣上空 國軍高度警戒](https://news.pts.org.tw/article/666017)
 append_entries: 4
 Finish: 2023-11-10 01:43:41.856731
+------------------------------------------------------
+Started: 2023-11-10 02:17:34.648524
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-10 02:17:36.079235
