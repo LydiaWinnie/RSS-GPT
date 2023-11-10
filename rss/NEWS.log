@@ -17818,3 +17818,78 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [台中北區東興市場大火 釀2傷、20戶攤商付之一炬](https://news.pts.org.tw/article/666066)
 append_entries: 5
 Finish: 2023-11-10 06:10:16.478440
+------------------------------------------------------
+Started: 2023-11-10 07:06:53.681109
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國完成全球首例全眼移植手術 患者視網膜已有血液流動](https://news.pts.org.tw/article/666082)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [海軍高雄新濱營區明登場 玉山艦首度亮相](https://news.pts.org.tw/article/666057)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [宜蘭高鐵特定區 地方爭取自190頃擴大至400頃](https://news.pts.org.tw/article/666064)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [鑽外送平台棄單漏洞 男子3年詐欺逾800萬](https://news.pts.org.tw/article/666048)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [大學住宿生租金補助 最快明年2月上路](https://news.pts.org.tw/article/666049)
+Append: [雲林TPASS重送審預明年上路 受惠人數估增加3倍](https://news.pts.org.tw/article/666061)
+Append: [花蓮巿末代陸橋 復興陸橋11日晚間拆除](https://news.pts.org.tw/article/666060)
+Append: [桃園南崁高中屢傳校園暴力 全教產批校方隱匿僅通報1回](https://news.pts.org.tw/article/666054)
+Append: [高雄幼稚園教保員疑打傷孩童 已調離職務由教育局調查](https://news.pts.org.tw/article/666053)
+Append: [肺癌擠下大腸癌成癌王 平均每4分19秒就有1人罹癌](https://news.pts.org.tw/article/666052)
+Append: [中壢公所水溝施工僅部分加蓋 民眾批「比沒做還危險」](https://news.pts.org.tw/article/666047)
+append_entries: 11
+Finish: 2023-11-10 07:06:54.851383
