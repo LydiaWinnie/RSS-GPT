@@ -19192,3 +19192,15 @@ Append: [创作者经济 2.0：网红红利收割不易](https://www.36kr.com/p/
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2023-11-10 13:10:36.563259
+------------------------------------------------------
+Started: 2023-11-10 14:07:23.285529
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip rss/36KR
