@@ -18229,3 +18229,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [大巨蛋預備賽門票秒殺 北市刑大查獲黃牛1票5千元](https://news.pts.org.tw/article/666206)
 append_entries: 1
 Finish: 2023-11-10 16:09:17.080274
+------------------------------------------------------
+Started: 2023-11-10 17:07:04.448721
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-10 17:07:05.161055
