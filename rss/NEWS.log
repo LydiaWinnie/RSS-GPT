@@ -17893,3 +17893,12 @@ Append: [肺癌擠下大腸癌成癌王 平均每4分19秒就有1人罹癌](http
 Append: [中壢公所水溝施工僅部分加蓋 民眾批「比沒做還危險」](https://news.pts.org.tw/article/666047)
 append_entries: 11
 Finish: 2023-11-10 07:06:54.851383
+------------------------------------------------------
+Started: 2023-11-10 08:09:36.089342
+Existing_entries: 1011
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-10 08:09:37.524218
