@@ -18087,3 +18087,24 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [挪威能源價格漲 熱泵空調省電熱銷](https://news.pts.org.tw/article/666074)
 append_entries: 3
 Finish: 2023-11-10 12:13:42.050637
+------------------------------------------------------
+Started: 2023-11-10 13:09:59.530230
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國欲借低價出口消化過剩產能，引發他國擔憂](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E6%AC%B2%E5%80%9F%E4%BD%8E%E5%83%B9%E5%87%BA%E5%8F%A3%E6%B6%88%E5%8C%96%E9%81%8E%E5%89%A9%E7%94%A2%E8%83%BD-%E5%BC%95%E7%99%BC%E4%BB%96%E5%9C%8B%E6%93%94%E6%86%82-e41b19cd)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-11-10 13:10:00.950015
