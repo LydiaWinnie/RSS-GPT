@@ -18454,3 +18454,12 @@ Append: [雙11購物節未必真便宜 網友建議利用比價網查過往售�
 Append: [後年才開徵碳費 傳已有鋼鐵業者哄抬價格](https://news.pts.org.tw/article/666221)
 append_entries: 8
 Finish: 2023-11-11 06:09:04.451231
+------------------------------------------------------
+Started: 2023-11-11 07:06:33.279344
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-11 07:06:34.484692
