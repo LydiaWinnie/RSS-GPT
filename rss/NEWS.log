@@ -18570,3 +18570,12 @@ Append: [中國雙11買氣不佳 外媒：反映中國經濟疲軟](https://news
 Append: [2024大選／宜蘭、南投再傳連署爭議 郭辦：一切合法嚴禁對價](https://news.pts.org.tw/article/666231)
 append_entries: 7
 Finish: 2023-11-11 12:12:10.876457
+------------------------------------------------------
+Started: 2023-11-11 13:07:14.612133
+Existing_entries: 1007
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-11 13:07:15.470463
