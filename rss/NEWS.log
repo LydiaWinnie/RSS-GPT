@@ -18349,3 +18349,36 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-11 04:08:46.285509
+------------------------------------------------------
+Started: 2023-11-11 05:06:56.889373
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [真主黨：自以哈戰爭暴發以來已有70名戰士喪生](https://cn.wsj.com/articles/%E7%9C%9F%E4%B8%BB%E9%BB%A8-%E8%87%AA%E4%BB%A5%E5%93%88%E6%88%B0%E7%88%AD%E6%9A%B4%E7%99%BC%E4%BB%A5%E4%BE%86%E5%B7%B2%E6%9C%8970%E5%90%8D%E6%88%B0%E5%A3%AB%E5%96%AA%E7%94%9F-830fac38)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台北大巨蛋測試賽18日登場 警逮4黃牛依《社維法》送辦](https://news.pts.org.tw/article/666217)
+append_entries: 2
+Finish: 2023-11-11 05:06:59.958324
