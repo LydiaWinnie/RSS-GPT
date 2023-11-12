@@ -18958,3 +18958,12 @@ Append: [舊金山APEC將登場 民運團體場外抗議習近平](https://news.
 Append: [中海警船阻菲船隻運補 貨輪越界嗆海巡台灣是省](https://news.pts.org.tw/article/666291)
 append_entries: 8
 Finish: 2023-11-12 13:07:45.903945
+------------------------------------------------------
+Started: 2023-11-12 14:06:13.515267
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-12 14:06:15.743197
