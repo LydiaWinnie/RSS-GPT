@@ -18838,3 +18838,12 @@ Append: [考選部降護理國考門檻 遭疑彌補人力缺口](https://news.p
 Append: [88會館案外案 銀樓涂誠文涉洗錢疑潛逃](https://news.pts.org.tw/article/666287)
 append_entries: 8
 Finish: 2023-11-12 08:08:51.328212
+------------------------------------------------------
+Started: 2023-11-12 09:06:48.720041
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-12 09:06:50.921623
