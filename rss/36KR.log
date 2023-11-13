@@ -20462,3 +20462,78 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-11-13 12:14:47.074398
+------------------------------------------------------
+Started: 2023-11-13 13:10:40.787104
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [GPT Store上线，OpenAI 的「iPhone时刻」这回真来了](https://www.36kr.com/p/2516642354942208)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [谷歌DeepMind爆火动画18秒解释LLM原理，网友蒙圈，组团求GPT-4下场分析](https://www.36kr.com/p/2516627070472201)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [UNC斯坦福等曝光GPT-4V意外漏洞，被人类哄骗数出8个葫芦娃，LeCun和Jim Fan震惊了](https://www.36kr.com/p/2516585065828354)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [牛津经济研究院：AI能拯救全球经济增长的下滑趋势吗？](https://www.36kr.com/p/2516583655563140)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [未来AI将有五大发展趋势？2024年将进入“有意义的人工智能时代”](https://www.36kr.com/p/2516583609737094)
+Append: [中国大模型创业公司，学不起OpenAI](https://www.36kr.com/p/2516581240705031)
+Append: [连葫芦娃都数不明白，解说英雄联盟的GPT-4V面临幻觉挑战](https://www.36kr.com/p/2516535678816516)
+Append: [用AI当导演，一个人就能拍电影？](https://www.36kr.com/p/2516508249120897)
+Append: [各路大神献出自定义GPT，24小时Top 9名单在这](https://www.36kr.com/p/2516535362572545)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 9
+Finish: 2023-11-13 13:11:34.596180
