@@ -20089,3 +20089,78 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-11-13 02:20:36.661400
+------------------------------------------------------
+Started: 2023-11-13 03:08:28.125775
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Altman亲手复刻“Grok”，背刺马斯克，定制GPT正式开放，最全第三方市场已出](https://www.36kr.com/p/2515419334414601)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [30分钟解决肥胖困扰，这家微创机器人公司融了1010万美元](https://www.36kr.com/p/2513129951711497)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [1分钟诞生一个新GPT，3天内定制GPT大爆发，理想型男友、科研利器全网刷屏](https://www.36kr.com/p/2514833563914246)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [OpenAI开出1000万美元天价年薪，挖走谷歌顶尖工程师？北大AI博士未毕业拿百万offer](https://www.36kr.com/p/2513409516589059)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [黑客入侵ChatGPT，OpenAI微软全被搞崩，“苏丹匿名者”：是我干的](https://www.36kr.com/p/2515418234949892)
+Append: [号称要“替代手机”的Ai Pin，居然搞出了双向收费](https://www.36kr.com/p/2515181739053059)
+Append: [人工智能的确又升级了，但我劝你先观望](https://www.36kr.com/p/2513871442612487)
+Append: [花5000元，把ChatGPT“戴”在身上？前苹果员工联手OpenAI，推出无屏“iPhone杀手”](https://www.36kr.com/p/2515390447931656)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Append: [所有领导都该看看，自己是否具备蓝海领导力](https://www.36kr.com/p/2513131074310152)
+append_entries: 9
+Finish: 2023-11-13 03:09:24.210963
