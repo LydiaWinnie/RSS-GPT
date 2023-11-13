@@ -19261,3 +19261,83 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-11-13 05:08:06.354705
+------------------------------------------------------
+Started: 2023-11-13 06:10:30.059272
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」尼泊爾對中資建造機場展開反腐調查](https://cn.nytimes.com/business/20231113/china-nepal-pokhara-airport/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [花蓮中華紙漿開發可燃黑液 存放安全引發地方疑慮](https://news.pts.org.tw/article/666377)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [對抗反猶太主義 法國逾18萬人大遊行](https://news.pts.org.tw/article/666386)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [轉換雇主時強收買工、贖身費 受害移工陳情勞動部嚴查](https://news.pts.org.tw/article/666382)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [憂健保點值第三季下探 5大醫護團體籲健保「1點1元」](https://news.pts.org.tw/article/666389)
+Append: [金管會祭新制剷除萬年獨董 業界憂獨董荒](https://news.pts.org.tw/article/666383)
+Append: [性影像下架機制遇瓶頸 僅成功移除6成、封網數掛零](https://news.pts.org.tw/article/666392)
+Append: [大台北昨低溫降至20度以下 34年來入秋最晚紀錄](https://news.pts.org.tw/article/666390)
+Append: [徐春鶯棄中國籍爭議 邱太三：《憲法》只規範我政府](https://news.pts.org.tw/article/666394)
+Append: [宜蘭自行車道路面高低害摔差 縣府：可能地震造成將改善](https://news.pts.org.tw/article/666376)
+Append: [APEC場外拜習會將談兩岸？ 吳釗燮：美挺台不用懷疑](https://news.pts.org.tw/article/666395)
+Append: [APEC舊金山峰會將登場 上千人街頭示威](https://news.pts.org.tw/article/666396)
+Append: [APEC領袖峰會將登場 主會場維安提升](https://news.pts.org.tw/article/666397)
+Append: [台南高雄冰料超標率高 腸桿菌最高超標20萬倍](https://news.pts.org.tw/article/666388)
+Append: [警破博弈網站「玖天娛樂城」 今年賭博金流高達8億元](https://news.pts.org.tw/article/666393)
+Append: [二級毒品大麻是否合法化 最新調查：近93%民眾反對](https://news.pts.org.tw/article/666391)
+append_entries: 16
+Finish: 2023-11-13 06:10:33.462148
