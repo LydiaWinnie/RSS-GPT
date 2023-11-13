@@ -19591,3 +19591,13 @@ Append: [以哈戰爭／加薩最大醫院燃料罄停擺 5早產兒、7重症�
 Append: [中央大學與鴻海研製 首寬頻通訊衛星「珍珠號」升空](https://news.pts.org.tw/article/666504)
 append_entries: 10
 Finish: 2023-11-13 14:07:28.974194
+------------------------------------------------------
+Started: 2023-11-13 15:08:13.050482
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-13 15:08:14.059191
