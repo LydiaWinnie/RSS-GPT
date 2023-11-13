@@ -19341,3 +19341,24 @@ Append: [警破博弈網站「玖天娛樂城」 今年賭博金流高達8億元
 Append: [二級毒品大麻是否合法化 最新調查：近93%民眾反對](https://news.pts.org.tw/article/666391)
 append_entries: 16
 Finish: 2023-11-13 06:10:33.462148
+------------------------------------------------------
+Started: 2023-11-13 07:07:46.383818
+Existing_entries: 1016
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國人「口味」生變，國外農場全力押寶](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E4%BA%BA-%E5%8F%A3%E5%91%B3-%E7%94%9F%E8%AE%8A-%E5%9C%8B%E5%A4%96%E8%BE%B2%E5%A0%B4%E5%85%A8%E5%8A%9B%E6%8A%BC%E5%AF%B6-a6ca2236)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-11-13 07:07:47.992904
