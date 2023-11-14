@@ -20062,3 +20062,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-11-14 13:10:44.540690
+------------------------------------------------------
+Started: 2023-11-14 14:07:15.658008
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [麻生太郎演講指中侵台機會低 拜登將向習表態勿涉台大選](https://news.pts.org.tw/article/666706)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [彰桃擬推SRF設廠取代化石燃料 環團指非綠能且法規不全應暫緩](https://news.pts.org.tw/article/666689)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [徐生明國際少棒賽移師彰化 經多方協助終邁向第11屆](https://news.pts.org.tw/article/666686)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [建逾140年 西班牙聖家堂第5座塔樓完成](https://news.pts.org.tw/article/666692)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國工商銀行遭駭 駭客集團Lockbit稱已收到贖金](https://news.pts.org.tw/article/666694)
+Append: [英前首相卡麥隆任外交大臣 黨內右翼不滿擬發動罷免](https://news.pts.org.tw/article/666695)
+Append: [全球500大超級電腦出爐 台氣象署及國網中心等系統上榜](https://news.pts.org.tw/article/666698)
+Append: [金管會明年赴中發動現地金檢 放貸對象、風險管理列檢查重點](https://news.pts.org.tw/article/666690)
+Append: [2024大選／郭賴配連署達90.2萬人過門檻 有效份數史上次高](https://news.pts.org.tw/article/666708)
+Append: [腸病毒重症最小個案僅8日大 流感仍肆虐增4死亡病例](https://news.pts.org.tw/article/666704)
+Append: [2024大選／藍白15日再協商 馬英九見證、侯友宜將與會](https://news.pts.org.tw/article/666709)
+Append: [2024第1季人力需求增4.9萬 缺工連續9個月破百萬成常態](https://news.pts.org.tw/article/666701)
+Append: [漁船禁用中製北斗衛星終端設備 漁業署稱安裝將重罰並沒收](https://news.pts.org.tw/article/666705)
+Append: [新北三峽飼主大馬路上蹓馬 警：員警在場才可開罰](https://news.pts.org.tw/article/666699)
+Append: [梅花鹿闖民宅猝死 廠商稱復活野放惹議遭法辦](https://news.pts.org.tw/article/666700)
+append_entries: 15
+Finish: 2023-11-14 14:07:16.497918
