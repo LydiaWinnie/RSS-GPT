@@ -20879,3 +20879,79 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 2
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2023-11-14 05:07:50.132427
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [田园IP，都市人的赛博治愈所](https://www.36kr.com/p/2517571462598920)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [CAA中国顾抒航：职业体育是场「无限赛局」丨即氪运动](https://www.36kr.com/p/2502363702241154)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [终结扩散模型，IGN单步生成逼真图像，UC伯克利谷歌革新LLM，美剧成灵感来源](https://www.36kr.com/p/2517391324811268)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [后门准确率降至3%，主任务性能几乎不变，华工JHU提出全新“联邦学习后门攻击识别”解决方案](https://www.36kr.com/p/2516917799014662)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [用AI评估AI，上交大新款大模型部分任务超越GPT-4，模型数据都开源](https://www.36kr.com/p/2516913786638338)
+Append: [AI中的1岁和18岁](https://www.36kr.com/p/2517419201892358)
+Append: [让AI成为每个人的“法律顾问”，「InssentAI」为法律行业从业者提供AI模型 | 早期项目](https://www.36kr.com/p/2489555476404102)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Append: [如何制定内容营销战略](https://www.36kr.com/p/2403121128087938)
+Append: [最前线 | 爱奇艺发布282部新片单，“迷雾剧场”即将回归](https://www.36kr.com/p/2441781278939014)
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Feed error: 404
+append_entries: 9
+error when rendering xml, skip rss/36KR
