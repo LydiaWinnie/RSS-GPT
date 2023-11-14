@@ -20032,3 +20032,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [2024大選／郭台銘賴佩霞連署通過 合格人數90萬2389人](https://news.pts.org.tw/article/666633)
 append_entries: 2
 Finish: 2023-11-14 11:06:32.308828
+------------------------------------------------------
+Started: 2023-11-14 12:13:50.203621
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-14 12:13:52.092015
