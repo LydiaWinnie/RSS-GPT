@@ -19784,3 +19784,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-14 02:18:37.881040
+------------------------------------------------------
+Started: 2023-11-14 03:08:23.035964
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國在全球技術規則上的轉向或牽制對抗中國的行動](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%9C%A8%E5%85%A8%E7%90%83%E6%8A%80%E8%A1%93%E8%A6%8F%E5%89%87%E4%B8%8A%E7%9A%84%E8%BD%89%E5%90%91%E6%88%96%E7%89%BD%E5%88%B6%E5%B0%8D%E6%8A%97%E4%B8%AD%E5%9C%8B%E7%9A%84%E8%A1%8C%E5%8B%95-fbf37f99)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-11-14 03:08:24.499390
