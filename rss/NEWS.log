@@ -20141,3 +20141,12 @@ Append: [新北三峽飼主大馬路上蹓馬 警：員警在場才可開罰](ht
 Append: [梅花鹿闖民宅猝死 廠商稱復活野放惹議遭法辦](https://news.pts.org.tw/article/666700)
 append_entries: 15
 Finish: 2023-11-14 14:07:16.497918
+------------------------------------------------------
+Started: 2023-11-14 15:07:54.983814
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-14 15:07:56.666823
