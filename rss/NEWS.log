@@ -19990,3 +19990,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [美生醫公司編輯基因降低膽固醇 預計2025年啟動2期實驗](https://news.pts.org.tw/article/666624)
 append_entries: 1
 Finish: 2023-11-14 09:07:55.792562
+------------------------------------------------------
+Started: 2023-11-14 10:08:35.464083
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-14 10:08:36.609254
