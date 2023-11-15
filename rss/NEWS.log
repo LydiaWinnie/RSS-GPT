@@ -20678,3 +20678,84 @@ Feed error: 404
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-15 14:07:31.201126
+------------------------------------------------------
+Started: 2023-11-15 15:08:17.329622
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [習拜會利益攸關，爭議問題多，妥協空間小](https://cn.wsj.com/articles/%E7%BF%92%E6%8B%9C%E6%9C%83%E5%88%A9%E7%9B%8A%E6%94%B8%E9%97%9C-%E7%88%AD%E8%AD%B0%E5%95%8F%E9%A1%8C%E5%A4%9A-%E5%A6%A5%E5%8D%94%E7%A9%BA%E9%96%93%E5%B0%8F-f19eed3e)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台灣兩大反對黨將合作參加明年初的總統大選](https://cn.wsj.com/articles/%E5%8F%B0%E7%81%A3%E5%85%A9%E5%A4%A7%E5%8F%8D%E5%B0%8D%E9%BB%A8%E5%B0%87%E5%90%88%E4%BD%9C%E5%8F%83%E5%8A%A0%E6%98%8E%E5%B9%B4%E5%88%9D%E7%9A%84%E7%B8%BD%E7%B5%B1%E5%A4%A7%E9%81%B8-675c739b)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [東螺溪整治半年又見雜草垃圾 彰縣府啟動生態工程取締濫倒](https://news.pts.org.tw/article/666888)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [全球塑膠公約談判擬訂條款 國內環團盼台以觀察員參與](https://news.pts.org.tw/article/666892)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北韓11月2度測試固態燃料火箭 不易被敵偵測引國際關注](https://news.pts.org.tw/article/666895)
+Append: [台中柳川引進AI防汛系統 降雨達警戒時辨識人形勸離](https://news.pts.org.tw/article/666890)
+Append: [高雄危老重建6都倒數第2 市府加碼補助6萬鼓勵投入](https://news.pts.org.tw/article/666889)
+Append: [台史上最大安非他命走私案 警查獲逾1公噸市值近24億](https://news.pts.org.tw/article/666903)
+Append: [健保點值補助來源仍存歧見 估上半年需補40億點值才達0.9元](https://news.pts.org.tw/article/666900)
+Append: [擬開放「非血親」器捐 醫界憂衍生買賣器官疑慮](https://news.pts.org.tw/article/666904)
+Append: [2024大選／民進黨公布不分區名單 林月琴、沈伯洋居前二](https://news.pts.org.tw/article/666908)
+Append: [2024大選／藍白合全民調方案底定 11/18公布最終結果](https://news.pts.org.tw/article/666909)
+Append: [交通違規記點暫緩至明年6月 併排違停維持罰款並記點](https://news.pts.org.tw/article/666905)
+Append: [張忠謀任APEC代表抵舊金山 駐美代表蕭美琴接機](https://news.pts.org.tw/article/666906)
+Append: [政大校友魏明光捐3.2億元 擬效普立茲奬設新聞獎與講座](https://news.pts.org.tw/article/666897)
+Append: [日本寶塚女團員疑因霸凌、過勞輕生 劇團理事長道歉請辭](https://news.pts.org.tw/article/666894)
+Append: [以哈戰爭／加薩雨季醫院遺體無法下葬 恐引發公衛危機](https://news.pts.org.tw/article/666896)
+append_entries: 17
+Finish: 2023-11-15 15:08:18.222157
