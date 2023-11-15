@@ -20551,3 +20551,24 @@ Append: [陳姓檢察官行車糾紛性騷女騎士 全票通過彈劾移送懲�
 Append: [赴中旅遊團日限額2千人爭議 王國材：將再跟陸委會討論](https://news.pts.org.tw/article/666766)
 append_entries: 10
 Finish: 2023-11-15 08:10:28.108095
+------------------------------------------------------
+Started: 2023-11-15 09:09:05.413964
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」再見了，中美關係的黃金年代](https://cn.nytimes.com/opinion/20231115/china-biden-xi/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-11-15 09:09:16.780496
