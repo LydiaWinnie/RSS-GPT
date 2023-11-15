@@ -21891,3 +21891,87 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 5
 Finish: 2023-11-15 12:16:20.445158
+------------------------------------------------------
+Started: 2023-11-15 13:11:36.773871
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [比尔·盖茨都为之倾倒的AI Agent，究竟是什么](https://www.36kr.com/p/2519454106543619)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [LLM幻觉问题全梳理，哈工大团队50页综述重磅发布](https://www.36kr.com/p/2519324533139202)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中国机器人，服务全世界](https://www.36kr.com/p/2519312450168321)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [百模大战再次开启：国区争霸，手机安家](https://www.36kr.com/p/2519396309067522)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [一秒赚3000，AI影像成打工人“财富密码”？](https://www.36kr.com/p/2519370114409989)
+Append: [“AI界的梅西”暴涨之后：阶段性做空的时机已到](https://www.36kr.com/p/2519393583669126)
+Append: [大模型架构创新已死？](https://www.36kr.com/p/2519308773877510)
+Append: [大模型会毁了年轻程序员 ：对话图灵奖得主 Joseph Sifakis](https://www.36kr.com/p/2519346586428931)
+Append: [大模型创业，谁赚到钱了？](https://www.36kr.com/p/2519360364029442)
+Append: [DeepMind大模型登Science：1分钟预测10天天气数据，90%指标超越人类最强模型](https://www.36kr.com/p/2519307170162439)
+Append: [人工智能监管：如何定性从网络抓取个人数据训练AI的行为？](https://www.36kr.com/p/2519332450525312)
+Append: [李开复被大模型绊了一跤](https://www.36kr.com/p/2519330342512132)
+Append: [AI应用的最大赢家，为什么是Adobe？](https://www.36kr.com/p/2519375953389060)
+Append: [Science重磅：1分钟内生成10天气象预报，DeepMind AI击败了全球最好预报系统](https://www.36kr.com/p/2519185171949059)
+Append: [滴滴组建大模型团队，将落地部分个人出行和企业差旅场景 | 36氪独家](https://www.36kr.com/p/2519217183041289)
+Append: [大模型幻觉排行榜GPT-4夺冠，英伟达科学家强力打假，Meta版ChatGPT一作发长文鸣冤](https://www.36kr.com/p/2519331507561989)
+Append: [1分钟预测10天全球天气，谷歌DeepMind全新AI天气预报登上Science，碾压行业SOTA](https://www.36kr.com/p/2519328795633159)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Feed error: 404
+append_entries: 17
+error when rendering xml, skip rss/36KR
