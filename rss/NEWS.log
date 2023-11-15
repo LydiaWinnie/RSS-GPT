@@ -20456,3 +20456,24 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [藍白合11/18民調定正副人選 勝選合組聯合政府](https://news.pts.org.tw/article/666779)
 append_entries: 5
 Finish: 2023-11-15 06:10:26.339096
+------------------------------------------------------
+Started: 2023-11-15 07:07:20.267223
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」保持接觸、避免衝突：美國對「習拜會」成果放低預期](https://cn.nytimes.com/usa/20231115/biden-xi-china-apec/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-11-15 07:07:32.560080
