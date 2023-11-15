@@ -20234,3 +20234,60 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-15 00:35:50.543954
+------------------------------------------------------
+Started: 2023-11-15 01:49:21.979672
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國眾議長約翰遜宣布支持特朗普競選總統](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E7%9C%BE%E8%AD%B0%E9%95%B7%E7%B4%84%E7%BF%B0%E9%81%9C%E5%AE%A3%E5%B8%83%E6%94%AF%E6%8C%81%E7%89%B9%E6%9C%97%E6%99%AE%E7%AB%B6%E9%81%B8%E7%B8%BD%E7%B5%B1-de459c7a)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [白宮稱激進組織在加沙的醫院外開展行動](https://cn.wsj.com/articles/%E7%99%BD%E5%AE%AE%E7%A8%B1%E6%BF%80%E9%80%B2%E7%B5%84%E7%B9%94%E5%9C%A8%E5%8A%A0%E6%B2%99%E7%9A%84%E9%86%AB%E9%99%A2%E5%A4%96%E9%96%8B%E5%B1%95%E8%A1%8C%E5%8B%95-080b1311)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／以控兒童醫院地下放武器 哈瑪斯斥造假稱戰鬥正要開始](https://news.pts.org.tw/article/666725)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [我APEC領袖代表張忠謀將抵舊金山 駐美代表蕭美琴設宴歡迎](https://news.pts.org.tw/article/666735)
+append_entries: 4
+Finish: 2023-11-15 01:49:23.754937
