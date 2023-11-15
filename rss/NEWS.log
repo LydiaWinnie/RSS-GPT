@@ -20291,3 +20291,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [我APEC領袖代表張忠謀將抵舊金山 駐美代表蕭美琴設宴歡迎](https://news.pts.org.tw/article/666735)
 append_entries: 4
 Finish: 2023-11-15 01:49:23.754937
+------------------------------------------------------
+Started: 2023-11-15 02:21:25.180026
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-15 02:21:26.978223
