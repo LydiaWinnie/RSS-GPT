@@ -20759,3 +20759,12 @@ Append: [日本寶塚女團員疑因霸凌、過勞輕生 劇團理事長道歉�
 Append: [以哈戰爭／加薩雨季醫院遺體無法下葬 恐引發公衛危機](https://news.pts.org.tw/article/666896)
 append_entries: 17
 Finish: 2023-11-15 15:08:18.222157
+------------------------------------------------------
+Started: 2023-11-15 16:10:00.378007
+Existing_entries: 1017
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-15 16:10:03.857293
