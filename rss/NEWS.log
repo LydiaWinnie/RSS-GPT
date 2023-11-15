@@ -20593,3 +20593,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [2024大選／民進黨不分區立委名單出爐 林月琴、沈伯洋入列](https://news.pts.org.tw/article/666780)
 append_entries: 1
 Finish: 2023-11-15 10:08:43.235962
+------------------------------------------------------
+Started: 2023-11-15 11:06:44.194299
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-15 11:06:46.130430
