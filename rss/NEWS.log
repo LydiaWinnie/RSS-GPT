@@ -21086,3 +21086,82 @@ Append: [習近平與拜登會晤，稱中美可「超越分歧」](https://cn.n
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 5
 Finish: 2023-11-16 06:10:42.259798
+------------------------------------------------------
+Started: 2023-11-16 07:07:26.275445
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台將簽MOU引進印度移工 勞動部駁斥：10萬名為假訊息](https://news.pts.org.tw/article/666962)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [法院駁回遣送非法移民至盧安達 英首相將通過緊急法案因應](https://news.pts.org.tw/article/666961)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國團限額業者不滿 王國材：人數超過再溝通](https://news.pts.org.tw/article/666968)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [未劃紅線處停車清晨5時遭罰 警方：執法無違失但可申請撤銷](https://news.pts.org.tw/article/666970)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [國中競賽開平餐飲主廚盃 緊扣當地當季落實食農教育](https://news.pts.org.tw/article/666966)
+Append: [台中南屯重劃工業區埋廢棄物 立委：土壤含砷超標101倍](https://news.pts.org.tw/article/666971)
+Append: [大巨蛋18日開放1.3萬人觀賽 當地里長憂交通雪上加霜](https://news.pts.org.tw/article/666967)
+Append: [師性侵男童產子判17年6個月 教團促擴大調查](https://news.pts.org.tw/article/666960)
+Append: [im.B詐騙案吸金90億首開庭 黃國昌疑主嫌投資土地涉政商利益](https://news.pts.org.tw/article/666972)
+Append: [APEC雙部長會議 台美雙邊會談順利](https://news.pts.org.tw/article/666975)
+Append: [2024大選／批藍白權力分贓 賴清德：政治沒有負負得正](https://news.pts.org.tw/article/666963)
+Append: [馬偕要求醫護須請年假受訓 工會認違法檢舉](https://news.pts.org.tw/article/666973)
+Append: [美官員透露拜習會內容 習否認計畫2027或2035犯台](https://news.pts.org.tw/article/666976)
+Append: [拜習會恢復軍事對話 但未發表聯合聲明或合作宣言](https://news.pts.org.tw/article/666977)
+Append: [旗津渡輪返岸卡景觀橋下 研判為漲潮又遇強風所致](https://news.pts.org.tw/article/666969)
+append_entries: 15
+Finish: 2023-11-16 07:07:27.397898
