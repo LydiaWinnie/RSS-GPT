@@ -21279,3 +21279,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-16 13:11:16.095224
+------------------------------------------------------
+Started: 2023-11-16 14:07:36.387745
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [外來種「武裝雙棘蟹」現蹤南台 專家籲民眾勿食](https://news.pts.org.tw/article/667080)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [公幼契約廚工低薪難留人 新北教育局：增久任及晉薪機制](https://news.pts.org.tw/article/667081)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [故宮國寶毀損、圖檔外流 監院通過糾正促改善](https://news.pts.org.tw/article/667091)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [高雄過港隧道連兩日車禍 國5雪山隧道7車連環撞](https://news.pts.org.tw/article/667093)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [消基會抽查檳榔攤 5成6未確認成年也賣](https://news.pts.org.tw/article/667094)
+Append: [首批囚犯領西北大學畢業證書 美國16受刑人寫歷史](https://news.pts.org.tw/article/667087)
+Append: [學者看拜習會 美中仍競爭、對台政策未改變](https://news.pts.org.tw/article/667102)
+Append: [拜習會恢復軍事溝通 外媒：無重大突破未解決歧見](https://news.pts.org.tw/article/667103)
+Append: [台南宮廟前兩派駁火近10槍 警逮7嫌初判光電工程糾紛](https://news.pts.org.tw/article/667096)
+Append: [台中透天厝大火延燒4戶 救出2人1腦麻患者不治](https://news.pts.org.tw/article/667098)
+Append: [花蓮民眾誤觸私設電網喪命 地主與架設者依過失致死送辦](https://news.pts.org.tw/article/667097)
+Append: [監獄設投票所訴訟大翻案 最高行政法院裁定：無需設立](https://news.pts.org.tw/article/667099)
+Append: [傳緬甸6台籍詐騙犯遭送中 法務部：必要時啟動兩岸共打機制](https://news.pts.org.tw/article/667090)
+Append: [潛艦洩密／今首度遭高檢署傳喚 郭璽 ：會提供完整音檔](https://news.pts.org.tw/article/667095)
+Append: [印度巴士墜谷至少39死 北部山區隧道崩塌40工人受困](https://news.pts.org.tw/article/667034)
+append_entries: 15
+Finish: 2023-11-16 14:07:37.226024
