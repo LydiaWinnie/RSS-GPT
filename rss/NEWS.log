@@ -21165,3 +21165,12 @@ Append: [拜習會恢復軍事對話 但未發表聯合聲明或合作宣言](ht
 Append: [旗津渡輪返岸卡景觀橋下 研判為漲潮又遇強風所致](https://news.pts.org.tw/article/666969)
 append_entries: 15
 Finish: 2023-11-16 07:07:27.397898
+------------------------------------------------------
+Started: 2023-11-16 08:10:27.433408
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-16 08:10:28.210337
