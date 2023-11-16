@@ -21358,3 +21358,12 @@ Append: [潛艦洩密／今首度遭高檢署傳喚 郭璽 ：會提供完整音
 Append: [印度巴士墜谷至少39死 北部山區隧道崩塌40工人受困](https://news.pts.org.tw/article/667034)
 append_entries: 15
 Finish: 2023-11-16 14:07:37.226024
+------------------------------------------------------
+Started: 2023-11-16 15:08:23.716262
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-16 15:08:24.741691
