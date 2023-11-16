@@ -21442,3 +21442,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [退出時代力量加入民眾黨 黃國昌：支持柯文哲「把國家還給你」](https://news.pts.org.tw/article/667106)
 append_entries: 1
 Finish: 2023-11-16 18:10:13.104086
+------------------------------------------------------
+Started: 2023-11-16 19:04:47.544755
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-16 19:04:48.791483
