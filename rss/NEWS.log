@@ -21237,3 +21237,36 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-16 11:06:32.061403
+------------------------------------------------------
+Started: 2023-11-16 12:14:12.422444
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [拜登料將因機密文件處理事宜調查而面臨尖銳批評](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E6%96%99%E5%B0%87%E5%9B%A0%E6%A9%9F%E5%AF%86%E6%96%87%E4%BB%B6%E8%99%95%E7%90%86%E4%BA%8B%E5%AE%9C%E8%AA%BF%E6%9F%A5%E8%80%8C%E9%9D%A2%E8%87%A8%E5%B0%96%E9%8A%B3%E6%89%B9%E8%A9%95-df4a0343)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [調查：抽樣逾5成檳榔攤賣給未成年 6縣市全違規](https://news.pts.org.tw/article/667028)
+append_entries: 2
+Finish: 2023-11-16 12:14:13.632342
