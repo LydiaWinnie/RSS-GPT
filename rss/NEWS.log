@@ -21219,3 +21219,12 @@ Append: [「中英」「習拜會」在哪兒開：矽谷熱門婚禮舉辦地](
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-11-16 09:08:06.947158
+------------------------------------------------------
+Started: 2023-11-16 10:08:29.056169
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-16 10:08:30.349326
