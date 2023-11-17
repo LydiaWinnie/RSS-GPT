@@ -21567,3 +21567,12 @@ Append: [廢油違法排入水溝 環保工程業者聲押獲准](https://news.p
 Append: [APEC領袖酒會 張忠謀與布林肯雙邊會談](https://news.pts.org.tw/article/667132)
 append_entries: 6
 Finish: 2023-11-17 01:49:54.013185
+------------------------------------------------------
+Started: 2023-11-17 02:21:46.636833
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-17 02:21:52.667975
