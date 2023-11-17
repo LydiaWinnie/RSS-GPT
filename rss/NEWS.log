@@ -21651,3 +21651,12 @@ Append: [「中英」會見習近平第二天，拜登稱中美「存在真正�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-11-17 05:08:02.212160
+------------------------------------------------------
+Started: 2023-11-17 06:10:35.895258
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-17 06:10:36.943157
