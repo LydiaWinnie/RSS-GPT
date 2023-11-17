@@ -21835,3 +21835,12 @@ Append: [日本暗黑打工犯罪數創新高 受害多為獨居長者](https://
 Append: [以哈戰爭／加薩最大醫院陷交戰火網 醫護躲子彈邊救人175人殉職](https://news.pts.org.tw/article/667182)
 append_entries: 13
 Finish: 2023-11-17 10:08:24.564500
+------------------------------------------------------
+Started: 2023-11-17 11:06:41.100605
+Existing_entries: 1013
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-17 11:06:42.102755
