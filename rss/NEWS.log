@@ -21669,3 +21669,83 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-17 07:07:12.861466
+------------------------------------------------------
+Started: 2023-11-17 08:10:18.166334
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」「習拜會」後，中美權力格局發生微妙變化](https://cn.nytimes.com/usa/20231117/biden-xi-china-power-balance/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／以進軍西法醫院 稱於地道附近發現人質遺體](https://news.pts.org.tw/article/667170)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [高市推數位市民卡議員指不便 市府：將改善優化](https://news.pts.org.tw/article/667164)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [扯鈴教練共諜案 郭書瑤胞弟等10人遭起訴](https://news.pts.org.tw/article/667168)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [拜登警告中國勿干預台大選 美國防部長重申將持續對台軍售](https://news.pts.org.tw/article/667176)
+Append: [日月潭疑出現水龍捲 氣象站：需更多資料證實](https://news.pts.org.tw/article/667180)
+Append: [台人遭綑綁陳屍曼谷旅館 泰警初判為凌虐致死](https://news.pts.org.tw/article/667178)
+Append: [台中神岡民宅兼倉庫大火 凌晨強風助火勢釀1死2傷](https://news.pts.org.tw/article/667172)
+Append: [張忠謀會白宮首席經濟顧問 促深化台美合作](https://news.pts.org.tw/article/667165)
+Append: [黃國昌稱支持柯理念入民眾黨 王婉諭：能理解但不能認同](https://news.pts.org.tw/article/667173)
+Append: [2024大選／藍白合明將公布民調 柯辦期待專家用共識決](https://news.pts.org.tw/article/667174)
+Append: [台灣國防量能提升 輕型巡防艦今開工典禮](https://news.pts.org.tw/article/667175)
+Append: [APEC領袖峰會聚焦全球氣候 拜登：不會離開亞太](https://news.pts.org.tw/article/667177)
+Append: [移民官學員專業訓練今結訓 因大量移工多具東南亞語專長](https://news.pts.org.tw/article/667161)
+Append: [賴清德提上市櫃應設薪資門檻 金管會：將請相關單位審慎評估](https://news.pts.org.tw/article/667167)
+Append: [汰換老舊柴油車降5成空污 調修燃油控制系統補助至明年底](https://news.pts.org.tw/article/667163)
+append_entries: 16
+Finish: 2023-11-17 08:10:18.915226
