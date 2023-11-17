@@ -21989,3 +21989,12 @@ Append: [嘉義私托棉被蓋童頭1.5小時 社會處僅口頭告誡惹議](ht
 Append: [檢搜索SBL裕隆查假球案 12人列被告訊後強制處分](https://news.pts.org.tw/article/667308)
 append_entries: 15
 Finish: 2023-11-17 14:07:22.265592
+------------------------------------------------------
+Started: 2023-11-17 15:08:02.793571
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-17 15:08:04.423143
