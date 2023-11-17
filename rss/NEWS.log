@@ -21758,3 +21758,80 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-17 09:07:56.008154
+------------------------------------------------------
+Started: 2023-11-17 10:08:22.431206
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」聊車、祝福彭麗媛生日：拜登與習近平閑聊背後的外交角力](https://cn.nytimes.com/world/20231117/biden-xi-china-apec-meeting/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」熊貓、乒乓球和利潤：習近平向美企高管示好](https://cn.nytimes.com/business/20231117/china-us-business-xi-jinping-ceos/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [巴基斯坦驅離百萬阿富汗難民 國際組織籲採溫和作法](https://news.pts.org.tw/article/667184)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [產油大國推能源轉型 阿聯馬斯達爾成首零碳城市](https://news.pts.org.tw/article/667194)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [175國代表齊聚肯亞 盼敲定《全球塑膠公約》](https://news.pts.org.tw/article/667188)
+Append: [「神靈星號」探測器升空 探索小行星高價值稀有金屬](https://news.pts.org.tw/article/667187)
+Append: [全球暖化衝擊農作物收成 橄欖油與柳橙汁成液體黃金](https://news.pts.org.tw/article/667193)
+Append: [德機場引公關犬安撫旅客 日本毛孩七五三節神社祈福](https://news.pts.org.tw/article/667192)
+Append: [中國稱開通全球首條1.2T超高速網路 每秒可傳輸150部電影量](https://news.pts.org.tw/article/667223)
+Append: [摩洛哥強震、烏克蘭戰火摧殘 聯合國救瀕危世界遺產](https://news.pts.org.tw/article/667181)
+Append: [以哈戰爭／戰火激發保衛決心 巴國年輕世代投入抵抗運動](https://news.pts.org.tw/article/667185)
+Append: [日本暗黑打工犯罪數創新高 受害多為獨居長者](https://news.pts.org.tw/article/667186)
+Append: [以哈戰爭／加薩最大醫院陷交戰火網 醫護躲子彈邊救人175人殉職](https://news.pts.org.tw/article/667182)
+append_entries: 13
+Finish: 2023-11-17 10:08:24.564500
