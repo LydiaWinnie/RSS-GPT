@@ -21749,3 +21749,12 @@ Append: [賴清德提上市櫃應設薪資門檻 金管會：將請相關單位�
 Append: [汰換老舊柴油車降5成空污 調修燃油控制系統補助至明年底](https://news.pts.org.tw/article/667163)
 append_entries: 16
 Finish: 2023-11-17 08:10:18.915226
+------------------------------------------------------
+Started: 2023-11-17 09:07:55.422971
+Existing_entries: 1016
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-17 09:07:56.008154
