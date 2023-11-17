@@ -21585,3 +21585,48 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-17 03:08:34.830096
+------------------------------------------------------
+Started: 2023-11-17 04:09:23.020987
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [研究顯示俄羅斯正在繞開石油制裁](https://cn.wsj.com/articles/%E7%A0%94%E7%A9%B6%E9%A1%AF%E7%A4%BA%E4%BF%84%E7%BE%85%E6%96%AF%E6%AD%A3%E5%9C%A8%E7%B9%9E%E9%96%8B%E7%9F%B3%E6%B2%B9%E5%88%B6%E8%A3%81-30b7cbc1)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [習近平未就中國營商環境安撫美國商界領袖](https://cn.wsj.com/articles/%E7%BF%92%E8%BF%91%E5%B9%B3%E6%9C%AA%E5%B0%B1%E4%B8%AD%E5%9C%8B%E7%87%9F%E5%95%86%E7%92%B0%E5%A2%83%E5%AE%89%E6%92%AB%E7%BE%8E%E5%9C%8B%E5%95%86%E7%95%8C%E9%A0%98%E8%A2%96-8862b90d)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [習近平暗示大熊貓有望重返美國](https://cn.wsj.com/articles/%E7%BF%92%E8%BF%91%E5%B9%B3%E6%9A%97%E7%A4%BA%E5%A4%A7%E7%86%8A%E8%B2%93%E6%9C%89%E6%9C%9B%E9%87%8D%E8%BF%94%E7%BE%8E%E5%9C%8B-e7a0e2a6)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2023-11-17 04:09:23.696293
