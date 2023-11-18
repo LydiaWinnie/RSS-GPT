@@ -22266,3 +22266,12 @@ Append: [2024大選／3民調專家檢視民調 上午10時宣布藍白合結果
 Append: [SBL假球案擴大 周暐宸、吳祐任30萬交保並限制住居](https://news.pts.org.tw/article/667324)
 append_entries: 12
 Finish: 2023-11-18 08:09:08.866832
+------------------------------------------------------
+Started: 2023-11-18 09:06:40.763189
+Existing_entries: 1012
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-18 09:06:41.895162
