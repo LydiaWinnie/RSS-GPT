@@ -22375,3 +22375,12 @@ Append: [2024大選／民調解讀無共識 柯文哲：盼續與國民黨協商
 Append: [奇美集團創辦人許文龍辭世 享耆壽95歲](https://news.pts.org.tw/article/667339)
 append_entries: 9
 Finish: 2023-11-18 13:07:58.992366
+------------------------------------------------------
+Started: 2023-11-18 14:06:05.071021
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-18 14:06:06.264435
