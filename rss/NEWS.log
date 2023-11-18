@@ -22172,3 +22172,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [馬英九基金會公布藍白合結果 2黨有歧異仍須進入政黨協商](https://news.pts.org.tw/article/667325)
 append_entries: 3
 Finish: 2023-11-18 05:07:12.541969
+------------------------------------------------------
+Started: 2023-11-18 06:09:22.256876
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-18 06:09:24.326468
