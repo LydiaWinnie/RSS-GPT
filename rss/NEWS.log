@@ -22190,3 +22190,79 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-18 07:06:38.926234
+------------------------------------------------------
+Started: 2023-11-18 08:09:07.001451
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [羅興亞難民逃往印尼亞齊省 當局稱無義務與能力接受](https://news.pts.org.tw/article/667328)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [就業中心推計畫 助輕度失智症患者重返職場](https://news.pts.org.tw/article/667330)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [觀音保安林遭丟建築廢棄物 保七逮2嫌送辦](https://news.pts.org.tw/article/667329)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [潮州車站民眾伸腳擋車門關閉 遭制止後反控站方態度不佳](https://news.pts.org.tw/article/667334)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [大巨蛋測試賽下午1時開打 開放1.3萬觀眾入場](https://news.pts.org.tw/article/667336)
+Append: [大巨蛋預備賽午後開打 北捷比照跨年規劃疏運](https://news.pts.org.tw/article/667337)
+Append: [2024大選／蔡賴嘉義輔選立委 批藍白公然分贓](https://news.pts.org.tw/article/667332)
+Append: [APEC領袖峰會今落幕 張忠謀談會議成果](https://news.pts.org.tw/article/667331)
+Append: [2024大選／民調採計雙方無共識 藍白互喊話繼續協商](https://news.pts.org.tw/article/667333)
+Append: [9縣市低溫黃色燈號 平地最低溫基隆七堵僅7.7°C](https://news.pts.org.tw/article/667338)
+Append: [2024大選／3民調專家檢視民調 上午10時宣布藍白合結果](https://news.pts.org.tw/article/667323)
+Append: [SBL假球案擴大 周暐宸、吳祐任30萬交保並限制住居](https://news.pts.org.tw/article/667324)
+append_entries: 12
+Finish: 2023-11-18 08:09:08.866832
