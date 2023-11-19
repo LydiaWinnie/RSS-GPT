@@ -22784,3 +22784,12 @@ Append: [夫妻跟團登阿里山脫隊迷途 山區氣溫驟降幸報警獲救]
 Append: [醫事人員發起「黑十字運動」 籲人力總量管制入法](https://news.pts.org.tw/article/667429)
 append_entries: 7
 Finish: 2023-11-19 14:06:09.463265
+------------------------------------------------------
+Started: 2023-11-19 15:06:55.201000
+Existing_entries: 1007
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-19 15:06:56.497320
