@@ -22590,3 +22590,12 @@ Append: [疑天冷引心肌梗塞 衛福部口腔司長賴向華猝逝](https://
 Append: [SpaceX「星艦」火箭再試射 升空11分後失聯爆炸](https://news.pts.org.tw/article/667386)
 append_entries: 7
 Finish: 2023-11-19 06:09:34.394936
+------------------------------------------------------
+Started: 2023-11-19 07:07:19.391669
+Existing_entries: 1007
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-19 07:07:20.200314
