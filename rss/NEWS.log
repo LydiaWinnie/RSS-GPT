@@ -23254,3 +23254,12 @@ Append: [「中英」美國前總統卡特夫人去世，最「講政治」的�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-11-20 11:07:08.214602
+------------------------------------------------------
+Started: 2023-11-20 12:14:50.049460
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-20 12:14:51.206885
