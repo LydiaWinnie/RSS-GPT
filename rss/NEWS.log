@@ -23224,3 +23224,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [2024大選／賴清德宣布副手 蕭美琴 ：我回來了](https://news.pts.org.tw/article/667535)
 append_entries: 1
 Finish: 2023-11-20 09:08:40.772041
+------------------------------------------------------
+Started: 2023-11-20 10:08:51.721760
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-20 10:08:52.829395
