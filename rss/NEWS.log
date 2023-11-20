@@ -23263,3 +23263,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-20 12:14:51.206885
+------------------------------------------------------
+Started: 2023-11-20 13:12:11.381680
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [UN：全球7.39億童陷缺水危機 盼兒童氣候風險獲關注](https://news.pts.org.tw/article/667606)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／31早產兒撤離西法醫院 逾250患者仍困院內](https://news.pts.org.tw/article/667611)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [外銷年減4.6%連14黑 王美花：明年GDP可望保3%](https://news.pts.org.tw/article/667615)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [衛福部允明年改三班護病比 各方立場不同仍協調中](https://news.pts.org.tw/article/667616)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [日月潭溫泉酒店官網見簡體字 業者：集團亞太區由中國負責](https://news.pts.org.tw/article/667612)
+Append: [司機為請假打地舖排隊 台鐵：將改線上辦理](https://news.pts.org.tw/article/667617)
+Append: [台南登革熱疫情降3個月新低 衛福部解編應變工作隊](https://news.pts.org.tw/article/667619)
+Append: [苗栗垃圾堆置場大火悶燒 疑變電箱爆炸撲滅需2至3週](https://news.pts.org.tw/article/667620)
+Append: [新法上路禁菸場所擴大 國家公園等169處納入範圍](https://news.pts.org.tw/article/667621)
+Append: [美對台供無償軍援 現役戰鬥個裝、排用機槍陸續抵台](https://news.pts.org.tw/article/667622)
+Append: [研究生遇性騷台大修正準則 性平成立可換指導教授](https://news.pts.org.tw/article/667618)
+Append: [2024大選／柯喊拚戰到底藍白合破局？ 柯郭互動密切共盼政黨輪替](https://news.pts.org.tw/article/667623)
+Append: [2024大選／民進黨正式宣布「賴蕭配」 蕭美琴：為了國家會撩落去](https://news.pts.org.tw/article/667624)
+Append: [台灣認養人赴菲見資助童 NGO長期援助成外交軟實力](https://news.pts.org.tw/article/667561)
+Append: [美前總統卡特夫人蘿莎琳過世 享耆壽96歲](https://news.pts.org.tw/article/667560)
+append_entries: 15
+Finish: 2023-11-20 13:12:12.915272
