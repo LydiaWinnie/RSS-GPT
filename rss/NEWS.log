@@ -22910,3 +22910,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [賴清德擬今公布副手蕭美琴 明中選會登記](https://news.pts.org.tw/article/667433)
 append_entries: 3
 Finish: 2023-11-20 00:37:10.002241
+------------------------------------------------------
+Started: 2023-11-20 01:51:11.943263
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-20 01:51:13.405840
