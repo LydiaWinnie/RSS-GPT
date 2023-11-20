@@ -23203,3 +23203,24 @@ Append: [「中英」中國多地推進城中村改造，希望藉此提振樓�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 11
 Finish: 2023-11-20 08:11:16.880917
+------------------------------------------------------
+Started: 2023-11-20 09:08:37.337007
+Existing_entries: 1011
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／賴清德宣布副手 蕭美琴 ：我回來了](https://news.pts.org.tw/article/667535)
+append_entries: 1
+Finish: 2023-11-20 09:08:40.772041
