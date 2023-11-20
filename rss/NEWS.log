@@ -22976,3 +22976,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [亞冠賽郭天信再見安 中職聯隊勝澳洲奪季軍](https://news.pts.org.tw/article/667444)
 append_entries: 4
 Finish: 2023-11-20 02:22:54.092616
+------------------------------------------------------
+Started: 2023-11-20 03:08:40.393252
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-20 03:08:41.191209
