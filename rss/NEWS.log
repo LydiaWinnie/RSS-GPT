@@ -23342,3 +23342,12 @@ Append: [台灣認養人赴菲見資助童 NGO長期援助成外交軟實力](ht
 Append: [美前總統卡特夫人蘿莎琳過世 享耆壽96歲](https://news.pts.org.tw/article/667560)
 append_entries: 15
 Finish: 2023-11-20 13:12:12.915272
+------------------------------------------------------
+Started: 2023-11-20 14:07:42.028296
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-20 14:07:44.047876
