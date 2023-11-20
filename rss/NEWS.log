@@ -23049,3 +23049,82 @@ Append: [「中英」舊金山之行讓外界窺見習近平更為真實的一�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-11-20 06:11:05.320710
+------------------------------------------------------
+Started: 2023-11-20 07:07:58.950206
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [《海洋保育法》延宕多年 環團立委籲政院盡快修法](https://news.pts.org.tw/article/667492)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [男無裝備攀爬象鼻隧道 體力不支警消助脫困](https://news.pts.org.tw/article/667499)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [純電動車概念股鴻華先進上市 整車設計概念面臨挑戰](https://news.pts.org.tw/article/667487)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [高雄宮廟遶境炮陣煙霧瀰漫 挨3張罰單11萬2千元](https://news.pts.org.tw/article/667491)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台中公車闖紅燈險肇禍 警開罰司機記過](https://news.pts.org.tw/article/667490)
+Append: [北巿食安把關 抽驗55件火鍋料10件不合格](https://news.pts.org.tw/article/667496)
+Append: [台鐵日前爆發離退潮 王國材：逐一勸回有成效](https://news.pts.org.tw/article/667497)
+Append: [假冒台灣之星誆續約設定 新北民眾匯款被騙59萬](https://news.pts.org.tw/article/667489)
+Append: [CPI漲幅超過稅法限制 退職所得免稅額度將調高](https://news.pts.org.tw/article/667486)
+Append: [竊占濫墾南庄國有地私營茶園 苗栗警出動無人機查獲](https://news.pts.org.tw/article/667498)
+Append: [憂島嶼遭中國襲擊 日本東海兩棲作戰演習](https://news.pts.org.tw/article/667500)
+Append: [習近平否認2027年武力攻台 國防部：我方備戰不改變](https://news.pts.org.tw/article/667493)
+Append: [2024大選／賴清德喊國會過半 宣布副手為蕭美琴](https://news.pts.org.tw/article/667502)
+Append: [少子化私校陸續停辦減招 教產工會籲補助私校老師](https://news.pts.org.tw/article/667484)
+Append: [祝康明等3人涉共諜案交保檢抗告後法院改裁收押](https://news.pts.org.tw/article/667501)
+append_entries: 15
+Finish: 2023-11-20 07:07:59.876387
