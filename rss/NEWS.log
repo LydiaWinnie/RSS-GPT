@@ -23384,3 +23384,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [美擬對日韓軍售飛彈 北韓：將付出代價](https://news.pts.org.tw/article/667609)
 append_entries: 2
 Finish: 2023-11-20 15:08:36.934170
+------------------------------------------------------
+Started: 2023-11-20 16:10:19.512510
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-20 16:10:21.470897
