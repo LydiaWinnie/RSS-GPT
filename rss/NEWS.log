@@ -23725,3 +23725,81 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-21 07:07:18.481644
+------------------------------------------------------
+Started: 2023-11-21 08:10:43.462549
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」阿根廷的川普時刻：當極右翼政治局外人成為總統](https://cn.nytimes.com/world/20231121/javier-milei-argentina-trump/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」81歲的拜登是不是真的「太老了」](https://cn.nytimes.com/usa/20231121/biden-birthday-age/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [腦中風新藥研究疑似造假 專家：不至於改變藥物研發方向](https://news.pts.org.tw/article/667701)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [高雄城市光廊周邊沒落人潮不再 工務局：找原設計師重新再造](https://news.pts.org.tw/article/667686)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [7成民眾對手術麻醉擔憂 醫：新型麻藥減少近8成副作用](https://news.pts.org.tw/article/667693)
+Append: [越南移工失聯近2年無照酒駕 涉藏毒、詐欺通緝](https://news.pts.org.tw/article/667697)
+Append: [看好年底銷售旺季 超商紛推福袋搶商機](https://news.pts.org.tw/article/667684)
+Append: [部落客預告騎重機闖雪隧 交通部：重機上國道仍無時間表](https://news.pts.org.tw/article/667695)
+Append: [安平漁港跨港大橋流標9次 南市府：不排除開國際標](https://news.pts.org.tw/article/667694)
+Append: [南投東埔山區民眾墜谷 吊繩上拉百米救人](https://news.pts.org.tw/article/667698)
+Append: [總統拜登過81歲生日 77%美人認拜登太老不適合拚連任](https://news.pts.org.tw/article/667690)
+Append: [桃機破獲乳清蛋白粉藏毒 安非他命市價近千萬](https://news.pts.org.tw/article/667696)
+Append: [2024大選／藍白合期限逼近 侯友宜：等柯文哲到最後一刻](https://news.pts.org.tw/article/667691)
+Append: [2024大選／賴蕭配赴中選登記 賴清德：不走回「一中」老路](https://news.pts.org.tw/article/667699)
+append_entries: 14
+Finish: 2023-11-21 08:10:44.196696
