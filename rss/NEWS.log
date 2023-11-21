@@ -23715,3 +23715,13 @@ Append: [電動卡丁車進伯朗大道引爭議 縣府：僅限特定車輛行�
 Append: [環保聯盟永續環境施政評量 南高屏優等7縣市未提供數據](https://news.pts.org.tw/article/667688)
 append_entries: 6
 Finish: 2023-11-21 06:10:45.096394
+------------------------------------------------------
+Started: 2023-11-21 07:07:17.488279
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-21 07:07:18.481644
