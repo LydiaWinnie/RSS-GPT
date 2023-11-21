@@ -23803,3 +23803,12 @@ Append: [2024大選／藍白合期限逼近 侯友宜：等柯文哲到最後一
 Append: [2024大選／賴蕭配赴中選登記 賴清德：不走回「一中」老路](https://news.pts.org.tw/article/667699)
 append_entries: 14
 Finish: 2023-11-21 08:10:44.196696
+------------------------------------------------------
+Started: 2023-11-21 09:08:16.267991
+Existing_entries: 1014
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-21 09:08:16.986296
