@@ -23457,3 +23457,48 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-20 23:07:59.412382
+------------------------------------------------------
+Started: 2023-11-21 00:37:02.246526
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以色列軍隊包圍加沙地區另一家醫院](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E8%BB%8D%E9%9A%8A%E5%8C%85%E5%9C%8D%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%8D%80%E5%8F%A6%E4%B8%80%E5%AE%B6%E9%86%AB%E9%99%A2-2d07a309)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國否認澳洲關於一艘中國軍艦使用聲納攻擊澳方潜水員的說法](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E5%90%A6%E8%AA%8D%E6%BE%B3%E6%B4%B2%E9%97%9C%E6%96%BC%E4%B8%80%E8%89%98%E4%B8%AD%E5%9C%8B%E8%BB%8D%E8%89%A6%E4%BD%BF%E7%94%A8%E8%81%B2%E7%B4%8D%E6%94%BB%E6%93%8A%E6%BE%B3%E6%96%B9%E6%BD%9C%E6%B0%B4%E5%93%A1%E7%9A%84%E8%AA%AA%E6%B3%95-e96a36db)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [白宮稱拜登政府不會終止美國對馬斯克的SpaceX的依賴](https://cn.wsj.com/articles/%E7%99%BD%E5%AE%AE%E7%A8%B1%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E4%B8%8D%E6%9C%83%E7%B5%82%E6%AD%A2%E7%BE%8E%E5%9C%8B%E5%B0%8D%E9%A6%AC%E6%96%AF%E5%85%8B%E7%9A%84spacex%E7%9A%84%E4%BE%9D%E8%B3%B4-55253994)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2023-11-21 00:37:03.681544
