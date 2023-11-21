@@ -24023,3 +24023,12 @@ Append: [流感增5死.重症23例 13歲少年急性腦病變](https://news.pts.
 Append: [彰化竹塘娃娃車與轎車碰撞 5歲女童遭拋飛15人送醫](https://news.pts.org.tw/article/667830)
 append_entries: 15
 Finish: 2023-11-21 14:07:46.484166
+------------------------------------------------------
+Started: 2023-11-21 15:07:52.268348
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-21 15:07:53.175843
