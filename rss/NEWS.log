@@ -23857,3 +23857,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [2024大選／侯友宜稱藍白合從未談「讓6%」 提再檢視9民調全程直播](https://news.pts.org.tw/article/667737)
 append_entries: 3
 Finish: 2023-11-21 10:14:18.841254
+------------------------------------------------------
+Started: 2023-11-21 11:06:47.272146
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-21 11:06:50.391770
