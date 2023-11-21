@@ -23935,3 +23935,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [【記者在烏克蘭3】守護戰火下的笑靨 避難室成學校標配【獨立特派員】](https://news.pts.org.tw/article/667750)
 append_entries: 5
 Finish: 2023-11-21 12:14:34.156788
+------------------------------------------------------
+Started: 2023-11-21 13:11:41.231421
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-21 13:12:05.381222
