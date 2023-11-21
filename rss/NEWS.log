@@ -23944,3 +23944,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-21 13:12:05.381222
+------------------------------------------------------
+Started: 2023-11-21 14:07:45.266308
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [《住宅法》修正三讀通過 公益出租人資料不得為查稅依據](https://news.pts.org.tw/article/667812)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美共享辦公室企業申請破產 英業者：中小企業仍有租借需求](https://news.pts.org.tw/article/667815)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [左營雙鐵等高壓用戶無預警停電 影響上百名旅客](https://news.pts.org.tw/article/667824)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [朝野老農津貼修法提27案 學者批：不該選舉年就加碼](https://news.pts.org.tw/article/667825)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [刊越南新娘跨國婚姻廣告 高雄男觸法恐遭罰50萬](https://news.pts.org.tw/article/667827)
+Append: [《家暴法》修正納同婚 保護令可下架網路性影像](https://news.pts.org.tw/article/667828)
+Append: [《公路法》修正保障行人安全 人口密集區須設無障礙人行道](https://news.pts.org.tw/article/667823)
+Append: [北市社宅高中生性侵13男童 家長控犯罪通報慢1年才解約](https://news.pts.org.tw/article/667829)
+Append: [2024大選／藍白中南立委登記 民眾黨不分區名單22日公布](https://news.pts.org.tw/article/667831)
+Append: [2024大選／賴蕭配完成參選登記 侯促柯重新解讀9民調](https://news.pts.org.tw/article/667832)
+Append: [以哈戰爭／傳雙方達成停戰協議 釋放人質談判獲重大進展](https://news.pts.org.tw/article/667818)
+Append: [厄瓜多漸凍患者盼尊嚴死 法庭首開安樂死聽證會](https://news.pts.org.tw/article/667817)
+Append: [雄獅旅遊、中石化等企業遭駭 學者：資安定期巡檢與升級](https://news.pts.org.tw/article/667819)
+Append: [流感增5死.重症23例 13歲少年急性腦病變](https://news.pts.org.tw/article/667821)
+Append: [彰化竹塘娃娃車與轎車碰撞 5歲女童遭拋飛15人送醫](https://news.pts.org.tw/article/667830)
+append_entries: 15
+Finish: 2023-11-21 14:07:46.484166
