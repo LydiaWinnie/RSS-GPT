@@ -24660,3 +24660,12 @@ Append: [台版柬埔寨案拘禁61人奪3命 2主嫌犯逾300罪判無期](http
 Append: [以哈戰爭／達暫休戰4天協議 哈瑪斯釋50人質換150囚](https://news.pts.org.tw/article/668012)
 append_entries: 10
 Finish: 2023-11-22 14:08:01.920690
+------------------------------------------------------
+Started: 2023-11-22 15:08:33.256740
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-22 15:08:39.462799
