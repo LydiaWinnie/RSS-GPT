@@ -24393,3 +24393,12 @@ Append: [今前3季臨櫃阻詐金額逾54億 假投顧真詐騙移送檢調96�
 Append: [部立醫院採購涉收回扣 廠商晟鼎6人與1公務員交保](https://news.pts.org.tw/article/667889)
 append_entries: 17
 Finish: 2023-11-22 07:07:27.234098
+------------------------------------------------------
+Started: 2023-11-22 08:10:41.382634
+Existing_entries: 1017
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-22 08:10:42.428658
