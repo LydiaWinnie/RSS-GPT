@@ -24105,3 +24105,72 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-21 23:08:12.522228
+------------------------------------------------------
+Started: 2023-11-22 00:38:04.276567
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [人質協議有望達成，達成之前以色列加強攻勢](https://cn.wsj.com/articles/%E4%BA%BA%E8%B3%AA%E5%8D%94%E8%AD%B0%E6%9C%89%E6%9C%9B%E9%81%94%E6%88%90-%E9%81%94%E6%88%90%E4%B9%8B%E5%89%8D%E4%BB%A5%E8%89%B2%E5%88%97%E5%8A%A0%E5%BC%B7%E6%94%BB%E5%8B%A2-dc839dfe)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以色列兩個極右翼政黨反對人質協議](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E5%85%A9%E5%80%8B%E6%A5%B5%E5%8F%B3%E7%BF%BC%E6%94%BF%E9%BB%A8%E5%8F%8D%E5%B0%8D%E4%BA%BA%E8%B3%AA%E5%8D%94%E8%AD%B0-0f4c958c)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [內塔尼亞胡稱目標達成前以色列將繼續戰鬥](https://cn.wsj.com/articles/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E7%A8%B1%E7%9B%AE%E6%A8%99%E9%81%94%E6%88%90%E5%89%8D%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%87%E7%B9%BC%E7%BA%8C%E6%88%B0%E9%AC%A5-6ae23abf)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北韓在兩次嘗試失敗後發射一顆疑似偵察衛星](https://cn.wsj.com/articles/%E5%8C%97%E9%9F%93%E5%9C%A8%E5%85%A9%E6%AC%A1%E5%98%97%E8%A9%A6%E5%A4%B1%E6%95%97%E5%BE%8C%E7%99%BC%E5%B0%84%E4%B8%80%E9%A1%86%E7%96%91%E4%BC%BC%E5%81%B5%E5%AF%9F%E8%A1%9B%E6%98%9F-b4bcff0d)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國警告稱伊朗正考慮向俄羅斯提供短程飛彈](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E8%AD%A6%E5%91%8A%E7%A8%B1%E4%BC%8A%E6%9C%97%E6%AD%A3%E8%80%83%E6%85%AE%E5%90%91%E4%BF%84%E7%BE%85%E6%96%AF%E6%8F%90%E4%BE%9B%E7%9F%AD%E7%A8%8B%E9%A3%9B%E5%BD%88-fd52c7e4)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 5
+Finish: 2023-11-22 00:38:05.825976
