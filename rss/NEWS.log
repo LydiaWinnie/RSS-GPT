@@ -24312,3 +24312,84 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-22 06:10:44.988135
+------------------------------------------------------
+Started: 2023-11-22 07:07:25.928222
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」「音樂外交」能讓中美走得更近嗎](https://cn.nytimes.com/opinion/20231122/philadelphia-orchestra-china-cultural-diplomacy/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」關於「致命自主武器」，你應該知道的](https://cn.nytimes.com/world/20231122/drones-ai-weapons-war/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [桃議員籲訂自治條例 7歲以下童禁用手機](https://news.pts.org.tw/article/667880)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [人權發展國際研討會 聚焦氣候變遷與人權](https://news.pts.org.tw/article/667884)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台灣黑熊入侵花蓮工寮 長期饑餓又誤食農藥致死](https://news.pts.org.tw/article/667886)
+Append: [北門槍擊案涉光電利益 主嫌吳男投案後聲押](https://news.pts.org.tw/article/667891)
+Append: [陸委會：中共軍演採鎖台模式 將以有限封鎖逼上談判桌](https://news.pts.org.tw/article/667892)
+Append: [北韓第3度發射偵察衛星 南韓暫停部分919協議以示抗議](https://news.pts.org.tw/article/667894)
+Append: [日本HHCH軟糖近似吸食大麻 食藥署：輸入販售最高罰2億](https://news.pts.org.tw/article/667895)
+Append: [2024大選／綠營北市立委登記 賴清德：目標國會國半](https://news.pts.org.tw/article/667896)
+Append: [虎科大推無人電動巴士接駁 試驗雲林高鐵站到高鐵校區](https://news.pts.org.tw/article/667887)
+Append: [擬開放視訊醫療弭資源不均 業界憂資安完善度](https://news.pts.org.tw/article/667888)
+Append: [2024大選／藍提議重檢視民調 黃珊珊：同數據結果不會不同](https://news.pts.org.tw/article/667897)
+Append: [高雄左營3天停電3次 台電：2次因地下纜線劣化](https://news.pts.org.tw/article/667898)
+Append: [消防特考3千公尺跑步舞弊 11人記過處分](https://news.pts.org.tw/article/667899)
+Append: [今前3季臨櫃阻詐金額逾54億 假投顧真詐騙移送檢調96件](https://news.pts.org.tw/article/667882)
+Append: [部立醫院採購涉收回扣 廠商晟鼎6人與1公務員交保](https://news.pts.org.tw/article/667889)
+append_entries: 17
+Finish: 2023-11-22 07:07:27.234098
