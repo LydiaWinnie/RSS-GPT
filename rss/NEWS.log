@@ -24303,3 +24303,12 @@ Append: [「中英」薩姆·奧爾特曼能成為第二個賈伯斯嗎](https:/
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-11-22 05:11:07.326178
+------------------------------------------------------
+Started: 2023-11-22 06:10:42.888919
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-22 06:10:44.988135
