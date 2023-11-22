@@ -24423,3 +24423,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [基隆潮間帶現海蛞蝓 專家警告具毒性民眾勿觸](https://news.pts.org.tw/article/667885)
 append_entries: 1
 Finish: 2023-11-22 09:08:16.058605
+------------------------------------------------------
+Started: 2023-11-22 10:09:12.249938
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-22 10:09:14.704399
