@@ -24814,3 +24814,12 @@ Append: [新北果菜運銷公司疑圖利廠商 時間外不正常交易9人遭
 Append: [2024大選／民眾黨不買單侯建議 稱柯以總統候選人拚到底](https://news.pts.org.tw/article/668052)
 append_entries: 8
 Finish: 2023-11-23 00:36:27.415882
+------------------------------------------------------
+Started: 2023-11-23 01:48:09.582677
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-23 01:48:13.656642
