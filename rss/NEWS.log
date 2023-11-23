@@ -25117,3 +25117,12 @@ Feed error: 404
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-11-23 11:06:42.434518
+------------------------------------------------------
+Started: 2023-11-23 12:13:56.205379
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-23 12:13:57.367216
