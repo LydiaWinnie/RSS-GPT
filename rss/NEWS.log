@@ -25006,3 +25006,82 @@ Append: [「中英」瑞士人真的不愛買房愛租房？](https://cn.nytimes
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-11-23 08:10:21.595965
+------------------------------------------------------
+Started: 2023-11-23 09:08:06.890553
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [金馬60／終身成就獎得主林青霞 華語電影史上不可遺漏的名字](https://news.pts.org.tw/article/668099)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [荷蘭國會大選反移民極右派勝 3大政黨表明沒有合作意願](https://news.pts.org.tw/article/668089)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [壽山獼猴又遭夾傷 市府：獸鋏均違法最高罰7.5萬](https://news.pts.org.tw/article/668091)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [緬北民兵與緬軍激戰 149人返台仍有84人受困](https://news.pts.org.tw/article/668085)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [新北果菜市場異常交易達1.3億 多名拍賣員遭約談](https://news.pts.org.tw/article/668083)
+Append: [2024大選／與國際媒體茶敘 蕭美琴：捍衛民主與台海和平](https://news.pts.org.tw/article/668087)
+Append: [明年起義務役改1年 總統蔡英文視導軍方整備](https://news.pts.org.tw/article/668086)
+Append: [台中番仔路今履勘拆屋點 自救會堅稱不退讓捍衛家園](https://news.pts.org.tw/article/668092)
+Append: [2024大選／傳侯再約柯於馬辦會面 柯辦：並未允諾](https://news.pts.org.tw/article/668088)
+Append: [教師不當管教頻傳 近3年終身不錄用僅1人](https://news.pts.org.tw/article/668093)
+Append: [台南殺警案一審宣判 林信吾死刑、褫奪公權](https://news.pts.org.tw/article/668094)
+Append: [公司化逾千人離退恐影響疏運 台鐵局：全力慰留人才](https://news.pts.org.tw/article/668095)
+Append: [與醫事代表開會 薛瑞元「賭賭看」說法惹議](https://news.pts.org.tw/article/668096)
+Append: [宜蘭蘇澳自辦重劃工程爭議 包商爭議非首次](https://news.pts.org.tw/article/668097)
+Append: [新竹工廠排廢水 福興溪魚類、毛蟹死亡](https://news.pts.org.tw/article/668098)
+append_entries: 15
+Finish: 2023-11-23 09:08:07.647955
