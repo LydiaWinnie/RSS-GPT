@@ -24931,3 +24931,36 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [【記者在烏克蘭4】戰地記者 小心成為國家大外宣工具人【獨立特派員】](https://news.pts.org.tw/article/668066)
 append_entries: 4
 Finish: 2023-11-23 05:07:59.157640
+------------------------------------------------------
+Started: 2023-11-23 06:10:25.570931
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」人工智慧現已屬於資本主義](https://cn.nytimes.com/technology/20231123/openai-board-capitalists/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」咳嗽、發燒、流鼻涕，為什麼感冒癥狀在夜間會加重](https://cn.nytimes.com/health/20231123/sick-cold-symptoms-nighttime/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-11-23 06:10:28.766148
