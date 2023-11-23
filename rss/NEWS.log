@@ -25214,3 +25214,12 @@ Append: [明年住宿餐飲人力需求創新高 業者創友善職場爭中高�
 Append: [政院補貼大學住宿每學期5千元 學生憂宿舍費調漲](https://news.pts.org.tw/article/668212)
 append_entries: 15
 Finish: 2023-11-23 14:07:16.686030
+------------------------------------------------------
+Started: 2023-11-23 15:08:21.573979
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-23 15:08:23.818404
