@@ -25135,3 +25135,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-23 13:10:27.441238
+------------------------------------------------------
+Started: 2023-11-23 14:07:15.633545
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／藍白合三方會談變5人 最後一哩路暫時談不攏](https://news.pts.org.tw/article/668218)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [暖化引冰川融化危機 AI助0.01秒掌握冰山融況](https://news.pts.org.tw/article/668204)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [政院拍板大學生住宿費補助 2024年上路27.5萬人受惠](https://news.pts.org.tw/article/668211)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [首批1年義務役2024年入伍訓 估徵集9127役男入營](https://news.pts.org.tw/article/668213)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／侯柯郭會談無共識 藍白針對民調再交鋒](https://news.pts.org.tw/article/668201)
+Append: [荷大選26政黨激戰 極右派奪35席成國會最大黨](https://news.pts.org.tw/article/668202)
+Append: [以哈戰爭／稱未收放人名單 以色列延後休戰協議](https://news.pts.org.tw/article/668206)
+Append: [美加邊境轎車衝撞爆炸釀2死 美加均認定非恐攻](https://news.pts.org.tw/article/668205)
+Append: [台團赴中限額惹議 王國材：不釀解團允人數微調](https://news.pts.org.tw/article/668207)
+Append: [歐洲商會2024年建議書 籲歐台簽雙邊投資協議](https://news.pts.org.tw/article/668208)
+Append: [美菲演練海空聯合巡邏 中以南海軍演回應](https://news.pts.org.tw/article/668214)
+Append: [2024大選／小黨拚不分區立委席次 第三勢力成關鍵少數](https://news.pts.org.tw/article/668216)
+Append: [林信吾殺台南雙警命案 一審判死刑褫奪公權終身](https://news.pts.org.tw/article/668215)
+Append: [明年住宿餐飲人力需求創新高 業者創友善職場爭中高齡就業](https://news.pts.org.tw/article/668209)
+Append: [政院補貼大學住宿每學期5千元 學生憂宿舍費調漲](https://news.pts.org.tw/article/668212)
+append_entries: 15
+Finish: 2023-11-23 14:07:16.686030
