@@ -24865,3 +24865,12 @@ Append: [「中英」為何中國和波音仍需要彼此](https://cn.nytimes.co
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-11-23 03:08:47.631394
+------------------------------------------------------
+Started: 2023-11-23 04:09:37.017651
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-23 04:09:39.285056
