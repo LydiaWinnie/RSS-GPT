@@ -25085,3 +25085,13 @@ Append: [宜蘭蘇澳自辦重劃工程爭議 包商爭議非首次](https://new
 Append: [新竹工廠排廢水 福興溪魚類、毛蟹死亡](https://news.pts.org.tw/article/668098)
 append_entries: 15
 Finish: 2023-11-23 09:08:07.647955
+------------------------------------------------------
+Started: 2023-11-23 10:08:12.235633
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-23 10:08:14.044019
