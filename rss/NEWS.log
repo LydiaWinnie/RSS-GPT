@@ -24823,3 +24823,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-23 01:48:13.656642
+------------------------------------------------------
+Started: 2023-11-23 02:21:03.521475
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國重拳打擊「殺豬盤」，3.1萬名犯罪嫌疑人落網](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E9%87%8D%E6%8B%B3%E6%89%93%E6%93%8A-%E6%AE%BA%E8%B1%AC%E7%9B%A4-3-1%E8%90%AC%E5%90%8D%E7%8A%AF%E7%BD%AA%E5%AB%8C%E7%96%91%E4%BA%BA%E8%90%BD%E7%B6%B2-f9d84849)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-11-23 02:21:04.871746
