@@ -25941,3 +25941,12 @@ Append: [台商方翔遭控替中共發展組織 首開庭堅稱不清楚](https
 Append: [中國兒童肺炎黴漿菌病例激增 WHO要求公開資訊](https://news.pts.org.tw/article/668434)
 append_entries: 15
 Finish: 2023-11-24 14:07:12.026381
+------------------------------------------------------
+Started: 2023-11-24 15:07:45.197132
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-24 15:07:47.062095
