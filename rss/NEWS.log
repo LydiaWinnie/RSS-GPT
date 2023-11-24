@@ -25538,3 +25538,36 @@ Append: [2024大選／侯友宜宣布副手為趙少康 朱下動員令本土藍
 Append: [2024大選／柯文哲攜手吳欣盈登記參選 稱藍白合仍未破局](https://news.pts.org.tw/article/668258)
 append_entries: 8
 Finish: 2023-11-24 06:10:23.525027
+------------------------------------------------------
+Started: 2023-11-24 07:07:16.476008
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」WHO稱中國已提供兒童肺炎數據，未檢測到新病原體](https://cn.nytimes.com/china/20231124/who-china-respiratory-children/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」關於以色列與哈馬斯的臨時停火協議，你應該知道的](https://cn.nytimes.com/world/20231124/israel-hamas-hostage-deal-cease-fire-explained/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-11-24 07:07:17.190348
