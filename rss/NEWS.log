@@ -25465,3 +25465,76 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-24 05:07:35.247280
+------------------------------------------------------
+Started: 2023-11-24 06:10:22.978502
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [大批移民經由俄羅斯入境芬蘭，歐盟幫助芬蘭加強邊境安全](https://cn.wsj.com/articles/%E5%A4%A7%E6%89%B9%E7%A7%BB%E6%B0%91%E7%B6%93%E7%94%B1%E4%BF%84%E7%BE%85%E6%96%AF%E5%85%A5%E5%A2%83%E8%8A%AC%E8%98%AD-%E6%AD%90%E7%9B%9F%E5%B9%AB%E5%8A%A9%E8%8A%AC%E8%98%AD%E5%8A%A0%E5%BC%B7%E9%82%8A%E5%A2%83%E5%AE%89%E5%85%A8-4cd00bb9)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [入冬首波中國霾害空污 西半部空品橘紅燈](https://news.pts.org.tw/article/668281)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [南橫受杜蘇芮影響中斷搶修 向陽到埡口明恢復通行](https://news.pts.org.tw/article/668277)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／蕭美琴喊國會過半 民進黨立院黨團熱情迎接](https://news.pts.org.tw/article/668282)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／柯文哲登記參選 副手新光千金吳欣盈](https://news.pts.org.tw/article/668283)
+Append: [2024大選／趙少康任侯友宜副手 象徵本土藍結合戰鬥藍](https://news.pts.org.tw/article/668284)
+Append: [2024大選／侯友宜宣布副手為趙少康 朱下動員令本土藍攜手戰鬥藍](https://news.pts.org.tw/article/668259)
+Append: [2024大選／柯文哲攜手吳欣盈登記參選 稱藍白合仍未破局](https://news.pts.org.tw/article/668258)
+append_entries: 8
+Finish: 2023-11-24 06:10:23.525027
