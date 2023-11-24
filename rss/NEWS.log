@@ -25862,3 +25862,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-11-24 13:10:15.379697
+------------------------------------------------------
+Started: 2023-11-24 14:07:10.356540
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [國防部證實澳軍艦昨航經台海 曾與共艦發生爭端](https://news.pts.org.tw/article/668436)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [去年詐騙案超過13萬件 學者：各部會打詐仍慢一步](https://news.pts.org.tw/article/668421)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [圍騎樓作個人用途將課稅 店家憂房東轉嫁到租金](https://news.pts.org.tw/article/668420)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [4場重要賽事成績起伏 武術好手孫家閎持續調整狀態](https://news.pts.org.tw/article/668418)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [全球百大科技研發獎 工研院與台企獲12獎僅次美國](https://news.pts.org.tw/article/668423)
+Append: [核三廠出水口珊瑚耐熱3至4度 海生館試移植復育抗熱浪](https://news.pts.org.tw/article/668424)
+Append: [以哈戰爭／雙方協議停火4天 互釋人質與囚犯](https://news.pts.org.tw/article/668428)
+Append: [晶鼎焚化爐座談未列是否撤案 自救會拒參加擬北上抗議](https://news.pts.org.tw/article/668430)
+Append: [詐騙受害人聯手警方打詐 兩週內助警逮5車手](https://news.pts.org.tw/article/668432)
+Append: [2024大選／郭台銘宣布退選 呼籲「完成政黨輪替」](https://news.pts.org.tw/article/668437)
+Append: [南韓高院判賠償慰安婦 日本：遺憾但不接受](https://news.pts.org.tw/article/668426)
+Append: [多明尼加首創抹香鯨保護區 禁止商業捕魚與大型貨船](https://news.pts.org.tw/article/668425)
+Append: [空軍預警機未檢查程序降落毀損 國防部被糾正懲處涉案人](https://news.pts.org.tw/article/668431)
+Append: [台商方翔遭控替中共發展組織 首開庭堅稱不清楚](https://news.pts.org.tw/article/668435)
+Append: [中國兒童肺炎黴漿菌病例激增 WHO要求公開資訊](https://news.pts.org.tw/article/668434)
+append_entries: 15
+Finish: 2023-11-24 14:07:12.026381
