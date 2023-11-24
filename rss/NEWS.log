@@ -25817,3 +25817,48 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [澳洲天文中心實現性別平等 300員工一半是女性](https://news.pts.org.tw/article/668308)
 append_entries: 3
 Finish: 2023-11-24 12:13:32.507181
+------------------------------------------------------
+Started: 2023-11-24 13:10:13.934660
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國試圖利用經濟聯繫拉近與台灣的距離，卻沒有奏效](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E8%A9%A6%E5%9C%96%E5%88%A9%E7%94%A8%E7%B6%93%E6%BF%9F%E8%81%AF%E7%B9%AB%E6%8B%89%E8%BF%91%E8%88%87%E5%8F%B0%E7%81%A3%E7%9A%84%E8%B7%9D%E9%9B%A2-%E5%8D%BB%E6%B2%92%E6%9C%89%E5%A5%8F%E6%95%88-d3fce62b)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [作為哈以人質協議的一部分，油罐車進入加沙](https://cn.wsj.com/articles/%E4%BD%9C%E7%82%BA%E5%93%88%E4%BB%A5%E4%BA%BA%E8%B3%AA%E5%8D%94%E8%AD%B0%E7%9A%84%E4%B8%80%E9%83%A8%E5%88%86-%E6%B2%B9%E7%BD%90%E8%BB%8A%E9%80%B2%E5%85%A5%E5%8A%A0%E6%B2%99-869fe566)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [韓國間諜機構稱金正恩命令北韓官員支持巴勒斯坦人](https://cn.wsj.com/articles/%E9%9F%93%E5%9C%8B%E9%96%93%E8%AB%9C%E6%A9%9F%E6%A7%8B%E7%A8%B1%E9%87%91%E6%AD%A3%E6%81%A9%E5%91%BD%E4%BB%A4%E5%8C%97%E9%9F%93%E5%AE%98%E5%93%A1%E6%94%AF%E6%8C%81%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA-b090e795)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2023-11-24 13:10:15.379697
