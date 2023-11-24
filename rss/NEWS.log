@@ -25759,3 +25759,14 @@ Append: [以哈戰爭／以軍屠戮加薩 逾5千童喪命引反猶情緒高漲
 Append: [緬甸少數民族組三兄弟聯盟軍 重擊電信詐騙與軍政府](https://news.pts.org.tw/article/668291)
 append_entries: 14
 Finish: 2023-11-24 10:08:36.795633
+------------------------------------------------------
+Started: 2023-11-24 11:06:39.448932
+Existing_entries: 1014
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-24 11:06:40.062491
