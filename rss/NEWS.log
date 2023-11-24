@@ -25571,3 +25571,78 @@ Append: [「中英」關於以色列與哈馬斯的臨時停火協議，你應�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-11-24 07:07:17.190348
+------------------------------------------------------
+Started: 2023-11-24 08:10:17.808062
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [《華爾街日報》/NORC調查顯示選民認為美國夢正變得遙不可及](https://cn.wsj.com/articles/%E8%8F%AF%E7%88%BE%E8%A1%97%E6%97%A5%E5%A0%B1-norc%E8%AA%BF%E6%9F%A5%E9%A1%AF%E7%A4%BA%E9%81%B8%E6%B0%91%E8%AA%8D%E7%82%BA%E7%BE%8E%E5%9C%8B%E5%A4%A2%E6%AD%A3%E8%AE%8A%E5%BE%97%E9%81%99%E4%B8%8D%E5%8F%AF%E5%8F%8A-4074ce5b)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／郭台銘宣布退選 臉書發文「人退，志不退」](https://news.pts.org.tw/article/668301)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [知名連鎖壽司店水杯有白色粉末 疑漂白水殘留店家僅口頭道歉](https://news.pts.org.tw/article/668285)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [社宅限居12年未考量長者 北市府將研擬配套](https://news.pts.org.tw/article/668269)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [礁溪溫泉區管制抽水日額 業者籲檢討、縣府允再議](https://news.pts.org.tw/article/668270)
+Append: [實境模擬訓練航空人才 朝陽科大打造首座航空教育城](https://news.pts.org.tw/article/668272)
+Append: [《成人倖存者法案》失效前夕 紐約市長遭前女職員控性侵](https://news.pts.org.tw/article/668274)
+Append: [愛爾蘭小學外持刀攻擊事件 社群偽造嫌資訊引反移民示威](https://news.pts.org.tw/article/668275)
+Append: [中市調高公車運價 台中客運宣布駕駛加薪4千](https://news.pts.org.tw/article/668278)
+Append: [台塑員工檢舉業者涉偽造證書 賣無效防爆產品致石化廠風險](https://news.pts.org.tw/article/668279)
+Append: [模擬警車紅藍爆閃燈 民怨光害令駕駛分心](https://news.pts.org.tw/article/668280)
+append_entries: 11
+Finish: 2023-11-24 08:10:19.867869
