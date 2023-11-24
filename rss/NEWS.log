@@ -25679,3 +25679,83 @@ Append: [「中英」人工智慧將把我們帶往天堂還是地獄](https://c
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-11-24 09:08:03.946754
+------------------------------------------------------
+Started: 2023-11-24 10:08:36.234170
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [百萬粉絲網紅掀風潮 泰大象褲從伴手禮變時尚穿搭](https://news.pts.org.tw/article/668295)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [環保人士打造荷蘭古帆船 將用2年循達爾文航道考察海洋](https://news.pts.org.tw/article/668292)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [澳洲夏季易發山林大火 新南威爾斯大學設高溫實驗室](https://news.pts.org.tw/article/668293)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [綠色能源器材消耗金屬礦 開採轉向深海](https://news.pts.org.tw/article/668294)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [任何布料都能做成花 紐約時裝區手工花店傳承四代](https://news.pts.org.tw/article/668296)
+Append: [積冰記錄千年大氣變化 丹麥巨型冰箱存4萬冰塊研究](https://news.pts.org.tw/article/668297)
+Append: [氣候變遷衝擊日本文化遺產 岐阜鸕鶿捕魚傳統恐消失](https://news.pts.org.tw/article/668298)
+Append: [澳43歲男青光眼末期 研究：壯年男性易忽略健康風險](https://news.pts.org.tw/article/668299)
+Append: [香港將成全球最老化城市 當局推舞會與狗醫師伴長者](https://news.pts.org.tw/article/668300)
+Append: [日百歲人瑞仍從事美妝銷售 獲金氏紀錄最年長美容顧問](https://news.pts.org.tw/article/668287)
+Append: [南韓升學壓力重、學費高 上大學必要性引熱議](https://news.pts.org.tw/article/668288)
+Append: [越南大量資源投義務教育 世界銀行：學生表現勝英、加](https://news.pts.org.tw/article/668289)
+Append: [以哈戰爭／以軍屠戮加薩 逾5千童喪命引反猶情緒高漲](https://news.pts.org.tw/article/668290)
+Append: [緬甸少數民族組三兄弟聯盟軍 重擊電信詐騙與軍政府](https://news.pts.org.tw/article/668291)
+append_entries: 14
+Finish: 2023-11-24 10:08:36.795633
