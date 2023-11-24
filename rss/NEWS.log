@@ -25455,3 +25455,13 @@ Append: [「中英」中國出現兒童肺炎感染潮，WHO要求提供更多�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 7
 Finish: 2023-11-24 04:09:31.365015
+------------------------------------------------------
+Started: 2023-11-24 05:07:33.630448
+Existing_entries: 1007
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-24 05:07:35.247280
