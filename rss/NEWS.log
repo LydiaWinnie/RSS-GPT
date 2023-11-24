@@ -25646,3 +25646,36 @@ Append: [台塑員工檢舉業者涉偽造證書 賣無效防爆產品致石化�
 Append: [模擬警車紅藍爆閃燈 民怨光害令駕駛分心](https://news.pts.org.tw/article/668280)
 append_entries: 11
 Finish: 2023-11-24 08:10:19.867869
+------------------------------------------------------
+Started: 2023-11-24 09:07:57.921585
+Existing_entries: 1011
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國任命朱鶴新為國家外匯管理局黨組書記](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E4%BB%BB%E5%91%BD%E6%9C%B1%E9%B6%B4%E6%96%B0%E7%82%BA%E5%9C%8B%E5%AE%B6%E5%A4%96%E5%8C%AF%E7%AE%A1%E7%90%86%E5%B1%80%E9%BB%A8%E7%B5%84%E6%9B%B8%E8%A8%98-fb4db86f)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」人工智慧將把我們帶往天堂還是地獄](https://cn.nytimes.com/opinion/20231124/sam-altman-openai/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-11-24 09:08:03.946754
