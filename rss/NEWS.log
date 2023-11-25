@@ -26328,3 +26328,12 @@ Append: [2024大選／藍營迅速劃清界線 柯低調不談相關議題](http
 Append: [金馬60／2023金馬獎得獎名單【不斷更新】](https://news.pts.org.tw/article/668464)
 append_entries: 10
 Finish: 2023-11-25 13:08:00.883370
+------------------------------------------------------
+Started: 2023-11-25 14:06:10.798038
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-25 14:06:11.442584
