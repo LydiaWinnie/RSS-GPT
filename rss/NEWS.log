@@ -26475,3 +26475,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [金馬60／《石門》最佳劇情片 寫實反映女性困境](https://news.pts.org.tw/article/668502)
 append_entries: 1
 Finish: 2023-11-25 20:07:24.119343
+------------------------------------------------------
+Started: 2023-11-25 21:06:24.375725
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-25 21:06:25.511274
