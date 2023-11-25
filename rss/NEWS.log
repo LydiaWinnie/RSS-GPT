@@ -26199,3 +26199,12 @@ Append: [境外污物南移 環境部：25至27日污染物易累積](https://ne
 Append: [台越警方合作緝毒 查獲1.3公頓擬走私台灣K他命](https://news.pts.org.tw/article/668463)
 append_entries: 8
 Finish: 2023-11-25 06:09:27.138507
+------------------------------------------------------
+Started: 2023-11-25 07:06:48.649996
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-25 07:06:49.293741
