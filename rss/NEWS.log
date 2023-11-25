@@ -26436,3 +26436,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [金馬60／12歲林品彤封后 創史上最年輕影后紀錄](https://news.pts.org.tw/article/668500)
 append_entries: 2
 Finish: 2023-11-25 17:06:19.663666
+------------------------------------------------------
+Started: 2023-11-25 18:09:07.819001
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-25 18:09:09.273206
