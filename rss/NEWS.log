@@ -26753,3 +26753,12 @@ Append: [疑吃河豚火鍋中毒 南投仁愛鄉1死8送醫](https://news.pts.o
 Append: [2024大選／稱看好度在野最高 柯文哲：越被藍綠圍攻反彈越強](https://news.pts.org.tw/article/668527)
 append_entries: 8
 Finish: 2023-11-26 12:12:35.761807
+------------------------------------------------------
+Started: 2023-11-26 13:07:50.431194
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-26 13:07:51.101388
