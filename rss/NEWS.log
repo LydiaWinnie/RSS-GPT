@@ -27276,3 +27276,12 @@ Append: [日本歲末迎新春活動不斷 動物園為水豚備熱水柚子浴]
 Append: [中越南海領土爭端升溫 越南擴大填海造陸抗中](https://news.pts.org.tw/article/668686)
 append_entries: 13
 Finish: 2023-11-27 13:11:23.531452
+------------------------------------------------------
+Started: 2023-11-27 14:07:41.892532
+Existing_entries: 1013
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-27 14:07:43.263095
