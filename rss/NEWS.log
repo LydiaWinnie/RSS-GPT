@@ -27094,3 +27094,12 @@ Append: [遊中國6天5夜參訪人大常委會 北市某里長揪團遭疑涉�
 Append: [中國黴漿菌疫情外溢 醫師示警台灣春節後恐流行](https://news.pts.org.tw/article/668632)
 append_entries: 17
 Finish: 2023-11-27 07:07:53.757217
+------------------------------------------------------
+Started: 2023-11-27 08:11:08.208551
+Existing_entries: 1017
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-27 08:11:09.708347
