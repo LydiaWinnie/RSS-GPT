@@ -27178,3 +27178,24 @@ Append: [「中英」哈馬斯釋放更多人質，以哈停火期或得以延�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-11-27 11:06:48.590801
+------------------------------------------------------
+Started: 2023-11-27 12:14:28.280558
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國爆發多病原疫情 如何避免感染「肺炎黴漿菌」？](https://news.pts.org.tw/article/668672)
+append_entries: 1
+Finish: 2023-11-27 12:14:30.217330
