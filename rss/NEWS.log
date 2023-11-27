@@ -26899,3 +26899,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [南投疑吃河豚鍋致1死8中毒 食藥署查源頭不排除開罰](https://news.pts.org.tw/article/668587)
 append_entries: 3
 Finish: 2023-11-27 00:36:51.225435
+------------------------------------------------------
+Started: 2023-11-27 01:49:47.159598
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-27 01:49:48.275816
