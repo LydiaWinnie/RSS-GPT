@@ -27199,3 +27199,80 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [中國爆發多病原疫情 如何避免感染「肺炎黴漿菌」？](https://news.pts.org.tw/article/668672)
 append_entries: 1
 Finish: 2023-11-27 12:14:30.217330
+------------------------------------------------------
+Started: 2023-11-27 13:11:22.596978
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [南韓學生日趨沉迷網路賭博 政府組跨部會團隊助戒癮](https://news.pts.org.tw/article/668725)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／侯友宜提重啟ECFA談判 柯文哲喊不放棄藍白「和」](https://news.pts.org.tw/article/668741)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [印度新德里同志大遊行 關切平權法律盼消弭歧視](https://news.pts.org.tw/article/668727)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北韓地方議會選舉投票率99% 外媒：變相人口普查](https://news.pts.org.tw/article/668726)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [男師偷女大生內衣褲案 轉任他校又涉師生戀性平案](https://news.pts.org.tw/article/668730)
+Append: [涉聯合情夫謀殺前夫 澳洲女學者藏台灣遭逮捕](https://news.pts.org.tw/article/668731)
+Append: [逾40歲試管嬰兒僅補助3次 專家籲放寬提高受孕率](https://news.pts.org.tw/article/668732)
+Append: [旅宿業缺工8千 高雄飯店結盟4校有薪實習留才](https://news.pts.org.tw/article/668733)
+Append: [好市多盒裝蛤蜊驚見「菸屁股」 北市衛局派員稽查](https://news.pts.org.tw/article/668735)
+Append: [台北多家吃到飽餐廳齊漲 泰市場平日晚餐多730](https://news.pts.org.tw/article/668736)
+Append: [10現、退役軍官涉共諜案遭起訴 分布全台多營區](https://news.pts.org.tw/article/668742)
+Append: [日本歲末迎新春活動不斷 動物園為水豚備熱水柚子浴](https://news.pts.org.tw/article/668678)
+Append: [中越南海領土爭端升溫 越南擴大填海造陸抗中](https://news.pts.org.tw/article/668686)
+append_entries: 13
+Finish: 2023-11-27 13:11:23.531452
