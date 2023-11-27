@@ -27967,3 +27967,77 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2023-11-27 03:08:30.220541
+------------------------------------------------------
+Started: 2023-11-27 04:09:46.845223
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [20年战争生死博弈背后，7位经济学家举足轻重](https://www.36kr.com/p/2536010434422279)
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 502
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [30元一只的水母宠物，怎么就成了打工人的心头好？](https://www.36kr.com/p/2535953535018503)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [用视觉来做Prompt，沈向洋展示IDEA研究院新模型，无需训练或微调，开箱即用](https://www.36kr.com/p/2535878485157380)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Hinton和LeCun再交锋，激辩LLM能否引发智能奇点，LeCun：人类理解能力碾压GPT-4](https://www.36kr.com/p/2535955965142792)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [智能的本质就是压缩？马毅团队5年心血提出“白盒”Transformer， 打开LLM黑盒](https://www.36kr.com/p/2535955325626121)
+Append: [给跪了，新工具 Magnific 誓成 AI 生图“精修师”：小细节、高分辨率一拉即成](https://www.36kr.com/p/2535912662672905)
+Append: [OpenAI神秘Q*毁灭人类？爆火“Q*假说”竟牵出世界模型，全网AI大佬长文热议](https://www.36kr.com/p/2533278254900996)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 7
+Finish: 2023-11-27 04:09:59.098398

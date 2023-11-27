@@ -26962,3 +26962,36 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [2024大選／侯趙直搗賴本命區台南造勢 趙少康：藍白在立院仍可合作](https://news.pts.org.tw/article/668586)
 append_entries: 3
 Finish: 2023-11-27 03:08:25.327662
+------------------------------------------------------
+Started: 2023-11-27 04:09:41.692528
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」台灣「藍白合」破局，將如何影響大選走向](https://cn.nytimes.com/asia-pacific/20231127/taiwan-president-opposition-collapse/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」台灣能繼續抵禦來自中國的虛假信息攻擊嗎](https://cn.nytimes.com/asia-pacific/20231127/taiwan-china-disinformation/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-11-27 04:09:43.320745
