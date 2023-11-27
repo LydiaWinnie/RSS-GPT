@@ -27013,3 +27013,84 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-27 06:11:03.817328
+------------------------------------------------------
+Started: 2023-11-27 07:07:51.746347
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭引發關於美國宗教歧視的擔憂](https://cn.wsj.com/articles/%E4%BB%A5%E5%93%88%E6%88%B0%E7%88%AD%E5%BC%95%E7%99%BC%E9%97%9C%E6%96%BC%E7%BE%8E%E5%9C%8B%E5%AE%97%E6%95%99%E6%AD%A7%E8%A6%96%E7%9A%84%E6%93%94%E6%86%82-dbfa41f2)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」「走線潤美」：自南美入境美國的中國移民數量驟增](https://cn.nytimes.com/usa/20231127/china-migrants-us-border/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中興大學研發訊號增強晶片 可檢測變異病毒成全球首例](https://news.pts.org.tw/article/668616)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／哈瑪斯釋第3批17人質 美4歲女童遭挾50天獲釋](https://news.pts.org.tw/article/668622)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [雲林虎尾農民在道路曬花生 警：未申請路權將開罰](https://news.pts.org.tw/article/668627)
+Append: [校舍改建甫落成外牆磁磚剝落 民代指北市多校有安全隱憂](https://news.pts.org.tw/article/668618)
+Append: [房租擬改列「特別扣除額」 財長：將排富及有殼族](https://news.pts.org.tw/article/668619)
+Append: [中日韓外長釜山會談 日韓重申台海穩定重要性](https://news.pts.org.tw/article/668621)
+Append: [LINE投資詐騙總金額近1億 盧姓主嫌等26人移送雄檢](https://news.pts.org.tw/article/668624)
+Append: [高雄男飄酒味坐路邊疑酒駕 警方未開單：引擎是冷的](https://news.pts.org.tw/article/668628)
+Append: [我國勞動力老化世界最快 人力業者籲友善中高齡勞工](https://news.pts.org.tw/article/668629)
+Append: [去年逾5萬人健保高薪低保 共少繳7.32億創3年新高](https://news.pts.org.tw/article/668631)
+Append: [中國白紙運動滿1週年 流亡海外者續推中國民主](https://news.pts.org.tw/article/668620)
+Append: [母女3人新竹尖石露營天冷 燒炭取暖一氧化碳中毒1死](https://news.pts.org.tw/article/668617)
+Append: [竹科10月48廠商申請裁員 今年已裁1605人創近5年次高](https://news.pts.org.tw/article/668630)
+Append: [遊中國6天5夜參訪人大常委會 北市某里長揪團遭疑涉統戰](https://news.pts.org.tw/article/668614)
+Append: [中國黴漿菌疫情外溢 醫師示警台灣春節後恐流行](https://news.pts.org.tw/article/668632)
+append_entries: 17
+Finish: 2023-11-27 07:07:53.757217
