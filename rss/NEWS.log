@@ -27778,3 +27778,82 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [南韓搶救生育率 辦聯誼促成近百對佳偶](https://news.pts.org.tw/article/668863)
 append_entries: 3
 Finish: 2023-11-28 12:14:25.905018
+------------------------------------------------------
+Started: 2023-11-28 13:10:22.061662
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [8成營建廢棄物可回收再利用 環境部促砂石棧場轉型處理廠](https://news.pts.org.tw/article/668911)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [大巨蛋週日台韓開幕戰 新生代王牌徐若熙主投](https://news.pts.org.tw/article/668913)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [俄烏戰爭／烏民眾遭「有目的性」綁架 倖存者分享遭遇](https://news.pts.org.tw/article/668914)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [憂稅收減少、黑市崛起 紐西蘭新政府廢世代禁菸令](https://news.pts.org.tw/article/668917)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台股睽違31年超越恒生指數 分析師：明年高點可望上看1萬8](https://news.pts.org.tw/article/668923)
+Append: [北韓稱衛星拍到白宮、五角大廈 兩國大使安理會針鋒相對](https://news.pts.org.tw/article/668918)
+Append: [受中國招待旅遊涉犯《反滲透法》 中華泛藍協會團長等2人交保](https://news.pts.org.tw/article/668927)
+Append: [2024大選／總統候選人提長照補助政見 專家：不應各自喊價](https://news.pts.org.tw/article/668920)
+Append: [第3季新購房貸平均305期 約繳25.4年創新高](https://news.pts.org.tw/article/668925)
+Append: [勇鷹高教機將成軍 F-5E/F部訓機將退役](https://news.pts.org.tw/article/668926)
+Append: [中爆多呼吸道感染病憂擴散 疾管署：台灣類流感已連7週降](https://news.pts.org.tw/article/668930)
+Append: [高雄建案污水管施工坍塌1死 未設安全措施勒令停工開罰](https://news.pts.org.tw/article/668931)
+Append: [2024大選／藍白交鋒「當副手給2億」 蕭美琴准辭駐美代表](https://news.pts.org.tw/article/668928)
+Append: [北市率全國之先 住宅區店家晚10到早8禁播音樂](https://news.pts.org.tw/article/668924)
+Append: [英國明年2月禁養超大型惡霸犬 新法引發棄養效應](https://news.pts.org.tw/article/668916)
+append_entries: 15
+Finish: 2023-11-28 13:10:27.370554
