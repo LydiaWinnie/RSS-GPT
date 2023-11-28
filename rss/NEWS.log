@@ -27583,3 +27583,81 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-11-28 06:10:38.445394
+------------------------------------------------------
+Started: 2023-11-28 07:07:28.321939
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [LINE母公司44萬筆個資外洩 包含百筆台灣用戶資訊](https://news.pts.org.tw/article/668813)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [學者估明年聯準會有降息空間 股市走勢有望上漲](https://news.pts.org.tw/article/668796)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [國人十大癌症大腸癌列第2 「主動追陽」模式助篩陽民眾就醫](https://news.pts.org.tw/article/668795)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [今年冬季預估正常偏暖 氣象署指雨量可能略多](https://news.pts.org.tw/article/668807)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [農業人力老化缺工 高市推智慧技術盼老農加入](https://news.pts.org.tw/article/668798)
+Append: [外籍生華語文演講比賽 分享對台選舉文化等多元觀察](https://news.pts.org.tw/article/668801)
+Append: [桃機全球排名連4年下滑 今年跌至82名](https://news.pts.org.tw/article/668799)
+Append: [公督盟促國會更透明 邀立委參選人簽國會改革承諾書](https://news.pts.org.tw/article/668803)
+Append: [黑海沿岸克里米亞與俄國南部 遭風暴襲擊至少13死](https://news.pts.org.tw/article/668805)
+Append: [古坑現H5N1高病原禽流感 已撲殺1.5萬雞隻、銷毀3.5萬顆蛋](https://news.pts.org.tw/article/668808)
+Append: [記點制違規滿12點將扣照 北市黃牛喊價1點轉移收2千](https://news.pts.org.tw/article/668809)
+Append: [台灣國際品牌價值榜華碩再奪冠 大趨勢轉為多元產業](https://news.pts.org.tw/article/668797)
+Append: [藍控長榮大學博士論文抄襲 陳亭妃反擊並提告](https://news.pts.org.tw/article/668802)
+Append: [頭份越南小吃店大火釀5死 1移工逃離現場原因待釐清](https://news.pts.org.tw/article/668811)
+append_entries: 14
+Finish: 2023-11-28 07:07:30.323027
