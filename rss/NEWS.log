@@ -27724,3 +27724,12 @@ Append: [「中英」人工智慧巨頭G42陷入中美科技角力中心](https:
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-11-28 10:08:47.111806
+------------------------------------------------------
+Started: 2023-11-28 11:06:39.169434
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-28 11:06:41.284309
