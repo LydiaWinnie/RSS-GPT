@@ -27906,3 +27906,12 @@ Fetching from https://rsshub.app/pts/dailynews
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip rss/NEWS
+------------------------------------------------------
+Started: 2023-11-28 19:06:22.829749
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-28 19:06:23.651582
