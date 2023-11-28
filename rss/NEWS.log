@@ -27857,3 +27857,12 @@ Append: [北市率全國之先 住宅區店家晚10到早8禁播音樂](https://
 Append: [英國明年2月禁養超大型惡霸犬 新法引發棄養效應](https://news.pts.org.tw/article/668916)
 append_entries: 15
 Finish: 2023-11-28 13:10:27.370554
+------------------------------------------------------
+Started: 2023-11-28 14:07:35.313471
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-28 14:07:36.546408
