@@ -27501,3 +27501,13 @@ Append: [桃國2旁汽機車回收場大火 1員工及時逃出幸無人傷亡](
 Append: [苗栗頭份民宅凌晨火警 一家4口與1移工喪命](https://news.pts.org.tw/article/668770)
 append_entries: 8
 Finish: 2023-11-28 01:51:14.643355
+------------------------------------------------------
+Started: 2023-11-28 02:22:51.362985
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-28 02:22:52.095111
