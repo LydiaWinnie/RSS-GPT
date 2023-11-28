@@ -27661,3 +27661,12 @@ Append: [藍控長榮大學博士論文抄襲 陳亭妃反擊並提告](https://
 Append: [頭份越南小吃店大火釀5死 1移工逃離現場原因待釐清](https://news.pts.org.tw/article/668811)
 append_entries: 14
 Finish: 2023-11-28 07:07:30.323027
+------------------------------------------------------
+Started: 2023-11-28 08:10:39.301992
+Existing_entries: 1014
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-28 08:10:49.288809
