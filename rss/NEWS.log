@@ -27893,3 +27893,16 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-28 17:07:10.094731
+------------------------------------------------------
+Started: 2023-11-28 18:10:07.411755
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 403
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 403
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 403
+Fetching from https://rsshub.app/pts/dailynews
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip rss/NEWS
