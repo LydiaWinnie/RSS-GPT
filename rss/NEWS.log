@@ -28382,3 +28382,84 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [美國狗染不明致命呼吸道疾病 抗生素也難治療](https://news.pts.org.tw/article/669036)
 append_entries: 4
 Finish: 2023-11-29 11:06:38.613295
+------------------------------------------------------
+Started: 2023-11-29 12:14:18.306479
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [拜登推文被視為支持加沙停火](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E6%8E%A8%E6%96%87%E8%A2%AB%E8%A6%96%E7%82%BA%E6%94%AF%E6%8C%81%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB-1f55f324)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以色列財長稱政府沒有考慮永久停火](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E8%B2%A1%E9%95%B7%E7%A8%B1%E6%94%BF%E5%BA%9C%E6%B2%92%E6%9C%89%E8%80%83%E6%85%AE%E6%B0%B8%E4%B9%85%E5%81%9C%E7%81%AB-33ae5c4d)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [業者籲立法防冷氣砸人再發生 內政部：已有法令及作業規範](https://news.pts.org.tw/article/669122)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [男上暗網購民眾個資 吸收男大生上網兜售皆送辦](https://news.pts.org.tw/article/669121)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [擊敗釜山與羅馬 沙國獲2030年世博主辦權](https://news.pts.org.tw/article/669115)
+Append: [日商船才遭葉門武裝組織挾持 再傳英油輪遭殃](https://news.pts.org.tw/article/669116)
+Append: [以哈戰爭／雙方釋放人質和囚犯 UN要求延長停火協議](https://news.pts.org.tw/article/669117)
+Append: [台股時隔31年超車港股 專家：港股受中國房地產拖累](https://news.pts.org.tw/article/669126)
+Append: [國軍智慧警監組件標示中國製 中科院：廠商誤植仍將究責](https://news.pts.org.tw/article/669128)
+Append: [F-5戰機解除戰備將除役 勇鷹機接替守衛東部空域](https://news.pts.org.tw/article/669129)
+Append: [台南山上區頻傳爆炸聲 男自製爆裂物遭補送辦](https://news.pts.org.tw/article/669127)
+Append: [俞大㵢接新任駐美大使 李淳接駐歐盟大使](https://news.pts.org.tw/article/669130)
+Append: [2024大選／勞動政見發表會 賴侯柯同場不同框](https://news.pts.org.tw/article/669131)
+Append: [紐西蘭乳品2025零關稅進口 立委籲明確鮮乳定義區隔市場](https://news.pts.org.tw/article/669119)
+Append: [港明年4月起餐飲全面禁塑 環團籲參考台環保杯政策](https://news.pts.org.tw/article/669060)
+Append: [俄烏戰爭／烏情報局長妻疑遭投毒 體內有罕見重金屬](https://news.pts.org.tw/article/669066)
+Append: [美前第一夫人羅莎琳卡特追悼會 拜登與柯林頓夫婦臨場致哀](https://news.pts.org.tw/article/669063)
+append_entries: 17
+Finish: 2023-11-29 12:14:22.735380
