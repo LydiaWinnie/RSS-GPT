@@ -28012,3 +28012,16 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [全球24個參與調查國家 台灣8年級生公民認知全球第1](https://news.pts.org.tw/article/668951)
 append_entries: 3
 Finish: 2023-11-29 01:50:24.212773
+------------------------------------------------------
+Started: 2023-11-29 02:21:40.277352
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 403
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 403
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 403
+Fetching from https://rsshub.app/pts/dailynews
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip rss/NEWS
