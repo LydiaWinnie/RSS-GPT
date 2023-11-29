@@ -28527,3 +28527,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [台大研究生校內兼職時薪僅83元 面臨低時薪高工時窘境](https://news.pts.org.tw/article/669120)
 append_entries: 3
 Finish: 2023-11-29 15:08:14.616405
+------------------------------------------------------
+Started: 2023-11-29 16:10:02.051488
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-29 16:10:03.940354
