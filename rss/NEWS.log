@@ -28463,3 +28463,12 @@ Append: [俄烏戰爭／烏情報局長妻疑遭投毒 體內有罕見重金屬]
 Append: [美前第一夫人羅莎琳卡特追悼會 拜登與柯林頓夫婦臨場致哀](https://news.pts.org.tw/article/669063)
 append_entries: 17
 Finish: 2023-11-29 12:14:22.735380
+------------------------------------------------------
+Started: 2023-11-29 13:10:50.603932
+Existing_entries: 1017
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-29 13:10:51.466305
