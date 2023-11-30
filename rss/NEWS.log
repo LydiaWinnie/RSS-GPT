@@ -29052,3 +29052,12 @@ Append: [高雄西子灣兩棲突擊車試登驗證 反推共軍登陸路徑](ht
 Append: [賴清德出席經濟論壇允若當選 經濟成長率不低於3.5%](https://news.pts.org.tw/article/669323)
 append_entries: 16
 Finish: 2023-11-30 13:10:46.940087
+------------------------------------------------------
+Started: 2023-11-30 14:07:36.971108
+Existing_entries: 1016
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-30 14:07:38.327074
