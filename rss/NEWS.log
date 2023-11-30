@@ -28972,3 +28972,83 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-11-30 12:14:20.738660
+------------------------------------------------------
+Started: 2023-11-30 13:10:45.549091
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [巴勒斯坦官員稱以色列向約旦河西岸監獄附近的集會發射實彈，造成一人死亡](https://cn.wsj.com/articles/%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%AE%98%E5%93%A1%E7%A8%B1%E4%BB%A5%E8%89%B2%E5%88%97%E5%90%91%E7%B4%84%E6%97%A6%E6%B2%B3%E8%A5%BF%E5%B2%B8%E7%9B%A3%E7%8D%84%E9%99%84%E8%BF%91%E7%9A%84%E9%9B%86%E6%9C%83%E7%99%BC%E5%B0%84%E5%AF%A6%E5%BD%88-%E9%80%A0%E6%88%90%E4%B8%80%E4%BA%BA%E6%AD%BB%E4%BA%A1-8a3cd5fc)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中華泛藍協會招攬里長赴中違法 陸委會：落地接待即介選手段](https://news.pts.org.tw/article/669322)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [世界數位競爭力調查評比 台灣進步2名列第9](https://news.pts.org.tw/article/669311)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台鐵推司機員違規記點制 滿7點轉調永遠不能開車](https://news.pts.org.tw/article/669313)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [韓美同盟70年韓對美防失信心 南韓近8成民眾支持擁核武](https://news.pts.org.tw/article/669308)
+Append: [COP28開幕搶救巴黎協定 目標淘汰化石燃料增再生能源](https://news.pts.org.tw/article/669310)
+Append: [明年健保成長率為4.7% 石崇良：健保費率不調整](https://news.pts.org.tw/article/669312)
+Append: [轉彎未先靠外側 高雄水泥預拌車撞死騎車長者](https://news.pts.org.tw/article/669314)
+Append: [彰化焚化爐工程吊臂掉落釀1死 職安署認定致工安意外勒停工](https://news.pts.org.tw/article/669316)
+Append: [300位醫師收AI換臉恐嚇郵件 警：不排除是中國集團性犯罪](https://news.pts.org.tw/article/669315)
+Append: [日本新任駐台代表拜會首長 5度訪台見證明年台灣大選](https://news.pts.org.tw/article/669317)
+Append: [美國前國務卿季辛吉百歲逝世 一手促成中美建交與台斷交](https://news.pts.org.tw/article/669318)
+Append: [美外交教父季辛吉辭世 美中關係、策畫越戰終局推手](https://news.pts.org.tw/article/669319)
+Append: [立委蘇震清遭禁出海現身小琉球 高等法院：將傳喚到案說明](https://news.pts.org.tw/article/669320)
+Append: [高雄西子灣兩棲突擊車試登驗證 反推共軍登陸路徑](https://news.pts.org.tw/article/669321)
+Append: [賴清德出席經濟論壇允若當選 經濟成長率不低於3.5%](https://news.pts.org.tw/article/669323)
+append_entries: 16
+Finish: 2023-11-30 13:10:46.940087
