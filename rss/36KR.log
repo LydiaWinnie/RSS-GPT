@@ -29639,3 +29639,82 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-11-30 02:21:50.946102
+------------------------------------------------------
+Started: 2023-11-30 03:08:27.887012
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [36氪「2023 MCN 年度价值名册」正式发布](https://www.36kr.com/p/2540164463912454)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [智能电视行业，变天了](https://www.36kr.com/p/2539492867401223)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [​AIGC降临家装：未来盒子“赶进度”，东易日盛“勤专研”](https://www.36kr.com/p/2539364572538377)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [教育+AIGC开局之年：教育派作业帮、科技派科大讯飞同路不同道](https://www.36kr.com/p/2539364466517508)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [36氪首发 | 「中科慧远」完成数亿元C+轮融资，推动AI工业视觉检测相关技术发展](https://www.36kr.com/p/2534681748907782)
+Append: [Keras 3.0正式发布，一统TF/PyTorch/Jax三大后端框架，网友：改变游戏规则](https://www.36kr.com/p/2540050021148423)
+Append: [斯坦福美女博士创业项目爆火，AI视频生成出道即顶流，半年融资5500万美元](https://www.36kr.com/p/2540054773818881)
+Append: [LLM正在重塑教育，所有学生都需要学习AI，RAG是解决幻觉的关键](https://www.36kr.com/p/2540055776519940)
+Append: [首个获得驾照的AI，Agent担任私人助理样样精通，还能帮助考试作弊](https://www.36kr.com/p/2540056770602756)
+Append: [超越同级7B模型，中国团队开源大规模高质量图文数据集ShareGPT4V，大幅提升多模态性能](https://www.36kr.com/p/2540056900707846)
+Append: [AI画画的工分都给人类记上，AI图片侵权第一案宣判](https://www.36kr.com/p/2539532542386311)
+Append: [推出供应链大模型产品「CubeAgent」，「壹沓科技」想构建“员工+AI Agent”的智能办公方式 | 新科技创业](https://www.36kr.com/p/2539363004049155)
+Append: [Nature重磅：17天独自创造41种新材料，AI再次赢了人类](https://www.36kr.com/p/2540036626294275)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 13
+Finish: 2023-11-30 03:08:43.256836
