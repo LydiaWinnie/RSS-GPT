@@ -29892,3 +29892,79 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 2
 Finish: 2023-11-30 09:08:15.194813
+------------------------------------------------------
+Started: 2023-11-30 10:08:17.251290
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [热钱涌向大模型，但场景和应用才是创业者的机会｜CTO视角](https://www.36kr.com/p/2540571209410304)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [大健康风口之下，16年全栈程序员转身投入大模型浪潮｜我爱黑「可颂」路演项目专访](https://www.36kr.com/p/2540561058047752)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [又一场AI“宫斗”要上演？盈利困难、投资人开撕CEO](https://www.36kr.com/p/2540517195523843)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [英伟达黄仁勋的豪赌：行走在破产边缘，打造万亿 AI 「军火商」](https://www.36kr.com/p/2540260382697218)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [达摩院的AI研究，让人类首次实现了大规模胰腺癌早筛](https://www.36kr.com/p/2540294211643144)
+Append: [信息行业研报：人工智能和物联网加快智慧城市到来](https://www.36kr.com/p/2540129030594437)
+Append: [追赶微软谷歌，亚马逊两日推出多项 AI 功能](https://www.36kr.com/p/2540373852496004)
+Append: [闻道AI联合创始人朱悦瀛：AI赋能商业信息检索 | WISE2023商业之王大会](https://www.36kr.com/p/2540248272643586)
+Append: [OpenAI，困于“遥遥领先”](https://www.36kr.com/p/2540434574370569)
+Append: [嘉实基金王贵重：从能源革命到信息革命，把握ALOT时代的投资机遇](https://www.36kr.com/p/2540442714580484)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 10
+Finish: 2023-11-30 10:08:32.448108
