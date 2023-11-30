@@ -28913,3 +28913,13 @@ Append: [基層診所藥局缺抗生素 食藥署：全球藥品供應鏈失衡]
 Append: [國台辦稱未介選 邱太三：維持和平兩岸有責](https://news.pts.org.tw/article/669186)
 append_entries: 17
 Finish: 2023-11-30 07:07:37.014007
+------------------------------------------------------
+Started: 2023-11-30 08:10:24.140408
+Existing_entries: 1017
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-11-30 08:10:24.827892
