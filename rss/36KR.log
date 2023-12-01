@@ -30350,3 +30350,78 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 2
 Finish: 2023-12-01 03:09:06.131067
+------------------------------------------------------
+Started: 2023-12-01 04:09:56.247554
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [短剧行业@2023：狂飙、刹车与新生](https://www.36kr.com/p/2541558203459078)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [说到底，为什么中国需要外国人？](https://www.36kr.com/p/2541559166396163)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [第36个世界艾滋病日，他们需要被“看到”](https://www.36kr.com/p/2541562523969282)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [优必选通过港交所聆讯：即将正式成为“人形机器人第一股”](https://www.36kr.com/p/2541629469239046)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [两位女学霸，在AI圈火了](https://www.36kr.com/p/2541632853911046)
+Append: [环卫机器人和无人驾驶环卫车，有什么区别？](https://www.36kr.com/p/2541580044574855)
+Append: [从大模型到Agent会改变的游戏规则](https://www.36kr.com/p/2541616090751108)
+Append: [我国人形机器人技术专利数量全球第一，产业发展有望实现“领跑”](https://www.36kr.com/p/2541553676969734)
+Append: [全新AI视频生成工具Pika爆火，做电影都不在话下，高颜值学霸创始人被评“近乎完美”，她父亲还有家A股上市公司……](https://www.36kr.com/p/2541553678395142)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 9
+Finish: 2023-12-01 04:10:25.958006

@@ -29252,3 +29252,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-01 03:08:45.820849
+------------------------------------------------------
+Started: 2023-12-01 04:09:52.011230
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [福奇將在眾議院就新冠疫情起源和美國的應對措施作證](https://cn.wsj.com/articles/%E7%A6%8F%E5%A5%87%E5%B0%87%E5%9C%A8%E7%9C%BE%E8%AD%B0%E9%99%A2%E5%B0%B1%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E8%B5%B7%E6%BA%90%E5%92%8C%E7%BE%8E%E5%9C%8B%E7%9A%84%E6%87%89%E5%B0%8D%E6%8E%AA%E6%96%BD%E4%BD%9C%E8%AD%89-d6c9a69a)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-01 04:09:52.684798
