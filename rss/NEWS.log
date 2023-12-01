@@ -29306,3 +29306,77 @@ Append: [「中英」對很多中國人來說，季辛吉去世標誌中美關�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-12-01 05:08:03.859380
+------------------------------------------------------
+Started: 2023-12-01 06:10:59.043507
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [於中國而言，基辛格是中美關係的終極開路人](https://cn.wsj.com/articles/%E6%96%BC%E4%B8%AD%E5%9C%8B%E8%80%8C%E8%A8%80-%E5%9F%BA%E8%BE%9B%E6%A0%BC%E6%98%AF%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82%E7%9A%84%E7%B5%82%E6%A5%B5%E9%96%8B%E8%B7%AF%E4%BA%BA-f43eb78d)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台灣將引進印度移工 勞動部重申10萬人說法為假訊息](https://news.pts.org.tw/article/669380)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [空軍飛訓部成軍典禮 總統蔡英文南下親自主持](https://news.pts.org.tw/article/669378)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [花蓮原民上山打獵 機車顛簸槍枝走火中槍不治](https://news.pts.org.tw/article/669377)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [校園公共意外險補助腰斬 多數案件遭列未承保範圍](https://news.pts.org.tw/article/669393)
+Append: [酒駕釀1死3傷肇事者屋將法拍 脫產致受害者無法獨得賠償金](https://news.pts.org.tw/article/669390)
+Append: [俄裁決LGBT為非法極端分子 涉歧視聯合國籲廢除該法](https://news.pts.org.tw/article/669373)
+Append: [台南1百貨灑水系統異常釀積水 業者：已檢修完畢](https://news.pts.org.tw/article/669391)
+Append: [藥局現黴漿菌藥品購買潮 台4機場監測未驗出病例](https://news.pts.org.tw/article/669392)
+Append: [列民眾黨不分區立委名單 徐瑞希今宣布請辭公視董事【涉己新聞】](https://news.pts.org.tw/article/669366)
+append_entries: 10
+Finish: 2023-12-01 06:11:00.968285
