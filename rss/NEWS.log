@@ -29646,3 +29646,83 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-01 13:11:11.150578
+------------------------------------------------------
+Started: 2023-12-01 14:07:24.735518
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [道安基本法今三讀通過 目標2050年交通零死亡](https://news.pts.org.tw/article/669517)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台北生活成本排亞洲第12 新加坡與蘇黎世並列最貴](https://news.pts.org.tw/article/669514)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美俄恐重演核武測試競賽 哈薩克居民仍受輻射所苦](https://news.pts.org.tw/article/669515)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／以控哈瑪斯違反協議 休戰告終恢復空襲](https://news.pts.org.tw/article/669516)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [飛行訓練指揮部升格編成 時隔14年執行夜間射擊訓練](https://news.pts.org.tw/article/669524)
+Append: [2024大選／柯文哲力推代理孕母 侯友宜籲賴清德放棄台獨黨綱](https://news.pts.org.tw/article/669529)
+Append: [2024大選／投票倒數不到50日 副總統參選人積極助選盼加分](https://news.pts.org.tw/article/669528)
+Append: [台捷再簽訂備忘錄 攜手助烏克蘭解決醫療需求](https://news.pts.org.tw/article/669513)
+Append: [26企業獲「友善家庭職場獎」 提升年輕人生養意願](https://news.pts.org.tw/article/669519)
+Append: [各部會聯手打詐稱已有成效 民眾仍無感](https://news.pts.org.tw/article/669520)
+Append: [高雄輕軌事故頻傳 專家籲盤點事故樣態提前因應](https://news.pts.org.tw/article/669521)
+Append: [台中倉儲無許可證涉排廢氣 依《空污法》令停工開罰](https://news.pts.org.tw/article/669523)
+Append: [中國進口鞋靴反傾銷稅 明年1/17停止課徵](https://news.pts.org.tw/article/669525)
+Append: [境外勢力介選頻傳 國人疑赴中接受招待換選票](https://news.pts.org.tw/article/669527)
+Append: [南極企鵝爸媽護雛鳥每次睡4秒 每日打盹數千次維持警戒](https://news.pts.org.tw/article/669530)
+append_entries: 15
+Finish: 2023-12-01 14:07:26.920671
