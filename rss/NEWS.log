@@ -29595,3 +29595,12 @@ Append: [羅馬首家狗餐廳深受喜愛 餐點量身打造兼顧健康](https
 Append: [澳洲動保團體種綠色走廊 守護無尾熊供棲息地](https://news.pts.org.tw/article/669410)
 append_entries: 10
 Finish: 2023-12-01 10:08:47.857395
+------------------------------------------------------
+Started: 2023-12-01 11:06:45.617804
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-01 11:06:46.938427
