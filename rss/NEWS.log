@@ -29726,3 +29726,12 @@ Append: [境外勢力介選頻傳 國人疑赴中接受招待換選票](https://
 Append: [南極企鵝爸媽護雛鳥每次睡4秒 每日打盹數千次維持警戒](https://news.pts.org.tw/article/669530)
 append_entries: 15
 Finish: 2023-12-01 14:07:26.920671
+------------------------------------------------------
+Started: 2023-12-01 15:08:05.922582
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-01 15:08:06.921385
