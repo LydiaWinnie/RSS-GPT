@@ -29243,3 +29243,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [高麗菜栽種量「紫爆」 農糧署籲減種及轉作](https://news.pts.org.tw/article/669348)
 append_entries: 3
 Finish: 2023-12-01 02:28:56.619602
+------------------------------------------------------
+Started: 2023-12-01 03:08:43.682622
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-01 03:08:45.820849
