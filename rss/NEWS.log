@@ -29950,3 +29950,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [徐巧芯選區里長涉賄選 1人4萬交保、1請回](https://news.pts.org.tw/article/669542)
 append_entries: 2
 Finish: 2023-12-02 04:09:03.725280
+------------------------------------------------------
+Started: 2023-12-02 05:06:59.206247
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-02 05:07:01.353200
