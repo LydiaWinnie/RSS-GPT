@@ -30032,3 +30032,12 @@ Append: [勞權大遊行高雄登場 籲解決低薪等7大訴求](https://news.
 Append: [2024大選／侯友宜砲口對準綠營 批賴支持台獨不照憲法](https://news.pts.org.tw/article/669554)
 append_entries: 8
 Finish: 2023-12-02 06:09:44.398630
+------------------------------------------------------
+Started: 2023-12-02 07:06:35.862431
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-02 07:06:42.513511
