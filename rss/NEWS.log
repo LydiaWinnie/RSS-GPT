@@ -30216,3 +30216,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [大甲媽祖南巡隊伍疑食物中毒 69人屏東送醫1住院](https://news.pts.org.tw/article/669586)
 append_entries: 1
 Finish: 2023-12-02 18:08:34.622045
+------------------------------------------------------
+Started: 2023-12-02 19:05:20.522591
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-02 19:05:21.987229
