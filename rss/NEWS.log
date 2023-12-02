@@ -30159,3 +30159,12 @@ Append: [美英澳防長會面三方聯手 加強嚇阻中國霸權擴張](https
 Append: [2024大選／賴清德台中站台催票 要中市說明中捷經費問題](https://news.pts.org.tw/article/669585)
 append_entries: 8
 Finish: 2023-12-02 13:07:34.761801
+------------------------------------------------------
+Started: 2023-12-02 14:06:12.172983
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-02 14:06:16.821550
