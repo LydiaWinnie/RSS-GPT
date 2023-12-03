@@ -30553,3 +30553,12 @@ Append: [嘉義市垃圾車突起火 疑未分類危險物品釀災](https://new
 Append: [疑中國網友揭露台多處飛彈基地 學者：公開資料推測機敏性不高](https://news.pts.org.tw/article/669614)
 append_entries: 8
 Finish: 2023-12-03 13:08:11.478960
+------------------------------------------------------
+Started: 2023-12-03 14:06:21.095356
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-03 14:06:22.365694
