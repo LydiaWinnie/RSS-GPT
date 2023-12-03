@@ -30472,3 +30472,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [一週大事／《道路交通安全基本法》三讀通過 台北大巨蛋台韓開幕戰（2023.11.27-12.3）](https://news.pts.org.tw/article/669613)
 append_entries: 1
 Finish: 2023-12-03 11:06:02.279886
+------------------------------------------------------
+Started: 2023-12-03 12:12:44.574108
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-03 12:12:49.876225
