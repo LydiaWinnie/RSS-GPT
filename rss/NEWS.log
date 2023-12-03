@@ -30414,3 +30414,12 @@ Append: [數十釣客闖大林埔海岸禁區釣魚 高雄港警：勸導未果�
 Append: [大甲媽祖遶境東港74人食物中毒 屏東衛生局採集檢體送驗](https://news.pts.org.tw/article/669611)
 append_entries: 9
 Finish: 2023-12-03 06:09:22.090580
+------------------------------------------------------
+Started: 2023-12-03 07:06:41.988527
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-03 07:06:43.052281
