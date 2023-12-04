@@ -31105,3 +31105,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-04 13:10:54.516186
+------------------------------------------------------
+Started: 2023-12-04 14:07:37.165295
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國經濟欲振乏力 學者許成鋼：導因政治極權制度](https://news.pts.org.tw/article/669813)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [綠島柚子湖遭重油污染 地形受限仍需1到2週清污](https://news.pts.org.tw/article/669810)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台人旅美洛杉磯為首選 業者：避夜間活動與犯罪高發區](https://news.pts.org.tw/article/669814)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [COP28共商2030甲烷減30% 美中達協議但未加入減排宣誓](https://news.pts.org.tw/article/669815)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [國小師籲禁中國零食「魔芋爽」 醫：高鈉高脂增肝腎負擔](https://news.pts.org.tw/article/669821)
+Append: [前香港眾志成員周庭流亡加拿大 宣布一輩子不返港](https://news.pts.org.tw/article/669818)
+Append: [葉門反抗軍青年運動再襲商船 美艦馳援擊落3無人機](https://news.pts.org.tw/article/669819)
+Append: [玉山低溫-1.8°C 環境條件不足下雪機會低](https://news.pts.org.tw/article/669824)
+Append: [亞錦賽第2天大巨蛋疑漏水 遠雄：將全面巡檢加強改善](https://news.pts.org.tw/article/669823)
+Append: [空軍全面升級F-16 鳳翔專案預計明年第3季交機](https://news.pts.org.tw/article/669827)
+Append: [2司法官學員涉性騷 品德學識遭評不及格恐退訓](https://news.pts.org.tw/article/669826)
+Append: [強調美國對台灣大選立場中立 AIT處長：對台政策將維持不變](https://news.pts.org.tw/article/669829)
+Append: [中籍拖船稱避風浪進限制海域 海巡與國防部全程監控並驅離](https://news.pts.org.tw/article/669828)
+Append: [2024大選／趙少康批廢核政策 內政部回應參選人資格爭議](https://news.pts.org.tw/article/669830)
+Append: [2024大選／侯友宜提心理健康計畫 柯文哲稱澎湖2醫院應整合](https://news.pts.org.tw/article/669831)
+append_entries: 15
+Finish: 2023-12-04 14:07:37.898226
