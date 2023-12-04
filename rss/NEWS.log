@@ -31096,3 +31096,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [泰國推河面投影數位水燈 祈福兼顧環保](https://news.pts.org.tw/article/669767)
 append_entries: 3
 Finish: 2023-12-04 12:14:09.912108
+------------------------------------------------------
+Started: 2023-12-04 13:10:53.559949
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-04 13:10:54.516186
