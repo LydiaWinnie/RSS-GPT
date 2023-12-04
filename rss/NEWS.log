@@ -30725,3 +30725,12 @@ Append: [2024大選／韓國瑜台東助選 喊延伸國6改善花東交通](htt
 Append: [棒球亞錦賽台灣4:0完封南韓 奪大巨蛋歷史首勝](https://news.pts.org.tw/article/669672)
 append_entries: 7
 Finish: 2023-12-04 01:51:21.268293
+------------------------------------------------------
+Started: 2023-12-04 02:22:56.789187
+Existing_entries: 1007
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-04 02:22:58.296609
