@@ -30743,3 +30743,48 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-04 03:08:38.093446
+------------------------------------------------------
+Started: 2023-12-04 04:09:33.065138
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以色列與哈馬斯的談判停滯，加沙戰事升溫](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E8%88%87%E5%93%88%E9%A6%AC%E6%96%AF%E7%9A%84%E8%AB%87%E5%88%A4%E5%81%9C%E6%BB%AF-%E5%8A%A0%E6%B2%99%E6%88%B0%E4%BA%8B%E5%8D%87%E6%BA%AB-2eca864e)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國驅逐艦和商船在紅海遭伊朗方面無人機和飛彈襲擊](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E9%A9%85%E9%80%90%E8%89%A6%E5%92%8C%E5%95%86%E8%88%B9%E5%9C%A8%E7%B4%85%E6%B5%B7%E9%81%AD%E4%BC%8A%E6%9C%97%E6%96%B9%E9%9D%A2%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%92%8C%E9%A3%9B%E5%BD%88%E8%A5%B2%E6%93%8A-564f98e6)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」為何這些中國人冒險「走線」赴美](https://cn.nytimes.com/usa/20231204/darien-gap-china-immigration/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2023-12-04 04:09:33.805027
