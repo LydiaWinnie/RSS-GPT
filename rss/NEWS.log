@@ -30654,3 +30654,74 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-04 00:37:15.005939
+------------------------------------------------------
+Started: 2023-12-04 01:51:20.553810
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [埃菲爾鐵塔附近發生疑似恐怖襲擊，一名遊客被刺身亡](https://cn.wsj.com/articles/%E5%9F%83%E8%8F%B2%E7%88%BE%E9%90%B5%E5%A1%94%E9%99%84%E8%BF%91%E7%99%BC%E7%94%9F%E7%96%91%E4%BC%BC%E6%81%90%E6%80%96%E8%A5%B2%E6%93%8A-%E4%B8%80%E5%90%8D%E9%81%8A%E5%AE%A2%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1-5270ecf8)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [體育週報／桌球世青賽 台灣男雙U15摘改制後首金](https://news.pts.org.tw/article/669652)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [菲律賓大學彌撒爆炸4死數十傷 軍方研判恐怖主義攻擊](https://news.pts.org.tw/article/669660)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／以下疏散令後猛轟南加薩 賀錦麗譴責以傷無辜百姓](https://news.pts.org.tw/article/669661)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [桃園新屋工廠火警 近百消防救災無人傷亡](https://news.pts.org.tw/article/669666)
+Append: [2024大選／韓國瑜台東助選 喊延伸國6改善花東交通](https://news.pts.org.tw/article/669670)
+Append: [棒球亞錦賽台灣4:0完封南韓 奪大巨蛋歷史首勝](https://news.pts.org.tw/article/669672)
+append_entries: 7
+Finish: 2023-12-04 01:51:21.268293
