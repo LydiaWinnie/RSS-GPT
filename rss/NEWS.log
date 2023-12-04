@@ -31184,3 +31184,12 @@ Append: [2024大選／趙少康批廢核政策 內政部回應參選人資格爭
 Append: [2024大選／侯友宜提心理健康計畫 柯文哲稱澎湖2醫院應整合](https://news.pts.org.tw/article/669831)
 append_entries: 15
 Finish: 2023-12-04 14:07:37.898226
+------------------------------------------------------
+Started: 2023-12-04 15:08:23.896936
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-04 15:08:25.647800
