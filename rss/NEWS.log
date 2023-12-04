@@ -30891,3 +30891,24 @@ Append: [2024大選／侯柯大巨蛋議題交鋒 蕭美琴3點聲明駁國籍�
 Append: [公股行庫遭駭事件頻傳 財政部：模擬駭客找稅務弱點](https://news.pts.org.tw/article/669700)
 append_entries: 6
 Finish: 2023-12-04 06:11:12.293109
+------------------------------------------------------
+Started: 2023-12-04 07:07:53.666071
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [數百億美元的美國資金並未說服發展中國家棄煤](https://cn.wsj.com/articles/%E6%95%B8%E7%99%BE%E5%84%84%E7%BE%8E%E5%85%83%E7%9A%84%E7%BE%8E%E5%9C%8B%E8%B3%87%E9%87%91%E4%B8%A6%E6%9C%AA%E8%AA%AA%E6%9C%8D%E7%99%BC%E5%B1%95%E4%B8%AD%E5%9C%8B%E5%AE%B6%E6%A3%84%E7%85%A4-9a5b574f)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-04 07:07:55.648813
