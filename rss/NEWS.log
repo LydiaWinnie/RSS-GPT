@@ -30788,3 +30788,36 @@ Append: [「中英」為何這些中國人冒險「走線」赴美](https://cn.n
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-12-04 04:09:33.805027
+------------------------------------------------------
+Started: 2023-12-04 05:08:10.916130
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [杜拜COP28氣候峰會的幾大看點](https://cn.wsj.com/articles/%E6%9D%9C%E6%8B%9Ccop28%E6%B0%A3%E5%80%99%E5%B3%B0%E6%9C%83%E7%9A%84%E5%B9%BE%E5%A4%A7%E7%9C%8B%E9%BB%9E-492c941f)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [荒涼小島上的250名居民努力避開中國船隻](https://cn.wsj.com/articles/%E8%8D%92%E6%B6%BC%E5%B0%8F%E5%B3%B6%E4%B8%8A%E7%9A%84250%E5%90%8D%E5%B1%85%E6%B0%91%E5%8A%AA%E5%8A%9B%E9%81%BF%E9%96%8B%E4%B8%AD%E5%9C%8B%E8%88%B9%E9%9A%BB-48b01e38)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-12-04 05:08:11.757102
