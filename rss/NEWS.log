@@ -31774,3 +31774,13 @@ Append: [國防部偵獲共艦7艘次 中天權星號東北角30浬處現蹤](ht
 Append: [公告22項國家核心關鍵技術 國科會：確保國安與競爭優勢](https://news.pts.org.tw/article/670012)
 append_entries: 15
 Finish: 2023-12-05 13:11:29.801851
+------------------------------------------------------
+Started: 2023-12-05 14:07:39.143585
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-05 14:07:40.488916
