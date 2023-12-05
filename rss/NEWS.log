@@ -31695,3 +31695,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-05 12:14:11.616854
+------------------------------------------------------
+Started: 2023-12-05 13:11:28.988893
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [與那國島緊急物資少 恐難供「台灣有事」難民潮](https://news.pts.org.tw/article/670008)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美前駐玻大使是古巴間諜 潛伏時間長達40年](https://news.pts.org.tw/article/670009)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [俄烏戰爭／美援烏預算國會卡關 白宮：形同打斷烏克蘭膝蓋骨](https://news.pts.org.tw/article/670010)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [德國憲法法庭裁定預算挪用違憲 台積電設廠投變數](https://news.pts.org.tw/article/670011)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [新冠和流感疫情升溫 疾管署估春節前達高峰](https://news.pts.org.tw/article/670020)
+Append: [捷克外委會主席獲睦誼外交獎章 法國外長：台海務須和平穩定](https://news.pts.org.tw/article/670021)
+Append: [2024大選／3組總統參選人國籍審查結果 中選會：均符資格](https://news.pts.org.tw/article/670023)
+Append: [台中小學聯絡簿見活動貼紙 家長疑行政不中立](https://news.pts.org.tw/article/670015)
+Append: [松機與野柳設AI翻譯櫃檯 提供中英日韓即時翻譯](https://news.pts.org.tw/article/670016)
+Append: [批5個月年終無誠意 長榮航空勞資協商無共識](https://news.pts.org.tw/article/670017)
+Append: [殺警案辱警獲不起訴 男大生又被控騷擾家屬](https://news.pts.org.tw/article/670013)
+Append: [Toyz涉毒當電競賽頒獎人引議 體育署：頒獎人要採高標準](https://news.pts.org.tw/article/670014)
+Append: [嘉義議會通過性專區評估提案 市長：研議可能性以民意優先](https://news.pts.org.tw/article/670019)
+Append: [國防部偵獲共艦7艘次 中天權星號東北角30浬處現蹤](https://news.pts.org.tw/article/670022)
+Append: [公告22項國家核心關鍵技術 國科會：確保國安與競爭優勢](https://news.pts.org.tw/article/670012)
+append_entries: 15
+Finish: 2023-12-05 13:11:29.801851
