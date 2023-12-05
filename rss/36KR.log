@@ -32369,3 +32369,78 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-12-05 11:07:06.248032
+------------------------------------------------------
+Started: 2023-12-05 12:14:15.135501
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [上半年营收下滑12%、市值蒸发86亿港元，柠檬影视也“卷”微短剧](https://www.36kr.com/p/2547713509365632)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中国电影市场票房已超500亿元，分线发行模式启动，小众片不怕了](https://www.36kr.com/p/2547642557289347)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [大模型助力健康管理，通过认知行为疗法改变知易行难｜我爱黑「可颂」路演项目专访](https://www.36kr.com/p/2547746746717832)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中国AI大模型，应该如何商业化？](https://www.36kr.com/p/2547640530408584)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [大模型时代，AI芯片行业上演“三国杀”，国产厂商机遇何在](https://www.36kr.com/p/2547641871441796)
+Append: [性能直追GPT-4，5000个H100训成，DeepMind联创发全新一代大模型](https://www.36kr.com/p/2547710988162945)
+Append: [深度学习大牛权威预测2024年AI行业热点，盘点开源AI趋势](https://www.36kr.com/p/2547707592283780)
+Append: [“离谱的AI扩图”火了，张张那叫一个出其不意](https://www.36kr.com/p/2547697786459780)
+Append: [Transformer挑战者出现，斯坦福CMU联合团队，开源模型及代码，公司已创办](https://www.36kr.com/p/2547702340179841)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 9
+Finish: 2023-12-05 12:14:28.504603

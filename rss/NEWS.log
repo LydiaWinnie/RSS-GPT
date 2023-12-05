@@ -31686,3 +31686,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [2024大選／正副總統候選人資格審議公布 中選會：3組人均符合規定](https://news.pts.org.tw/article/669936)
 append_entries: 5
 Finish: 2023-12-05 11:06:42.843516
+------------------------------------------------------
+Started: 2023-12-05 12:14:10.007080
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-05 12:14:11.616854
