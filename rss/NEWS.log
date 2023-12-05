@@ -31452,3 +31452,84 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-05 05:07:45.183113
+------------------------------------------------------
+Started: 2023-12-05 06:10:37.040886
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以色列與哈馬斯進行開戰兩個月來最激烈戰鬥](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E8%88%87%E5%93%88%E9%A6%AC%E6%96%AF%E9%80%B2%E8%A1%8C%E9%96%8B%E6%88%B0%E5%85%A9%E5%80%8B%E6%9C%88%E4%BE%86%E6%9C%80%E6%BF%80%E7%83%88%E6%88%B0%E9%AC%A5-91e15ea1)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」華裔新人當選加拿大國會議員，中國幫忙了嗎？](https://cn.nytimes.com/world/20231205/canada-elections-china/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [高雄大林蒲遷村經費 政院核定800億元](https://news.pts.org.tw/article/669897)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北投電動大客車智慧充電 環保且省20%營運成本](https://news.pts.org.tw/article/669899)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北市都更回饋10層樓全作公務 民眾籲滿足社宅、公托需求](https://news.pts.org.tw/article/669888)
+Append: [台南安平停車場車輛燃燒 4車遭波及、起火原因待查](https://news.pts.org.tw/article/669901)
+Append: [女網友AI合成身分證及假照 台中男欲匯款警戳破詐騙](https://news.pts.org.tw/article/669902)
+Append: [吳釗燮再控中意圖介選 藉非法金流等手段分化社會](https://news.pts.org.tw/article/669890)
+Append: [落實個資保護 個資會籌備處今掛牌成立](https://news.pts.org.tw/article/669898)
+Append: [中國千禧世代移民泰國成熱門 專家：追求自由與尊嚴生活](https://news.pts.org.tw/article/669893)
+Append: [打造無人機完整供應鏈 中科院民雄院區建專屬廠房](https://news.pts.org.tw/article/669891)
+Append: [2024大選／柯文哲拋減稅加薪等勞動政策 侯辦提告邱毅散佈不實言論](https://news.pts.org.tw/article/669889)
+Append: [女大生北捷遭老翁性騷 錄影蒐證提告表明絕不和解](https://news.pts.org.tw/article/669903)
+Append: [台北大巨蛋辦亞錦賽 民眾進場開箱、身障者考察動線](https://news.pts.org.tw/article/669883)
+Append: [台鐵廁所被評為最髒公廁 6千萬預算遭立委凍結](https://news.pts.org.tw/article/669900)
+Append: [花議會刪2億多追加預算 部分議員及鄉親赴抗議](https://news.pts.org.tw/article/669887)
+Append: [前香港眾志周庭稱不再返港 港府警告將終身追捕](https://news.pts.org.tw/article/669894)
+append_entries: 17
+Finish: 2023-12-05 06:10:38.073427
