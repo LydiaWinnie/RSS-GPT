@@ -31401,3 +31401,12 @@ Append: [宜蘭警疑違法查個資 偵查小隊長、警務員訊後交保](ht
 Append: [2024大選／吳欣盈赴杜拜參與COP28 中選會今審候選人資格](https://news.pts.org.tw/article/669858)
 append_entries: 6
 Finish: 2023-12-05 02:23:15.844540
+------------------------------------------------------
+Started: 2023-12-05 03:08:45.039940
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-05 03:08:45.879030
