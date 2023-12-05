@@ -31596,3 +31596,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-05 09:08:24.418667
+------------------------------------------------------
+Started: 2023-12-05 10:09:08.263413
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國的巨額隱性債務問題已到緊要關頭](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E7%9A%84%E5%B7%A8%E9%A1%8D%E9%9A%B1%E6%80%A7%E5%82%B5%E5%8B%99%E5%95%8F%E9%A1%8C%E5%B7%B2%E5%88%B0%E7%B7%8A%E8%A6%81%E9%97%9C%E9%A0%AD-9f743656)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-05 10:09:09.135641
