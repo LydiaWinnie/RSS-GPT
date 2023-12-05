@@ -31533,3 +31533,24 @@ Append: [花議會刪2億多追加預算 部分議員及鄉親赴抗議](https:/
 Append: [前香港眾志周庭稱不再返港 港府警告將終身追捕](https://news.pts.org.tw/article/669894)
 append_entries: 17
 Finish: 2023-12-05 06:10:38.073427
+------------------------------------------------------
+Started: 2023-12-05 07:07:43.802443
+Existing_entries: 1017
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」台灣大選的不確定因素：沮喪的年輕選民](https://cn.nytimes.com/asia-pacific/20231205/taiwan-election-youth-vote-china/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-05 07:07:47.489966
