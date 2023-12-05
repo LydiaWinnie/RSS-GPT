@@ -31587,3 +31587,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [未登記工廠可申請就地合法 民團憂消防困難籲推群聚政策](https://news.pts.org.tw/article/669886)
 append_entries: 2
 Finish: 2023-12-05 08:10:43.869566
+------------------------------------------------------
+Started: 2023-12-05 09:08:22.283876
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-05 09:08:24.418667
