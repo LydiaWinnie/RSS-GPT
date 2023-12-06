@@ -32351,3 +32351,12 @@ Append: [2024大選／蕭美琴接見歐記者訪團 柯批賴、侯兩岸政策
 Append: [高雄社團疑受國台辦指示 號召赴中受招待、介選](https://news.pts.org.tw/article/670216)
 append_entries: 15
 Finish: 2023-12-06 13:11:07.237057
+------------------------------------------------------
+Started: 2023-12-06 14:07:30.123053
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-06 14:07:30.924479
