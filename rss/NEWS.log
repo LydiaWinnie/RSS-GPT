@@ -31878,3 +31878,73 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-06 00:37:12.331569
+------------------------------------------------------
+Started: 2023-12-06 01:51:10.724589
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國稱向俄羅斯提出換回格什科維奇和惠蘭的提議，但遭到俄方拒絕](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E7%A8%B1%E5%90%91%E4%BF%84%E7%BE%85%E6%96%AF%E6%8F%90%E5%87%BA%E6%8F%9B%E5%9B%9E%E6%A0%BC%E4%BB%80%E7%A7%91%E7%B6%AD%E5%A5%87%E5%92%8C%E6%83%A0%E8%98%AD%E7%9A%84%E6%8F%90%E8%AD%B0-%E4%BD%86%E9%81%AD%E5%88%B0%E4%BF%84%E6%96%B9%E6%8B%92%E7%B5%95-f0b2135c)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [普丁罕見出訪海外，尋求與中東建立更緊密關係](https://cn.wsj.com/articles/%E6%99%AE%E4%B8%81%E7%BD%95%E8%A6%8B%E5%87%BA%E8%A8%AA%E6%B5%B7%E5%A4%96-%E5%B0%8B%E6%B1%82%E8%88%87%E4%B8%AD%E6%9D%B1%E5%BB%BA%E7%AB%8B%E6%9B%B4%E7%B7%8A%E5%AF%86%E9%97%9C%E4%BF%82-8225edf4)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以色列加緊進攻哈馬斯在加沙的最後一個主要據點](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E5%8A%A0%E7%B7%8A%E9%80%B2%E6%94%BB%E5%93%88%E9%A6%AC%E6%96%AF%E5%9C%A8%E5%8A%A0%E6%B2%99%E7%9A%84%E6%9C%80%E5%BE%8C%E4%B8%80%E5%80%8B%E4%B8%BB%E8%A6%81%E6%93%9A%E9%BB%9E-f8b558b4)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [PISA學生能力評量出爐 台灣數學閱讀科學全球前5](https://news.pts.org.tw/article/670036)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／以色列控性侵婦女 哈瑪斯否認籲國際調查](https://news.pts.org.tw/article/670039)
+Append: [台灣19:0提前扣倒巴勒斯坦 亞錦賽分組第1晉級](https://news.pts.org.tw/article/670048)
+append_entries: 6
+Finish: 2023-12-06 01:51:12.620789
