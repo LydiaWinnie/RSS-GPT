@@ -31948,3 +31948,12 @@ Append: [以哈戰爭／以色列控性侵婦女 哈瑪斯否認籲國際調查]
 Append: [台灣19:0提前扣倒巴勒斯坦 亞錦賽分組第1晉級](https://news.pts.org.tw/article/670048)
 append_entries: 6
 Finish: 2023-12-06 01:51:12.620789
+------------------------------------------------------
+Started: 2023-12-06 02:22:23.209593
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-06 02:22:24.142239
