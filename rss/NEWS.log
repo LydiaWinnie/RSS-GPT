@@ -32263,3 +32263,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [「撞球之子」楊清順因病離世 享年45歲](https://news.pts.org.tw/article/670127)
 append_entries: 5
 Finish: 2023-12-06 11:06:51.600285
+------------------------------------------------------
+Started: 2023-12-06 12:14:20.095488
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-06 12:14:30.424834
