@@ -32143,3 +32143,12 @@ Append: [11月才爆排廢油至下水道 鬍鬚張合作工程行再涉倒毒�
 Append: [馬文君遭控國有農地蓋莊園違建 國產署：為合法租地](https://news.pts.org.tw/article/670092)
 append_entries: 13
 Finish: 2023-12-06 07:07:35.937386
+------------------------------------------------------
+Started: 2023-12-06 08:10:27.163553
+Existing_entries: 1013
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-06 08:10:28.675141
