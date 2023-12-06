@@ -32185,3 +32185,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [身心障團體疾呼，新國會需有身心障立委！【獨立特派員】](https://news.pts.org.tw/article/670125)
 append_entries: 2
 Finish: 2023-12-06 09:08:11.052804
+------------------------------------------------------
+Started: 2023-12-06 10:08:22.036804
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-06 10:08:23.730615
