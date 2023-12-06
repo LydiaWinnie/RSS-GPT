@@ -32272,3 +32272,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-06 12:14:30.424834
+------------------------------------------------------
+Started: 2023-12-06 13:11:04.112346
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [公視紀錄觀點《島上》 新舊視角反思蘭嶼文化衝擊【涉己新聞】](https://news.pts.org.tw/article/670193)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [科技執法引商家反彈喊停 台南新化老街仍冷清](https://news.pts.org.tw/article/670195)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [嘉義消防新勤休制度惹議 消防局：依法保障健康權](https://news.pts.org.tw/article/670196)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [法國下議院通過 禁售禁用1次性電子煙產品](https://news.pts.org.tw/article/670200)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [莫斯科暴雪1天積逾35公分 雅庫次克降到零下58度](https://news.pts.org.tw/article/670202)
+Append: [COP28提逐步淘汰化石燃料 遭中國與沙國反對](https://news.pts.org.tw/article/670203)
+Append: [台積電德國設廠缺人才 當地大學送30生來台修習](https://news.pts.org.tw/article/670204)
+Append: [11月消費者物價指數逼近3% 主計處：氣候影響蔬果價格](https://news.pts.org.tw/article/670205)
+Append: [大巨蛋賽事又見黃牛 立院修法盼遏止歪風](https://news.pts.org.tw/article/670206)
+Append: [馬文君宅第位國有地農地 南投縣政府證實無申請建照](https://news.pts.org.tw/article/670209)
+Append: [航基站組長涉盜賣扣案毒品 今遭監察院全票彈劾](https://news.pts.org.tw/article/670210)
+Append: [台東電器行大火屋主兒受困 搶救後送醫不治](https://news.pts.org.tw/article/670211)
+Append: [合歡山武嶺今下冰霰 晚間水氣遠離轉乾冷](https://news.pts.org.tw/article/670213)
+Append: [2024大選／蕭美琴接見歐記者訪團 柯批賴、侯兩岸政策](https://news.pts.org.tw/article/670214)
+Append: [高雄社團疑受國台辦指示 號召赴中受招待、介選](https://news.pts.org.tw/article/670216)
+append_entries: 15
+Finish: 2023-12-06 13:11:07.237057
