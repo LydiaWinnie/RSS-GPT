@@ -32835,3 +32835,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-07 12:14:25.567775
+------------------------------------------------------
+Started: 2023-12-07 13:11:09.235618
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [棒球亞錦超級循環賽明開打 台日戰大巨蛋門票秒殺](https://news.pts.org.tw/article/670383)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [經濟部4億推動住宅節能補助 汰換燃氣器具最高補助5千](https://news.pts.org.tw/article/670387)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [COP28提2050前空調碳排減6成 逾63國響應參與](https://news.pts.org.tw/article/670388)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [秘魯前日裔總統藤森特赦引議 美洲人權法院促重新評估](https://news.pts.org.tw/article/670392)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [義大利宣布退出「一帶一路」 與中國保持經貿合作](https://news.pts.org.tw/article/670393)
+Append: [明揚科技大火後提解雇計畫 擬資遣254人](https://news.pts.org.tw/article/670399)
+Append: [玉山零下8.2度雪霸公園迎雪 明年1至3月雪山施行登山管理](https://news.pts.org.tw/article/670403)
+Append: [G7領袖視訊會議談台海議題 攸關國際安全與繁榮](https://news.pts.org.tw/article/670405)
+Append: [台灣2023年代表字 「缺」第一「蛋」居次](https://news.pts.org.tw/article/670382)
+Append: [香港研發AI光纖布料 透過「手勢」改變布料顏色](https://news.pts.org.tw/article/670389)
+Append: [登近2千筆假發票抽抵用券 高雄母子遭判刑](https://news.pts.org.tw/article/670394)
+Append: [黃國昌再控賴老家涉違建 賴競辦：礦區合法房舍](https://news.pts.org.tw/article/670395)
+Append: [北市酒店冷凍三點蟹驗出含鎘 衛生局要求下架酒店已停用](https://news.pts.org.tw/article/670396)
+Append: [彰縣某國中15師控校長霸凌 連署促罷免縣府將調查](https://news.pts.org.tw/article/670397)
+Append: [台版N號房案86少女遭誘拍片 中檢起訴6嫌求刑5至30年](https://news.pts.org.tw/article/670402)
+append_entries: 15
+Finish: 2023-12-07 13:11:10.503398
