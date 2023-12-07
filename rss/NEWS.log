@@ -32784,3 +32784,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [住宅燃氣節能產品補助明年上路 經濟部投4億汰舊23萬台](https://news.pts.org.tw/article/670285)
 append_entries: 2
 Finish: 2023-12-07 09:08:06.842074
+------------------------------------------------------
+Started: 2023-12-07 10:08:42.521562
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-07 10:08:52.375816
