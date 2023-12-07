@@ -32826,3 +32826,12 @@ Append: [「中英」季辛吉對中國的認知是正確的，至今如是](htt
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-12-07 11:07:01.998022
+------------------------------------------------------
+Started: 2023-12-07 12:14:19.317608
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-07 12:14:25.567775
