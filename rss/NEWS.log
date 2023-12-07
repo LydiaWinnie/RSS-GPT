@@ -32914,3 +32914,12 @@ Append: [彰縣某國中15師控校長霸凌 連署促罷免縣府將調查](htt
 Append: [台版N號房案86少女遭誘拍片 中檢起訴6嫌求刑5至30年](https://news.pts.org.tw/article/670402)
 append_entries: 15
 Finish: 2023-12-07 13:11:10.503398
+------------------------------------------------------
+Started: 2023-12-07 14:07:30.467596
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-07 14:07:31.226910
