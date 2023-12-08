@@ -34330,3 +34330,90 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [怎么分配股权才能最大化实现激励效应？牢记这6项法则](https://www.36kr.com/p/2551956634917251)
 append_entries: 1
 Finish: 2023-12-08 11:06:57.296927
+------------------------------------------------------
+Started: 2023-12-08 12:14:12.900421
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [在跨年纯爱之前，《亮星星》先上演了年度悬疑](https://www.36kr.com/p/2551747581843589)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [《拿破仑》中国市场表现不佳，但仍有积极意义](https://www.36kr.com/p/2551872168089737)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [短剧催生新职业：「搬剧工」上线，被指侵权？](https://www.36kr.com/p/2551950599968896)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [不统计中国票房，BOX OFFICE Mojo是歧视吗？](https://www.36kr.com/p/2551897213573513)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [谷歌又没能“遥遥领先”](https://www.36kr.com/p/2551964785252743)
+Append: [谷歌急推大模型，夺回交椅的第一步](https://www.36kr.com/p/2551993421633926)
+Append: [RAG+GPT-4 Turbo让模型性能飙升，更长上下文不是终局，「大海捞针」实验成本仅4%](https://www.36kr.com/p/2551963406096774)
+Append: [9大认知：一文看懂未来10亿人的AI伴侣要如何入局打造 | Boss宣讲会](https://www.36kr.com/p/2551917299914885)
+Append: [谷歌发布大模型，国内“百模大战”鏖战正酣](https://www.36kr.com/p/2551946111721606)
+Append: [何恺明新作：简单框架达成无条件图像生成新SOTA，与MIT合作完成](https://www.36kr.com/p/2551976960366978)
+Append: [马斯克的Grok大模型能玩了，嘴跟他本人一样损](https://www.36kr.com/p/2551973061056897)
+Append: [OpenAI员工自曝：根本不想去微软，联名辞职逼宫只是最后手段](https://www.36kr.com/p/2551975610030467)
+Append: [Gemini的展示是剪辑造假？我们亲测了一下，发现…](https://www.36kr.com/p/2551957885868420)
+Append: [MIT斯坦福Transformer最新研究：过度训练让中度模型「涌现」结构泛化能力](https://www.36kr.com/p/2551967477913992)
+Append: [如何让生成式AI更环保](https://www.36kr.com/p/2508292429758467)
+Append: [大模型，能给在线教育讲个新故事吗？](https://www.36kr.com/p/2551835040979335)
+Append: [妙鸭用 AI 搞修图，「美妙大战」要来了？](https://www.36kr.com/p/2551846623254912)
+Append: [灰熊做空商汤：先有结论、再找论据的做空，已经走入死胡同](https://www.36kr.com/p/2551710359134339)
+Append: [AI再颠覆材料学，微软MatterGen直接生成新材料，稳定性超SOTA模型2.9倍](https://www.36kr.com/p/2551647357098377)
+Append: [谷歌Gemini被曝视频造假，多模态视频竟是剪辑配音，击败GPT-4靠「作弊」？](https://www.36kr.com/p/2551647138208136)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Append: [36氪首发｜「维享时空」完成千万级战略融资，构建元宇宙合作网络，加速技术落地应用](https://www.36kr.com/p/2488669496449156)
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 21
+Finish: 2023-12-08 12:14:31.236166

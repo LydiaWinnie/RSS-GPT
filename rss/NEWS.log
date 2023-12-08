@@ -33482,3 +33482,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [以正義之名濫用「私人逮捕」 反成日本社會亂象](https://news.pts.org.tw/article/670527)
 append_entries: 5
 Finish: 2023-12-08 11:06:48.211958
+------------------------------------------------------
+Started: 2023-12-08 12:14:07.965024
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-08 12:14:09.405805
