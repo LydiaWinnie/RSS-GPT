@@ -33491,3 +33491,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-08 12:14:09.405805
+------------------------------------------------------
+Started: 2023-12-08 13:09:50.268031
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [穆迪國際信評機構報告 中國主權信用評等下調到負面](https://news.pts.org.tw/article/670592)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [嘉義縣邁入超高齡化社會 長照2.0恐生保小不保大隱患](https://news.pts.org.tw/article/670593)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [東南亞各國爭疫後觀光潮 泰越柬興建或擴建機場](https://news.pts.org.tw/article/670595)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [委國公投贊同擁艾瑟奎波主權 蓋亞那不滿求國際主持公道](https://news.pts.org.tw/article/670596)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [日北海道巴士車禍 台澳9旅客和1司機送醫](https://news.pts.org.tw/article/670597)
+Append: [法民眾聚集巴黎攔路抗議 促政府積極改善建築散熱](https://news.pts.org.tw/article/670599)
+Append: [福島核廢水排放疑慮 日官員與台學者對談](https://news.pts.org.tw/article/670600)
+Append: [2024大選／總統辯論30日舉行 副總統辯論暫定明年元旦](https://news.pts.org.tw/article/670610)
+Append: [Lin bay好油自導自演恐嚇案 林裕紘、許哲賓遭起訴](https://news.pts.org.tw/article/670612)
+Append: [雙北、桃園和台中 宣布下週解禁校園液蛋](https://news.pts.org.tw/article/670607)
+Append: [台南畫室負責人猥褻9女童 公開姓名並終身禁任教](https://news.pts.org.tw/article/670604)
+Append: [中港澳入境鼓勵採檢 首驗出兒童肺炎黴漿菌](https://news.pts.org.tw/article/670608)
+Append: [台中假戀愛詐騙案上百人受害 破獲逾2百萬現金及名牌包](https://news.pts.org.tw/article/670606)
+Append: [聲請獄中投票二審敗訴 續聲請憲法審查今說明會](https://news.pts.org.tw/article/670602)
+Append: [朱學恒性騷鍾沛君案開庭 鍾批朱拒道歉增添傷害](https://news.pts.org.tw/article/670603)
+append_entries: 15
+Finish: 2023-12-08 13:09:51.168399

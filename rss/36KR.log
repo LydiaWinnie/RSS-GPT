@@ -34417,3 +34417,38 @@ Append: [36氪首发｜「维享时空」完成千万级战略融资，构建元
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 21
 Finish: 2023-12-08 12:14:31.236166
+------------------------------------------------------
+Started: 2023-12-08 13:09:54.700911
+Existing_entries: 1021
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [你为什么做事总是三分钟热度？](https://www.36kr.com/p/2491011141310598)
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [一条短剧剪辑视频分佣75万，泼天的富贵终于轮到了影视剪辑号](https://www.36kr.com/p/2490980919236484)
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 2
+Finish: 2023-12-08 13:10:13.295315
