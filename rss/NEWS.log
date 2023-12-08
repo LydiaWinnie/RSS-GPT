@@ -33326,3 +33326,81 @@ Append: [內華達大學槍擊案釀3死 罹難者含台灣教授張家禎](http
 Append: [小綠人唱歌倡道安遭怨聽不清 宜縣府：持續精進歌曲咬字](https://news.pts.org.tw/article/670462)
 append_entries: 15
 Finish: 2023-12-08 08:10:41.428660
+------------------------------------------------------
+Started: 2023-12-08 09:07:56.662532
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」AI毀滅人類的「末日概率」是多少](https://cn.nytimes.com/technology/20231208/silicon-valley-artificial-intelligence/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」中國電動汽車行業面臨技術工人短缺](https://cn.nytimes.com/business/20231208/china-electric-vehicles/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [生成式AI問世1週年用戶上億 2032年產業規模估翻9倍](https://news.pts.org.tw/article/670485)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [香蕉貨運船夾帶古柯鹼 厄瓜多成毒品轉運大國](https://news.pts.org.tw/article/670484)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [帕德嫩雕像歸屬爭議 引發英國與希臘外交爭執](https://news.pts.org.tw/article/670486)
+Append: [Linbay好油自導自演恐嚇案 桃檢偵結起訴建議從重量刑](https://news.pts.org.tw/article/670498)
+Append: [以哈戰爭／為巴勒斯坦祈福 伯利恆耶誕慶祝活動取消](https://news.pts.org.tw/article/670487)
+Append: [亞美尼亞士兵陣亡斷後 政府推代理孕母協助家屬](https://news.pts.org.tw/article/670488)
+Append: [法「亞爾薩斯式」老屋凋零 有心人士整修保存](https://news.pts.org.tw/article/670492)
+Append: [俄烏戰爭／男性上戰場導致缺工 烏克蘭礦場首見女性礦工](https://news.pts.org.tw/article/670493)
+Append: [義右翼政府因缺工軟化排外 幾內亞移民受訓成公車司機](https://news.pts.org.tw/article/670494)
+Append: [非洲大蝸牛全身寶 象牙海岸契作創可觀經濟產值](https://news.pts.org.tw/article/670495)
+Append: [英國農場轉型推心理治療 擁抱牛隻有助減緩壓力](https://news.pts.org.tw/article/670496)
+Append: [芬蘭耶老村邀親子免費入住 換上精靈裝實習耶老郵局](https://news.pts.org.tw/article/670497)
+append_entries: 14
+Finish: 2023-12-08 09:07:59.229964
