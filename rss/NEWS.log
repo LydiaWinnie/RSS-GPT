@@ -33151,3 +33151,12 @@ Append: [「中英」歐盟領導人就貿易和俄羅斯問題向中國施壓](
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-12-08 03:08:35.973195
+------------------------------------------------------
+Started: 2023-12-08 04:09:45.471719
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-08 04:09:47.397448
