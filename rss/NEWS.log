@@ -33247,3 +33247,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-08 07:07:35.588789
+------------------------------------------------------
+Started: 2023-12-08 08:10:37.955363
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [濁水溪裸露地面積增200公頃 水、綠覆蓋及防洪植栽防揚塵](https://news.pts.org.tw/article/670460)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中華郵政發行人權郵票 局贈封限量500份陳揆見證](https://news.pts.org.tw/article/670464)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台中特教學校助理難補齊 工作繁瑣但月薪僅2萬8](https://news.pts.org.tw/article/670479)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台美貿易倡議下階段談判 政院：不排除進行關稅協商](https://news.pts.org.tw/article/670474)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2025年全面消除C肝計畫 免費提供45至79歲民眾篩檢](https://news.pts.org.tw/article/670470)
+Append: [台東計畫區空地雜草逾60公分 環保局開罰最高6千元](https://news.pts.org.tw/article/670461)
+Append: [美參眾院公布國防授權法案 要求助台灣軍隊培訓](https://news.pts.org.tw/article/670473)
+Append: [攜幼子登記參選疑遭嘲諷 小歐盟批新北選委會歧視](https://news.pts.org.tw/article/670465)
+Append: [代購帳戶供匯款但雇主未出貨 民眾成詐欺共犯帳戶遭凍結](https://news.pts.org.tw/article/670466)
+Append: [苗栗竹南養鵝場染H5N1禽流感 已撲殺1800隻鵝](https://news.pts.org.tw/article/670481)
+Append: [運動科學輔助選手訓練 體育署發表試行第3年度成果](https://news.pts.org.tw/article/670468)
+Append: [2024大選／柯出節目猛攻藍綠 侯推購屋政策賴喊國會過半](https://news.pts.org.tw/article/670463)
+Append: [高雄公車司機遭控訓斥長者 客運公司：憂跌倒說話未修飾](https://news.pts.org.tw/article/670482)
+Append: [內華達大學槍擊案釀3死 罹難者含台灣教授張家禎](https://news.pts.org.tw/article/670483)
+Append: [小綠人唱歌倡道安遭怨聽不清 宜縣府：持續精進歌曲咬字](https://news.pts.org.tw/article/670462)
+append_entries: 15
+Finish: 2023-12-08 08:10:41.428660
