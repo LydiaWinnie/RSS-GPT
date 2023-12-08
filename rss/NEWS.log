@@ -33570,3 +33570,13 @@ Append: [聲請獄中投票二審敗訴 續聲請憲法審查今說明會](https
 Append: [朱學恒性騷鍾沛君案開庭 鍾批朱拒道歉增添傷害](https://news.pts.org.tw/article/670603)
 append_entries: 15
 Finish: 2023-12-08 13:09:51.168399
+------------------------------------------------------
+Started: 2023-12-08 14:07:19.121145
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-08 14:07:22.041798
