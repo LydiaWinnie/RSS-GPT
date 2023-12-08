@@ -33404,3 +33404,12 @@ Append: [英國農場轉型推心理治療 擁抱牛隻有助減緩壓力](https
 Append: [芬蘭耶老村邀親子免費入住 換上精靈裝實習耶老郵局](https://news.pts.org.tw/article/670497)
 append_entries: 14
 Finish: 2023-12-08 09:07:59.229964
+------------------------------------------------------
+Started: 2023-12-08 10:08:16.722436
+Existing_entries: 1014
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-08 10:08:18.498079
