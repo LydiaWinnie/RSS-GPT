@@ -33826,3 +33826,12 @@ Append: [2024大選／12/30總統候選人辯論 侯拋國家願景、賴提國�
 Append: [棒球亞錦超級循環賽 台灣延長賽0:1不敵日本](https://news.pts.org.tw/article/670625)
 append_entries: 7
 Finish: 2023-12-09 06:09:22.057241
+------------------------------------------------------
+Started: 2023-12-09 07:06:52.892430
+Existing_entries: 1007
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-09 07:06:54.576777
