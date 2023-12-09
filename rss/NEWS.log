@@ -33929,3 +33929,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [台灣30年來首例 屏東3羊染人畜共通「布氏桿菌」](https://news.pts.org.tw/article/670638)
 append_entries: 2
 Finish: 2023-12-09 12:12:53.459010
+------------------------------------------------------
+Started: 2023-12-09 13:07:46.864863
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-09 13:07:47.545955
