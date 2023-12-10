@@ -34382,3 +34382,12 @@ Append: [工鬥團體彰化悼殉職消防員 籲重視消防員職安允成立�
 Append: [中國發射衛星火箭經台空域 國防部未提「對台無害」](https://news.pts.org.tw/article/670731)
 append_entries: 9
 Finish: 2023-12-10 12:12:48.146904
+------------------------------------------------------
+Started: 2023-12-10 13:07:59.172894
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-10 13:08:00.585160
