@@ -34121,3 +34121,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [大谷翔平加盟洛杉磯道奇 簽下10年7億美金合約](https://news.pts.org.tw/article/670684)
 append_entries: 1
 Finish: 2023-12-10 01:54:14.615684
+------------------------------------------------------
+Started: 2023-12-10 02:24:01.120804
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-10 02:24:02.363490
