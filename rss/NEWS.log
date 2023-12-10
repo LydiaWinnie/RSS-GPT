@@ -34160,3 +34160,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [棒球亞錦賽台灣隊2:1勝菲 今晚與日本爭冠](https://news.pts.org.tw/article/670683)
 append_entries: 1
 Finish: 2023-12-10 04:09:30.810175
+------------------------------------------------------
+Started: 2023-12-10 05:07:02.030403
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-10 05:07:02.851810
