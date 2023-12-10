@@ -34421,3 +34421,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [台日亞錦賽二度交鋒爭冠 台灣隊0：1亞軍作收](https://news.pts.org.tw/article/670733)
 append_entries: 1
 Finish: 2023-12-10 15:07:01.162774
+------------------------------------------------------
+Started: 2023-12-10 16:08:35.383877
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-10 16:08:36.261009
