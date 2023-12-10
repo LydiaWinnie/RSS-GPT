@@ -34282,3 +34282,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [「二刀流」大谷翔平加盟道奇 10年7億美金創紀錄](https://news.pts.org.tw/article/670694)
 append_entries: 2
 Finish: 2023-12-10 08:09:43.402046
+------------------------------------------------------
+Started: 2023-12-10 09:06:59.623942
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-10 09:07:01.682814
