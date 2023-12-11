@@ -34688,3 +34688,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-11 06:11:05.050318
+------------------------------------------------------
+Started: 2023-12-11 07:07:43.495331
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [子女代領諾貝爾和平獎 穆哈瑪迪批伊朗鎮壓異議者](https://news.pts.org.tw/article/670782)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國田納西州龍捲風肆虐 至少6死60傷、22處建築倒塌](https://news.pts.org.tw/article/670791)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [花蓮漁船進水沉沒 環保局拉防護網擋油污](https://news.pts.org.tw/article/670779)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [次世代基因檢測擬明年納健保 首波納11癌但排除腸癌晚期](https://news.pts.org.tw/article/670789)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [15件國寶南美館二館展出 史上最大規模](https://news.pts.org.tw/article/670784)
+Append: [總統見日駐台新代表片山和之 盼助台入國際組織](https://news.pts.org.tw/article/670794)
+Append: [2024選戰白熱化 內政部：介選最嚴重是假訊息](https://news.pts.org.tw/article/670795)
+Append: [央行14日利率決策可能連3凍 黃天牧：市場對台股有信心](https://news.pts.org.tw/article/670796)
+Append: [高雄遶境燃鞭炮煙霧瀰漫 違《空污法》等最高恐罰21萬](https://news.pts.org.tw/article/670797)
+Append: [娃娃機業者抓50元偽幣換真幣 苗栗女稱代中國網友兌換得酬](https://news.pts.org.tw/article/670799)
+Append: [2024大選／總統候選人號次出爐 柯盈1號、賴蕭2號、侯康3號](https://news.pts.org.tw/article/670800)
+Append: [宜蘭擬標售中興文創周邊土地 地方憂財團炒作籲分割標售](https://news.pts.org.tw/article/670785)
+Append: [傳中共策動飛官駕機叛逃 邱國正：不會隱而不報](https://news.pts.org.tw/article/670801)
+Append: [呼吸道疾病盛行 中國國家疾控局發布口罩指引](https://news.pts.org.tw/article/670788)
+Append: [囤房稅2.0上週未排審 民團憂休會前未三讀恐歸零](https://news.pts.org.tw/article/670786)
+append_entries: 15
+Finish: 2023-12-11 07:07:44.894947
