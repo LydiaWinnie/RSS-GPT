@@ -35801,3 +35801,81 @@ Feed error: 404
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 2
 Finish: 2023-12-11 11:11:46.555760
+------------------------------------------------------
+Started: 2023-12-11 12:14:42.617855
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [爱奇艺梦碎VR](https://www.36kr.com/p/2556255738322822)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [一部爆款短剧的诞生：投流占八九成，暴富靠概率？制片人出海赌未来](https://www.36kr.com/p/2556183327742341)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [他们为什么慎谈AI？](https://www.36kr.com/p/2556244614518919)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [零一万物最新发声：不涉及套壳、抄袭，权威榜单排名直追GPT-4](https://www.36kr.com/p/2556231158651008)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [仿人脑神经开发AI，剑桥大学最新研究登Nature子刊，人造大脑成AI新方向](https://www.36kr.com/p/2556269270571140)
+Append: [MIT顶尖机器人学家创业，融资数千万，受线虫启发开发液态网络，叫板OpenAI](https://www.36kr.com/p/2556263229724807)
+Append: [语言模型两大巨头Grok与ChatGPT-4有什么不同？](https://www.36kr.com/p/2556212660410500)
+Append: [2023，没有一个打工人逃得过AI](https://www.36kr.com/p/2556198864492673)
+Append: [中国科学院大学教授吴易明最新解析：何为“具身智能”？](https://www.36kr.com/p/2550443711996039)
+Append: [全球AI监管：欧盟立法者就人工智能规则达成里程碑协议](https://www.36kr.com/p/2556150698385289)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Append: [谈谈现代组织如何构建数据治理](https://www.36kr.com/p/2556215334000771)
+append_entries: 11
+Finish: 2023-12-11 12:16:38.982769
