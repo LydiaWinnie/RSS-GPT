@@ -35041,3 +35041,13 @@ Append: [政府編10億元助蘭嶼復原 陳建仁承諾2年內電纜地下化]
 Append: [彰化二林露天燃稻稈已罰85件 環團盼加強媒合廢材去化管道](https://news.pts.org.tw/article/670917)
 append_entries: 9
 Finish: 2023-12-11 15:08:31.037330
+------------------------------------------------------
+Started: 2023-12-11 16:10:24.152256
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-11 16:10:24.832434
