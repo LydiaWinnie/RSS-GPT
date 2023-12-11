@@ -34833,3 +34833,24 @@ Append: [「中英」中國與西方國家之間的緊張關係將如何影響�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-12-11 09:09:06.412356
+------------------------------------------------------
+Started: 2023-12-11 10:09:21.848544
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國汽車廠商引領「亞洲底特律」電動化轉型](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E6%B1%BD%E8%BB%8A%E5%BB%A0%E5%95%86%E5%BC%95%E9%A0%98-%E4%BA%9E%E6%B4%B2%E5%BA%95%E7%89%B9%E5%BE%8B-%E9%9B%BB%E5%8B%95%E5%8C%96%E8%BD%89%E5%9E%8B-6b01fb84)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-11 10:09:22.766476
