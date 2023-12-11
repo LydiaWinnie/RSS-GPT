@@ -34767,3 +34767,36 @@ Append: [呼吸道疾病盛行 中國國家疾控局發布口罩指引](https://
 Append: [囤房稅2.0上週未排審 民團憂休會前未三讀恐歸零](https://news.pts.org.tw/article/670786)
 append_entries: 15
 Finish: 2023-12-11 07:07:44.894947
+------------------------------------------------------
+Started: 2023-12-11 08:11:33.390957
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」《晶片戰爭》：決定全球地緣政治平衡的小小晶片](https://cn.nytimes.com/culture/20221012/chip-war-chris-miller/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」香港的霓虹燈都哪兒去了](https://cn.nytimes.com/china/20231211/hong-kong-neon-signs/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-12-11 08:11:35.672792
