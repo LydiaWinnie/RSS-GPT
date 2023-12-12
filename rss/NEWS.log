@@ -35324,3 +35324,12 @@ Append: [雪隧轎車撞故障小貨車釀1死 駕駛稱來不及放警示錐](h
 Append: [《最低工資法》三讀通過 違法業主最高可罰150萬](https://news.pts.org.tw/article/670966)
 append_entries: 11
 Finish: 2023-12-12 06:10:32.459175
+------------------------------------------------------
+Started: 2023-12-12 07:07:29.427543
+Existing_entries: 1011
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-12 07:07:30.146641
