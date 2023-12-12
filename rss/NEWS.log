@@ -35199,3 +35199,12 @@ Append: [中國北京迎入冬初雪 道路及航空交通大亂](https://news.p
 Append: [未提逐步淘汰化石燃料 COP28核心協議草案惹議](https://news.pts.org.tw/article/670948)
 append_entries: 10
 Finish: 2023-12-12 01:52:09.282212
+------------------------------------------------------
+Started: 2023-12-12 02:23:25.185893
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-12 02:23:25.936797
