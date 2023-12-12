@@ -35333,3 +35333,78 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-12 07:07:30.146641
+------------------------------------------------------
+Started: 2023-12-12 08:10:54.298392
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」AI軍備競賽：一場永遠改變了矽谷的巨頭之戰](https://cn.nytimes.com/technology/20231212/ai-chatgpt-google-meta/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [傳以色列曾用白磷彈攻擊黎南 白宮表示關切](https://news.pts.org.tw/article/670990)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [老舊瓦斯管線殘氣外洩 台南老公寓疏散19人](https://news.pts.org.tw/article/670982)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [花蓮卓樂部落用水困難 盼縣府助釐清主委改選爭議](https://news.pts.org.tw/article/670981)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [醫團評3黨候選人醫療政策 籲另提政策吸引護理師留任](https://news.pts.org.tw/article/670983)
+Append: [交通部擬修黃線停車規則 於地面標示禁停時段](https://news.pts.org.tw/article/670994)
+Append: [疑AI深偽仿聲詐騙 專家：講話5秒即可擬真7成](https://news.pts.org.tw/article/670992)
+Append: [鼓勵青農種回楊桃樹 莿桐農會推「不砍樹承接」計畫](https://news.pts.org.tw/article/670978)
+Append: [台日經貿會今台北登場 將簽署橫濱與基隆關稅備忘錄](https://news.pts.org.tw/article/670987)
+Append: [邰智源批砍樹設吸菸區 中正紀念堂：因染褐根病已全面禁菸](https://news.pts.org.tw/article/670985)
+Append: [雄女聖誕樹要價7萬遭批貴 校方：為金屬梁柱將最大化運用](https://news.pts.org.tw/article/670980)
+append_entries: 11
+Finish: 2023-12-12 08:10:55.280366
