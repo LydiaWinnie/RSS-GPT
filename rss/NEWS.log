@@ -35249,3 +35249,78 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-12 05:07:55.269864
+------------------------------------------------------
+Started: 2023-12-12 06:10:31.257793
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國眾議院議長約翰遜堅持烏克蘭援助方案應包括美國邊境措施](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E7%9C%BE%E8%AD%B0%E9%99%A2%E8%AD%B0%E9%95%B7%E7%B4%84%E7%BF%B0%E9%81%9C%E5%A0%85%E6%8C%81%E7%83%8F%E5%85%8B%E8%98%AD%E6%8F%B4%E5%8A%A9%E6%96%B9%E6%A1%88%E6%87%89%E5%8C%85%E6%8B%AC%E7%BE%8E%E5%9C%8B%E9%82%8A%E5%A2%83%E6%8E%AA%E6%96%BD-56a999b6)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [香港僅限「愛國者」參選的區議會選舉創史上最低投票率](https://cn.wsj.com/articles/%E9%A6%99%E6%B8%AF%E5%83%85%E9%99%90-%E6%84%9B%E5%9C%8B%E8%80%85-%E5%8F%83%E9%81%B8%E7%9A%84%E5%8D%80%E8%AD%B0%E6%9C%83%E9%81%B8%E8%88%89%E5%89%B5%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BD%8E%E6%8A%95%E7%A5%A8%E7%8E%87-569d3f4f)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」「我是一個沒有未來的人」：挑戰防火長城的勇氣與代價](https://cn.nytimes.com/china/20231212/china-teacher-li-ying/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [國防大學教授設公司與中合作 邱國正重批叛國](https://news.pts.org.tw/article/670991)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [《最低工資法》三讀通過 違者可罰150萬元公布姓名](https://news.pts.org.tw/article/670976)
+Append: [2024大選／柯文哲提5大交通改革 侯友宜拋6至12歲課後輔導政策](https://news.pts.org.tw/article/670977)
+Append: [環團檢視3總統參選人氣候政見 批欠缺細部配比、避談產業轉型](https://news.pts.org.tw/article/670988)
+Append: [2024大選返鄉投票 台鐵1/12-15加開往返台東班車](https://news.pts.org.tw/article/670993)
+Append: [苗栗男跌落地下電纜管道 疑因竊線受困1天1夜](https://news.pts.org.tw/article/670996)
+Append: [雪隧轎車撞故障小貨車釀1死 駕駛稱來不及放警示錐](https://news.pts.org.tw/article/670995)
+Append: [《最低工資法》三讀通過 違法業主最高可罰150萬](https://news.pts.org.tw/article/670966)
+append_entries: 11
+Finish: 2023-12-12 06:10:32.459175
