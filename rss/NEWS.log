@@ -35239,3 +35239,13 @@ Append: [「中英」在菲律賓漁政船上直面中國海警水炮](https://c
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-12 04:09:45.057424
+------------------------------------------------------
+Started: 2023-12-12 05:07:53.773600
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-12 05:07:55.269864
