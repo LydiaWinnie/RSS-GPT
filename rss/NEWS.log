@@ -36028,3 +36028,24 @@ Append: [台網路作家羅森赴中發展 疑因寫禁書遭重判12年](https:
 Append: [控遭刻意檢舉未禮讓行人 職業駕駛集結高美館遊行抗議](https://news.pts.org.tw/article/671169)
 append_entries: 16
 Finish: 2023-12-13 07:07:43.006559
+------------------------------------------------------
+Started: 2023-12-13 08:10:24.796233
+Existing_entries: 1016
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [COP28最後衝刺，呼籲從化石燃料「轉型」](https://cn.wsj.com/articles/cop28%E6%9C%80%E5%BE%8C%E8%A1%9D%E5%88%BA-%E5%91%BC%E7%B1%B2%E5%BE%9E%E5%8C%96%E7%9F%B3%E7%87%83%E6%96%99-%E8%BD%89%E5%9E%8B-1fa84889)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-13 08:10:25.579543
