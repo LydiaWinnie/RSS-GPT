@@ -36133,3 +36133,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-13 12:14:19.434787
+------------------------------------------------------
+Started: 2023-12-13 13:11:04.369311
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北市頂加既存違建須裝住警器 未安裝優先報拆](https://news.pts.org.tw/article/671280)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [薩爾瓦多首推「比特幣債券」 阿根廷救經濟貶幣54%](https://news.pts.org.tw/article/671283)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [俄烏戰爭／澤淪斯基3度訪美 盼國會通過增加軍援預算](https://news.pts.org.tw/article/671286)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [為留人才零售業者紛加薪 家樂福調薪幅度達10%](https://news.pts.org.tw/article/671288)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [疑東彰都規未成影響選站 中捷延伸可行性評估未過](https://news.pts.org.tw/article/671289)
+Append: [警佯裝買家抓運動賽事黃牛 地院稱不符行為既遂要件](https://news.pts.org.tw/article/671290)
+Append: [職業駕駛不滿檢舉氾濫與扣點制 怒批剝奪工作權](https://news.pts.org.tw/article/671294)
+Append: [2024大選／選前之夜 民眾黨搶得凱道路權盼創新](https://news.pts.org.tw/article/671295)
+Append: [2024大選／「侯援會」里長赴中受招待 吳欣盈返國處理財產申報疑慮](https://news.pts.org.tw/article/671296)
+Append: [大學生無卡分期詐騙案偵結 學聯會盼教育部協助求償](https://news.pts.org.tw/article/671293)
+Append: [北海道海岸驚見600噸魚屍 水產廳闢謠指與福島核廢無關](https://news.pts.org.tw/article/671284)
+Append: [世新中文系規畫停招引熱議 學生不滿擬向教育部陳情](https://news.pts.org.tw/article/671287)
+Append: [士院前審判長蔡明宏涉性騷 今遭起訴請求法院從重量刑](https://news.pts.org.tw/article/671292)
+Append: [鳳梨釋迦復銷中因害蟲退運 防檢署：盼中方供檢疫規範](https://news.pts.org.tw/article/671298)
+Append: [男子刺死中風臥床母遭捕 疑不堪長期照護壓力](https://news.pts.org.tw/article/671299)
+append_entries: 15
+Finish: 2023-12-13 13:11:05.980379
