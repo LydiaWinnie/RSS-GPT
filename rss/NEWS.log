@@ -35948,3 +35948,83 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-13 06:10:42.639439
+------------------------------------------------------
+Started: 2023-12-13 07:07:40.630807
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」美兩黨議員呼籲提高對華關稅，並進一步切斷美中經濟聯繫](https://cn.nytimes.com/usa/20231213/us-china/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [秋冬好發脂漏性皮膚炎 醫籲慎選染髮劑](https://news.pts.org.tw/article/671162)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [8旬翁三尖瓣膜閉鎖不全 台大首以心導管微創手術治療](https://news.pts.org.tw/article/671161)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [南韓德積島中學設棒球隊 老化離島漸回春](https://news.pts.org.tw/article/671164)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [虎尾閒置地12月頻傳火警 疑裝潢廢棄物悶燒導致](https://news.pts.org.tw/article/671179)
+Append: [彰台74甲線今年3起水鹿路殺 農業處加強警示擬設圍籬](https://news.pts.org.tw/article/671176)
+Append: [台東鳳梨釋迦恢復出口中國 中稱1貨櫃驗出介殼蟲](https://news.pts.org.tw/article/671168)
+Append: [高雄深夜拆九如橋噪音擾民 經查分貝超標市府要求改善](https://news.pts.org.tw/article/671178)
+Append: [體育署教練證照查詢系統 民團批徒具形式](https://news.pts.org.tw/article/671165)
+Append: [Zara新廣告人偶裹白布 遭批消費加薩掀抵制聲浪](https://news.pts.org.tw/article/671170)
+Append: [2024大選／「侯援會」里長疑赴中受招待 侯友宜：勿操控不當連結](https://news.pts.org.tw/article/671172)
+Append: [台南擬適度開放騎樓停車 民代提草案估明年排入議程](https://news.pts.org.tw/article/671177)
+Append: [遭批《最低工資法》未設調幅底線 勞動部：會反映CPI變化](https://news.pts.org.tw/article/671175)
+Append: [大巨蛋賽事黃牛票猖獗 目前僅適用《社維法》難開罰](https://news.pts.org.tw/article/671166)
+Append: [台網路作家羅森赴中發展 疑因寫禁書遭重判12年](https://news.pts.org.tw/article/671167)
+Append: [控遭刻意檢舉未禮讓行人 職業駕駛集結高美館遊行抗議](https://news.pts.org.tw/article/671169)
+append_entries: 16
+Finish: 2023-12-13 07:07:43.006559
