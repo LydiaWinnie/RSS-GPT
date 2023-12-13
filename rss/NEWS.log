@@ -35831,3 +35831,60 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [控實質薪資倒退、違法聘外籍機師 長榮航空機師醞釀罷工](https://news.pts.org.tw/article/671136)
 append_entries: 1
 Finish: 2023-12-13 01:51:20.964965
+------------------------------------------------------
+Started: 2023-12-13 02:22:58.697605
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [阿聯酋將支持加沙重建與推動兩國解決方案聯繫起來](https://cn.wsj.com/articles/%E9%98%BF%E8%81%AF%E9%85%8B%E5%B0%87%E6%94%AF%E6%8C%81%E5%8A%A0%E6%B2%99%E9%87%8D%E5%BB%BA%E8%88%87%E6%8E%A8%E5%8B%95%E5%85%A9%E5%9C%8B%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88%E8%81%AF%E7%B9%AB%E8%B5%B7%E4%BE%86-688f924b)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」美國「排華法案」會捲土重來嗎](https://cn.nytimes.com/opinion/20231213/chinese-people-property-sale/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／拜登警告以色列 將因攻擊加薩失國際支持](https://news.pts.org.tw/article/671126)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [彰里長疑帶里民赴中受招待 地院無保請回、檢將提抗告](https://news.pts.org.tw/article/671134)
+append_entries: 4
+Finish: 2023-12-13 02:23:00.503655
