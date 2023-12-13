@@ -35927,3 +35927,24 @@ Append: [「中英」「在中國，為中國」：大眾汽車為何加碼在�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-13 05:07:53.187159
+------------------------------------------------------
+Started: 2023-12-13 06:10:40.853233
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [胡塞叛軍襲擊商船擾亂全球航運業](https://cn.wsj.com/articles/%E8%83%A1%E5%A1%9E%E5%8F%9B%E8%BB%8D%E8%A5%B2%E6%93%8A%E5%95%86%E8%88%B9%E6%93%BE%E4%BA%82%E5%85%A8%E7%90%83%E8%88%AA%E9%81%8B%E6%A5%AD-06861a0e)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-13 06:10:42.639439
