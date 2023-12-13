@@ -36212,3 +36212,13 @@ Append: [鳳梨釋迦復銷中因害蟲退運 防檢署：盼中方供檢疫規�
 Append: [男子刺死中風臥床母遭捕 疑不堪長期照護壓力](https://news.pts.org.tw/article/671299)
 append_entries: 15
 Finish: 2023-12-13 13:11:05.980379
+------------------------------------------------------
+Started: 2023-12-13 14:07:53.798598
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-13 14:07:56.463385
