@@ -36383,3 +36383,12 @@ Append: [自駕系統現安全疑慮 特斯拉召修逾200萬輛車](https://new
 Append: [COP28閉幕決議 能源轉型脫離化石燃料](https://news.pts.org.tw/article/671324)
 append_entries: 6
 Finish: 2023-12-14 01:47:36.023039
+------------------------------------------------------
+Started: 2023-12-14 02:21:03.794813
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-14 02:21:04.482599
