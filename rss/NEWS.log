@@ -36501,3 +36501,12 @@ Append: [台中破獲總統大選賭盤 賭客使用「泰達幣」下注](https
 Append: [高雄騎士萬壽路超速壓車 被依公共危險罪起訴](https://news.pts.org.tw/article/671364)
 append_entries: 6
 Finish: 2023-12-14 06:10:36.689804
+------------------------------------------------------
+Started: 2023-12-14 07:07:40.409007
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-14 07:07:42.107778
