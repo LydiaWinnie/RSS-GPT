@@ -36789,3 +36789,80 @@ Append: [賣自殺包助輕生117人自絕 加國販售男子被控謀殺等罪]
 Append: [北京寒流報到低溫探零下18度 氣象單位齊發4警報](https://news.pts.org.tw/article/671440)
 append_entries: 6
 Finish: 2023-12-14 13:11:06.342051
+------------------------------------------------------
+Started: 2023-12-14 14:07:23.922691
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中華郵政明年加薪4% 逾2.5萬名員工受惠](https://news.pts.org.tw/article/671486)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [澳10歲女飛行員 挑戰最年輕開電動飛機](https://news.pts.org.tw/article/671488)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [政大明年起增「多元文化假」 全台大學首創](https://news.pts.org.tw/article/671482)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [日自民黨陷政治獻金醜聞 岸田文雄宣布改組內閣](https://news.pts.org.tw/article/671491)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／以稱戰至徹底滅敵遭伏擊10死 豪雨襲加薩難民更煎熬](https://news.pts.org.tw/article/671492)
+Append: [高雄入空污季空品紅色警示 環局：持續監控應變](https://news.pts.org.tw/article/671494)
+Append: [市地重劃將留3到5%供社宅用 民團：由地方規劃不轉售中央](https://news.pts.org.tw/article/671496)
+Append: [日本新任駐台代表就任酒會 片山和之挺台入CPTPP](https://news.pts.org.tw/article/671497)
+Append: [台股續創今年新高 指數收在17653點](https://news.pts.org.tw/article/671499)
+Append: [央行利率連3凍 今年經濟成長下修至1.4%](https://news.pts.org.tw/article/671500)
+Append: [埔里百年歷史清醮法會 家戶繳丁口錢全鎮茹素5日](https://news.pts.org.tw/article/671483)
+Append: [彰化3女遭男持刀攻擊 犯嫌疑精神狀況不佳曾就醫](https://news.pts.org.tw/article/671501)
+Append: [海巡署下半年破2大案 截獲愷他命、香菇和香菸走私](https://news.pts.org.tw/article/671502)
+append_entries: 13
+Finish: 2023-12-14 14:07:29.078903
