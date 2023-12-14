@@ -36866,3 +36866,12 @@ Append: [彰化3女遭男持刀攻擊 犯嫌疑精神狀況不佳曾就醫](http
 Append: [海巡署下半年破2大案 截獲愷他命、香菇和香菸走私](https://news.pts.org.tw/article/671502)
 append_entries: 13
 Finish: 2023-12-14 14:07:29.078903
+------------------------------------------------------
+Started: 2023-12-14 15:08:20.133967
+Existing_entries: 1013
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-14 15:08:21.518869
