@@ -37417,3 +37417,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [英研究2040年失智病患達170萬 研發新療法刺激大腦深層](https://news.pts.org.tw/article/671589)
 append_entries: 5
 Finish: 2023-12-15 12:13:58.532423
+------------------------------------------------------
+Started: 2023-12-15 13:10:18.969762
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-15 13:10:19.808585
