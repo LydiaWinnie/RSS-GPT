@@ -37329,3 +37329,12 @@ Append: [全球暖化致西班牙冬如夏 兩極大融冰海平面上升](https
 Append: [泰國搶攻電動車商機，如何打造泰式護國神山？【獨立特派員】](https://news.pts.org.tw/article/671596)
 append_entries: 11
 Finish: 2023-12-15 09:08:04.852620
+------------------------------------------------------
+Started: 2023-12-15 10:08:29.916377
+Existing_entries: 1011
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-15 10:08:31.070841
