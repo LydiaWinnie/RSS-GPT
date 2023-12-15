@@ -37525,3 +37525,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-15 16:09:51.355871
+------------------------------------------------------
+Started: 2023-12-15 17:07:12.668609
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [歐盟尚未達成對烏援助協議，爭論還在繼續](https://cn.wsj.com/articles/%E6%AD%90%E7%9B%9F%E5%B0%9A%E6%9C%AA%E9%81%94%E6%88%90%E5%B0%8D%E7%83%8F%E6%8F%B4%E5%8A%A9%E5%8D%94%E8%AD%B0-%E7%88%AD%E8%AB%96%E9%82%84%E5%9C%A8%E7%B9%BC%E7%BA%8C-c61c3cc5)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-15 17:07:15.509691
