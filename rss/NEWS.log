@@ -37435,3 +37435,83 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-15 14:07:31.444936
+------------------------------------------------------
+Started: 2023-12-15 15:07:54.190313
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [南投垃圾日增260噸 外縣市助去化每日僅140噸](https://news.pts.org.tw/article/671703)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [肯亞藝術家將海塑變家具 盼販售回饋海洋](https://news.pts.org.tw/article/671705)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [俄烏戰爭／蒲亭重申目標 美估俄軍死傷逾31萬人](https://news.pts.org.tw/article/671708)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [基隆空宅坍塌無人傷亡 市府將盤點老舊空宅](https://news.pts.org.tw/article/671711)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [CAR-T細胞免疫療法可健保給付 首例70歲女性用藥獲准](https://news.pts.org.tw/article/671712)
+Append: [《運動產業發展條例》修正三讀 盼遏止黃牛](https://news.pts.org.tw/article/671713)
+Append: [600萬國際觀光客來台達標 2024年盼翻倍學者籲檢視量能](https://news.pts.org.tw/article/671715)
+Append: [北捷8名工人罹潛水夫症未獲償 提告多年經調解各獲50萬元](https://news.pts.org.tw/article/671717)
+Append: [第二批台東鳳梨釋迦封櫃銷中 防檢署加嚴檢疫防介殼蟲](https://news.pts.org.tw/article/671719)
+Append: [學生漫畫諷「行人帝王」惹議 潘文忠：支持創作](https://news.pts.org.tw/article/671702)
+Append: [日海上自衛隊首女性中將 將任地區部隊司令官](https://news.pts.org.tw/article/671706)
+Append: [國父紀念館周邊建物限高令 明年1月解禁盼推都更](https://news.pts.org.tw/article/671709)
+Append: [監院公布台中校長性騷性侵案 認定教育局有瑕疵通過糾正](https://news.pts.org.tw/article/671716)
+Append: [2024大選／中認定台構成貿易壁壘 賴清德批公然介選](https://news.pts.org.tw/article/671720)
+Append: [中認定台構成貿易壁壘 工商團體籲分散過度集中風險](https://news.pts.org.tw/article/671721)
+append_entries: 15
+Finish: 2023-12-15 15:07:54.791324
