@@ -37079,3 +37079,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-15 03:08:31.650434
+------------------------------------------------------
+Started: 2023-12-15 04:09:35.992908
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國敦促以色列著手了結加沙戰爭](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E6%95%A6%E4%BF%83%E4%BB%A5%E8%89%B2%E5%88%97%E8%91%97%E6%89%8B%E4%BA%86%E7%B5%90%E5%8A%A0%E6%B2%99%E6%88%B0%E7%88%AD-ac5ee3a9)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-15 04:09:36.815871
