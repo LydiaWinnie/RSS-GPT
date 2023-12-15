@@ -37142,3 +37142,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-15 06:10:45.886285
+------------------------------------------------------
+Started: 2023-12-15 07:07:47.799902
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」普丁年終記者會釋放了哪些信號](https://cn.nytimes.com/world/20231215/putin-news-conference-russia-ukraine/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [頭城海邊見油污疑來自綠島 民團號召清理避免影響生態](https://news.pts.org.tw/article/671560)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [環團批業者丟廢棄滅火器 影響河川恐危及安全飲水](https://news.pts.org.tw/article/671559)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [麥當勞8主餐漲2-5元 小吃店籲政府調降營業稅](https://news.pts.org.tw/article/671564)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [全台1291導師兼行政職 教團指業務量大壓縮教學品質](https://news.pts.org.tw/article/671573)
+Append: [指台中路口爆閃燈刺眼 3男陳情未果自拆電線遭辦](https://news.pts.org.tw/article/671576)
+Append: [美眾院通過國防授權法案 擬建立培訓我國軍計畫](https://news.pts.org.tw/article/671567)
+Append: [鄭文傑等5人涉煽動分裂國家 港警懸賞百萬港元追緝](https://news.pts.org.tw/article/671566)
+Append: [新北檢察官不正訊問 2度候補審查未過恐遭解職](https://news.pts.org.tw/article/671571)
+Append: [今年違停開罰21萬件引民怨 高雄擬不罰深夜騎樓停車](https://news.pts.org.tw/article/671561)
+Append: [中壢郵局舊址改建疑拔樁震動 鄰宅龜裂緊急停工](https://news.pts.org.tw/article/671575)
+Append: [水雉復育有成增加近60倍 農藥控管打造永續棲地](https://news.pts.org.tw/article/671562)
+Append: [長榮機師最快明年1月罷工 恐衝擊春節航班](https://news.pts.org.tw/article/671574)
+Append: [大谷翔平道奇加盟儀式亮相 估2024開幕日上場打擊](https://news.pts.org.tw/article/671580)
+Append: [2024大選／中選會公告競選時間12/16起 吳欣盈財產申報尚未更正](https://news.pts.org.tw/article/671568)
+append_entries: 15
+Finish: 2023-12-15 07:07:49.547528
