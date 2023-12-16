@@ -37933,3 +37933,12 @@ Append: [深澳景點「象鼻岩」斷裂落海 原因待調查釐清](https://
 Append: [2024大選／柯台南造勢回應棄保說 侯回防雙北賴搶客家票](https://news.pts.org.tw/article/671775)
 append_entries: 9
 Finish: 2023-12-16 15:06:46.189040
+------------------------------------------------------
+Started: 2023-12-16 16:08:40.546245
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-16 16:08:48.298539
