@@ -37797,3 +37797,12 @@ Append: [台中2家長被小孩傳染腸病毒 手足水泡奇癢專家籲勿輕
 Append: [冷氣團南下北部明晨下探10度 中南部上午空氣品質呈橘色](https://news.pts.org.tw/article/671744)
 append_entries: 8
 Finish: 2023-12-16 07:06:50.296985
+------------------------------------------------------
+Started: 2023-12-16 08:09:10.316632
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-16 08:09:11.752530
