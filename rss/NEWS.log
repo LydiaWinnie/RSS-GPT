@@ -38143,3 +38143,12 @@ Append: [台中228遺址申請危老重建 文史團體發起搶救活動](https
 Append: [屏東枋寮宮廟遶境至深夜 廟方一早急清理金紙及炮屑](https://news.pts.org.tw/article/671799)
 append_entries: 8
 Finish: 2023-12-17 06:09:38.710046
+------------------------------------------------------
+Started: 2023-12-17 07:06:45.193814
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-17 07:06:46.800093
