@@ -38062,3 +38062,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [北台灣今清晨探10°C低溫 週二冷氣團報到恐達寒流等級](https://news.pts.org.tw/article/671788)
 append_entries: 1
 Finish: 2023-12-17 04:09:25.965012
+------------------------------------------------------
+Started: 2023-12-17 05:07:23.199610
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-17 05:07:24.858385
