@@ -38272,3 +38272,12 @@ Append: [2024大選／侯台中競總成立 賴回防台南、柯桃園造勢](h
 Append: [羽球年終賽冠軍戰 戴資穎擊敗馬琳4度奪冠](https://news.pts.org.tw/article/671824)
 append_entries: 8
 Finish: 2023-12-17 12:12:37.982738
+------------------------------------------------------
+Started: 2023-12-17 13:08:00.261418
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-17 13:08:01.407058
