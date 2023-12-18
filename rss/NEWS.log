@@ -38746,3 +38746,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-18 13:11:36.917853
+------------------------------------------------------
+Started: 2023-12-18 14:07:55.699017
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [黎智英遭關押逾千日首開庭 歐美駐港代表旁聽籲放人](https://news.pts.org.tw/article/671999)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北韓再試射飛彈 日估射程可涵蓋全美本土](https://news.pts.org.tw/article/672000)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [《軍營條例》三讀通過 軍營內外未經許可攝錄影將罰](https://news.pts.org.tw/article/672003)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [黨團協商稅率未達共識 立院明表決囤房稅2.0](https://news.pts.org.tw/article/672006)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [遭疑雙黃線過長、槽化線面積大 彰化交通標線引民怨](https://news.pts.org.tw/article/672007)
+Append: [嫌租大同大學實驗室製毒 因引火災遭揭發7人起訴](https://news.pts.org.tw/article/672008)
+Append: [台美聯手破詐團上游廠商 打詐仍缺對策監院籲政院重視](https://news.pts.org.tw/article/672011)
+Append: [台鐵公司化「試運轉」 主管皆續任遭疑換湯不換藥](https://news.pts.org.tw/article/672012)
+Append: [國防部偵獲2空飄氣球越中線 專家：東北季風季節利中情蒐](https://news.pts.org.tw/article/672015)
+Append: [拜登車隊遭撞特勤戒護 川普稱當選將遣返非法移民](https://news.pts.org.tw/article/672002)
+Append: [2024大選／柯拋7大金融政策 侯提陸配取身分證年限比照外配](https://news.pts.org.tw/article/672016)
+Append: [以哈戰爭／以公布哈瑪斯逾4米最大地道 認定對攻擊準備有重大作用](https://news.pts.org.tw/article/672001)
+Append: [旅客攜「香脆腸」自中國入境 首驗出非洲豬瘟變種病毒](https://news.pts.org.tw/article/672014)
+Append: [偷拍女裙底影像並上網販售 5年上千人受害嫌遭羈押](https://news.pts.org.tw/article/672009)
+Append: [Dcard會員涉匿名發文詐欺 警持票登門調閱個資引關注](https://news.pts.org.tw/article/672010)
+append_entries: 15
+Finish: 2023-12-18 14:07:56.958819
