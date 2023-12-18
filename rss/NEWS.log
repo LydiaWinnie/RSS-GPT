@@ -38546,3 +38546,36 @@ Append: [首度使用AI助選員電話拜票 美議員候選人：擴大與民�
 Append: [黎智英違《香港國安法》今開審 英外相呼籲立即釋放](https://news.pts.org.tw/article/671875)
 append_entries: 6
 Finish: 2023-12-18 05:08:30.263242
+------------------------------------------------------
+Started: 2023-12-18 06:11:03.707193
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [拜登2024年競選難題：選民稱被其政策所傷](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB2024%E5%B9%B4%E7%AB%B6%E9%81%B8%E9%9B%A3%E9%A1%8C-%E9%81%B8%E6%B0%91%E7%A8%B1%E8%A2%AB%E5%85%B6%E6%94%BF%E7%AD%96%E6%89%80%E5%82%B7-a483617e)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」中國留學生「禁令」？佛州新法律引發困惑與爭議](https://cn.nytimes.com/usa/20231218/florida-law-chills-chinese-student-recruitment/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-12-18 06:11:04.731935
