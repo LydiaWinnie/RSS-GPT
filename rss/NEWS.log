@@ -38710,3 +38710,12 @@ Append: [「中英」黎智英被控「串謀勾結外國勢力」，被監禁�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-12-18 09:08:51.517083
+------------------------------------------------------
+Started: 2023-12-18 10:09:10.921267
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-18 10:09:13.901326
