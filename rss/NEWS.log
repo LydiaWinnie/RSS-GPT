@@ -38579,3 +38579,80 @@ Append: [「中英」中國留學生「禁令」？佛州新法律引發困惑�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2023-12-18 06:11:04.731935
+------------------------------------------------------
+Started: 2023-12-18 07:07:44.898450
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [香港頭號國安嫌犯黎智英受審](https://cn.wsj.com/articles/%E9%A6%99%E6%B8%AF%E9%A0%AD%E8%99%9F%E5%9C%8B%E5%AE%89%E5%AB%8C%E7%8A%AF%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%8F%97%E5%AF%A9-b973fa2b)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」美國漢學家谷梅逝世，研究中國異議政治](https://cn.nytimes.com/obits/20231218/merle-goldman-dead/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [澳洲東北城市凱恩斯遭暴雨侵襲 往大堡礁交通受阻、數千人撤離](https://news.pts.org.tw/article/671895)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [搶救少子化 雲林推2年6億催生增產計畫](https://news.pts.org.tw/article/671898)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [建國啤酒廠轉型文化園區撤案 社區居民不滿抗議](https://news.pts.org.tw/article/671888)
+Append: [長榮機師赴交通部抗議 12/22發起罷工投票](https://news.pts.org.tw/article/671901)
+Append: [高雄輕軌將成圓 大順路開放10路口左轉](https://news.pts.org.tw/article/671889)
+Append: [全台唯一中藥系將減招 中醫大：法規嚴影響就讀意願](https://news.pts.org.tw/article/671900)
+Append: [台中民眾直播拆除爆閃燈遭送辦 批設置於法無據](https://news.pts.org.tw/article/671890)
+Append: [黑幫藉廣告商投詐騙廣告 一條龍詐騙大批被害人血本無歸](https://news.pts.org.tw/article/671892)
+Append: [桃園傳幼兒園不當對待 老師涉掐孩童脖子、抓傷臉](https://news.pts.org.tw/article/671891)
+Append: [玉山北峰今日清晨結霜 呈現一片雪白景色](https://news.pts.org.tw/article/671903)
+Append: [大專學生憂鬱比例較疫前高9% 大三生壓力最大](https://news.pts.org.tw/article/671899)
+append_entries: 13
+Finish: 2023-12-18 07:07:46.976154
