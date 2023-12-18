@@ -38656,3 +38656,24 @@ Append: [玉山北峰今日清晨結霜 呈現一片雪白景色](https://news.p
 Append: [大專學生憂鬱比例較疫前高9% 大三生壓力最大](https://news.pts.org.tw/article/671899)
 append_entries: 13
 Finish: 2023-12-18 07:07:46.976154
+------------------------------------------------------
+Started: 2023-12-18 08:11:19.873568
+Existing_entries: 1013
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [韓國間諜機構稱金正恩命令北韓官員支持巴勒斯坦人](https://cn.wsj.com/articles/%E9%9F%93%E5%9C%8B%E9%96%93%E8%AB%9C%E6%A9%9F%E6%A7%8B%E7%A8%B1%E9%87%91%E6%AD%A3%E6%81%A9%E5%91%BD%E4%BB%A4%E5%8C%97%E9%9F%93%E5%AE%98%E5%93%A1%E6%94%AF%E6%8C%81%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA-b090e795)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-18 08:11:20.805641
