@@ -39148,3 +39148,12 @@ Append: [《所得稅法》修法今望三讀 房屋租金擬改列特別扣除�
 Append: [2024大選／柯提內閣制時程表 賴重申立委過半目標](https://news.pts.org.tw/article/672070)
 append_entries: 16
 Finish: 2023-12-19 06:10:10.434007
+------------------------------------------------------
+Started: 2023-12-19 07:07:36.701096
+Existing_entries: 1016
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-19 07:07:37.962640
