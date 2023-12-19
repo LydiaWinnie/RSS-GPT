@@ -39442,3 +39442,12 @@ Append: [《所得稅法》修法三讀 房租列特別扣除額盼揪租屋黑�
 Append: [X疑散布以哈衝突非法資訊 歐盟依數位服務法調查](https://news.pts.org.tw/article/672196)
 append_entries: 9
 Finish: 2023-12-19 15:07:59.635062
+------------------------------------------------------
+Started: 2023-12-19 16:09:03.129081
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-19 16:09:06.660086
