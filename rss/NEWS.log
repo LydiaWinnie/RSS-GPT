@@ -39223,3 +39223,36 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [葉門反抗軍屢襲紅海商船 各國繞道台灣貨櫃三雄跟進](https://news.pts.org.tw/article/672080)
 append_entries: 4
 Finish: 2023-12-19 09:08:06.103235
+------------------------------------------------------
+Started: 2023-12-19 10:08:26.542525
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [老年消費市場在中國漸成氣候](https://cn.wsj.com/articles/%E8%80%81%E5%B9%B4%E6%B6%88%E8%B2%BB%E5%B8%82%E5%A0%B4%E5%9C%A8%E4%B8%AD%E5%9C%8B%E6%BC%B8%E6%88%90%E6%B0%A3%E5%80%99-4c5bdee1)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [歐盟就實施更嚴格汽車排放標準達成初步協議](https://cn.wsj.com/articles/%E6%AD%90%E7%9B%9F%E5%B0%B1%E5%AF%A6%E6%96%BD%E6%9B%B4%E5%9A%B4%E6%A0%BC%E6%B1%BD%E8%BB%8A%E6%8E%92%E6%94%BE%E6%A8%99%E6%BA%96%E9%81%94%E6%88%90%E5%88%9D%E6%AD%A5%E5%8D%94%E8%AD%B0-7a1cbfa2)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-12-19 10:08:27.983069
