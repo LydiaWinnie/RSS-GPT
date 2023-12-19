@@ -39351,3 +39351,12 @@ Append: [中國甘肅強震已126人罹難 低溫增添救援難度](https://new
 Append: [冰島火山噴發熔岩朝城鎮擴散 專家憂地熱發電廠遭波及](https://news.pts.org.tw/article/672147)
 append_entries: 10
 Finish: 2023-12-19 12:13:54.185081
+------------------------------------------------------
+Started: 2023-12-19 13:10:16.706816
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-19 13:10:17.866405
