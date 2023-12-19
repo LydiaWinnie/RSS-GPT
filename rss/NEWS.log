@@ -39068,3 +39068,83 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-12-19 05:07:57.234459
+------------------------------------------------------
+Started: 2023-12-19 06:10:09.315963
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」韓國頂級財閥家族「內鬥」：LG的繼承和遺產之爭](https://cn.nytimes.com/business/20231219/lg-chairman-koo-kwang-mo/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [外籍貨輪海順號澎湖擱淺 船上9人均獲救、已初步除漏油](https://news.pts.org.tw/article/672081)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [傳每月補貼長者1千元搭車津貼 花縣府：尚在規劃中](https://news.pts.org.tw/article/672069)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [《台南好Young》演唱會占位 市府將清除籲民眾遵守規則](https://news.pts.org.tw/article/672073)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [教宗批准神父為同性伴侶祝福 教廷：未改變反同婚立場](https://news.pts.org.tw/article/672072)
+Append: [長照2.0預算650億 供不應求狀況仍存在](https://news.pts.org.tw/article/672083)
+Append: [「虛擬健保卡」出示手機即可就醫 明年花蓮試辦電子處方簽](https://news.pts.org.tw/article/672082)
+Append: [台中23歲新手爸涉施虐 3月大男嬰送醫一度無生命跡象](https://news.pts.org.tw/article/672075)
+Append: [中國高空氣球接連飄抵台灣 印太美軍司令：升高挑釁欲施壓](https://news.pts.org.tw/article/672078)
+Append: [「加班餘數併計」試辦計畫 台大醫院不參加引欠薪爭議](https://news.pts.org.tw/article/672084)
+Append: [擬建托嬰監視影像雲端引反彈 幼教師質疑恐侵犯人權](https://news.pts.org.tw/article/672074)
+Append: [年終基數平均值約1.32個月 創近6年次高](https://news.pts.org.tw/article/672086)
+Append: [航警破獲5港人跨國運毒 4嫌送辦主嫌遭通緝](https://news.pts.org.tw/article/672076)
+Append: [強烈大陸冷氣團下午報到 低溫冷到耶誕節](https://news.pts.org.tw/article/672087)
+Append: [《所得稅法》修法今望三讀 房屋租金擬改列特別扣除額](https://news.pts.org.tw/article/672085)
+Append: [2024大選／柯提內閣制時程表 賴重申立委過半目標](https://news.pts.org.tw/article/672070)
+append_entries: 16
+Finish: 2023-12-19 06:10:10.434007
