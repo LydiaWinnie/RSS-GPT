@@ -39839,3 +39839,12 @@ Append: [失聯越籍移工當醫美密醫 判刑1年2個月](https://news.pts.o
 Append: [甘肅強震／零下低溫考驗安置 砂涌淹沒民宅增救援難度](https://news.pts.org.tw/article/672271)
 append_entries: 15
 Finish: 2023-12-20 08:08:34.532373
+------------------------------------------------------
+Started: 2023-12-20 09:06:50.170580
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-20 09:06:51.473433
