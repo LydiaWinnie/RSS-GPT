@@ -40034,3 +40034,12 @@ Append: [托嬰中心致男嬰逾50%燒燙傷 稱監視器故障家屬不滿提�
 Append: [扯鈴教練涉共諜案全盤認罪 供出共犯盼減刑](https://news.pts.org.tw/article/672406)
 append_entries: 14
 Finish: 2023-12-20 14:06:13.737820
+------------------------------------------------------
+Started: 2023-12-20 15:06:25.851910
+Existing_entries: 1014
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-20 15:06:28.029224
