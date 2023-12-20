@@ -39525,3 +39525,76 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-20 00:29:49.178790
+------------------------------------------------------
+Started: 2023-12-20 01:29:16.212877
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國關閉南部邊境多座橋樑，以遏制非法移民湧入](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E9%97%9C%E9%96%89%E5%8D%97%E9%83%A8%E9%82%8A%E5%A2%83%E5%A4%9A%E5%BA%A7%E6%A9%8B%E6%A8%91-%E4%BB%A5%E9%81%8F%E5%88%B6%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E6%B9%A7%E5%85%A5-d12704ad)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [科羅拉多州最高法院裁定特朗普沒有資格參加總統初選](https://cn.wsj.com/articles/%E7%A7%91%E7%BE%85%E6%8B%89%E5%A4%9A%E5%B7%9E%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E7%89%B9%E6%9C%97%E6%99%AE%E6%B2%92%E6%9C%89%E8%B3%87%E6%A0%BC%E5%8F%83%E5%8A%A0%E7%B8%BD%E7%B5%B1%E5%88%9D%E9%81%B8-4085abb0)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國人口增長繼續從疫情中緩慢恢復](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E4%BA%BA%E5%8F%A3%E5%A2%9E%E9%95%B7%E7%B9%BC%E7%BA%8C%E5%BE%9E%E7%96%AB%E6%83%85%E4%B8%AD%E7%B7%A9%E6%85%A2%E6%81%A2%E5%BE%A9-aa3cb636)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國官員向以色列施壓，敦促其降低加沙戰事的激烈程度](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%AE%98%E5%93%A1%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E6%96%BD%E5%A3%93-%E6%95%A6%E4%BF%83%E5%85%B6%E9%99%8D%E4%BD%8E%E5%8A%A0%E6%B2%99%E6%88%B0%E4%BA%8B%E7%9A%84%E6%BF%80%E7%83%88%E7%A8%8B%E5%BA%A6-9d0eaeb8)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國宣布海上聯合行動，阻止胡塞武裝襲擊紅海商船](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%AE%A3%E5%B8%83%E6%B5%B7%E4%B8%8A%E8%81%AF%E5%90%88%E8%A1%8C%E5%8B%95-%E9%98%BB%E6%AD%A2%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E8%A5%B2%E6%93%8A%E7%B4%85%E6%B5%B7%E5%95%86%E8%88%B9-6e495adc)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Append: [冰島西南部火山噴發 污染氣體恐衝擊首都](https://news.pts.org.tw/article/672226)
+Append: [長榮班機美舊金山碰觸達美尾翼 結構無虞延誤逾3小時起飛](https://news.pts.org.tw/article/672230)
+Append: [多縣市里長赴中遭約談 最高檢5認定標準](https://news.pts.org.tw/article/672234)
+Append: [甘肅強震／台灣已整備救難隊 待中提出請求即專機馳援](https://news.pts.org.tw/article/672236)
+append_entries: 9
+Finish: 2023-12-20 01:29:18.972691
