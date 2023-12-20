@@ -39598,3 +39598,12 @@ Append: [多縣市里長赴中遭約談 最高檢5認定標準](https://news.pts
 Append: [甘肅強震／台灣已整備救難隊 待中提出請求即專機馳援](https://news.pts.org.tw/article/672236)
 append_entries: 9
 Finish: 2023-12-20 01:29:18.972691
+------------------------------------------------------
+Started: 2023-12-20 02:06:58.767476
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-20 02:06:59.563677
