@@ -39878,3 +39878,72 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-20 11:05:37.067090
+------------------------------------------------------
+Started: 2023-12-20 12:11:37.578944
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」在宮崎駿的世界裡飛翔](https://cn.nytimes.com/culture/20231220/miyazaki-flight/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／缺電居民仰賴收音機收訊 加薩地區價格翻倍](https://news.pts.org.tw/article/672344)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [泰足球隊救援行動地點 睡美人洞開放探索](https://news.pts.org.tw/article/672341)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [日本ENEOS爆性騷醜聞 社長酒後舉止失態遭解雇](https://news.pts.org.tw/article/672342)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [長期乾旱無水可喝 非洲辛巴威百頭大象死亡](https://news.pts.org.tw/article/672326)
+append_entries: 5
+Finish: 2023-12-20 12:11:38.619250
