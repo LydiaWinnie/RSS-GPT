@@ -41281,3 +41281,15 @@ Feed error: 404
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2023-12-20 19:08:16.153639
+------------------------------------------------------
+Started: 2023-12-20 20:08:21.233415
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 502
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 0
+Finish: 2023-12-20 20:09:00.700408
