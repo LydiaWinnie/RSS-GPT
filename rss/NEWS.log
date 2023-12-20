@@ -39947,3 +39947,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [長期乾旱無水可喝 非洲辛巴威百頭大象死亡](https://news.pts.org.tw/article/672326)
 append_entries: 5
 Finish: 2023-12-20 12:11:38.619250
+------------------------------------------------------
+Started: 2023-12-20 13:07:04.911544
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-20 13:07:06.996467
