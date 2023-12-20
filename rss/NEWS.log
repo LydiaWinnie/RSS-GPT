@@ -39869,3 +39869,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [美德州再一城市擬反墮胎販運 禁用當地道路赴他州墮胎](https://news.pts.org.tw/article/672286)
 append_entries: 1
 Finish: 2023-12-20 10:07:05.486288
+------------------------------------------------------
+Started: 2023-12-20 11:05:35.647665
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-20 11:05:37.067090
