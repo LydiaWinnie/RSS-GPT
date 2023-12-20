@@ -39694,3 +39694,60 @@ Append: [「中英」中國供應商和摩洛哥港口：俄羅斯如何繞過�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-20 05:06:26.557977
+------------------------------------------------------
+Started: 2023-12-20 06:08:39.593938
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [哈馬斯與巴勒斯坦其他派別就戰後加沙治理問題展開談判](https://cn.wsj.com/articles/%E5%93%88%E9%A6%AC%E6%96%AF%E8%88%87%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%85%B6%E4%BB%96%E6%B4%BE%E5%88%A5%E5%B0%B1%E6%88%B0%E5%BE%8C%E5%8A%A0%E6%B2%99%E6%B2%BB%E7%90%86%E5%95%8F%E9%A1%8C%E5%B1%95%E9%96%8B%E8%AB%87%E5%88%A4-568cc048)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」關於冰島火山爆發，我們知道些什麼](https://cn.nytimes.com/world/20231220/iceland-volcano-eruption-travel/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／不分區號次抽籤 民進黨6、國民黨9、民眾黨12](https://news.pts.org.tw/article/672279)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [今入冬首波寒流報到 週四晚至週五清晨最低溫](https://news.pts.org.tw/article/672283)
+append_entries: 4
+Finish: 2023-12-20 06:08:41.567012
