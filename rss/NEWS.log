@@ -40509,3 +40509,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [開源AI資料庫遭控含有兒童色情素材 LAION緊急下架審查](https://news.pts.org.tw/article/672520)
 append_entries: 3
 Finish: 2023-12-21 12:13:43.958652
+------------------------------------------------------
+Started: 2023-12-21 13:09:54.610372
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-21 13:09:57.791724
