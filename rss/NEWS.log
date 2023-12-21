@@ -40416,3 +40416,12 @@ Append: [「中英」盤點2023年20件第一次發生的事](https://cn.nytimes
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-21 07:07:37.174094
+------------------------------------------------------
+Started: 2023-12-21 08:10:10.933770
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-21 08:10:12.317129
