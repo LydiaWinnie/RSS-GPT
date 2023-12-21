@@ -40518,3 +40518,78 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-21 13:09:57.791724
+------------------------------------------------------
+Started: 2023-12-21 14:07:14.141603
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／侯表就職1年內恢復與中溝通 賴環島造勢提在地發展願景](https://news.pts.org.tw/article/672605)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國停部分ECFA產品關稅減讓 石化業上游首當其衝](https://news.pts.org.tw/article/672606)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [海虎潛艦左營外海遇湧浪 6人落水3失聯](https://news.pts.org.tw/article/672608)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [國道客運司機開車看手機 客運業者：已記過加強教育](https://news.pts.org.tw/article/672600)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [樹林高中生穿保暖衣遭罰 教育局指未符規定已請改善](https://news.pts.org.tw/article/672602)
+Append: [中海線鐵路雙軌化成選戰議題 陳揆會勘遭疑變相輔選](https://news.pts.org.tw/article/672599)
+Append: [外媒指習稱中台將統一 美官員：反片面改變台海](https://news.pts.org.tw/article/672604)
+Append: [中將停止部分ECFA關稅減讓 陳建仁指政治目的大於經濟](https://news.pts.org.tw/article/672607)
+Append: [日本大發汽車爆測試造假 豐田股價蒸發千億元](https://news.pts.org.tw/article/672540)
+Append: [北韓試射飛彈射程涵蓋全美 金正恩：不容核武挑釁](https://news.pts.org.tw/article/672542)
+Append: [科州撤銷川普初選資格 拜登借題猛批對手](https://news.pts.org.tw/article/672546)
+append_entries: 11
+Finish: 2023-12-21 14:07:15.982150
