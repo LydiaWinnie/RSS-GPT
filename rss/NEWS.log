@@ -40125,3 +40125,60 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-21 00:36:12.187579
+------------------------------------------------------
+Started: 2023-12-21 01:46:35.342080
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國正尋找能讓格什科維奇和惠蘭獲釋的「合適途徑」](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E6%AD%A3%E5%B0%8B%E6%89%BE%E8%83%BD%E8%AE%93%E6%A0%BC%E4%BB%80%E7%A7%91%E7%B6%AD%E5%A5%87%E5%92%8C%E6%83%A0%E8%98%AD%E7%8D%B2%E9%87%8B%E7%9A%84-%E5%90%88%E9%81%A9%E9%80%94%E5%BE%91-075c9636)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [歐洲領導人在政治壓力下收緊庇護規則](https://cn.wsj.com/articles/%E6%AD%90%E6%B4%B2%E9%A0%98%E5%B0%8E%E4%BA%BA%E5%9C%A8%E6%94%BF%E6%B2%BB%E5%A3%93%E5%8A%9B%E4%B8%8B%E6%94%B6%E7%B7%8A%E5%BA%87%E8%AD%B7%E8%A6%8F%E5%89%87-68e9e91a)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [哈馬斯拒絕以色列停火一周換取人質釋放的提議](https://cn.wsj.com/articles/%E5%93%88%E9%A6%AC%E6%96%AF%E6%8B%92%E7%B5%95%E4%BB%A5%E8%89%B2%E5%88%97%E5%81%9C%E7%81%AB%E4%B8%80%E5%91%A8%E6%8F%9B%E5%8F%96%E4%BA%BA%E8%B3%AA%E9%87%8B%E6%94%BE%E7%9A%84%E6%8F%90%E8%AD%B0-9e9d1e06)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國牽頭組建紅海護航編隊之際，胡塞叛軍誓言遭攻擊必報復](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E7%89%BD%E9%A0%AD%E7%B5%84%E5%BB%BA%E7%B4%85%E6%B5%B7%E8%AD%B7%E8%88%AA%E7%B7%A8%E9%9A%8A%E4%B9%8B%E9%9A%9B-%E8%83%A1%E5%A1%9E%E5%8F%9B%E8%BB%8D%E8%AA%93%E8%A8%80%E9%81%AD%E6%94%BB%E6%93%8A%E5%BF%85%E5%A0%B1%E5%BE%A9-7c393035)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 4
+Finish: 2023-12-21 01:46:36.325570
