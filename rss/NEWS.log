@@ -40664,3 +40664,12 @@ Append: [日月潭首列空品維護區 不合格車輛明年元旦開罰](https
 Append: [後疫情時代人力荒 日退休人士就業重返職場](https://news.pts.org.tw/article/672592)
 append_entries: 7
 Finish: 2023-12-21 15:07:45.048501
+------------------------------------------------------
+Started: 2023-12-21 16:09:39.082512
+Existing_entries: 1007
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-21 16:09:39.884271
