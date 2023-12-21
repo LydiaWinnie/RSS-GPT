@@ -40446,3 +40446,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [海虎潛艦浮航遇浪6官兵落水 3救起3失蹤](https://news.pts.org.tw/article/672487)
 append_entries: 1
 Finish: 2023-12-21 09:07:52.093549
+------------------------------------------------------
+Started: 2023-12-21 10:08:20.301789
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-21 10:08:21.950192
