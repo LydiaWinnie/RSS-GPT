@@ -40747,3 +40747,75 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-22 00:36:00.585320
+------------------------------------------------------
+Started: 2023-12-22 01:44:37.822849
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [安哥拉決定退出歐佩克，加劇石油供應過剩擔憂](https://cn.wsj.com/articles/%E5%AE%89%E5%93%A5%E6%8B%89%E6%B1%BA%E5%AE%9A%E9%80%80%E5%87%BA%E6%AD%90%E4%BD%A9%E5%85%8B-%E5%8A%A0%E5%8A%87%E7%9F%B3%E6%B2%B9%E4%BE%9B%E6%87%89%E9%81%8E%E5%89%A9%E6%93%94%E6%86%82-8c283837)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [特朗普前律師朱利安尼在紐約申請破產](https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D%E5%BE%8B%E5%B8%AB%E6%9C%B1%E5%88%A9%E5%AE%89%E5%B0%BC%E5%9C%A8%E7%B4%90%E7%B4%84%E7%94%B3%E8%AB%8B%E7%A0%B4%E7%94%A2-d7ac778b)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美中軍方在中斷交流一年多後恢復對話](https://cn.wsj.com/articles/%E7%BE%8E%E4%B8%AD%E8%BB%8D%E6%96%B9%E5%9C%A8%E4%B8%AD%E6%96%B7%E4%BA%A4%E6%B5%81%E4%B8%80%E5%B9%B4%E5%A4%9A%E5%BE%8C%E6%81%A2%E5%BE%A9%E5%B0%8D%E8%A9%B1-e012a20f)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以色列暗示可能同意巴勒斯坦權力機構在戰後管理加沙](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E6%9A%97%E7%A4%BA%E5%8F%AF%E8%83%BD%E5%90%8C%E6%84%8F%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%AC%8A%E5%8A%9B%E6%A9%9F%E6%A7%8B%E5%9C%A8%E6%88%B0%E5%BE%8C%E7%AE%A1%E7%90%86%E5%8A%A0%E6%B2%99-39d84b4c)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [布拉格一所大學發生大規模槍擊事件，至少14人死亡、數十人受傷](https://cn.wsj.com/articles/%E5%B8%83%E6%8B%89%E6%A0%BC%E4%B8%80%E6%89%80%E5%A4%A7%E5%AD%B8%E7%99%BC%E7%94%9F%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%A7%8D%E6%93%8A%E4%BA%8B%E4%BB%B6-%E8%87%B3%E5%B0%9114%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E6%95%B8%E5%8D%81%E4%BA%BA%E5%8F%97%E5%82%B7-5cbe3df5)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Append: [泰國眾議院一讀通過同婚草案 最快明年二、三讀](https://news.pts.org.tw/article/672620)
+Append: [捷克布拉格大學傳槍擊 逾15死近代死傷最嚴重](https://news.pts.org.tw/article/672621)
+Append: [寒流發威今晨最冷 太平山零下6°C降瑞雪](https://news.pts.org.tw/article/672631)
+append_entries: 8
+Finish: 2023-12-22 01:44:39.194353
