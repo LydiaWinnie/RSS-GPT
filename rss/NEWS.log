@@ -41267,3 +41267,81 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [幾內亞油庫爆炸致23死214傷 加油站關閉無油可加引衝突](https://news.pts.org.tw/article/672751)
 append_entries: 5
 Finish: 2023-12-22 13:09:08.431932
+------------------------------------------------------
+Started: 2023-12-22 14:07:13.222493
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [街友寒流露宿中市府安置避寒 民團發起捐暖被熱食助弱勢](https://news.pts.org.tw/article/672794)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北市動保處獲虐貓通報 議員籲提高刑責設前科犯平台](https://news.pts.org.tw/article/672796)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [興大斥資4.6億整建體育館游泳池 改造成運動中心活化中興新村](https://news.pts.org.tw/article/672797)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [工廠提納管改善計畫挑戰大 環團憂農地更破碎化](https://news.pts.org.tw/article/672801)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [打敗梅西、喬帥 大谷翔平3年內2獲美聯社大獎](https://news.pts.org.tw/article/672802)
+Append: [官司敗訴賠1.4億美元 前紐約市長朱利安尼聲請破產](https://news.pts.org.tw/article/672803)
+Append: [捷克大學生殺父後進校園開槍 造成15死25傷當局排除恐攻](https://news.pts.org.tw/article/672805)
+Append: [台加簽「投資促進保障協議」 經貿辦：歷史意義里程碑](https://news.pts.org.tw/article/672807)
+Append: [國防部教育部推就學服役3+1 放寬申請缺審查機制恐被濫用](https://news.pts.org.tw/article/672810)
+Append: [美中首度恢復軍事溝通 中方籲美表態不支持台獨](https://news.pts.org.tw/article/672811)
+Append: [2024大選／侯喊話郭台銘歸隊 柯新竹農地停車場租金捐出](https://news.pts.org.tw/article/672812)
+Append: [中開放台7養殖場石斑魚輸入 業者：續拓展市場分散風險](https://news.pts.org.tw/article/672814)
+Append: [板橋供水管線疑因低溫破裂 冷熱變化防外牆磁磚剝落](https://news.pts.org.tw/article/672815)
+Append: [海虎潛艦3官兵落海失聯 邱國正：續搜救並調查檢討](https://news.pts.org.tw/article/672817)
+append_entries: 14
+Finish: 2023-12-22 14:07:14.065731
