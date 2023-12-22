@@ -41345,3 +41345,12 @@ Append: [板橋供水管線疑因低溫破裂 冷熱變化防外牆磁磚剝落]
 Append: [海虎潛艦3官兵落海失聯 邱國正：續搜救並調查檢討](https://news.pts.org.tw/article/672817)
 append_entries: 14
 Finish: 2023-12-22 14:07:14.065731
+------------------------------------------------------
+Started: 2023-12-22 15:07:34.008393
+Existing_entries: 1014
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-22 15:07:36.112965
