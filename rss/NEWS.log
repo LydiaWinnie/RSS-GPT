@@ -41088,3 +41088,82 @@ Append: [「中英」展望2024：那些可能改變世界的事件](https://cn.
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-22 09:07:52.528474
+------------------------------------------------------
+Started: 2023-12-22 10:07:56.240617
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [德法力推減碳運輸 跨境臥鋪夜車睽違9年復駛](https://news.pts.org.tw/article/672689)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [廢棄剩食變續食 日研發過熱蒸煎機減少食材浪費](https://news.pts.org.tw/article/672687)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [瑞士哈格雷特起司大賽 7國參賽在地業者囊括3獎項](https://news.pts.org.tw/article/672688)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [抖音短新聞取代傳統媒體 成年輕世代看時事主流](https://news.pts.org.tw/article/672682)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美籍韓人印曜翰接革新委員長 盼增年輕選民認同](https://news.pts.org.tw/article/672683)
+Append: [芬蘭前外長角逐總統大位 夜店當DJ獲年輕選民支持](https://news.pts.org.tw/article/672684)
+Append: [德州新法授權州警逮非法移民 牴觸美《聯邦法》惹議](https://news.pts.org.tw/article/672685)
+Append: [全球局勢動盪非法移民劇增 歐洲各國祭緊縮移民政策](https://news.pts.org.tw/article/672686)
+Append: [加州廢水淨化成飲用水 盼成穩定水源度全球暖化](https://news.pts.org.tw/article/672690)
+Append: [劍橋國王學院禮拜堂 擬架太陽能板惹兩方爭議](https://news.pts.org.tw/article/672691)
+Append: [心電圖背心搭配MRI 更快速助診斷急性心臟病](https://news.pts.org.tw/article/672692)
+Append: [87歲芬蘭藝術家巧手編織 賦予樹皮新生命](https://news.pts.org.tw/article/672695)
+Append: [美家庭買冷杉樹過耶誕 意外發現樹枝藏活貓頭鷹](https://news.pts.org.tw/article/672696)
+Append: [法外科醫用嗓音療癒病患 「手術房演唱會」一炮而紅](https://news.pts.org.tw/article/672693)
+Append: [美國對抗森林野火 採人為控制策略性以火制火](https://news.pts.org.tw/article/672694)
+append_entries: 15
+Finish: 2023-12-22 10:07:57.002481
