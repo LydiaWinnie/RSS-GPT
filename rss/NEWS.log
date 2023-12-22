@@ -40819,3 +40819,24 @@ Append: [捷克布拉格大學傳槍擊 逾15死近代死傷最嚴重](https://n
 Append: [寒流發威今晨最冷 太平山零下6°C降瑞雪](https://news.pts.org.tw/article/672631)
 append_entries: 8
 Finish: 2023-12-22 01:44:39.194353
+------------------------------------------------------
+Started: 2023-12-22 02:19:28.952899
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國軍機在日本海域墜毀，機上載有六人](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E8%BB%8D%E7%94%A8%E9%A3%9B%E6%A9%9F%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%9F%9F%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A%E8%BC%89%E6%9C%898%E4%BA%BA-385caf5a)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-22 02:19:29.673143
