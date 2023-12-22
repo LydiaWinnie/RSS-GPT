@@ -40960,3 +40960,36 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [太平山降初雪、玉山霧淞 全台低溫至26日](https://news.pts.org.tw/article/672677)
 append_entries: 5
 Finish: 2023-12-22 06:10:24.826088
+------------------------------------------------------
+Started: 2023-12-22 07:07:23.804388
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [《華爾街日報》講述的2023年大新聞](https://cn.wsj.com/articles/%E8%8F%AF%E7%88%BE%E8%A1%97%E6%97%A5%E5%A0%B1-%E8%AC%9B%E8%BF%B0%E7%9A%842023%E5%B9%B4%E5%A4%A7%E6%96%B0%E8%81%9E-ec0ca8a1)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [圖片中的2023年（上）](https://cn.nytimes.com/world/20231222/year-in-pictures/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-12-22 07:07:24.731312
