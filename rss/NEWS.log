@@ -41632,3 +41632,36 @@ Feed error: 502
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-23 08:09:58.539639
+------------------------------------------------------
+Started: 2023-12-23 09:06:53.621473
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [疫後美國動物收容所「狗」滿為患 經濟和居住問題成棄養主因](https://news.pts.org.tw/article/672841)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／聯合國安理會通過決議 對加薩擴大人道援助](https://news.pts.org.tw/article/672828)
+append_entries: 2
+Finish: 2023-12-23 09:06:55.215344
