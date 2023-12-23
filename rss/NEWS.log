@@ -41776,3 +41776,12 @@ Append: [續搜海虎潛艦3落海官兵 眷屬社群發文盼社會伸援](http
 Append: [2024大選／柯稱擺脫藍綠與對岸交流 賴前進中台灣、侯凱道造勢](https://news.pts.org.tw/article/672872)
 append_entries: 8
 Finish: 2023-12-23 13:07:29.066557
+------------------------------------------------------
+Started: 2023-12-23 14:06:41.554718
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-23 14:06:43.696052
