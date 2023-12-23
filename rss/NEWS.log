@@ -41815,3 +41815,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [結合瑜伽和撫摸小狗 巴黎人紓壓體驗新趨勢](https://news.pts.org.tw/article/672873)
 append_entries: 1
 Finish: 2023-12-23 16:08:35.073427
+------------------------------------------------------
+Started: 2023-12-23 17:06:40.480832
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-23 17:06:41.278063
