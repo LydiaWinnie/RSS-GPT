@@ -41622,3 +41622,13 @@ Append: [今日白天寒流稍減弱 下週一、二清晨中部以北10度](htt
 Append: [2024大選／副總統政見發表會 吳主打經濟牌、蕭向青年喊話](https://news.pts.org.tw/article/672827)
 append_entries: 9
 Finish: 2023-12-23 07:06:36.188464
+------------------------------------------------------
+Started: 2023-12-23 08:09:02.578043
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 502
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-23 08:09:58.539639
