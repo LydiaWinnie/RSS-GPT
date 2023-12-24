@@ -42185,3 +42185,12 @@ Append: [南部多所高中連署 籲依溫度決定考場是否開冷氣](https
 Append: [2024大選／賴提建設淡海科學城 侯稱若當選3年內詐騙減半](https://news.pts.org.tw/article/672899)
 append_entries: 9
 Finish: 2023-12-24 14:06:26.424189
+------------------------------------------------------
+Started: 2023-12-24 15:06:44.594734
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-24 15:06:46.544721
