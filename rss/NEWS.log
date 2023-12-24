@@ -42094,3 +42094,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [一週大事／海虎潛艦6官兵落海 冰島火山噴發（2023.12.18-12.24）](https://news.pts.org.tw/article/672897)
 append_entries: 1
 Finish: 2023-12-24 11:05:50.747136
+------------------------------------------------------
+Started: 2023-12-24 12:12:12.929367
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-24 12:12:15.961770
