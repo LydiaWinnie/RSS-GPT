@@ -42046,3 +42046,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [苗栗苑裡7旬翁昏倒菜園 送醫搶救仍回天乏術](https://news.pts.org.tw/article/672889)
 append_entries: 5
 Finish: 2023-12-24 07:06:41.809886
+------------------------------------------------------
+Started: 2023-12-24 08:09:05.669292
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-24 08:09:08.034794
