@@ -42650,3 +42650,81 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-25 13:08:53.699572
+------------------------------------------------------
+Started: 2023-12-25 14:07:07.895026
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [體育運動精英獎 楊勇緯、谷筱霜等選手獲殊榮](https://news.pts.org.tw/article/673111)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台中4場跨年晚會訂房率9成 市府備戰交通疏運](https://news.pts.org.tw/article/673113)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [義大利扒手盛行 資深導遊教自保之道](https://news.pts.org.tw/article/673116)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北美防空司令部追耶老行蹤 繞行全球平安夜路過台灣](https://news.pts.org.tw/article/673117)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [塞爾維亞民眾抗議大選不公 闖市政廳逾35人被捕](https://news.pts.org.tw/article/673118)
+Append: [以哈戰爭／赴巴勒斯坦救援見證艱困 日少女出繪本促停戰](https://news.pts.org.tw/article/673119)
+Append: [長榮航祭6個月年終並調薪 機師工會稱罷工投票踴躍](https://news.pts.org.tw/article/673125)
+Append: [屏議長周典論涉挺郭連署行賄 女兒周佳琪：司法會還清白](https://news.pts.org.tw/article/673131)
+Append: [國道警公布大型車事故8熱點 國1林口往三重居榜首](https://news.pts.org.tw/article/673128)
+Append: [國軍工地1工人遭砂樁機壓亡 高縣府罰30萬勒令廠商停工](https://news.pts.org.tw/article/673133)
+Append: [2024大選／侯批中央不解決礦工居住權 柯備戰政見會、賴重申團結護國](https://news.pts.org.tw/article/673132)
+Append: [台僑持台灣護照入境古巴遭拒 外交部調查並籲暫緩前往](https://news.pts.org.tw/article/673127)
+Append: [新北學生口角衝突 國三生遭美工刀割頸命危](https://news.pts.org.tw/article/673134)
+append_entries: 13
+Finish: 2023-12-25 14:07:08.942642
