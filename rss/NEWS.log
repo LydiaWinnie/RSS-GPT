@@ -42320,3 +42320,24 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [菲國觀光團遊合歡山 車輛摔落30公尺山谷](https://news.pts.org.tw/article/672961)
 append_entries: 3
 Finish: 2023-12-25 01:48:32.408429
+------------------------------------------------------
+Started: 2023-12-25 02:21:19.042299
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國總統候選人怎麼不辯論中國議題了？](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E6%80%8E%E9%BA%BC%E4%B8%8D%E5%B0%B1%E4%B8%AD%E5%9C%8B%E5%B1%95%E9%96%8B%E8%BE%AF%E8%AB%96%E4%BA%86-2f35e24d)
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-25 02:21:20.297773
