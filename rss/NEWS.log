@@ -42641,3 +42641,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [印尼止咳糖漿含毒 逾200童亡122中毒臥床不起](https://news.pts.org.tw/article/673066)
 append_entries: 2
 Finish: 2023-12-25 12:13:31.075611
+------------------------------------------------------
+Started: 2023-12-25 13:08:51.861533
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-25 13:08:53.699572
