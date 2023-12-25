@@ -42728,3 +42728,13 @@ Append: [台僑持台灣護照入境古巴遭拒 外交部調查並籲暫緩前�
 Append: [新北學生口角衝突 國三生遭美工刀割頸命危](https://news.pts.org.tw/article/673134)
 append_entries: 13
 Finish: 2023-12-25 14:07:08.942642
+------------------------------------------------------
+Started: 2023-12-25 15:08:21.499866
+Existing_entries: 1013
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-25 15:08:22.912537
