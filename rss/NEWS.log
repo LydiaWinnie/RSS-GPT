@@ -42569,3 +42569,12 @@ Append: [騰雲無人機滯空突破20小時 可大幅提升台海巡防偵蒐�
 Append: [秘魯警察假扮耶誕老人 破獲販毒集團「邪惡馴鹿幫」](https://news.pts.org.tw/article/673000)
 append_entries: 10
 Finish: 2023-12-25 08:10:30.642159
+------------------------------------------------------
+Started: 2023-12-25 09:08:17.047528
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-25 09:08:39.373465
