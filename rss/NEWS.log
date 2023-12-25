@@ -42341,3 +42341,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-25 02:21:20.297773
+------------------------------------------------------
+Started: 2023-12-25 03:08:33.035203
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國稱印度附近一艘化學品船遭伊朗無人機擊中](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E7%A8%B1%E5%8D%B0%E5%BA%A6%E9%99%84%E8%BF%91%E4%B8%80%E8%89%98%E5%8C%96%E5%AD%B8%E5%93%81%E8%88%B9%E9%81%AD%E4%BC%8A%E6%9C%97%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%93%8A%E4%B8%AD-a9f45b8d)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-25 03:08:34.139021
