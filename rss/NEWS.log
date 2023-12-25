@@ -42371,3 +42371,36 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-25 04:09:48.121487
+------------------------------------------------------
+Started: 2023-12-25 05:08:22.934351
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國失業青年：他們從官方數據中消失，但出現在圖書館裡](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E5%A4%B1%E6%A5%AD%E8%80%85%E4%B8%A6%E4%B8%8D%E7%B8%BD%E6%98%AF%E5%87%BA%E7%8F%BE%E5%9C%A8%E6%95%B8%E6%93%9A%E4%B8%AD-%E4%BD%86%E6%9C%83%E5%9C%A8%E5%9C%96%E6%9B%B8%E9%A4%A8%E4%B8%AD-0818c4fa)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國政府調查是否為在中國開展的冠狀病毒研究重複撥款](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9C%E8%AA%BF%E6%9F%A5%E6%98%AF%E5%90%A6%E7%82%BA%E5%9C%A8%E4%B8%AD%E5%9C%8B%E9%96%8B%E5%B1%95%E7%9A%84%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E7%A0%94%E7%A9%B6%E9%87%8D%E8%A4%87%E6%92%A5%E6%AC%BE-49e8102b)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-12-25 05:08:24.110604
