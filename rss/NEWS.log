@@ -43044,3 +43044,24 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [聽障體協監事"大寶"周宗憲驟逝 體壇遺憾](https://news.pts.org.tw/article/673165)
 append_entries: 2
 Finish: 2023-12-26 05:07:28.311867
+------------------------------------------------------
+Started: 2023-12-26 06:10:23.469202
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國空襲伊拉克境內伊朗支持的民兵組織所用無人機設施](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E7%A9%BA%E8%A5%B2%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A2%83%E5%85%A7%E4%BC%8A%E6%9C%97%E6%94%AF%E6%8C%81%E7%9A%84%E6%B0%91%E5%85%B5%E7%B5%84%E7%B9%94%E6%89%80%E7%94%A8%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A8%AD%E6%96%BD-bd53a63c)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-26 06:10:24.389895
