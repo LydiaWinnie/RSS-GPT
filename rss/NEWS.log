@@ -43237,3 +43237,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-26 12:13:05.622238
+------------------------------------------------------
+Started: 2023-12-26 13:08:22.494278
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [大馬限Meta與TikTok貼文帳號 民眾憂政府干預言論自由](https://news.pts.org.tw/article/673308)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [經墨赴美非法移民多 耶誕假期每日8千人跨境創紀錄](https://news.pts.org.tw/article/673311)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／納坦雅胡稱需更多時間救人質 以襲敘利亞炸死伊朗高級將領](https://news.pts.org.tw/article/673312)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [攸關台積電1.4奈米製程 中科擴建二期都審過關](https://news.pts.org.tw/article/673313)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [立委孔文吉工作人員涉介選 花檢約談22人到案2人交保](https://news.pts.org.tw/article/673321)
+Append: [濫捕與氣候變遷 阿根廷帝王蟹大減拚復育](https://news.pts.org.tw/article/673309)
+Append: [新北國三生遭同學割頸 行凶者收容、涉教唆生責付監護](https://news.pts.org.tw/article/673319)
+Append: [共軍機艦持續擾台 我再偵獲1空飄氣球越中線](https://news.pts.org.tw/article/673320)
+Append: [黃色小鴨重回高雄？ 陳其邁：過年往南走就對了](https://news.pts.org.tw/article/673303)
+Append: [台南麻豆出租套房氣爆 疑煮食不慎3人受傷送醫](https://news.pts.org.tw/article/673318)
+Append: [海軍續搜3海虎潛艦失聯者 蔡總統探視受傷官兵](https://news.pts.org.tw/article/673325)
+Append: [龜山冷媒工廠傍晚大火 延燒至五楊高架下方](https://news.pts.org.tw/article/673324)
+Append: [上週新冠併發症增326例37死 創2個月來新高](https://news.pts.org.tw/article/673317)
+Append: [2024大選／第2場總統政見發表會 柯侯賴聚焦能源問題](https://news.pts.org.tw/article/673323)
+Append: [奈及利亞逾20村莊遭暴徒攻擊 至少160死逾300傷](https://news.pts.org.tw/article/673265)
+append_entries: 15
+Finish: 2023-12-26 13:08:23.718185
