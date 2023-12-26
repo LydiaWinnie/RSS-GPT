@@ -43065,3 +43065,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-26 06:10:24.389895
+------------------------------------------------------
+Started: 2023-12-26 07:07:15.885324
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [俄國反對派領袖失聯逾2週 納瓦尼被移監北極圈流放地](https://news.pts.org.tw/article/673200)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [南投埔里獼猴重傷 疑遭施虐農業局追查中](https://news.pts.org.tw/article/673196)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [6水果表皮驗出熱帶念珠菌 國衛院籲洗淨再食用](https://news.pts.org.tw/article/673204)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北巿2024跨年避免影響住戶 彩排及晚會全程噪音監測](https://news.pts.org.tw/article/673188)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [28民團邀各政黨回覆政見議題 呼籲候選人承諾推動修法](https://news.pts.org.tw/article/673191)
+Append: [花蓮溫泉池底結晶劃傷遊客 業者建議泡湯時間不宜過久](https://news.pts.org.tw/article/673193)
+Append: [雲林虱目魚寒害3萬多尾凍斃 農業處籲盡快通報損失](https://news.pts.org.tw/article/673205)
+Append: [近8年PM2.5改善逾3成 指標污染物轉為臭氧](https://news.pts.org.tw/article/673192)
+Append: [海虎潛艦3落海官兵仍失聯 司令部：持續搜救並加強生還者心輔](https://news.pts.org.tw/article/673201)
+Append: [新北遭割頸國中生救治中 動手學生裁定收容](https://news.pts.org.tw/article/673206)
+Append: [蘭陽女中第2校區宿舍用地 地方籲釋出公共停車空間](https://news.pts.org.tw/article/673195)
+Append: [台南中華北路與和緯路口 違規臨停多導致險象環生](https://news.pts.org.tw/article/673202)
+Append: [松機排班計程車元旦起加50元 睽違17年復收服務費](https://news.pts.org.tw/article/673203)
+Append: [烏克蘭切割俄羅斯 首度在12/25慶耶誕節](https://news.pts.org.tw/article/673199)
+Append: [周典論涉連署行賄遭羈押禁見 屏東副議長抗議司法不公](https://news.pts.org.tw/article/673207)
+append_entries: 15
+Finish: 2023-12-26 07:07:16.728340
