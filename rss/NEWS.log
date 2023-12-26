@@ -43228,3 +43228,12 @@ Append: [「中英」2023年優秀科技大賞](https://cn.nytimes.com/technolog
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-12-26 11:06:34.748517
+------------------------------------------------------
+Started: 2023-12-26 12:13:03.133986
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-26 12:13:05.622238
