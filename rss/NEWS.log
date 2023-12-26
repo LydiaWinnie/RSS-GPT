@@ -43316,3 +43316,12 @@ Append: [2024大選／第2場總統政見發表會 柯侯賴聚焦能源問題](
 Append: [奈及利亞逾20村莊遭暴徒攻擊 至少160死逾300傷](https://news.pts.org.tw/article/673265)
 append_entries: 15
 Finish: 2023-12-26 13:08:23.718185
+------------------------------------------------------
+Started: 2023-12-26 14:07:01.887767
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-26 14:07:02.813681
