@@ -43144,3 +43144,24 @@ Append: [烏克蘭切割俄羅斯 首度在12/25慶耶誕節](https://news.pts.o
 Append: [周典論涉連署行賄遭羈押禁見 屏東副議長抗議司法不公](https://news.pts.org.tw/article/673207)
 append_entries: 15
 Finish: 2023-12-26 07:07:16.728340
+------------------------------------------------------
+Started: 2023-12-26 08:10:20.635223
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」2023年五大健康趨勢](https://cn.nytimes.com/health/20231226/health-2023-ozempic-covid/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-26 08:10:22.629478
