@@ -43358,3 +43358,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [中恢復台石斑魚輸入僅開放7家 農業部：不符國際規範](https://news.pts.org.tw/article/673315)
 append_entries: 2
 Finish: 2023-12-26 15:07:36.521258
+------------------------------------------------------
+Started: 2023-12-26 16:08:55.674736
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-26 16:08:56.584986
