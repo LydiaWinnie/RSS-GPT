@@ -43183,3 +43183,48 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-26 10:08:33.571657
+------------------------------------------------------
+Started: 2023-12-26 11:06:33.584540
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國仍難以重建在華情報網，了解中國領導層計劃能力受限](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E4%BB%8D%E9%9B%A3%E4%BB%A5%E9%87%8D%E5%BB%BA%E5%9C%A8%E8%8F%AF%E6%83%85%E5%A0%B1%E7%B6%B2-%E4%BA%86%E8%A7%A3%E4%B8%AD%E5%9C%8B%E9%A0%98%E5%B0%8E%E5%B1%A4%E8%A8%88%E5%8A%83%E8%83%BD%E5%8A%9B%E5%8F%97%E9%99%90-e8aa0ca4)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」一座價值600萬美元比特幣礦場的神秘中國主人](https://cn.nytimes.com/technology/20231226/bitrush-bitcoin-cryptocurrency-china/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」2023年優秀科技大賞](https://cn.nytimes.com/technology/20231226/the-2023-good-tech-awards/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2023-12-26 11:06:34.748517
