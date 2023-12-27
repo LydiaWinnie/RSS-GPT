@@ -43731,3 +43731,12 @@ Append: [「中英」2023年全球商業大事記](https://cn.nytimes.com/busine
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-27 07:07:23.128272
+------------------------------------------------------
+Started: 2023-12-27 08:09:51.595866
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-27 08:09:52.882600
