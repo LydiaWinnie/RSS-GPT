@@ -43761,3 +43761,12 @@ Append: [「中英」2024年九大飲食風尚趨勢預測](https://cn.nytimes.c
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-27 09:07:36.523013
+------------------------------------------------------
+Started: 2023-12-27 10:08:19.131936
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-27 10:08:20.786402
