@@ -43958,3 +43958,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [新北蘆洲鐵皮屋工廠大火 百名消防人員赴現場灌救](https://news.pts.org.tw/article/673540)
 append_entries: 1
 Finish: 2023-12-27 15:07:30.401922
+------------------------------------------------------
+Started: 2023-12-27 16:09:36.526973
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-27 16:09:38.856868
