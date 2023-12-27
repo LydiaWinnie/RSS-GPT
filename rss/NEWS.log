@@ -43630,3 +43630,83 @@ Append: [「中英」新關稅、「嚴厲懲罰」中國：川普的2025年貿�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-27 05:07:47.209771
+------------------------------------------------------
+Started: 2023-12-27 06:10:30.132564
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [特朗普提出「以牙還牙」關稅，為第二任期貿易戰做準備](https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA-%E4%BB%A5%E7%89%99%E9%82%84%E7%89%99-%E9%97%9C%E7%A8%85-%E7%82%BA%E7%AC%AC%E4%BA%8C%E4%BB%BB%E6%9C%9F%E8%B2%BF%E6%98%93%E6%88%B0%E5%81%9A%E6%BA%96%E5%82%99-b87b4a0c)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台中和平山區黑熊受困套索陷阱 林業署團隊今晨成功救援](https://news.pts.org.tw/article/673381)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [青年返鄉導入科技畜牧 智慧養鵝提高效率防堵禽流感](https://news.pts.org.tw/article/673396)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [環團批開發案可抵減空污 環境部：僅淨增量可抵換](https://news.pts.org.tw/article/673395)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台中小客車違停駕駛心虛 警追查車內藏毒咖啡包](https://news.pts.org.tw/article/673393)
+Append: [機車改裝排氣管認證制 明年實施、後年正式上路](https://news.pts.org.tw/article/673390)
+Append: [以哈戰爭／衝突持續逾2月 加薩醫療缺乏傷患被迫截肢](https://news.pts.org.tw/article/673394)
+Append: [台東無黨籍立委候選人疑涉賄 遭控發送超額宣傳品](https://news.pts.org.tw/article/673401)
+Append: [實支實付醫療險重大變革 未來不得領取超過實際費用](https://news.pts.org.tw/article/673382)
+Append: [12月消費者信心指數19個月高 6指標中投資股票指數升幅最多](https://news.pts.org.tw/article/673383)
+Append: [美消費性電子展CES將登場 台96團隊與會拚全球合作機會](https://news.pts.org.tw/article/673385)
+Append: [台南大東及大東東夜市 業者決定自1/3起停業1個月](https://news.pts.org.tw/article/673388)
+Append: [羅東後站公有停車場亂象多 民眾憂成治安死角](https://news.pts.org.tw/article/673391)
+Append: [青少年吸電子煙近3年增1.4倍 國小高年級推菸害防制教學](https://news.pts.org.tw/article/673392)
+Append: [新北校園持刀攻擊案學生不治 朝殺人罪或傷害致死偵辦](https://news.pts.org.tw/article/673403)
+Append: [2024年第一道曙光時刻 台東蘭嶼上午6:23](https://news.pts.org.tw/article/673389)
+append_entries: 16
+Finish: 2023-12-27 06:10:35.880673
