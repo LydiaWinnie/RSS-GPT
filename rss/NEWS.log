@@ -43543,3 +43543,48 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [桃園龜山冷媒廠昨火警 釀1死3傷](https://news.pts.org.tw/article/673352)
 append_entries: 3
 Finish: 2023-12-27 02:18:09.884558
+------------------------------------------------------
+Started: 2023-12-27 03:08:42.945166
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [俄反對派領袖納瓦爾尼失蹤數周後首次發聲](https://cn.wsj.com/articles/%E4%BF%84%E5%8F%8D%E5%B0%8D%E6%B4%BE%E9%A0%98%E8%A2%96%E7%B4%8D%E7%93%A6%E7%88%BE%E5%B0%BC%E5%A4%B1%E8%B9%A4%E6%95%B8%E5%91%A8%E5%BE%8C%E9%A6%96%E6%AC%A1%E7%99%BC%E8%81%B2-acd90928)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [俄黑海艦隊再遭打擊：烏軍在克裡米亞擊中俄羅斯大型軍艦](https://cn.wsj.com/articles/%E4%BF%84%E9%BB%91%E6%B5%B7%E8%89%A6%E9%9A%8A%E5%86%8D%E9%81%AD%E6%89%93%E6%93%8A-%E7%83%8F%E8%BB%8D%E5%9C%A8%E5%85%8B%E8%A3%A1%E7%B1%B3%E4%BA%9E%E6%93%8A%E4%B8%AD%E4%BF%84%E7%BE%85%E6%96%AF%E5%A4%A7%E5%9E%8B%E8%BB%8D%E8%89%A6-a40aab01)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [億萬富翁Koch的捐贈者網絡支持妮基·黑利，重返總統選戰政治舞臺](https://cn.wsj.com/articles/%E5%84%84%E8%90%AC%E5%AF%8C%E7%BF%81koch%E7%9A%84%E6%8D%90%E8%B4%88%E8%80%85%E7%B6%B2%E7%B5%A1%E6%94%AF%E6%8C%81%E5%A6%AE%E5%9F%BA-%E9%BB%91%E5%88%A9-%E9%87%8D%E8%BF%94%E7%B8%BD%E7%B5%B1%E9%81%B8%E6%88%B0%E6%94%BF%E6%B2%BB%E8%88%9E%E8%87%BA-b5aba10d)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2023-12-27 03:08:44.401218
