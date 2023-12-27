@@ -43928,3 +43928,12 @@ Append: [南韓知名演員李善均 今早遭發現車內輕生離世](https://
 Append: [俄烏戰爭／烏軍飛彈擊俄登陸艦 俄方證實釀1死2傷](https://news.pts.org.tw/article/673475)
 append_entries: 16
 Finish: 2023-12-27 13:08:59.920418
+------------------------------------------------------
+Started: 2023-12-27 14:06:51.674657
+Existing_entries: 1016
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-27 14:06:52.903415
