@@ -43710,3 +43710,24 @@ Append: [新北校園持刀攻擊案學生不治 朝殺人罪或傷害致死偵�
 Append: [2024年第一道曙光時刻 台東蘭嶼上午6:23](https://news.pts.org.tw/article/673389)
 append_entries: 16
 Finish: 2023-12-27 06:10:35.880673
+------------------------------------------------------
+Started: 2023-12-27 07:07:20.746813
+Existing_entries: 1016
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」2023年全球商業大事記](https://cn.nytimes.com/business/20231227/top-business-stories-2023-sbf-ai/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-27 07:07:23.128272
