@@ -43848,3 +43848,83 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-27 12:13:17.107438
+------------------------------------------------------
+Started: 2023-12-27 13:08:48.603397
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [印尼中資鎳冶鍊廠爆炸造成19人死亡](https://cn.wsj.com/articles/%E5%8D%B0%E5%B0%BC%E4%B8%AD%E8%B3%87%E9%8E%B3%E5%86%B6%E9%8D%8A%E5%BB%A0%E7%88%86%E7%82%B8%E9%80%A0%E6%88%9019%E4%BA%BA%E6%AD%BB%E4%BA%A1-5f1ca467)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [衛福部新藥辦公室元旦起運作 採平行審查等待時間少一半](https://news.pts.org.tw/article/673518)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [波羅的海破冰船體驗夯 挑戰零下水中游泳](https://news.pts.org.tw/article/673523)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [日本全球最大核電廠柏崎刈羽 解除停機禁令估明夏重啟](https://news.pts.org.tw/article/673524)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／以國陷多線戰爭 防長證實遭7地區攻擊](https://news.pts.org.tw/article/673526)
+Append: [2023本島平地最晚落日 估將在台南七股海堤](https://news.pts.org.tw/article/673527)
+Append: [機車停白色格狀線挨罰 中高行判撤銷罰單](https://news.pts.org.tw/article/673529)
+Append: [高虹安涉誣告和貪瀆2案 北院今同時開庭](https://news.pts.org.tw/article/673534)
+Append: [介選和賄選層出不窮 赴中旅遊、售假證件牟利等](https://news.pts.org.tw/article/673535)
+Append: [腦麻候選人欲增政見發表時間 抗議北市選委會拒絕申請](https://news.pts.org.tw/article/673520)
+Append: [男子連撥9通1999謊報送辦 法院：不符要件裁定不罰](https://news.pts.org.tw/article/673530)
+Append: [一貫道信眾入境中國 被控發展組織遭扣留多日](https://news.pts.org.tw/article/673533)
+Append: [2024大選／侯稱若拿非法錢則不選總統 柯籲擺脫藍綠泥淖](https://news.pts.org.tw/article/673536)
+Append: [學生割頸案省思 檢視曝險少年輔導與中介教育](https://news.pts.org.tw/article/673537)
+Append: [南韓知名演員李善均 今早遭發現車內輕生離世](https://news.pts.org.tw/article/673473)
+Append: [俄烏戰爭／烏軍飛彈擊俄登陸艦 俄方證實釀1死2傷](https://news.pts.org.tw/article/673475)
+append_entries: 16
+Finish: 2023-12-27 13:08:59.920418
