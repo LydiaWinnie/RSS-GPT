@@ -43609,3 +43609,24 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [新北國中生割頸案 受害學生宣告不治](https://news.pts.org.tw/article/673367)
 append_entries: 1
 Finish: 2023-12-27 04:09:19.917259
+------------------------------------------------------
+Started: 2023-12-27 05:07:45.132101
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」新關稅、「嚴厲懲罰」中國：川普的2025年貿易議程](https://cn.nytimes.com/usa/20231226/trump-2025-trade-china/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-27 05:07:47.209771
