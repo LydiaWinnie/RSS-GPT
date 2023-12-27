@@ -43839,3 +43839,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [全球婚禮熱門地拉斯維加斯 跨年夜12/31/23有望創新高峰](https://news.pts.org.tw/article/673404)
 append_entries: 5
 Finish: 2023-12-27 11:06:43.815590
+------------------------------------------------------
+Started: 2023-12-27 12:13:14.986375
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-27 12:13:17.107438
