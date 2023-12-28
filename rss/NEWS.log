@@ -44374,3 +44374,12 @@ Append: [「中英」2023年《紐約時報》/紐約公共圖書館最佳兒童
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2023-12-28 10:08:26.219562
+------------------------------------------------------
+Started: 2023-12-28 11:06:32.759869
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-28 11:06:35.806097
