@@ -44404,3 +44404,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-28 12:13:19.654908
+------------------------------------------------------
+Started: 2023-12-28 13:09:00.015366
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台東女騎士自摔離去 斷指遭拾獲無法接回](https://news.pts.org.tw/article/673722)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [迎新年時報廣場水晶球測試 雪梨煙火結合原民元素與AI](https://news.pts.org.tw/article/673723)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [歐元創始者德洛爾98歲辭世 舉世哀思致敬](https://news.pts.org.tw/article/673724)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [前女記者登記參選俄總統遭拒 上訴最高法院遭駁回](https://news.pts.org.tw/article/673725)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [民眾打流感疫苗診斷視神經炎 疾管署：機率僅億分之三](https://news.pts.org.tw/article/673728)
+Append: [3D列印槍枝零件走私 台美合作破獲改槍案](https://news.pts.org.tw/article/673730)
+Append: [彰師大生爭路權要求設人行道 縣府協助公所爭取中央經費](https://news.pts.org.tw/article/673732)
+Append: [10月交通事故較去年同期上升 死傷下降5%目標難達標](https://news.pts.org.tw/article/673733)
+Append: [高雄1工地鷹架倒塌險傷人 勞工局指違法勒令停工並開罰](https://news.pts.org.tw/article/673734)
+Append: [台電員工巡檢電塔 遭電弧灼傷送醫無大礙](https://news.pts.org.tw/article/673735)
+Append: [地檢署偵辦《反滲透法》案77件 法部嚴辦介選政院祭千萬獎金](https://news.pts.org.tw/article/673737)
+Append: [2024大選／侯談少年割頸案籲修法 賴提青少年心理輔導機制](https://news.pts.org.tw/article/673738)
+Append: [新北校園割頸案 陳建仁要求檢視中介機制](https://news.pts.org.tw/article/673739)
+Append: [近10年44消防菁英死於火場 消促會批對消防職安改革敷衍](https://news.pts.org.tw/article/673740)
+Append: [新竹移工宿舍火警 消防分隊長返火場搜尋殉職](https://news.pts.org.tw/article/673741)
+append_entries: 15
+Finish: 2023-12-28 13:09:02.494986
