@@ -44483,3 +44483,12 @@ Append: [近10年44消防菁英死於火場 消促會批對消防職安改革敷
 Append: [新竹移工宿舍火警 消防分隊長返火場搜尋殉職](https://news.pts.org.tw/article/673741)
 append_entries: 15
 Finish: 2023-12-28 13:09:02.494986
+------------------------------------------------------
+Started: 2023-12-28 14:06:56.921361
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-28 14:07:07.667473
