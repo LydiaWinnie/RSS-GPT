@@ -44111,3 +44111,12 @@ Append: [遭檢舉宣傳品逾30元 台東立委候選人許瑞貴6萬交保](ht
 Append: [再發現海虎潛艦紅色救生衣 海軍：不放棄任何機會](https://news.pts.org.tw/article/673554)
 append_entries: 8
 Finish: 2023-12-28 01:43:35.954863
+------------------------------------------------------
+Started: 2023-12-28 02:18:24.016069
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-28 02:18:25.689549
