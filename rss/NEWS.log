@@ -44383,3 +44383,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-28 11:06:35.806097
+------------------------------------------------------
+Started: 2023-12-28 12:13:18.617725
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國要向前進，但習近平在憶往昔](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E8%A6%81%E5%90%91%E5%89%8D%E9%80%B2-%E4%BD%86%E7%BF%92%E8%BF%91%E5%B9%B3%E5%9C%A8%E6%86%B6%E5%BE%80%E6%98%94-b35cd6d3)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2023-12-28 12:13:19.654908
