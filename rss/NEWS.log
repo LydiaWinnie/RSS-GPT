@@ -44039,3 +44039,75 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-28 00:35:23.952517
+------------------------------------------------------
+Started: 2023-12-28 01:43:34.013431
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以色列加強對加沙難民營的攻勢](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E5%8A%A0%E5%BC%B7%E5%B0%8D%E5%8A%A0%E6%B2%99%E9%9B%A3%E6%B0%91%E7%87%9F%E7%9A%84%E6%94%BB%E5%8B%A2-a294777b)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [密歇根州最高法院駁回阻止特朗普參加總統初選的努力](https://cn.wsj.com/articles/%E5%AF%86%E6%AD%87%E6%A0%B9%E5%B7%9E%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E9%A7%81%E5%9B%9E%E9%98%BB%E6%AD%A2%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%83%E5%8A%A0%E7%B8%BD%E7%B5%B1%E5%88%9D%E9%81%B8%E7%9A%84%E5%8A%AA%E5%8A%9B-38f15360)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」中國會放寬擬議中的網遊新規嗎](https://cn.nytimes.com/business/20231228/china-video-gaming-tencent-netease/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [洛杉磯道奇歡迎山本由伸加入 簽12年3.25億美元合約](https://news.pts.org.tw/article/673569)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [孟加拉首都達卡空品「危險」 全球污染最嚴重](https://news.pts.org.tw/article/673556)
+Append: [南韓罕見軍警防衛演習 借鏡以哈戰火模擬北韓突襲](https://news.pts.org.tw/article/673558)
+Append: [遭檢舉宣傳品逾30元 台東立委候選人許瑞貴6萬交保](https://news.pts.org.tw/article/673564)
+Append: [再發現海虎潛艦紅色救生衣 海軍：不放棄任何機會](https://news.pts.org.tw/article/673554)
+append_entries: 8
+Finish: 2023-12-28 01:43:35.954863
