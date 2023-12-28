@@ -44195,3 +44195,81 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-28 06:10:17.154307
+------------------------------------------------------
+Started: 2023-12-28 07:07:22.608818
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [高雄男注射戒毒針死亡 3醫護涉過失致死遭起訴](https://news.pts.org.tw/article/673596)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [宜蘭實驗人文國中小合約將到期 2次初審未過新經營者難產](https://news.pts.org.tw/article/673599)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [家族經營麵店遭疑占公有地 台中立委候選人羅庭瑋稱合法租用](https://news.pts.org.tw/article/673595)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／稱邦交國歸0沒關係 柯文哲：實質關係更重要](https://news.pts.org.tw/article/673602)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [《紐約時報》告OpenAI及微軟侵權 擅取資源訓練AI求償數十億](https://news.pts.org.tw/article/673604)
+Append: [112學年19所私立院校 註冊率未達6成「淹水線」](https://news.pts.org.tw/article/673600)
+Append: [台權會對3黨提人權8問 僅民眾黨正面允諾修《集遊法》](https://news.pts.org.tw/article/673601)
+Append: [習近平重申兩岸統一 前美官員稱中將干預美、台大選](https://news.pts.org.tw/article/673603)
+Append: [雲林通緝犯返家遭圍捕 開瓦斯拒捕與警對峙近半小時](https://news.pts.org.tw/article/673608)
+Append: [艾菲爾鐵塔關閉1天 員工不滿管理運作方式罷工](https://news.pts.org.tw/article/673605)
+Append: [多項新制元旦上路 基本工資增為27470元](https://news.pts.org.tw/article/673607)
+Append: [新竹移工宿舍火警 分隊長救人遭濃煙嗆暈殉職](https://news.pts.org.tw/article/673609)
+Append: [中火碳排2022年全球發電廠第一 環團籲經濟部積極汰煤](https://news.pts.org.tw/article/673611)
+Append: [「小玉」涉深偽技術變造圖像 二審改判5年不得易科罰金](https://news.pts.org.tw/article/673612)
+append_entries: 14
+Finish: 2023-12-28 07:07:24.619215
