@@ -44741,3 +44741,12 @@ Append: [「中英」《寄生上流》演員李善均自殺，韓國禁毒政�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-29 03:08:50.546946
+------------------------------------------------------
+Started: 2023-12-29 04:09:43.628721
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-29 04:09:47.443837
