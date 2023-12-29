@@ -45774,3 +45774,15 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [用数据说话：建立分析成熟型组织（AMO）](https://www.36kr.com/p/2519571907339782)
 append_entries: 5
 Finish: 2023-12-29 01:36:48.386769
+------------------------------------------------------
+Started: 2023-12-29 02:14:31.275153
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Feed error: 404
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 0
+Finish: 2023-12-29 02:14:32.209515

@@ -44687,3 +44687,36 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [新竹宿舍火警勇消游尚樺殉職 檢警研判吸濃煙窒息亡](https://news.pts.org.tw/article/673770)
 append_entries: 5
 Finish: 2023-12-29 01:36:30.567761
+------------------------------------------------------
+Started: 2023-12-29 02:14:23.037385
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國大選臨近之際，拜登難以推動與盟友達成貿易協議](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E9%81%B8%E8%87%A8%E8%BF%91%E4%B9%8B%E9%9A%9B-%E6%8B%9C%E7%99%BB%E9%9B%A3%E4%BB%A5%E6%8E%A8%E5%8B%95%E8%88%87%E7%9B%9F%E5%8F%8B%E9%81%94%E6%88%90%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0-55387b21)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [緬因州最高選舉官員禁止特朗普參加該州初選](https://cn.wsj.com/articles/%E7%B7%AC%E5%9B%A0%E5%B7%9E%E6%9C%80%E9%AB%98%E9%81%B8%E8%88%89%E5%AE%98%E5%93%A1%E7%A6%81%E6%AD%A2%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%83%E5%8A%A0%E8%A9%B2%E5%B7%9E%E5%88%9D%E9%81%B8-b20c17e1)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2023-12-29 02:14:27.833305
