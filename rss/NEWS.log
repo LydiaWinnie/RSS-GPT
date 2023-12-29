@@ -45122,3 +45122,12 @@ Append: [天氣和技術問題曾3度喊卡 美國太空無人機X-37B升空](ht
 Append: [新世界七大奇景生態遭破壞 越南下龍灣摻雜垃圾與油污](https://news.pts.org.tw/article/673877)
 append_entries: 12
 Finish: 2023-12-29 12:11:15.574061
+------------------------------------------------------
+Started: 2023-12-29 13:09:14.396932
+Existing_entries: 1012
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-29 13:09:15.499418
