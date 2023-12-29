@@ -45185,3 +45185,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [俄羅斯名流舉辦裸體幻想派對 引發輿論批評](https://news.pts.org.tw/article/673928)
 append_entries: 3
 Finish: 2023-12-29 15:07:22.246311
+------------------------------------------------------
+Started: 2023-12-29 16:10:06.815299
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-29 16:10:08.317603
