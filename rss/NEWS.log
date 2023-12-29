@@ -44934,3 +44934,82 @@ Append: [「中英」2024年，10件讓你心理更健康的事](https://cn.nyti
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2023-12-29 09:07:53.438642
+------------------------------------------------------
+Started: 2023-12-29 10:07:57.601296
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／衝突逾2月為自保 以申請槍枝執照案近27萬筆](https://news.pts.org.tw/article/673815)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [葉門青年運動襲商船 大型商船避紅海航線改道](https://news.pts.org.tw/article/673816)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [歐盟同意啟烏克蘭入盟談判 國內貪腐恐成弱點](https://news.pts.org.tw/article/673817)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [拜登競選連任滿意度低迷 美民眾厭倦積極外交政策](https://news.pts.org.tw/article/673818)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [伊拉克擬降低對美元依賴 明啟禁美元交易與提領](https://news.pts.org.tw/article/673819)
+Append: [全球電玩盛事E3宣布停辦 新冠疫情徹底改變電玩模式](https://news.pts.org.tw/article/673820)
+Append: [通膨衝擊影響香檳銷量 業者估香檳出口少千萬瓶](https://news.pts.org.tw/article/673821)
+Append: [日零售服飾業龍頭優衣庫 原宿辦二手衣快閃活動10天](https://news.pts.org.tw/article/673824)
+Append: [俄聖彼得堡近郊滑雪度假村 迎接旺季布置如童話世界](https://news.pts.org.tw/article/673825)
+Append: [法國巴黎「寵物瑜伽」正夯 瑜珈教室小狗小貓陪運動](https://news.pts.org.tw/article/673826)
+Append: [電子煙危害全球僅34國禁售 世衛促立法管制購菸年齡](https://news.pts.org.tw/article/673814)
+Append: [橫濱小交響樂團年終音樂會 AI自動演奏鋼琴助身障者圓夢](https://news.pts.org.tw/article/673822)
+Append: [衣國兩代植樹種樹成林 16年種逾2千棵守護地球](https://news.pts.org.tw/article/673823)
+Append: [高效電動單車致綠色物流普及 倫敦盼單車貨運年減3萬噸排碳](https://news.pts.org.tw/article/673827)
+Append: [法國近40城免費大眾運輸減碳排 對抗氣候變遷歐洲齊步走](https://news.pts.org.tw/article/673828)
+append_entries: 15
+Finish: 2023-12-29 10:07:59.223462
