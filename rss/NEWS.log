@@ -44759,3 +44759,79 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2023-12-29 05:07:37.798390
+------------------------------------------------------
+Started: 2023-12-29 06:10:42.048586
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [跨年夜天候僅東北季風等級 氣象署估2024春季偏暖雨多](https://news.pts.org.tw/article/673806)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中油稱三接工程豐富生態 環團指柴山多杯珊瑚面積縮小](https://news.pts.org.tw/article/673793)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台師大工教系大學部停招 校方：技職師培改專業系所](https://news.pts.org.tw/article/673797)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台南女涉重摔柯基犬引公憤 警：網友蛋洗住處已觸法](https://news.pts.org.tw/article/673809)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [紐約大掃除日民眾燒厄運迎新 UN秘書長盼2024全球重建信任](https://news.pts.org.tw/article/673804)
+Append: [石虎時隔30年重現宜蘭大礁溪 實驗林場：有助生態復甦](https://news.pts.org.tw/article/673801)
+Append: [格里特風暴侵襲英國 萬戶停電、部分航班取消](https://news.pts.org.tw/article/673805)
+Append: [消促會齊聚民進黨部 籲賴清德允消防員納《職安法》](https://news.pts.org.tw/article/673807)
+Append: [外媒指要求五月天表態挺一中 國台辦：民進黨製造謠言](https://news.pts.org.tw/article/673803)
+Append: [台灣地理中心碑施工 疑連日雨致樹倒壓傷3人送醫](https://news.pts.org.tw/article/673794)
+Append: [2024大選／總統政見發表聚焦校安 3陣營今續攻防政策](https://news.pts.org.tw/article/673808)
+Append: [中國人鼻涕抹我教廷使館門牌 外交部譴責將提告](https://news.pts.org.tw/article/673802)
+append_entries: 12
+Finish: 2023-12-29 06:10:42.802501
