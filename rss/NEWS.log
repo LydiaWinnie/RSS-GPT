@@ -45453,3 +45453,12 @@ Append: [富邦悍將總教練將異動 傳鋒砲掌兵符球團元旦後公布]
 Append: [左轉車撞倒2名走行穿線小學生 警方將對肇事駕駛開罰](https://news.pts.org.tw/article/673965)
 append_entries: 7
 Finish: 2023-12-30 07:06:44.471972
+------------------------------------------------------
+Started: 2023-12-30 08:09:13.754806
+Existing_entries: 1007
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-30 08:09:14.992467
