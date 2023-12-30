@@ -45582,3 +45582,12 @@ Append: [2024大選／賴侯柯交互詰問 交鋒土地爭議與房地產](http
 Append: [2024元旦新制將上路 基本工資漲、健保住院負擔上限增](https://news.pts.org.tw/article/673986)
 append_entries: 8
 Finish: 2023-12-30 13:07:32.183307
+------------------------------------------------------
+Started: 2023-12-30 14:06:42.487190
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-30 14:06:51.089385
