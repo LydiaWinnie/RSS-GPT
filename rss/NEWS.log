@@ -45501,3 +45501,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [2024大選／辯論會後記者會 候選人異口同聲：交給人民評分](https://news.pts.org.tw/article/673967)
 append_entries: 1
 Finish: 2023-12-30 11:06:01.568129
+------------------------------------------------------
+Started: 2023-12-30 12:12:23.036089
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-30 12:12:24.363663
