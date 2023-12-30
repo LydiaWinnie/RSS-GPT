@@ -45373,3 +45373,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [台東農機行火警1人燒燙傷 估計財損逾百萬](https://news.pts.org.tw/article/673953)
 append_entries: 2
 Finish: 2023-12-30 05:07:11.320895
+------------------------------------------------------
+Started: 2023-12-30 06:09:18.313753
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-30 06:09:19.176897
