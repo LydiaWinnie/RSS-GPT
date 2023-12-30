@@ -45651,3 +45651,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [日本老屋與空屋の對策｜振興鹿野老屋群的民間力量【我們的島】](https://news.pts.org.tw/article/671410)
 append_entries: 2
 Finish: 2023-12-30 18:09:20.486397
+------------------------------------------------------
+Started: 2023-12-30 19:05:35.969459
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-30 19:05:37.104484
