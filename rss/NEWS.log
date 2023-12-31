@@ -45836,3 +45836,12 @@ Append: [跨年夜多雲易雨越晚越冷 迎曙光靠運氣](https://news.pts.
 Append: [2024大選／賴批侯憲法與九二共識混為一談 侯回擊賴支持台獨](https://news.pts.org.tw/article/674026)
 append_entries: 8
 Finish: 2023-12-31 06:09:28.202563
+------------------------------------------------------
+Started: 2023-12-31 07:06:40.250355
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-31 07:06:45.918114
