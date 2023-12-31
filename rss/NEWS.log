@@ -45993,3 +45993,12 @@ Append: [北市攝影器材工作室著火 疑鋰電池充電爆炸導致](https
 Append: [台大登山社探轆轆溫泉 1人墜谷吊掛送醫](https://news.pts.org.tw/article/674058)
 append_entries: 9
 Finish: 2023-12-31 15:06:49.304268
+------------------------------------------------------
+Started: 2023-12-31 16:08:25.158488
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-31 16:08:30.462132
