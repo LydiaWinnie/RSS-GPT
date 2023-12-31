@@ -45884,3 +45884,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [一週大事／總統候選人辯論會 新北國中生遭割頸（2023.12.25-12.31）](https://news.pts.org.tw/article/674027)
 append_entries: 1
 Finish: 2023-12-31 10:07:31.772397
+------------------------------------------------------
+Started: 2023-12-31 11:05:59.434075
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2023-12-31 11:06:00.571677
