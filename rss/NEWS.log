@@ -46313,3 +46313,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-01 12:13:41.513845
+------------------------------------------------------
+Started: 2024-01-01 13:09:36.079715
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [五月天跨年演唱會 工人冒險偷攀鷹架觀看](https://news.pts.org.tw/article/674202)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [澳洲原住民保留區水牛群萎縮 微軟合作衛星追蹤管理](https://news.pts.org.tw/article/674205)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／副總統辯論交互詰問 聚焦能源與少子化等議題](https://news.pts.org.tw/article/674219)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [高雄輕軌成圓全線通車 部分市民憂平面道路更塞](https://news.pts.org.tw/article/674204)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [日強震台旅行團客目前皆平安 駐處允助自由行台人搭機返台](https://news.pts.org.tw/article/674220)
+Append: [2024首日烏俄互控對方攻擊 砲轟加空襲至少釀5死](https://news.pts.org.tw/article/674206)
+Append: [2024年恢復1年制兵役 新訓增震撼教育淬鍊心智](https://news.pts.org.tw/article/674214)
+Append: [實支實付醫療險爆搶買潮 相關商品亦停賣改新約](https://news.pts.org.tw/article/674213)
+Append: [南部空氣品質紅色警示 離島金馬遭中國沿海空污](https://news.pts.org.tw/article/674209)
+Append: [日本石川地震核電廠無異常 氣象廳估海嘯最高達5公尺](https://news.pts.org.tw/article/674221)
+Append: [新人為「1231」赴賭城結婚 紐約時報廣場恢復跨年倒數](https://news.pts.org.tw/article/674207)
+Append: [日本石川發生規模7.6強震 氣象廳發布大海嘯警報](https://news.pts.org.tw/article/674222)
+Append: [NASA研發太空機器人 助太空員完成高風險維修任務](https://news.pts.org.tw/article/674151)
+Append: [金正恩定調兩韓敵對 尹錫悅：全面封鎖核威脅](https://news.pts.org.tw/article/674157)
+Append: [柏林千警維安防煙火意重演外 赴特定區須先搜身](https://news.pts.org.tw/article/674153)
+append_entries: 15
+Finish: 2024-01-01 13:09:38.418679
