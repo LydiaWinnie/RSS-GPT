@@ -46168,3 +46168,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-01 05:08:11.450844
+------------------------------------------------------
+Started: 2024-01-01 06:11:32.644216
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [蘇澳馬賽常飄魚臭 縣環保局列疑違法業者排查](https://news.pts.org.tw/article/674110)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [否認將調漲雞蛋 北市蛋商公會：超市買氣未恢復](https://news.pts.org.tw/article/674116)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [海虎潛艦3人失聯12日 國軍赴小琉球續搜](https://news.pts.org.tw/article/674113)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [國營台鐵公司揭牌 工會盼薪資合理並落實安全改革](https://news.pts.org.tw/article/674117)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [買「永保安康」車票大排長龍 民眾排5日搶南投紫南宮錢母](https://news.pts.org.tw/article/674127)
+Append: [收假國5上午即湧北上車潮 高公局估11處國道地雷路段](https://news.pts.org.tw/article/674120)
+Append: [習近平新年談話 稱「祖國統一是歷史必然」](https://news.pts.org.tw/article/674122)
+Append: [跨年夜男子大稻埕偷拍 寶特瓶針孔攝影機藏公廁](https://news.pts.org.tw/article/674112)
+Append: [元旦寶寶報到 醫師憂2024新生兒恐再創新低](https://news.pts.org.tw/article/674119)
+Append: [飆車族花蓮半夜封路競速 警扣押無牌改造車開罰3萬](https://news.pts.org.tw/article/674111)
+Append: [丹麥女王宣布1/14退位 在位52年交棒長子繼位](https://news.pts.org.tw/article/674121)
+Append: [人潮多引衝突 台中跨年晚會爆推擠拉扯](https://news.pts.org.tw/article/674126)
+Append: [2024大選／侯賴出席升旗典禮 柯籲民眾選擇新政治](https://news.pts.org.tw/article/674123)
+Append: [阿里山雲層散開見日出 七星潭、龍磐無緣見曙光](https://news.pts.org.tw/article/674128)
+Append: [蔡英文任內最後元旦談話 兩岸未來應由民主程序決定](https://news.pts.org.tw/article/674129)
+append_entries: 15
+Finish: 2024-01-01 06:11:35.870792
