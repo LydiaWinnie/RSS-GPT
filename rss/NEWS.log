@@ -46247,3 +46247,12 @@ Append: [阿里山雲層散開見日出 七星潭、龍磐無緣見曙光](https
 Append: [蔡英文任內最後元旦談話 兩岸未來應由民主程序決定](https://news.pts.org.tw/article/674129)
 append_entries: 15
 Finish: 2024-01-01 06:11:35.870792
+------------------------------------------------------
+Started: 2024-01-01 07:07:39.866701
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-01 07:07:41.591187
