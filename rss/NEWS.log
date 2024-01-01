@@ -46132,3 +46132,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [2024大選／柯文哲台東迎曙光 侯賴出席升旗典禮](https://news.pts.org.tw/article/674084)
 append_entries: 4
 Finish: 2024-01-01 01:56:41.284899
+------------------------------------------------------
+Started: 2024-01-01 02:28:48.376049
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-01 02:28:49.789949
