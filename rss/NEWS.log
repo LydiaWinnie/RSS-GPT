@@ -46916,3 +46916,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [民調禁制期是什麼？ 明起禁止公布民調以免觸法](https://news.pts.org.tw/article/674339)
 append_entries: 3
 Finish: 2024-01-02 11:06:42.224667
+------------------------------------------------------
+Started: 2024-01-02 12:13:25.019923
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-02 12:13:25.996904
