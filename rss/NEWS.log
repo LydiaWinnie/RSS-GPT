@@ -46820,3 +46820,12 @@ Append: [前職棒投手張誌家心肌梗塞 病逝中國享年43歲](https://n
 Append: [石川強震／至少15人喪生 日氣象廳解除海嘯警報](https://news.pts.org.tw/article/674292)
 append_entries: 16
 Finish: 2024-01-02 07:07:24.611502
+------------------------------------------------------
+Started: 2024-01-02 08:10:10.234344
+Existing_entries: 1016
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-02 08:10:11.241264
