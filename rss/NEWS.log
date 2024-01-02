@@ -46563,3 +46563,48 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [石川強震／日氣象廳籲保持警惕 1週內恐再有強震](https://news.pts.org.tw/article/674248)
 append_entries: 2
 Finish: 2024-01-02 00:35:47.526756
+------------------------------------------------------
+Started: 2024-01-02 01:48:50.795019
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美軍在紅海擊沉伊朗支持的民兵組織控制的船隻](https://cn.wsj.com/articles/%E7%BE%8E%E8%BB%8D%E5%9C%A8%E7%B4%85%E6%B5%B7%E6%93%8A%E6%B2%89%E4%BC%8A%E6%9C%97%E6%94%AF%E6%8C%81%E7%9A%84%E6%B0%91%E5%85%B5%E7%B5%84%E7%B9%94%E6%8E%A7%E5%88%B6%E7%9A%84%E8%88%B9%E9%9A%BB-a06d1f3d)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以色列重組部隊，為加沙長期戰鬥做準備](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E9%87%8D%E7%B5%84%E9%83%A8%E9%9A%8A-%E7%82%BA%E5%8A%A0%E6%B2%99%E9%95%B7%E6%9C%9F%E6%88%B0%E9%AC%A5%E5%81%9A%E6%BA%96%E5%82%99-68bb8cd7)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [日本發生7.6級地震，造成四人死亡並引發海嘯](https://cn.wsj.com/articles/%E6%97%A5%E6%9C%AC%E7%99%BC%E7%94%9F7-6%E7%B4%9A%E5%9C%B0%E9%9C%87-%E9%80%A0%E6%88%90%E5%9B%9B%E4%BA%BA%E6%AD%BB%E4%BA%A1%E4%B8%A6%E5%BC%95%E7%99%BC%E6%B5%B7%E5%98%AF-2928a23d)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2024-01-02 01:48:51.588891
