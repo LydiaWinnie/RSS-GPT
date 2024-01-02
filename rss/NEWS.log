@@ -46862,3 +46862,12 @@ Append: [「中英」如何阻止中俄利用美國高科技設備加強國防�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2024-01-02 09:07:42.352290
+------------------------------------------------------
+Started: 2024-01-02 10:08:31.165440
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-02 10:08:32.241251
