@@ -46731,3 +46731,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [手譯檢定無北部考場 考生被迫南下考試](https://news.pts.org.tw/article/674250)
 append_entries: 5
 Finish: 2024-01-02 05:07:45.247217
+------------------------------------------------------
+Started: 2024-01-02 06:10:35.907057
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-02 06:10:37.025502
