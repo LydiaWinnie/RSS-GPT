@@ -47005,3 +47005,12 @@ Append: [以哈戰爭／加薩童新年盼返家 嚴重缺糧動物陸續死亡]
 Append: [以色列限縮法院權力司改案 最高法院昨裁定推翻](https://news.pts.org.tw/article/674351)
 append_entries: 16
 Finish: 2024-01-02 13:09:30.921357
+------------------------------------------------------
+Started: 2024-01-02 14:07:26.280922
+Existing_entries: 1016
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-02 14:07:27.544464
