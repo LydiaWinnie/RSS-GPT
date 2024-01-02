@@ -46925,3 +46925,83 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-02 12:13:25.996904
+------------------------------------------------------
+Started: 2024-01-02 13:09:29.426992
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台灣稱中國以「假唱」調查施壓五月天選邊站隊](https://cn.wsj.com/articles/%E5%8F%B0%E7%81%A3%E7%A8%B1%E4%B8%AD%E5%9C%8B%E4%BB%A5-%E5%81%87%E5%94%B1-%E8%AA%BF%E6%9F%A5%E6%96%BD%E5%A3%93%E4%BA%94%E6%9C%88%E5%A4%A9%E9%81%B8%E9%82%8A%E7%AB%99%E9%9A%8A-9c5135da)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中拖船今闖鵝鑾鼻海域 國防部再偵獲中共空飄氣球](https://news.pts.org.tw/article/674408)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／柯侯啟動陸戰車掃 賴清德再回應憲法災難說](https://news.pts.org.tw/article/674410)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [石川強震／核電廠部分燃料池水外溢 日官方：輻射數值無異常](https://news.pts.org.tw/article/674413)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [南韓在野黨魁李在明遇襲 送醫暫無生命危險](https://news.pts.org.tw/article/674411)
+Append: [中和貨車追撞4輛等紅燈車 駕駛邊吃便當撿筷子分心釀禍](https://news.pts.org.tw/article/674397)
+Append: [羽田飛機相撞起火5人罹難 證實為海保廳機上人員](https://news.pts.org.tw/article/674418)
+Append: [石川強震／旅日團共547人滯留 均平安陸續返台](https://news.pts.org.tw/article/674412)
+Append: [石川強震／能登災區位移最多3公尺 地震主因疑為活斷層、地下水](https://news.pts.org.tw/article/674414)
+Append: [石川強震／累計48人罹難 輪島、珠洲成重災區](https://news.pts.org.tw/article/674415)
+Append: [羽田機場飛機相撞起火 長榮班機確定轉降大阪](https://news.pts.org.tw/article/674416)
+Append: [日航班機羽田疑撞海保廳飛機 降落時起火5人不知安危](https://news.pts.org.tw/article/674417)
+Append: [2024大選／吳欣盈自評辯論表現第1 趙少康提泰勒絲行程說明經過](https://news.pts.org.tw/article/674409)
+Append: [天才投手張誌家43歲逝 曾創紀錄卻涉打假球離球壇](https://news.pts.org.tw/article/674358)
+Append: [以哈戰爭／加薩童新年盼返家 嚴重缺糧動物陸續死亡](https://news.pts.org.tw/article/674350)
+Append: [以色列限縮法院權力司改案 最高法院昨裁定推翻](https://news.pts.org.tw/article/674351)
+append_entries: 16
+Finish: 2024-01-02 13:09:30.921357
