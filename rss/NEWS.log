@@ -47362,3 +47362,12 @@ Append: [日本航空客機羽田事故 5分鐘內全員逃生僅14人輕傷](ht
 Append: [北北基桃7縣市低溫下探10度 未來10天2波東北季風短暫停留](https://news.pts.org.tw/article/674480)
 append_entries: 7
 Finish: 2024-01-03 05:07:35.755470
+------------------------------------------------------
+Started: 2024-01-03 06:10:27.687832
+Existing_entries: 1007
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-03 06:10:29.069801
