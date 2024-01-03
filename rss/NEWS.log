@@ -47520,3 +47520,83 @@ Feed error: 404
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-03 12:13:44.993849
+------------------------------------------------------
+Started: 2024-01-03 13:09:37.506523
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中共福建艦3條彈射軌道完成 學者指可能阻止美軍介入台海](https://news.pts.org.tw/article/674611)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [日航羽田撞機事故調查 尋獲黑盒子期盼釐清肇因](https://news.pts.org.tw/article/674617)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中一中學生與違停騎士爆口角 警允加強一中商圈取締](https://news.pts.org.tw/article/674599)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [網路攬客揪團旅遊恐觸法 觀光署：無照帶團可開罰](https://news.pts.org.tw/article/674598)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [新型專班祭2年獎助金留人才 86%國際學生有意申請](https://news.pts.org.tw/article/674596)
+Append: [陷反猶風波及抄襲疑雲 哈佛校長任職半年辭職](https://news.pts.org.tw/article/674601)
+Append: [高端疫苗採購議題延燒 國民黨團邀陳揆專案報告](https://news.pts.org.tw/article/674604)
+Append: [陳其邁接獲槍擊恐嚇 疑對低收補助金不滿洩憤](https://news.pts.org.tw/article/674605)
+Append: [台股受美股影響重挫294點 台積電跌15元](https://news.pts.org.tw/article/674609)
+Append: [2024大選／侯籲集中投在野最強者 柯質疑中共替侯做假民調](https://news.pts.org.tw/article/674612)
+Append: [酒駕犯為躲刑責跑超商買酒喝 警方阻止後酒測超標逮捕](https://news.pts.org.tw/article/674600)
+Append: [《勞基法》規定投票日放假 員工請假不給薪當心挨罰](https://news.pts.org.tw/article/674597)
+Append: [石川強震／能登餘震不斷2次規模超過5 罹難者增至73人](https://news.pts.org.tw/article/674613)
+Append: [日本北九州商店街大火 延燒近4小時傳出爆炸聲](https://news.pts.org.tw/article/674614)
+Append: [日航事故全員379人安全逃生 仰賴機組員乘客配合](https://news.pts.org.tw/article/674615)
+append_entries: 15
+Finish: 2024-01-03 13:09:41.401147
