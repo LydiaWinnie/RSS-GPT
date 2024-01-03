@@ -47600,3 +47600,13 @@ Append: [日本北九州商店街大火 延燒近4小時傳出爆炸聲](https:/
 Append: [日航事故全員379人安全逃生 仰賴機組員乘客配合](https://news.pts.org.tw/article/674615)
 append_entries: 15
 Finish: 2024-01-03 13:09:41.401147
+------------------------------------------------------
+Started: 2024-01-03 14:07:05.628765
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-03 14:07:07.445389
