@@ -47937,3 +47937,13 @@ Append: [石川強震／外交部捐6千萬日圓 衛福部設賑災專戶助重
 Append: [2024大選／藍營重申聯合政府 柯文哲批操作棄保](https://news.pts.org.tw/article/674684)
 append_entries: 11
 Finish: 2024-01-04 06:10:31.132679
+------------------------------------------------------
+Started: 2024-01-04 07:07:31.938162
+Existing_entries: 1011
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-04 07:07:49.630740
