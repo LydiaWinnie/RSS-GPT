@@ -48228,3 +48228,25 @@ Append: [國中生割頸案家屬反廢死 籲涉案學生應受法律制裁](ht
 Append: [教育部召集校安諮詢會 將明確界定「特定學生」條件](https://news.pts.org.tw/article/674809)
 append_entries: 15
 Finish: 2024-01-04 14:07:30.750800
+------------------------------------------------------
+Started: 2024-01-04 15:08:21.959515
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國半導體雄心遇挫，但美國不可掉以輕心](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E5%8D%8A%E5%B0%8E%E9%AB%94%E9%9B%84%E5%BF%83%E9%81%87%E6%8C%AB-%E4%BD%86%E7%BE%8E%E5%9C%8B%E4%B8%8D%E5%8F%AF%E6%8E%89%E4%BB%A5%E8%BC%95%E5%BF%83-121665556507)
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2024-01-04 15:08:25.816281
