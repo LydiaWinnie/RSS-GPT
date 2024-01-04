@@ -48022,3 +48022,13 @@ Append: [國軍演訓影響危安風險高地區 酌增補助比例](https://new
 Append: [擬整併外文系與幼教系 亞大：先維持再溝通](https://news.pts.org.tw/article/674671)
 append_entries: 10
 Finish: 2024-01-04 08:10:08.925254
+------------------------------------------------------
+Started: 2024-01-04 09:07:53.994493
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-04 09:07:56.150941
