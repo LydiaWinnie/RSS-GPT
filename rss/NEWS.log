@@ -47861,3 +47861,79 @@ Feed error: 404
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-04 05:07:53.279145
+------------------------------------------------------
+Started: 2024-01-04 06:10:29.810063
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [日航起火客機上367名乘客是如何在幾分鐘內死裡逃生的？](https://cn.wsj.com/articles/%E6%97%A5%E8%88%AA%E8%B5%B7%E7%81%AB%E5%AE%A2%E6%A9%9F%E4%B8%8A367%E5%90%8D%E4%B9%98%E5%AE%A2%E6%98%AF%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B9%BE%E5%88%86%E9%90%98%E5%85%A7%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F%E7%9A%84-291b7d9d)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國氣球又來了，這一次是飛越台灣](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E6%B0%A3%E7%90%83%E5%8F%88%E4%BE%86%E4%BA%86-%E9%80%99%E4%B8%80%E6%AC%A1%E6%98%AF%E9%A3%9B%E8%B6%8A%E5%8F%B0%E7%81%A3-916f4fbf)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [媒介保母涉虐嬰 花蓮社會處：已停托並協助安置](https://news.pts.org.tw/article/674665)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [教育部開校安諮詢會 教團籲正視家長管教責任](https://news.pts.org.tw/article/674672)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [產工連署春節依法休假 台鐵仍照例加開234列車](https://news.pts.org.tw/article/674675)
+Append: [彰139線路放床墊疑民眾為防撞 警方：將依任意丟廢棄物開罰](https://news.pts.org.tw/article/674664)
+Append: [2024大選／法務部境外介選鎖定新住民 趙少康批歧視](https://news.pts.org.tw/article/674682)
+Append: [新竹移工宿舍大火 勇消游尚樺救4人殉職追晉大隊長](https://news.pts.org.tw/article/674676)
+Append: [誆稱「新年送紅包」 警：詐騙手法勿點擊](https://news.pts.org.tw/article/674674)
+Append: [石川強震／外交部捐6千萬日圓 衛福部設賑災專戶助重建](https://news.pts.org.tw/article/674677)
+Append: [2024大選／藍營重申聯合政府 柯文哲批操作棄保](https://news.pts.org.tw/article/674684)
+append_entries: 11
+Finish: 2024-01-04 06:10:31.132679
