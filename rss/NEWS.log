@@ -47783,3 +47783,13 @@ Append: [日本北九州商店街大火 秋葉原電車隨機砍人釀4傷](http
 Append: [日國土交通省公布塔台通話紀錄 海保機未獲准進跑道](https://news.pts.org.tw/article/674645)
 append_entries: 8
 Finish: 2024-01-04 01:46:57.558338
+------------------------------------------------------
+Started: 2024-01-04 02:20:46.419859
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-04 02:20:48.508210
