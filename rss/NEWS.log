@@ -48555,3 +48555,37 @@ Feed error: 404
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-05 03:08:29.825605
+------------------------------------------------------
+Started: 2024-01-05 04:09:34.535581
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國國防機構高層「大換血」引發對軍隊備戰能力的質疑](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E5%9C%8B%E9%98%B2%E6%A9%9F%E6%A7%8B%E9%AB%98%E5%B1%A4-%E5%A4%A7%E6%8F%9B%E8%A1%80-%E5%BC%95%E7%99%BC%E5%B0%8D%E8%BB%8D%E9%9A%8A%E5%82%99%E6%88%B0%E8%83%BD%E5%8A%9B%E7%9A%84%E8%B3%AA%E7%96%91-9fcfada2)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [特朗普執政期間外國政府在其產業花費數百萬美元，中國和沙烏地位列前茅](https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9F%B7%E6%94%BF%E6%9C%9F%E9%96%93%E5%A4%96%E5%9C%8B%E6%94%BF%E5%BA%9C%E5%9C%A8%E5%85%B6%E7%94%A2%E6%A5%AD%E8%8A%B1%E8%B2%BB%E6%95%B8%E7%99%BE%E8%90%AC%E7%BE%8E%E5%85%83-%E4%B8%AD%E5%9C%8B%E5%92%8C%E6%B2%99%E7%83%8F%E5%9C%B0%E4%BD%8D%E5%88%97%E5%89%8D%E8%8C%85-8593896a)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Feed error: 404
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2024-01-05 04:09:36.776698
