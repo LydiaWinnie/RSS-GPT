@@ -48870,3 +48870,12 @@ Append: [中國年假經濟重回疫情前水準 青年就業問題持續無解�
 Append: [每年人均碳排量不到1.7噸 秘魯「減碳」原因來自貧窮](https://news.pts.org.tw/article/674890)
 append_entries: 6
 Finish: 2024-01-05 11:06:55.491009
+------------------------------------------------------
+Started: 2024-01-05 12:13:56.234004
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-05 12:13:58.497196
