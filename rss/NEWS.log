@@ -48879,3 +48879,83 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-05 12:13:58.497196
+------------------------------------------------------
+Started: 2024-01-05 13:09:55.681577
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [騎士變換車道未打方向燈 違規經多個路口遭檢舉](https://news.pts.org.tw/article/674993)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [秘魯宣布境內記錄1879種鳥 全球第一鳥類王國](https://news.pts.org.tw/article/674994)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北韓挑釁攻擊射逾200枚砲彈 南韓緊急疏散小島居民](https://news.pts.org.tw/article/674997)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [印尼火車相撞釀3死28傷 紐約火車撞工程車26人輕傷](https://news.pts.org.tw/article/674999)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [全球首製石墨烯半導體 中美跨國團隊成功研發](https://news.pts.org.tw/article/675000)
+Append: [去年CPI年增率2.5% 連2年逾通膨警戒線](https://news.pts.org.tw/article/675007)
+Append: [春節疏運危機 長榮、台鐵和高鐵皆醞釀罷工](https://news.pts.org.tw/article/675008)
+Append: [南韓追查海鯤號洩密案 馬文君回擊郭璽批竊密](https://news.pts.org.tw/article/675009)
+Append: [立委選舉政見多元 花20萬元參選只為表白](https://news.pts.org.tw/article/675002)
+Append: [石川強震／輪島市瓦礫堆救出8旬婦人 志工寒冬送熱食](https://news.pts.org.tw/article/674998)
+Append: [涉收中國百萬泰達幣資助參選 桃園馬治薇裁定羈押禁見](https://news.pts.org.tw/article/675010)
+Append: [2024大選／侯拋青年補貼賴打育兒政績 柯續車掃談中美關係關鍵](https://news.pts.org.tw/article/675012)
+Append: [軍公教月退金有望調升 全退盟盼退休俸隨物價調整](https://news.pts.org.tw/article/675006)
+Append: [丟包德州3萬移民進紐約 市府告17家巴士業者](https://news.pts.org.tw/article/674949)
+Append: [北韓一日連發200枚砲彈 延坪島居民兩度疏散避難](https://news.pts.org.tw/article/674952)
+append_entries: 15
+Finish: 2024-01-05 13:09:56.559675
