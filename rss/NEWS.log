@@ -48789,3 +48789,13 @@ Append: [白馬、短毛貓走入病房 動物輔助治療緩解病患孤獨](ht
 Append: [初代米奇版權成公共財 影視電玩推邪惡米老鼠](https://news.pts.org.tw/article/674898)
 append_entries: 12
 Finish: 2024-01-05 09:07:53.118095
+------------------------------------------------------
+Started: 2024-01-05 10:08:24.158733
+Existing_entries: 1012
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-05 10:08:25.823073
