@@ -48621,3 +48621,94 @@ Feed error: 404
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-05 07:07:33.485979
+------------------------------------------------------
+Started: 2024-01-05 08:10:17.831337
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」報告揭川普任內從外國政府獲利數百萬美元](https://cn.nytimes.com/usa/20240105/trump-hotels-foreign-business-report/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」台灣大選前台海上空中國氣球激增](https://cn.nytimes.com/asia-pacific/20240104/taiwan-china-balloons/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」韓國稱金正恩愛女是「最可能的接班人」](https://cn.nytimes.com/asia-pacific/20240105/kim-jong-un-daughter-north-korea/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」長壽的七大秘訣](https://cn.nytimes.com/health/20240105/live-longer-health/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」日航事故客機全員生還的「奇蹟」是如何實現的](https://cn.nytimes.com/asia-pacific/20240104/japan-airlines-fire/zh-hant/dual)
+Append: [「中英」哈佛校長在爭議中辭職，一場保守派的勝利？](https://cn.nytimes.com/usa/20240103/harvard-president-claudine-gay-resignation-conservatives-hamas-israel-free-speech/zh-hant/dual)
+Append: [「中英」習近平加大軍隊反腐力度：多名軍官被罷免人大代表資格](https://cn.nytimes.com/china/20240104/xi-jinping-military-purge/zh-hant/dual)
+Append: [「中英」讓哈佛校長「出局」的一個詞](https://cn.nytimes.com/books/20240104/claudine-gay-harvard-resignation-letter/zh-hant/dual)
+Append: [「中英」李在明遇刺凸顯韓國政治兩極分化](https://cn.nytimes.com/asia-pacific/20240104/south-korea-opposition-leader-stabbing/zh-hant/dual)
+Append: [「中英」印度經濟高速增長直追中國，但投資萎縮是個問題](https://cn.nytimes.com/business/20240103/india-economy-foreign-direct-investment/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Append: [診所前畫人行道引醫師不滿 桃園交通局：會兼顧停車需求](https://news.pts.org.tw/article/674862)
+Append: [2024大選／侯回防新北賴批藍傷言論自由 柯談中美關係平衡](https://news.pts.org.tw/article/674875)
+Append: [中國介選樣態多元 白宮：勿干預台選舉](https://news.pts.org.tw/article/674874)
+Append: [補校園安全防護網 2月起緊急檢查可免人員陪同](https://news.pts.org.tw/article/674868)
+Append: [烏克蘭審新徵兵法 擬擴徵並加強懲罰逃兵](https://news.pts.org.tw/article/674873)
+Append: [高鐵工會醞釀春節罷工 陳建仁：會協助勞資溝通](https://news.pts.org.tw/article/674877)
+Append: [農曆年前48%民眾想轉職 青睞資科、金融及傳產製造業](https://news.pts.org.tw/article/674876)
+Append: [醫美走私胎素注射劑4人涉案 前移民署官員涉包庇走公務道](https://news.pts.org.tw/article/674870)
+Append: [涉賄判刑10年上訴中 林哲凌遞補就任雲林縣議員](https://news.pts.org.tw/article/674863)
+Append: [校外人士潛成功大學女廁偷窺 學生通報逮人社維法送辦](https://news.pts.org.tw/article/674881)
+Append: [生態薪水獎勵農民保育成效佳 花蓮縣府擴大3鄉鎮實施](https://news.pts.org.tw/article/674864)
+Append: [關山國有地出租開發光電惹議 國產署：需取得承租農民同意](https://news.pts.org.tw/article/674865)
+Append: [反詐自救會全台串聯陳抗 受害者籲落實打詐加重刑責](https://news.pts.org.tw/article/674869)
+Append: [遊客船帆石景觀區攀岩破壞 墾管處認定非禁攀區但涉毀損](https://news.pts.org.tw/article/674878)
+Append: [聯華食品大火致9死10輕重傷 彰檢起訴聯華及3幹部](https://news.pts.org.tw/article/674879)
+append_entries: 25
+Finish: 2024-01-05 08:10:20.279014
