@@ -48959,3 +48959,13 @@ Append: [丟包德州3萬移民進紐約 市府告17家巴士業者](https://new
 Append: [北韓一日連發200枚砲彈 延坪島居民兩度疏散避難](https://news.pts.org.tw/article/674952)
 append_entries: 15
 Finish: 2024-01-05 13:09:56.559675
+------------------------------------------------------
+Started: 2024-01-05 14:07:20.999335
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-05 14:07:22.524127
