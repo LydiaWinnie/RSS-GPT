@@ -49002,3 +49002,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [台師大工教系學士班擬停招 搶救聲浪起多方籲教部思考](https://news.pts.org.tw/article/674992)
 append_entries: 2
 Finish: 2024-01-05 15:07:54.447931
+------------------------------------------------------
+Started: 2024-01-05 16:08:41.093661
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-05 16:08:41.921687
