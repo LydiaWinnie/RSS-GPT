@@ -49325,3 +49325,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [馬治薇涉《反滲透法》遭羈押禁見 民眾黨開除黨籍](https://news.pts.org.tw/article/675039)
 append_entries: 1
 Finish: 2024-01-06 09:07:05.694187
+------------------------------------------------------
+Started: 2024-01-06 10:07:35.067997
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-06 10:07:36.636950
