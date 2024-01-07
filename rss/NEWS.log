@@ -49794,3 +49794,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [2024大選／韓國瑜促支持者挺侯 柯稱遭藍營施壓所致](https://news.pts.org.tw/article/675095)
 append_entries: 5
 Finish: 2024-01-07 12:12:40.252829
+------------------------------------------------------
+Started: 2024-01-07 13:08:42.645694
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-07 13:08:44.651549
