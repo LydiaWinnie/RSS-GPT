@@ -49716,3 +49716,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [一週大事／日本石川7.6強震 台鐵公司揭牌（2024.1.1-1.7）](https://news.pts.org.tw/article/675094)
 append_entries: 1
 Finish: 2024-01-07 10:07:45.689808
+------------------------------------------------------
+Started: 2024-01-07 11:06:15.211656
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-07 11:06:17.374967
