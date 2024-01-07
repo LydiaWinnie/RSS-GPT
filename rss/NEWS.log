@@ -49848,3 +49848,13 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [疑噎奶突休克 新北母抱1歲嬰衝派出所求助](https://news.pts.org.tw/article/675113)
 append_entries: 3
 Finish: 2024-01-07 14:06:42.250552
+------------------------------------------------------
+Started: 2024-01-07 15:07:08.685608
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-07 15:07:09.597098
