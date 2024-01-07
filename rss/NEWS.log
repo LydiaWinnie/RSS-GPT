@@ -49587,3 +49587,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [石川強震／9旬婦遭埋124小時 瓦礫堆中救出奇蹟倖存](https://news.pts.org.tw/article/675079)
 append_entries: 2
 Finish: 2024-01-07 04:09:22.854954
+------------------------------------------------------
+Started: 2024-01-07 05:07:25.292379
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-07 05:07:26.538553
