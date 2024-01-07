@@ -49668,3 +49668,12 @@ Append: [校園暴力、偏差行為年逾萬件 家長團體盼強化校安人�
 Append: [競選小物洗衣球看作糖果 彰化2長者誤食送醫](https://news.pts.org.tw/article/675088)
 append_entries: 8
 Finish: 2024-01-07 06:09:50.001433
+------------------------------------------------------
+Started: 2024-01-07 07:06:47.395035
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-07 07:06:48.079081
