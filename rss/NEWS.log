@@ -50109,3 +50109,80 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-08 05:08:19.039043
+------------------------------------------------------
+Started: 2024-01-08 06:11:08.996296
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [炮彈缺乏之際，烏克蘭依靠載有爆炸物的無人機阻擊俄羅斯](https://cn.wsj.com/articles/%E7%82%AE%E5%BD%88%E7%BC%BA%E4%B9%8F%E4%B9%8B%E9%9A%9B-%E7%83%8F%E5%85%8B%E8%98%AD%E4%BE%9D%E9%9D%A0%E8%BC%89%E6%9C%89%E7%88%86%E7%82%B8%E7%89%A9%E7%9A%84%E7%84%A1%E4%BA%BA%E6%A9%9F%E9%98%BB%E6%93%8A%E4%BF%84%E7%BE%85%E6%96%AF-dae404ff)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北宜改裝機車查獲逾400件 昨3改裝車肇逃遭罰](https://news.pts.org.tw/article/675199)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／布林肯訪中東示警戰爭蔓延 哈瑪斯籲美審視角色](https://news.pts.org.tw/article/675194)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [刑事局偵破演唱會三方詐騙案 初查14名以上被害人](https://news.pts.org.tw/article/675201)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美防長奧斯汀隱匿元旦住院 未告知拜登及國會違通報規定](https://news.pts.org.tw/article/675195)
+Append: [遠見調查：台18-45歲青壯年 最大憂慮為房價高、薪資低](https://news.pts.org.tw/article/675189)
+Append: [退休警赴中獲台辦接待 涉犯《反滲透法》遭檢約談](https://news.pts.org.tw/article/675192)
+Append: [台中火鍋店加料「小強」 食安處稽查要求限期改正](https://news.pts.org.tw/article/675202)
+Append: [朝野協商共識明開臨時會 邀陳揆專案報告高端合約](https://news.pts.org.tw/article/675198)
+Append: [Gogoro突斷電釀交安疑慮 交通部要求提電池召回計畫](https://news.pts.org.tw/article/675200)
+Append: [2024大選／政黨政見發表會 小黨抗議發表時間分配不均](https://news.pts.org.tw/article/675196)
+Append: [2024大選／選前搶攻南台票 柯賴侯台南續拚場](https://news.pts.org.tw/article/675197)
+Append: [指兩岸經濟一體化致風險 太陽花成員重申反服貿](https://news.pts.org.tw/article/675191)
+append_entries: 13
+Finish: 2024-01-08 06:11:11.801059
