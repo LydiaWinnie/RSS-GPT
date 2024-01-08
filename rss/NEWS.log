@@ -50207,3 +50207,73 @@ Append: [「中英」紅海航運危機衝擊全球貿易和供應鏈](https://c
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2024-01-08 07:07:50.761328
+------------------------------------------------------
+Started: 2024-01-08 08:11:10.301906
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國議員敦促遏制中國在成熟製程晶片領域的主導地位](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E8%AD%B0%E5%93%A1%E6%95%A6%E4%BF%83%E9%81%8F%E5%88%B6%E4%B8%AD%E5%9C%8B%E5%9C%A8%E6%88%90%E7%86%9F%E8%A3%BD%E7%A8%8B%E6%99%B6%E7%89%87%E9%A0%98%E5%9F%9F%E7%9A%84%E4%B8%BB%E5%B0%8E%E5%9C%B0%E4%BD%8D-cb0300c1)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「Tibet」還是「Xizang」？中國更青睞後者](https://cn.wsj.com/articles/tibet-%E9%82%84%E6%98%AF-xizang-%E4%B8%AD%E5%9C%8B%E6%9B%B4%E9%9D%92%E7%9D%9E%E5%BE%8C%E8%80%85-974777d9)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」關於波音737 Max 9空中艙門脫落事故，你應該知道的](https://cn.nytimes.com/business/20240108/alaska-airlines-boeing-737-max-9/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [運輸業底薪低欲調解未果 今赴勞動部陳情促開會協商](https://news.pts.org.tw/article/675190)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [全台血液平均庫存量7.9天 A型、B型、AB型血最缺](https://news.pts.org.tw/article/675187)
+Append: [戒菸諮詢去年接逾3.5萬通 女性人數增加4成](https://news.pts.org.tw/article/675188)
+append_entries: 6
+Finish: 2024-01-08 08:11:15.271643
