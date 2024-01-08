@@ -50397,3 +50397,81 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-08 13:10:42.912147
+------------------------------------------------------
+Started: 2024-01-08 14:07:50.321800
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [石川強震／震後1週遇大雪 累計168死300人下落不明](https://news.pts.org.tw/article/675320)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [新北割頸案女同學涉教唆 少年法庭裁定收容](https://news.pts.org.tw/article/675329)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [開車上阿里山離奇墜谷 男駕駛不治、6歲兒重傷送醫](https://news.pts.org.tw/article/675315)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [槍擊案釀77死判刑21年 挪威殺人犯控獨囚侵犯人權](https://news.pts.org.tw/article/675316)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [反對黨抵制投票率僅4成 孟加拉總理4度連任成功](https://news.pts.org.tw/article/675317)
+Append: [空服員懷孕不上機遭轉職減薪 法院判長榮敗訴應返還薪資](https://news.pts.org.tw/article/675322)
+Append: [衛福部等不到高端回應 陳揆赴立院報告恐難公布合約](https://news.pts.org.tw/article/675324)
+Append: [2024大選／蕭前進艱困選區車掃 康盈齊呼完整公開高端合約](https://news.pts.org.tw/article/675333)
+Append: [蔡英文拋自主研發下一代戰機 漢翔喊話盼推自製初教機](https://news.pts.org.tw/article/675325)
+Append: [首批恢復1年制義務役將入伍 鑑測未過不能放假、只領本薪](https://news.pts.org.tw/article/675326)
+Append: [漢堡王、漢來海港都喊漲 專家仍看好通膨壓力走緩](https://news.pts.org.tw/article/675327)
+Append: [黑道會長毆打學生落網 再爆吸國中生入幫遭起訴](https://news.pts.org.tw/article/675328)
+Append: [澎湖輪啟航不到半年爆運毒案 2嫌落網聲請羈押獲准](https://news.pts.org.tw/article/675330)
+Append: [竹北氣爆少年醫療費破百萬 母喊話盼瓦斯公司盡速賠償](https://news.pts.org.tw/article/675331)
+append_entries: 14
+Finish: 2024-01-08 14:07:51.384665
