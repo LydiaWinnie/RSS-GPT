@@ -50277,3 +50277,12 @@ Append: [全台血液平均庫存量7.9天 A型、B型、AB型血最缺](https:/
 Append: [戒菸諮詢去年接逾3.5萬通 女性人數增加4成](https://news.pts.org.tw/article/675188)
 append_entries: 6
 Finish: 2024-01-08 08:11:15.271643
+------------------------------------------------------
+Started: 2024-01-08 09:08:20.157397
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-08 09:08:21.130905

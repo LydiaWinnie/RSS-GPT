@@ -50755,3 +50755,78 @@ Fetching from https://rsshub.app/36kr/motif/327686455297
 Feed error: 404
 append_entries: 5
 error when rendering xml, skip rss/36KR
+------------------------------------------------------
+Started: 2024-01-08 09:08:24.680842
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [沈阳文旅局长着急了](https://www.36kr.com/p/2595731855817605)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [热炕上的哈尔滨，和寒冬下的淄博烧烤…](https://www.36kr.com/p/2595727802956416)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [沙特旅游局Alhasan Aldabbagh：塑造沙特旅游业的未来，中国市场必不可少](https://www.36kr.com/p/2595704942852994)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [人在哈尔滨，耳朵肿成了鸡蛋，冻伤千万别大意](https://www.36kr.com/p/2595704088705667)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [用 App 记下走过的路，除了世界迷雾还有 10+ 个值得一试的 App 和工具](https://www.36kr.com/p/2595487338888070)
+Append: [解读《2023年中国猫科诊疗白皮书》：整体免疫率未达标准，猫咪诊疗市场仍是一片“蓝海”？](https://www.36kr.com/p/2595383819526275)
+Append: [2024，别让地球成为“一次性”的星球](https://www.36kr.com/p/2595325297418371)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Append: [下一代AI半导体竞争激烈，新兴企业追赶英伟达](https://www.36kr.com/p/2595443663731586)
+Append: [AI元年，人工智能引领万象更新](https://www.36kr.com/p/2595334918561671)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 9
+Finish: 2024-01-08 09:10:39.473788
