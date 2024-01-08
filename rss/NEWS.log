@@ -50388,3 +50388,12 @@ Append: [波音客機艙門5千米空中剝落 美停飛百餘架同型機全面
 Append: [俄烏戰爭／可以暫時免當兵 烏克蘭大學生人數年增20倍](https://news.pts.org.tw/article/675262)
 append_entries: 6
 Finish: 2024-01-08 12:14:04.086859
+------------------------------------------------------
+Started: 2024-01-08 13:10:41.164417
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-08 13:10:42.912147
