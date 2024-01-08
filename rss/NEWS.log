@@ -50475,3 +50475,12 @@ Append: [澎湖輪啟航不到半年爆運毒案 2嫌落網聲請羈押獲准](h
 Append: [竹北氣爆少年醫療費破百萬 母喊話盼瓦斯公司盡速賠償](https://news.pts.org.tw/article/675331)
 append_entries: 14
 Finish: 2024-01-08 14:07:51.384665
+------------------------------------------------------
+Started: 2024-01-08 15:08:06.047808
+Existing_entries: 1014
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-08 15:08:07.239412
