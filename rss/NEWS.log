@@ -51045,3 +51045,12 @@ Append: [示警年前達新冠、流感高峰 疾管署：快打新版XBB疫苗]
 Append: [首見為中國衛星響國家警報 蔡英文：不是飛彈別緊張](https://news.pts.org.tw/article/675542)
 append_entries: 15
 Finish: 2024-01-09 14:08:00.223878
+------------------------------------------------------
+Started: 2024-01-09 15:08:11.758269
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-09 15:08:13.842535
