@@ -50812,3 +50812,12 @@ Append: [半小時內2度被抓酒駕 台南男汽機車均遭扣](https://news.
 Append: [羅致政捲不雅片風波 藍今再釋20部疑似影片交檢調](https://news.pts.org.tw/article/675401)
 append_entries: 17
 Finish: 2024-01-09 07:09:41.857892
+------------------------------------------------------
+Started: 2024-01-09 08:10:35.181423
+Existing_entries: 1017
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-09 08:10:36.050700
