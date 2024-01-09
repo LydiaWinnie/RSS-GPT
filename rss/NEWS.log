@@ -50966,3 +50966,82 @@ Append: [總統辯辨變 電視辯論有發揮民主功能嗎?【獨立特派員
 Append: [美瀕危物種復育經費分配不均 逾200物種分文未得](https://news.pts.org.tw/article/675444)
 append_entries: 6
 Finish: 2024-01-09 12:14:07.829873
+------------------------------------------------------
+Started: 2024-01-09 14:07:59.249031
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [涉性騷案首度開庭 宥勝：指控與事實有出入](https://news.pts.org.tw/article/675531)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [穀保林盛恩加盟MLB紅人 返台分享高中奪冠經驗](https://news.pts.org.tw/article/675520)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [雙鐵春節車票開賣 高鐵1小時湧近60萬筆訂單](https://news.pts.org.tw/article/675533)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [好奇誤食油桐子 苗栗5國中生腹痛、嘔吐送醫](https://news.pts.org.tw/article/675534)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [好市多買排骨「吃到刀片」 消保官：可提起消費爭議申訴](https://news.pts.org.tw/article/675535)
+Append: [服務業數位轉型解人力荒 勞動部建議：可加強培訓員工](https://news.pts.org.tw/article/675521)
+Append: [2024大選／趙少康喊話郭台銘歸隊 蕭陸戰催票、盈拋翻轉經濟](https://news.pts.org.tw/article/675539)
+Append: [台灣農藥殘留標準更嚴格 日違規草莓首遭下禁輸令](https://news.pts.org.tw/article/675536)
+Append: [競選看板都被檢舉違規 徐巧芯、許淑華自行拆除](https://news.pts.org.tw/article/675523)
+Append: [馬爾地夫官員留言嗆印度總理 兩國外交陷緊張關係](https://news.pts.org.tw/article/675526)
+Append: [以哈戰爭／以軍空襲黎巴嫩真主黨 菁英部隊指揮官遭炸死](https://news.pts.org.tw/article/675528)
+Append: [又被檢查出「螺絲鬆了」 波音737 MAX遭多國停飛](https://news.pts.org.tw/article/675529)
+Append: [帶里長赴中接受旅遊招待 商圈理事長遭起訴反滲透法](https://news.pts.org.tw/article/675530)
+Append: [示警年前達新冠、流感高峰 疾管署：快打新版XBB疫苗](https://news.pts.org.tw/article/675537)
+Append: [首見為中國衛星響國家警報 蔡英文：不是飛彈別緊張](https://news.pts.org.tw/article/675542)
+append_entries: 15
+Finish: 2024-01-09 14:08:00.223878
