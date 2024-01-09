@@ -50731,3 +50731,84 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-09 06:10:53.407826
+------------------------------------------------------
+Started: 2024-01-09 07:09:40.745106
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [對逃亡的巴勒斯坦人來說，加沙安全區域已日益縮小](https://cn.wsj.com/articles/%E5%B0%8D%E9%80%83%E4%BA%A1%E7%9A%84%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E4%BE%86%E8%AA%AA-%E5%8A%A0%E6%B2%99%E5%AE%89%E5%85%A8%E5%8D%80%E5%9F%9F%E5%B7%B2%E6%97%A5%E7%9B%8A%E7%B8%AE%E5%B0%8F-dc241e42)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」美聯航稱發現部分波音737 Max 9飛機螺栓鬆動](https://cn.nytimes.com/business/20240109/boeing-max-9-alaska-airlines/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [第3航廈X光機採購引爭議 桃機：設備符歐美規範](https://news.pts.org.tw/article/675384)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [環團籲廢新空污排放抵換原則 環境部：會再修正](https://news.pts.org.tw/article/675385)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [控美光不守處分反追討員工薪資 勞團抗議《勞動事件法》漏洞](https://news.pts.org.tw/article/675387)
+Append: [割頸案後談少年保護漏洞 國教盟：少輔會失去功能](https://news.pts.org.tw/article/675394)
+Append: [厄瓜多黑幫老大馬西亞士逃獄 全國進入緊急狀態](https://news.pts.org.tw/article/675396)
+Append: [昨偵獲共軍10機4艦擾台 2空飄氣球橫越中央山脈](https://news.pts.org.tw/article/675399)
+Append: [選前焦慮症候群引亢奮難眠 醫：患者有年輕化趨勢](https://news.pts.org.tw/article/675400)
+Append: [冷氣團明報到漸轉乾冷 估週三週四最冷、投票日晴朗](https://news.pts.org.tw/article/675402)
+Append: [遭綠界科技指轉為中資 商線科技駁斥稱符安全準則](https://news.pts.org.tw/article/675386)
+Append: [Novavax新冠XBB疫苗開打 12歲以上民眾可接種](https://news.pts.org.tw/article/675390)
+Append: [2024大選／賴主張兩岸維持現狀 侯提免頭期款、柯台南車掃](https://news.pts.org.tw/article/675392)
+Append: [苗栗煙火倉庫、彰化輪胎廠 昨皆火災幸無人傷亡](https://news.pts.org.tw/article/675403)
+Append: [高端疫苗合約具5年保密條款 陳揆：高端同意才能提早公開](https://news.pts.org.tw/article/675393)
+Append: [半小時內2度被抓酒駕 台南男汽機車均遭扣](https://news.pts.org.tw/article/675404)
+Append: [羅致政捲不雅片風波 藍今再釋20部疑似影片交檢調](https://news.pts.org.tw/article/675401)
+append_entries: 17
+Finish: 2024-01-09 07:09:41.857892
