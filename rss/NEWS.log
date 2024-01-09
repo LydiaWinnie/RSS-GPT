@@ -50721,3 +50721,13 @@ Append: [「中英」加拿大留學生激增引發變化和焦慮](https://cn.n
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2024-01-09 05:07:47.342126
+------------------------------------------------------
+Started: 2024-01-09 06:10:51.436854
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-09 06:10:53.407826
