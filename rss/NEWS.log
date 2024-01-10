@@ -51415,3 +51415,12 @@ Append: [中國衛星警報英語寫「飛彈」 國防部簡訊引爭議](https
 Append: [高市府釋出勞宅出租 28坪月租僅3500元最長租8年](https://news.pts.org.tw/article/675598)
 append_entries: 17
 Finish: 2024-01-10 07:07:30.300267
+------------------------------------------------------
+Started: 2024-01-10 08:10:24.508231
+Existing_entries: 1017
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-10 08:10:26.611526
