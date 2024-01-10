@@ -51171,3 +51171,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [2024大選／選戰倒數 藍綠白雲嘉南造勢拚場](https://news.pts.org.tw/article/675569)
 append_entries: 3
 Finish: 2024-01-10 00:37:24.317159
+------------------------------------------------------
+Started: 2024-01-10 01:52:21.379940
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-10 01:52:22.123112
