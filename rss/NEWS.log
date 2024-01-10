@@ -51544,3 +51544,82 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [災防警報共23種 地震與防空警報屬強制接收](https://news.pts.org.tw/article/675659)
 append_entries: 3
 Finish: 2024-01-10 12:14:04.156425
+------------------------------------------------------
+Started: 2024-01-10 13:10:29.606512
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [失控虐打幼犬致重傷 飼主判拘役50日罰22萬](https://news.pts.org.tw/article/675734)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [幕僚控檢方受指示起訴高虹安 北檢：與事實不符](https://news.pts.org.tw/article/675735)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [登陸艇燃料外洩失敗收場 NASA宣布延期重返月球計畫](https://news.pts.org.tw/article/675737)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [不丹國會大選前總理政黨勝出 經濟、青年高失業率成選戰主軸](https://news.pts.org.tw/article/675739)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [大雪風暴侵襲 美、韓、烏克蘭均傳災情](https://news.pts.org.tw/article/675741)
+Append: [中國擬擴大取消ECFA關稅減讓 經濟部稱將提供業者協助](https://news.pts.org.tw/article/675744)
+Append: [男女分開坐、禁藝人穿短褲 大馬演唱會指南掀校園抗議潮](https://news.pts.org.tw/article/675736)
+Append: [包裝填工業氮氣符國際規格 知名米餅上訴逆轉判免賠](https://news.pts.org.tw/article/675746)
+Append: [航空業年終「開獎」 虎航估上看10個月最高](https://news.pts.org.tw/article/675745)
+Append: [年度新生兒人數創史上新低 學者：低薪、高房價成關鍵](https://news.pts.org.tw/article/675747)
+Append: [全台檢調大動作查介選 張顯耀涉《反滲透法》百萬交保](https://news.pts.org.tw/article/675752)
+Append: [2024大選／趙盈隔空喊話籲選民集中選票 蕭美琴陸戰掃街承諾上架台灣](https://news.pts.org.tw/article/675753)
+Append: [美眾院議長會我新駐美代表 重申將與台灣民眾並肩](https://news.pts.org.tw/article/675743)
+Append: [南韓立法禁養狗宰售食用 動保人士欣慰擺脫惡名](https://news.pts.org.tw/article/675683)
+Append: [挪威開放深海採礦掀反彈 專家警告將嚴重破壞海洋生態](https://news.pts.org.tw/article/675686)
+append_entries: 15
+Finish: 2024-01-10 13:10:36.554874
