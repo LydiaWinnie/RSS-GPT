@@ -51623,3 +51623,12 @@ Append: [南韓立法禁養狗宰售食用 動保人士欣慰擺脫惡名](https
 Append: [挪威開放深海採礦掀反彈 專家警告將嚴重破壞海洋生態](https://news.pts.org.tw/article/675686)
 append_entries: 15
 Finish: 2024-01-10 13:10:36.554874
+------------------------------------------------------
+Started: 2024-01-10 14:07:33.203386
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-10 14:07:34.129807
