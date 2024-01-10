@@ -51246,3 +51246,12 @@ Append: [「中英」中國發射了衛星還是導彈？台灣國防部錯譯�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2024-01-10 03:08:47.828003
+------------------------------------------------------
+Started: 2024-01-10 04:10:04.604687
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-10 04:10:06.417478
