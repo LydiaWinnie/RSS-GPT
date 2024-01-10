@@ -51180,3 +51180,36 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-10 01:52:22.123112
+------------------------------------------------------
+Started: 2024-01-10 02:23:06.927547
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國國防部稱部長奧斯汀患有前列腺癌](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E9%98%B2%E9%83%A8%E7%A8%B1%E9%83%A8%E9%95%B7%E5%A5%A7%E6%96%AF%E6%B1%80%E6%82%A3%E6%9C%89%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C-7968bced)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [34歲的阿塔爾將出任法國總理](https://cn.wsj.com/articles/34%E6%AD%B2%E7%9A%84%E9%98%BF%E5%A1%94%E7%88%BE%E5%B0%87%E5%87%BA%E4%BB%BB%E6%B3%95%E5%9C%8B%E7%B8%BD%E7%90%86-8068f52e)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2024-01-10 02:23:08.260092
