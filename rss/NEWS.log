@@ -52233,3 +52233,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-11 14:07:37.198951
+------------------------------------------------------
+Started: 2024-01-11 15:07:57.542783
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／趙少康為馬英九受訪爭議緩頰 蕭屏東催票、盈拋終結低薪](https://news.pts.org.tw/article/675955)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [為國軍發警報挨批介選叫屈 陳建仁指示優化告警機制](https://news.pts.org.tw/article/675957)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [數位部推獨立遊戲開發獎勵 產品化加值最高3百萬元](https://news.pts.org.tw/article/675934)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台大文學院首開AI選修課 跨領域增競爭力](https://news.pts.org.tw/article/675935)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [鳳梨外銷亞洲補貼調降 農民盼政府助開拓其他市場](https://news.pts.org.tw/article/675936)
+Append: [CES消費電子展摺疊電視亮相 售價從465萬台幣起跳](https://news.pts.org.tw/article/675940)
+Append: [波蘭前內政部正副部長遭逮捕 聲稱無過失拒承認審判](https://news.pts.org.tw/article/675942)
+Append: [南非控以色列「種族滅絕」 籲國際法院下達緊急措施](https://news.pts.org.tw/article/675943)
+Append: [廣告看板洩割頸案少年個資 違《少事法》開罰主責在地方](https://news.pts.org.tw/article/675953)
+Append: [台鐵為春節疏運招臨時人力 工會質疑：為何去年不規劃](https://news.pts.org.tw/article/675949)
+Append: [停車突遭機械車位夾頸 駕駛送醫不治](https://news.pts.org.tw/article/675954)
+Append: [全球經濟衰退軟著陸 專家估台灣「保3」有挑戰](https://news.pts.org.tw/article/675947)
+Append: [掏現金、送禮盒被逮到 2原民立委競選幹部涉賄收押](https://news.pts.org.tw/article/675951)
+Append: [石川強震／衛福部開賑災專戶 6天湧逾2.5億善款](https://news.pts.org.tw/article/675944)
+Append: [高鐵路隆起不平騎士摔傷 法院判高市府須賠5萬](https://news.pts.org.tw/article/675945)
+append_entries: 15
+Finish: 2024-01-11 15:07:58.929384
