@@ -52015,3 +52015,12 @@ Append: [大巨蛋開打｜交通與人流壓力準備好了嗎？【我們的�
 Append: [大巨蛋誕生｜一場要從32年前說起的夢【我們的島】](https://news.pts.org.tw/article/675093)
 append_entries: 12
 Finish: 2024-01-11 06:10:50.610837
+------------------------------------------------------
+Started: 2024-01-11 07:07:29.769620
+Existing_entries: 1012
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-11 07:07:30.489867
