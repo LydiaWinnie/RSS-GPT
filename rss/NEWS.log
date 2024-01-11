@@ -52215,3 +52215,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [日首支兩棲部隊奪島演習 女兵罕見現身參與](https://news.pts.org.tw/article/675895)
 append_entries: 4
 Finish: 2024-01-11 12:14:07.595570
+------------------------------------------------------
+Started: 2024-01-11 13:10:38.284063
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-11 13:10:39.950054
