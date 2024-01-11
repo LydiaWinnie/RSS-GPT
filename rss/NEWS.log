@@ -51839,3 +51839,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-11 02:23:46.936414
+------------------------------------------------------
+Started: 2024-01-11 03:08:31.019939
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國提出「舊金山願景」，含蓄告誡美國不要破壞現狀](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E6%8F%90%E5%87%BA-%E8%88%8A%E9%87%91%E5%B1%B1%E9%A1%98%E6%99%AF-%E5%90%AB%E8%93%84%E5%91%8A%E8%AA%A1%E7%BE%8E%E5%9C%8B%E4%B8%8D%E8%A6%81%E7%A0%B4%E5%A3%9E%E7%8F%BE%E7%8B%80-369f0e14)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2024-01-11 03:08:32.612479
