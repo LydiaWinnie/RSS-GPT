@@ -52312,3 +52312,12 @@ Append: [石川強震／衛福部開賑災專戶 6天湧逾2.5億善款](https:/
 Append: [高鐵路隆起不平騎士摔傷 法院判高市府須賠5萬](https://news.pts.org.tw/article/675945)
 append_entries: 15
 Finish: 2024-01-11 15:07:58.929384
+------------------------------------------------------
+Started: 2024-01-11 16:10:10.203460
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-11 16:10:12.638445
