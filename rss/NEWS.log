@@ -52149,3 +52149,12 @@ Append: [「中英」當台灣的民主選舉成為北京的威脅](https://cn.n
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2024-01-11 10:08:48.860723
+------------------------------------------------------
+Started: 2024-01-11 11:06:44.964518
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-11 11:06:45.977935
