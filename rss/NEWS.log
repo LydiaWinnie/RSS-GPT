@@ -51939,3 +51939,79 @@ Append: [「中英」中美晶片之戰的新戰線：RISC-V](https://cn.nytimes
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 6
 Finish: 2024-01-11 05:07:51.495474
+------------------------------------------------------
+Started: 2024-01-11 06:10:49.181300
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [3死亡黑琵驗出高病原禽流感 防檢署籲臨候鳥棲地業者當心](https://news.pts.org.tw/article/675821)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [花蓮人行道閒置棚架倒塌 縣府：危及安全可罰所有權人](https://news.pts.org.tw/article/675823)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中山大學獼猴欲搶學生背包 專家籲勿用手電筒挑釁](https://news.pts.org.tw/article/675825)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北市補強校安漏洞 國中小教室評估加裝安全鈴](https://news.pts.org.tw/article/675813)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北市民眾街頭被搶230萬 警方：嫌犯預謀犯案](https://news.pts.org.tw/article/675824)
+Append: [國道客運短程通勤路線 離尖峰擬採差別運價](https://news.pts.org.tw/article/675815)
+Append: [馬英九指兩岸關係須信習近平 袁弓夷：變香港只需一張選票](https://news.pts.org.tw/article/675816)
+Append: [冷氣團襲台 週五白天起有望回暖](https://news.pts.org.tw/article/675822)
+Append: [苗栗縣長任內財政窘困 徐耀昌指是民進黨政府伸援手](https://news.pts.org.tw/article/675828)
+Append: [2024大選／投票日倒數2日 三黨聚焦兩岸議題](https://news.pts.org.tw/article/675829)
+Append: [大巨蛋開打｜交通與人流壓力準備好了嗎？【我們的島】](https://news.pts.org.tw/article/675092)
+Append: [大巨蛋誕生｜一場要從32年前說起的夢【我們的島】](https://news.pts.org.tw/article/675093)
+append_entries: 12
+Finish: 2024-01-11 06:10:50.610837
