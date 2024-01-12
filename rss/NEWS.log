@@ -52927,3 +52927,12 @@ Append: [彰化溪州焚化廠引巨大破碎機 拆解廢棄床墊速度為傳�
 Append: [選前妨礙選舉統計逾3200件 違反《反滲透法》被告287人](https://news.pts.org.tw/article/676148)
 append_entries: 8
 Finish: 2024-01-12 14:07:54.790590
+------------------------------------------------------
+Started: 2024-01-12 15:07:08.323398
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-12 15:07:10.650861
