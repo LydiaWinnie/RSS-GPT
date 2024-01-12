@@ -52462,3 +52462,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [巴布亞紐幾內亞暴動釀16死 總理宣布首都進入14天緊急狀態](https://news.pts.org.tw/article/675974)
 append_entries: 5
 Finish: 2024-01-12 01:52:28.437017
+------------------------------------------------------
+Started: 2024-01-12 02:24:11.826387
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-12 02:24:13.554550
