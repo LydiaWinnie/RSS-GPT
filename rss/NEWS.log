@@ -52646,3 +52646,78 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2024-01-12 07:07:39.068000
+------------------------------------------------------
+Started: 2024-01-12 08:10:35.692858
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」美國及盟國對葉門胡塞武裝目標發動打擊](https://cn.nytimes.com/world/20240112/us-houthi-missile-strikes/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」聯合國警告全球近四分之一人口面臨乾旱危機](https://cn.nytimes.com/climate/20240112/global-drought-food-hunger/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美研究瓶裝水含24萬顆塑膠微粒 影響人體健康與否待檢測](https://news.pts.org.tw/article/676028)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [英國民眾樂採菇陷風險 誤食劇毒野菇年逾百件](https://news.pts.org.tw/article/676029)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [夏威夷鹽業面臨挑戰 環境污染、氣候變遷威脅存亡](https://news.pts.org.tw/article/676030)
+Append: [澳洲水岸居民仰賴郵務船 郵差送信兼當導遊](https://news.pts.org.tw/article/676031)
+Append: [2024各國太空研究大車拚 美重返月球受挫出師不利](https://news.pts.org.tw/article/676032)
+Append: [CES科技產業風向球 AI應用貼近日常無所不在](https://news.pts.org.tw/article/676033)
+Append: [新加坡百年佛具店嘗試文創 手雕結合旅遊體驗開創新局](https://news.pts.org.tw/article/676034)
+Append: [石川強震／災區2105棟房屋毀損 赤碕村百棟木造建築零坍塌](https://news.pts.org.tw/article/676035)
+Append: [北韓試射數百枚砲彈 延坪島前線緊張居民不安](https://news.pts.org.tw/article/676036)
+append_entries: 11
+Finish: 2024-01-12 08:10:37.286437
