@@ -52513,3 +52513,36 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-12 04:10:10.431227
+------------------------------------------------------
+Started: 2024-01-12 05:08:00.740125
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台灣選舉：投資者應關注哪些方面？](https://cn.wsj.com/articles/%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89-%E6%8A%95%E8%B3%87%E8%80%85%E6%87%89%E9%97%9C%E6%B3%A8%E5%93%AA%E4%BA%9B%E6%96%B9%E9%9D%A2-e048c0f5)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」台灣人如何為選舉造勢？橫幅、熱舞、「凍蒜」口號](https://cn.nytimes.com/asia-pacific/20240112/taiwan-election-democracy-loud/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2024-01-12 05:08:03.427021
