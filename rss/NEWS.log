@@ -52763,3 +52763,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [美英攻擊葉門青年運動叛軍據點 一文了解紅海衝突](https://news.pts.org.tw/article/676085)
 append_entries: 1
 Finish: 2024-01-12 10:08:39.262133
+------------------------------------------------------
+Started: 2024-01-12 11:07:01.157421
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-12 11:07:02.063880
