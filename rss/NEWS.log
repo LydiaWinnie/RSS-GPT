@@ -52546,3 +52546,82 @@ Append: [「中英」台灣人如何為選舉造勢？橫幅、熱舞、「凍�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2024-01-12 05:08:03.427021
+------------------------------------------------------
+Started: 2024-01-12 06:10:54.558158
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [高雄桌遊店傳槍響 警方已鎖定特定對象追緝](https://news.pts.org.tw/article/676020)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [葉門「青年運動」頻襲紅海商船 美英聯軍11日攻擊其首都據點](https://news.pts.org.tw/article/676017)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [全球罕見銀杏齒中喙鯨擱淺綠島 遭人為割肉海保署祭20萬緝兇](https://news.pts.org.tw/article/676007)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [環亞苗栗離岸風場今環評 纜線纏繞及設置密度等引疑慮](https://news.pts.org.tw/article/676013)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [茄萣路邊曬烏魚子頻遭竊 警逮嫌犯搜出12片烏魚子](https://news.pts.org.tw/article/676018)
+Append: [2024大選／投票日禁助選行為 違者重罰100萬元可連續開罰](https://news.pts.org.tw/article/676022)
+Append: [台中男稱遭搶600多萬 警方：詐團車手沒拿到抽成憤而報案](https://news.pts.org.tw/article/676019)
+Append: [選舉日重機爭路權 號召車友騎上國道返鄉投票](https://news.pts.org.tw/article/676027)
+Append: [台股選前觀望氣氛濃 分析師估選後上漲率近9成](https://news.pts.org.tw/article/676010)
+Append: [宜蘭選前LINE流傳抓賄選假訊息 查獲2嫌複訊無保請回](https://news.pts.org.tw/article/676021)
+Append: [美國之音：布林肯將會劉建超 告誡勿藉口台灣選舉破壞穩定](https://news.pts.org.tw/article/676023)
+Append: [約20萬台商返鄉投票 今達高峰班機客滿](https://news.pts.org.tw/article/676011)
+Append: [2024大選／柯盈配開國際記者會 提3張國政處方籤](https://news.pts.org.tw/article/676024)
+Append: [2024大選／侯友宜台中掃街 強調當選提拔青年、公務員](https://news.pts.org.tw/article/676025)
+Append: [2024大選／回應藍白棄保 賴清德：民主選舉不在棄誰保誰](https://news.pts.org.tw/article/676026)
+append_entries: 15
+Finish: 2024-01-12 06:10:55.550156
