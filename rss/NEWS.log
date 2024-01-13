@@ -53143,3 +53143,78 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-13 07:06:46.382302
+------------------------------------------------------
+Started: 2024-01-13 08:09:29.303453
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台灣舉行大選投票，世界拭目以待](https://cn.wsj.com/articles/%E5%8F%B0%E7%81%A3%E8%88%89%E8%A1%8C%E5%A4%A7%E9%81%B8%E6%8A%95%E7%A5%A8-%E4%B8%96%E7%95%8C%E6%8B%AD%E7%9B%AE%E4%BB%A5%E5%BE%85-0528cd3b)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [關山5色稻葉種出喜鵲相會圖 米國學校觀光田區現新春喜氣](https://news.pts.org.tw/article/676173)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [八里逾20輛汽機車深夜競速 警攔查3人送辦開19張罰單](https://news.pts.org.tw/article/676174)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [花蓮北濱地下道死亡車禍 聯結車駕駛自撞傷重不治](https://news.pts.org.tw/article/676175)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [南巿國中生攜摺疊刀到校 劃傷同學手臂傷口達10公分](https://news.pts.org.tw/article/676176)
+Append: [中國漁船澎湖貓嶼越界捕撈 海巡登檢6船員帶回調查](https://news.pts.org.tw/article/676177)
+Append: [美首場總統初選愛荷華登場 極地寒流發威超低溫衝擊選情](https://news.pts.org.tw/article/676178)
+Append: [2024大選／投票日傳多起違規事件 民眾攜幼童投票政黨票被撕毀](https://news.pts.org.tw/article/676182)
+Append: [2024大選／侯友宜投票秀支持者抓痕 趙少康神情輕鬆：已盡力](https://news.pts.org.tw/article/676183)
+Append: [2024大選／賴清德台南投票籲踴躍投票 蕭美琴投票插曲身分證落車上](https://news.pts.org.tw/article/676184)
+Append: [2024大選／柯文哲伉儷投票稱平常心 吳欣盈投完票比「讚」手勢](https://news.pts.org.tw/article/676185)
+append_entries: 11
+Finish: 2024-01-13 08:09:30.671705
