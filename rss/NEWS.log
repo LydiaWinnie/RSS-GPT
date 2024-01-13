@@ -53020,3 +53020,24 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-13 00:36:48.449254
+------------------------------------------------------
+Started: 2024-01-13 01:49:14.600614
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [葉門胡塞武裝：將發動更多襲擊](https://cn.wsj.com/articles/%E8%91%89%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D-%E5%B0%87%E7%99%BC%E5%8B%95%E6%9B%B4%E5%A4%9A%E8%A5%B2%E6%93%8A-1430e3ec)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2024-01-13 01:49:15.966041
