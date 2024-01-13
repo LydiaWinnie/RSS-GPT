@@ -53403,3 +53403,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [2024大選／侯友宜自行宣布敗選 對未能政黨輪替致歉](https://news.pts.org.tw/article/676195)
 append_entries: 3
 Finish: 2024-01-13 15:07:12.231746
+------------------------------------------------------
+Started: 2024-01-13 16:08:34.289136
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-13 16:08:35.348055
