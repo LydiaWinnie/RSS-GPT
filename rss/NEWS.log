@@ -53218,3 +53218,24 @@ Append: [2024大選／賴清德台南投票籲踴躍投票 蕭美琴投票插曲
 Append: [2024大選／柯文哲伉儷投票稱平常心 吳欣盈投完票比「讚」手勢](https://news.pts.org.tw/article/676185)
 append_entries: 11
 Finish: 2024-01-13 08:09:30.671705
+------------------------------------------------------
+Started: 2024-01-13 09:07:05.025266
+Existing_entries: 1011
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」為何很多台裔美國人願意不遠萬里返回台灣投票](https://cn.nytimes.com/usa/20240113/taiwanese-american-voters-election/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2024-01-13 09:07:07.208761
