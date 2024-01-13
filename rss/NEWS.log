@@ -53483,3 +53483,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [選後觀察站／政治新局如何布署？ 從不分區名單與派系看端倪](https://news.pts.org.tw/article/676186)
 append_entries: 1
 Finish: 2024-01-13 21:06:38.437819
+------------------------------------------------------
+Started: 2024-01-13 22:06:44.487707
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-13 22:06:46.264907
