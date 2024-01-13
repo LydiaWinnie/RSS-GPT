@@ -53453,3 +53453,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [2024大選／賴清德蕭美琴558萬票當選正副總統 國民黨成國會最大黨](https://news.pts.org.tw/article/676197)
 append_entries: 1
 Finish: 2024-01-13 19:06:03.018693
+------------------------------------------------------
+Started: 2024-01-13 20:07:46.609769
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-13 20:07:48.635479
