@@ -53125,3 +53125,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [2024大選／本屆選舉人逾1954萬人 首投族102萬人](https://news.pts.org.tw/article/676166)
 append_entries: 2
 Finish: 2024-01-13 05:07:21.112515
+------------------------------------------------------
+Started: 2024-01-13 06:09:38.874495
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-13 06:09:40.163127
