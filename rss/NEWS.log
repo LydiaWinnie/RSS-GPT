@@ -53786,3 +53786,75 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [誰在2024分裂投票？ 小黨在不分區還有機會嗎？【王宏恩觀點】](https://news.pts.org.tw/article/676222)
 append_entries: 2
 Finish: 2024-01-14 11:06:04.159122
+------------------------------------------------------
+Started: 2024-01-14 12:13:05.465588
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [國軍快速反應射擊 納1年期義務役新訓](https://news.pts.org.tw/article/676257)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [日本諏訪之瀨島火山噴發 警戒等級提高至3級](https://news.pts.org.tw/article/676256)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北韓2024首試射飛彈 中程飛彈落日本EEZ外](https://news.pts.org.tw/article/676255)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台北松山未圈選用餘票失竊 警拘提1嫌犯動機仍待釐清](https://news.pts.org.tw/article/676254)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／藍敗選究責 朱立倫被點名應辭黨魁負責](https://news.pts.org.tw/article/676237)
+Append: [侯友宜為請假參選道歉 網路醞釀罷免行動](https://news.pts.org.tw/article/676236)
+Append: [選後首日 日台交流協會、美非官方高階團訪台](https://news.pts.org.tw/article/676235)
+Append: [賴蕭配勝選 須留意中國軍事施壓與貿易戰](https://news.pts.org.tw/article/676234)
+append_entries: 8
+Finish: 2024-01-14 12:13:06.338841
