@@ -53615,3 +53615,79 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [2024大選／賴蕭配558萬票勝選 打破8年政黨輪替魔咒](https://news.pts.org.tw/article/676207)
 append_entries: 4
 Finish: 2024-01-14 05:07:30.502597
+------------------------------------------------------
+Started: 2024-01-14 06:10:00.917429
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Feed error: 404
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024／綠高市立委「八仙過海」 藍營：努力不夠續檢討](https://news.pts.org.tw/article/676214)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／台中6席立委成功翻轉 盧秀燕助攻好評](https://news.pts.org.tw/article/676212)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／雲林海線丁學忠勝出 山線劉建國5連霸](https://news.pts.org.tw/article/676213)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／布林肯賀賴蕭勝選 美近期將組團訪台](https://news.pts.org.tw/article/676210)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／小黨不分區立委全軍覆沒 修改政黨票門檻呼聲起](https://news.pts.org.tw/article/676211)
+Append: [北市未圈選用餘票遺失 警成立專案小組調查](https://news.pts.org.tw/article/676217)
+Append: [2024大選／拜登重申不支持台獨 路透社：民眾用選票拒絕中國](https://news.pts.org.tw/article/676216)
+Append: [2024大選／朱是否請辭黨主席？ 侯友宜緩頰：我自己負責](https://news.pts.org.tw/article/676219)
+Append: [2024大選／藍綠白席次皆未過半 民眾黨成關鍵少數](https://news.pts.org.tw/article/676205)
+Append: [2024大選／藍綠不分區各13席 民眾黨8席](https://news.pts.org.tw/article/676206)
+Append: [2024大選／國會3黨不過半 土地正義等內政長期累積民怨](https://news.pts.org.tw/article/676201)
+append_entries: 11
+Finish: 2024-01-14 06:10:03.471460
