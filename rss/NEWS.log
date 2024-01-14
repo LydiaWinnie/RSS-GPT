@@ -53735,3 +53735,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [戴資穎大馬羽球公開賽奪銀 3局不敵世界球后安洗瑩](https://news.pts.org.tw/article/676223)
 append_entries: 1
 Finish: 2024-01-14 08:09:19.132083
+------------------------------------------------------
+Started: 2024-01-14 09:07:16.066120
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-14 09:07:18.007135
