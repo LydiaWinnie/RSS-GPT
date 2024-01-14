@@ -53858,3 +53858,12 @@ Append: [選後首日 日台交流協會、美非官方高階團訪台](https://
 Append: [賴蕭配勝選 須留意中國軍事施壓與貿易戰](https://news.pts.org.tw/article/676234)
 append_entries: 8
 Finish: 2024-01-14 12:13:06.338841
+------------------------------------------------------
+Started: 2024-01-14 13:08:22.271469
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-14 13:08:23.904670
