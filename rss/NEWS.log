@@ -53549,3 +53549,12 @@ Append: [「中英」中國未能左右台灣大選，接下來會發生什麼](
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2024-01-14 03:08:52.430523
+------------------------------------------------------
+Started: 2024-01-14 04:09:27.839711
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-14 04:09:29.178942
