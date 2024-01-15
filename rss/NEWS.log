@@ -54089,3 +54089,12 @@ Append: [以哈戰爭／衝突爆發屆滿百日 以軍持續猛攻加薩中南�
 Append: [蔡英文昨赴醫院探視 83歲施明德今晨辭世](https://news.pts.org.tw/article/676304)
 append_entries: 9
 Finish: 2024-01-15 01:54:59.701645
+------------------------------------------------------
+Started: 2024-01-15 02:26:37.327543
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-15 02:26:40.162329
