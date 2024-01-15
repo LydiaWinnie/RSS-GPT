@@ -54194,3 +54194,84 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-15 07:08:05.229379
+------------------------------------------------------
+Started: 2024-01-15 08:11:17.966844
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台灣大選民進黨三連勝，中國將如何應對？](https://cn.wsj.com/articles/%E5%8F%B0%E7%81%A3%E5%A4%A7%E9%81%B8%E6%B0%91%E9%80%B2%E9%BB%A8%E4%B8%89%E9%80%A3%E5%8B%9D-%E4%B8%AD%E5%9C%8B%E5%B0%87%E5%A6%82%E4%BD%95%E6%87%89%E5%B0%8D-31728f06)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [危地馬拉推遲新總統的就職典禮](https://cn.wsj.com/articles/%E5%8D%B1%E5%9C%B0%E9%A6%AC%E6%8B%89%E6%8E%A8%E9%81%B2%E6%96%B0%E7%B8%BD%E7%B5%B1%E7%9A%84%E5%B0%B1%E8%81%B7%E5%85%B8%E7%A6%AE-fbf6dcd8)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [永遠的反對黨 施明德83年傳奇人生](https://news.pts.org.tw/article/676354)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024大選／藍綠守基本盤得票互有領先 民眾黨催出竹苗選票](https://news.pts.org.tw/article/676353)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [外交部宣布與諾魯斷交 中華民國剩12邦交國](https://news.pts.org.tw/article/676352)
+Append: [83國代表會商烏克蘭和平方案 喊話納入俄羅斯參與談判](https://news.pts.org.tw/article/676335)
+Append: [冰島西南部火山爆發 熔岩湧入漁村居民撤離保命](https://news.pts.org.tw/article/676343)
+Append: [警破詐騙集團逮7人 首見天道盟插旗南部堂口](https://news.pts.org.tw/article/676347)
+Append: [苗栗加里山步道男子倒臥不治 醫：不建議長者獨自登山](https://news.pts.org.tw/article/676348)
+Append: [健保署擬推「第二層健保」 公私協力提升健保總額](https://news.pts.org.tw/article/676339)
+Append: [選後健保改革成重要課題 資料庫個資問題擬設專法規範](https://news.pts.org.tw/article/676338)
+Append: [美高階代表團抵台會蔡賴蕭 藍白也在首日拜會行程](https://news.pts.org.tw/article/676346)
+Append: [「沉默殺手」肝癌早期難察覺 醫師提醒有相關症況快就醫](https://news.pts.org.tw/article/676340)
+Append: [施明德83歲生日凌晨肝癌辭世 政壇藍綠齊表哀悼](https://news.pts.org.tw/article/676350)
+Append: [駁網傳「作票」影片造假 李進勇：法院若認舞弊就辭職](https://news.pts.org.tw/article/676336)
+Append: [選後成國會關鍵少數 民眾黨提4大承諾要藍綠回應](https://news.pts.org.tw/article/676351)
+Append: [東北季風報到帶來雨勢 馬祖、雲林空品亮紅燈](https://news.pts.org.tw/article/676349)
+append_entries: 17
+Finish: 2024-01-15 08:11:19.719085
