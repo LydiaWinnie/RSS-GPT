@@ -54335,3 +54335,80 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-15 12:14:40.650719
+------------------------------------------------------
+Started: 2024-01-15 13:11:05.545262
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [陳水扁出庭替女兒打贏官司 保外就醫任訴訟代理人引關注](https://news.pts.org.tw/article/676462)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [春節北北基小黃加價30元 中油宣布油價春節凍漲](https://news.pts.org.tw/article/676466)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [新冠近高峰疫苗卻大缺貨 疾管署：估23日起配送](https://news.pts.org.tw/article/676464)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台鐵公司化遇人力短缺 擬招北區寒假工讀生](https://news.pts.org.tw/article/676467)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [輔選有功出任新閣揆？ 陳其邁：高雄市長做好做滿](https://news.pts.org.tw/article/676471)
+Append: [美高階代表團選後訪台 賴清德強調捍衛台海和平](https://news.pts.org.tw/article/676472)
+Append: [Q3房貸負擔率雙北排前2 僅3縣市維持合理範圍](https://news.pts.org.tw/article/676468)
+Append: [諾魯無預警與我國斷交 外交部終止邦交譴責中國](https://news.pts.org.tw/article/676473)
+Append: [祕魯辦公室現外星人木乃伊 經專家確認為動物骨頭拚湊](https://news.pts.org.tw/article/676405)
+Append: [以哈戰爭／哈瑪斯公布人質影片 納坦雅胡誓言摧毀哈瑪斯](https://news.pts.org.tw/article/676409)
+Append: [巴西里約暴雨釀洪災 哥倫比亞土石流已知36死](https://news.pts.org.tw/article/676407)
+Append: [丹麥女王退位結束52年統治 長子佛瑞德里克十世繼位](https://news.pts.org.tw/article/676410)
+Append: [智利發現白變症巴布亞企鵝 全身雪白恐易遭捕獵](https://news.pts.org.tw/article/676406)
+append_entries: 13
+Finish: 2024-01-15 13:11:14.273262
