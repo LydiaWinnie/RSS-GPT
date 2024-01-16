@@ -54741,3 +54741,12 @@ Append: [「中英」蘋果在中國對部分新款iPhone打折，凸顯需求�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 4
 Finish: 2024-01-16 04:10:04.132675
+------------------------------------------------------
+Started: 2024-01-16 05:07:46.807821
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-16 05:07:49.000444
