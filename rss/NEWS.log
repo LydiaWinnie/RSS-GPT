@@ -54759,3 +54759,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-16 06:11:13.017705
+------------------------------------------------------
+Started: 2024-01-16 07:07:49.187628
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [綠燈沒減速撞死闖紅燈騎士 廂型車駕駛遭送辦](https://news.pts.org.tw/article/676542)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台南燈會2月3日登場 林默娘公園設行人徒步管制區](https://news.pts.org.tw/article/676525)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [斥資1300萬改造退役機身 朝陽科大啟用航災模擬教室](https://news.pts.org.tw/article/676526)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北極風暴侵襲 全美8成地區探0℃以下低溫](https://news.pts.org.tw/article/676534)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [重申對台政策不變 AIT主席：持續維護台海和平](https://news.pts.org.tw/article/676530)
+Append: [清潔工無防護站21樓外牆洗窗 高雄勞工局：最高可罰30萬](https://news.pts.org.tw/article/676540)
+Append: [宿醉隔18小時上路酒測仍超標 騎士遭移送、妻沒勸阻也挨罰](https://news.pts.org.tw/article/676538)
+Append: [矮1.1公分丟消防員受訓資格 女子認歧視聲請釋憲](https://news.pts.org.tw/article/676539)
+Append: [公費肺癌篩檢揪出900患者 85%屬早期個案存活率大增](https://news.pts.org.tw/article/676536)
+Append: [違法電子煙集中FB、IG販賣 董氏基金會籲屏蔽國外網站](https://news.pts.org.tw/article/676537)
+Append: [世界經濟論壇瑞士登場 聚焦俄烏、以哈及AI議題](https://news.pts.org.tw/article/676532)
+Append: [桃機安檢大排長龍引民怨 航警局7條安檢線全開因應](https://news.pts.org.tw/article/676527)
+Append: [兩岸8年減少46航點 學者：520前增加機率低](https://news.pts.org.tw/article/676528)
+Append: [2023台商對中投資額減幅近4成 創21年來新低](https://news.pts.org.tw/article/676531)
+Append: [首梯恢復1年義務役25日入伍 新訓鑑測沒過少領萬元加給](https://news.pts.org.tw/article/676529)
+append_entries: 15
+Finish: 2024-01-16 07:07:51.081294
