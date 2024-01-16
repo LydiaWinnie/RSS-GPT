@@ -54967,3 +54967,82 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [Google測試：AI醫師更有同理心 診斷準確度與人類並駕齊驅](https://news.pts.org.tw/article/676572)
 append_entries: 2
 Finish: 2024-01-16 12:14:26.457493
+------------------------------------------------------
+Started: 2024-01-16 13:10:42.885957
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中市府官網中斷服務6小時 市府：更新時間超過預期導致](https://news.pts.org.tw/article/676659)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [屏東下淡水溪舊鐵橋年久失修 枕木腐壞塌陷引安全疑慮](https://news.pts.org.tw/article/676651)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [新竹五峰再度目擊黑熊 縣府宣導遇熊保持冷靜退後](https://news.pts.org.tw/article/676652)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [1年期義務役首梯25日入伍 新訓第6週依專長分發甄選](https://news.pts.org.tw/article/676663)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北韓修憲將南韓列頭號敵對 南韓：將加倍奉還](https://news.pts.org.tw/article/676657)
+Append: [國防部更新共軍動態圖轉保守 專家：為防共軍掌情蒐能力](https://news.pts.org.tw/article/676664)
+Append: [氫被視為終極潔淨能源 德擁全球首列營運中氫能火車](https://news.pts.org.tw/article/676655)
+Append: [搶2024巴黎奧運開幕前 羅浮宮全票票價漲3成](https://news.pts.org.tw/article/676654)
+Append: [石川強震／罹難逾222人 當局示警大雪壓垮半倒屋](https://news.pts.org.tw/article/676656)
+Append: [流感併發罕見腦病變 7歲童住院4天不治](https://news.pts.org.tw/article/676667)
+Append: [諾魯與我斷交轉向中國 美國務院：令人失望的決定](https://news.pts.org.tw/article/676669)
+Append: [累計虧損逾3千億漲電費？ 台電：3月審議委員會決定](https://news.pts.org.tw/article/676665)
+Append: [薩利亞餐廳調漲約1成 梁社漢、老蔡水煎包也漲價](https://news.pts.org.tw/article/676666)
+Append: [高端同意提前公開疫苗合約 疾管署：總採購價金40.3億](https://news.pts.org.tw/article/676670)
+Append: [涉殺害馬國女大生稱助輕生 陳嫌一審判無期徒刑](https://news.pts.org.tw/article/676668)
+append_entries: 15
+Finish: 2024-01-16 13:10:43.809880
