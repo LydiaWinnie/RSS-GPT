@@ -54684,3 +54684,60 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-16 03:09:01.173533
+------------------------------------------------------
+Started: 2024-01-16 04:10:00.065912
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [歐洲經濟增長引擎失靈](https://cn.wsj.com/articles/%E6%AD%90%E6%B4%B2%E5%A2%9E%E9%95%B7%E5%BC%95%E6%93%8E%E5%A4%B1%E9%9D%88-3c60f7dc)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [特朗普贏得艾奧瓦州共和黨總統候選人的黨團會議](https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%8F%E5%BE%97%E4%BA%86%E8%89%BE%E5%A5%A7%E7%93%A6%E5%B7%9E%E5%85%B1%E5%92%8C%E9%BB%A8%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E7%9A%84%E9%BB%A8%E5%9C%98%E6%9C%83%E8%AD%B0-2d4dbc17)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [民調顯示特朗普將以很大優勢贏得艾奧瓦州黨團選舉](https://cn.wsj.com/articles/%E6%B0%91%E8%AA%BF%E9%A1%AF%E7%A4%BA%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E4%BB%A5%E5%BE%88%E5%A4%A7%E5%84%AA%E5%8B%A2%E8%B4%8F%E5%BE%97%E8%89%BE%E5%A5%A7%E7%93%A6%E5%B7%9E%E9%BB%A8%E5%9C%98%E9%81%B8%E8%88%89-783932a6)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」蘋果在中國對部分新款iPhone打折，凸顯需求擔憂](https://cn.nytimes.com/business/20240116/apple-china-iphone-discounts/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 4
+Finish: 2024-01-16 04:10:04.132675
