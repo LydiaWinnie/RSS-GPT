@@ -54904,3 +54904,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [別讓塞車壞了好心情 客運、公路春節疏運措施一次看](https://news.pts.org.tw/article/676543)
 append_entries: 2
 Finish: 2024-01-16 09:08:15.844011
+------------------------------------------------------
+Started: 2024-01-16 10:08:44.707734
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-16 10:08:45.469956
