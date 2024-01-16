@@ -54934,3 +54934,36 @@ Append: [「中英」川普在愛荷華州黨內初選中贏得壓倒性勝利](
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2024-01-16 11:06:47.603518
+------------------------------------------------------
+Started: 2024-01-16 12:14:24.836904
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [公布高端疫苗採購合約 疾管署：每劑最初報價950元](https://news.pts.org.tw/article/676590)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Google測試：AI醫師更有同理心 診斷準確度與人類並駕齊驅](https://news.pts.org.tw/article/676572)
+append_entries: 2
+Finish: 2024-01-16 12:14:26.457493
