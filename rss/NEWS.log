@@ -54871,3 +54871,36 @@ Append: [「中英」美國向製造業投入巨資，但面臨熟悉的威脅�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2024-01-16 08:10:55.697326
+------------------------------------------------------
+Started: 2024-01-16 09:08:14.951860
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Vivek Ramaswamy退出總統候選人競選，表態支持特朗普](https://cn.wsj.com/articles/vivek-ramaswamy%E9%80%80%E5%87%BA%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E7%AB%B6%E9%81%B8-%E8%A1%A8%E6%85%8B%E6%94%AF%E6%8C%81%E7%89%B9%E6%9C%97%E6%99%AE-42e2a5ba)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [別讓塞車壞了好心情 客運、公路春節疏運措施一次看](https://news.pts.org.tw/article/676543)
+append_entries: 2
+Finish: 2024-01-16 09:08:15.844011
