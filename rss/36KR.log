@@ -55337,3 +55337,88 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2024-01-17 11:06:57.428777
+------------------------------------------------------
+Started: 2024-01-17 12:14:39.708780
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [我国已成世界最大自动化采用国，机器人正在慢慢“取代人类”吗？](https://www.36kr.com/p/2608667138962692)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [推出付费订阅Copilot Pro，微软也在琢磨用AI来挣钱](https://www.36kr.com/p/2608658119046661)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [AI时代，有哪些机会？](https://www.36kr.com/p/2608624947541249)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [短片制作人，借到了大模型的第一缕东风](https://www.36kr.com/p/2608580998673929)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [用智谱AI的类「GPTs」，我做一个Agent只花了30秒](https://www.36kr.com/p/2608639258179079)
+Append: [程前怼大佬引发闹剧，但更值得关注的，是大佬的AI观点...](https://www.36kr.com/p/2608575985459335)
+Append: [IT行业，抢滩大模型](https://www.36kr.com/p/2608571828679939)
+Append: [全球AI监管观察：2024年美国AI监管环境的四个关键点](https://www.36kr.com/p/2608561964916611)
+Append: [AI“创作”的作品版权归谁？这又是一个关于人和机器关系的问题](https://www.36kr.com/p/2608617782441479)
+Append: [过去一年，他们如何靠AIGC搞爆款广告？](https://www.36kr.com/p/2608541051172099)
+Append: [AI行业研报：全球银行业大模型技术标准即将来临？](https://www.36kr.com/p/2608418943836034)
+Append: [AI PC热再现CES2024，行业求解落地路线](https://www.36kr.com/p/2608472719029765)
+Append: [《纽约时报》诉OpenAI侵权搞错了对象：人工智能是机会，不是威胁](https://www.36kr.com/p/2608418924918018)
+Append: [OpenAI像素级抄袭好莱坞IP，反手开撕《纽约时报》，LeCun舌战网友疑似站队支持](https://www.36kr.com/p/2608483000382978)
+Append: [Stability AI开年首个大模型：专写代码，支持18种编程语言，上下文100K，苹果笔记本离线就能跑](https://www.36kr.com/p/2608482418144768)
+Append: [用大模型帮程序员找Bug，中科院剖析102篇论文总结出这些方案](https://www.36kr.com/p/2608482264937735)
+Append: [巨头入局，阴霾渐散，6家智能驾驶公司推荐 | 红利公司盘点](https://www.36kr.com/p/2608491404703232)
+Append: [ICLR接收结果出炉，有人提出异议：论文稍微超过9页，就被拒了？？](https://www.36kr.com/p/2608482070410760)
+Append: [拒绝裁员风险，5家稳定挣钱的机器人公司盘点｜职升机头等舱计划](https://www.36kr.com/p/2608466184631555)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 19
+Finish: 2024-01-17 12:15:08.715251
