@@ -55267,3 +55267,72 @@ Append: [「中英」李強稱中國2023年經濟增長5.2%](https://cn.nytimes.
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2024-01-17 04:10:03.390566
+------------------------------------------------------
+Started: 2024-01-17 05:07:43.207661
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [希音上市還有新障礙：中國的網絡安全審查](https://cn.wsj.com/articles/%E5%B8%8C%E9%9F%B3%E4%B8%8A%E5%B8%82%E9%82%84%E6%9C%89%E6%96%B0%E9%9A%9C%E7%A4%99-%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%B6%B2%E7%B5%A1%E5%AE%89%E5%85%A8%E5%AF%A9%E6%9F%A5-0e253891)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [金正恩眼中的頭號敵人不再是美國](https://cn.wsj.com/articles/%E9%87%91%E6%AD%A3%E6%81%A9%E7%9C%BC%E4%B8%AD%E7%9A%84%E9%A0%AD%E8%99%9F%E6%95%B5%E4%BA%BA%E4%B8%8D%E5%86%8D%E6%98%AF%E7%BE%8E%E5%9C%8B-9f950126)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2023年中國人口加速減少](https://cn.wsj.com/articles/2023%E5%B9%B4%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%8F%A3%E5%8A%A0%E9%80%9F%E6%B8%9B%E5%B0%91-4289e35c)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」達佛斯論壇熱點話題：美中關係、加薩戰爭、AI、烏克蘭](https://cn.nytimes.com/business/20240117/buzz-davos-ai-ukraine-china-gaza/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」中國去年經濟增速「破5」，但債務、通縮等問題仍為隱憂](https://cn.nytimes.com/business/20240117/china-gdp-q4-2023/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 5
+Finish: 2024-01-17 05:07:44.318608
