@@ -55409,3 +55409,12 @@ Append: [以廢轉能怎麼轉｜SRF真的同時解決廢棄物又產生綠能�
 Append: [還河復野種瓜坑溪｜減法工程修復野溪生態【我們的島】](https://news.pts.org.tw/article/676278)
 append_entries: 9
 Finish: 2024-01-17 06:11:21.328760
+------------------------------------------------------
+Started: 2024-01-17 07:08:06.289581
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-17 07:08:07.985694
