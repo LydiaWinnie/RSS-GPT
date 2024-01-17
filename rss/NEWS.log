@@ -55138,3 +55138,36 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-16 23:07:49.110969
+------------------------------------------------------
+Started: 2024-01-17 00:37:29.705940
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [加拿大告知拜登政府，將採取行動阻止處方藥出口到佛羅裡達州](https://cn.wsj.com/articles/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%91%8A%E7%9F%A5%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C-%E5%B0%87%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E9%98%BB%E6%AD%A2%E8%99%95%E6%96%B9%E8%97%A5%E5%87%BA%E5%8F%A3%E5%88%B0%E4%BD%9B%E7%BE%85%E8%A3%A1%E9%81%94%E5%B7%9E-1053e4de)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國搜尋失蹤的海豹突擊隊隊員，對葉門胡塞武裝發起新的襲擊](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E6%90%9C%E5%B0%8B%E5%A4%B1%E8%B9%A4%E7%9A%84%E6%B5%B7%E8%B1%B9%E7%AA%81%E6%93%8A%E9%9A%8A%E9%9A%8A%E5%93%A1-%E5%B0%8D%E8%91%89%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%99%BC%E8%B5%B7%E6%96%B0%E7%9A%84%E8%A5%B2%E6%93%8A-3a4c05dd)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2024-01-17 00:37:31.744705
