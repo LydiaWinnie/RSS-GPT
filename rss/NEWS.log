@@ -55829,3 +55829,36 @@ Append: [「中英」中國重新發布青年失業率，改變統計方式後�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2024-01-18 01:51:11.664179
+------------------------------------------------------
+Started: 2024-01-18 02:23:28.254524
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [英王室成員連傳病號 查爾斯三世、兒媳凱特相繼動刀](https://news.pts.org.tw/article/676889)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [葉門「青年運動」襲紅海貨輪 美宣布重新列名全球恐怖分子](https://news.pts.org.tw/article/676890)
+append_entries: 2
+Finish: 2024-01-18 02:23:29.475715
