@@ -56098,3 +56098,12 @@ Append: [比前一年小幅縮水 全台上班族年終平均1.32個月](https:/
 Append: [跨性別群族處境調查出爐 半數仍擔心被質疑](https://news.pts.org.tw/article/676934)
 append_entries: 7
 Finish: 2024-01-18 08:10:13.113680
+------------------------------------------------------
+Started: 2024-01-18 09:07:50.039002
+Existing_entries: 1007
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-18 09:07:51.208882
