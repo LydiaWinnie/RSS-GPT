@@ -56259,3 +56259,12 @@ Append: [全球最大冰山擱淺近40年 科學家發現正快速漂離南極](
 Append: [泰爆竹工廠爆炸廠房夷為平地 造成19死3失蹤](https://news.pts.org.tw/article/677010)
 append_entries: 9
 Finish: 2024-01-18 12:14:36.127708
+------------------------------------------------------
+Started: 2024-01-18 13:10:49.943502
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-18 13:10:54.035218
