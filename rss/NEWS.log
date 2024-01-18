@@ -55862,3 +55862,48 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [葉門「青年運動」襲紅海貨輪 美宣布重新列名全球恐怖分子](https://news.pts.org.tw/article/676890)
 append_entries: 2
 Finish: 2024-01-18 02:23:29.475715
+------------------------------------------------------
+Started: 2024-01-18 03:08:59.416157
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [伊拉克總理：美國領導的駐伊國際聯盟已不再被需要](https://cn.wsj.com/articles/%E4%BC%8A%E6%8B%89%E5%85%8B%E7%B8%BD%E7%90%86-%E7%BE%8E%E5%9C%8B%E9%A0%98%E5%B0%8E%E7%9A%84%E9%A7%90%E4%BC%8A%E5%9C%8B%E9%9A%9B%E8%81%AF%E7%9B%9F%E5%B7%B2%E4%B8%8D%E5%86%8D%E8%A2%AB%E9%9C%80%E8%A6%81-4e66a9d0)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國實驗室繪製出新冠圖譜兩周後，北京才向世界公布](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E5%AF%A6%E9%A9%97%E5%AE%A4%E7%B9%AA%E8%A3%BD%E5%87%BA%E6%96%B0%E5%86%A0%E5%9C%96%E8%AD%9C%E5%85%A9%E5%91%A8%E5%BE%8C-%E5%8C%97%E4%BA%AC%E6%89%8D%E5%90%91%E4%B8%96%E7%95%8C%E5%85%AC%E5%B8%83-4b02df7d)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [前澳洲總理陸克文反駁「中國觸頂論」](https://cn.wsj.com/articles/%E5%89%8D%E6%BE%B3%E6%B4%B2%E7%B8%BD%E7%90%86%E9%99%B8%E5%85%8B%E6%96%87%E5%8F%8D%E9%A7%81-%E4%B8%AD%E5%9C%8B%E8%A7%B8%E9%A0%82%E8%AB%96-d241b06b)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2024-01-18 03:09:00.254828
