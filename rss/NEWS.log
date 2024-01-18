@@ -55928,3 +55928,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [挪威擬開放深海採礦 多國憂影響環境呼籲暫停](https://news.pts.org.tw/article/676913)
 append_entries: 1
 Finish: 2024-01-18 04:09:49.134248
+------------------------------------------------------
+Started: 2024-01-18 05:07:56.237934
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-18 05:07:56.841822
