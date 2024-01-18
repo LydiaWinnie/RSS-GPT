@@ -56177,3 +56177,12 @@ Append: [泰國將文創融入都市設計，帶動觀光發展！【獨立特�
 Append: [威尼斯1日遊要買票 4月起試行每張5歐元](https://news.pts.org.tw/article/676984)
 append_entries: 6
 Finish: 2024-01-18 10:09:09.182101
+------------------------------------------------------
+Started: 2024-01-18 11:07:03.605872
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-18 11:07:04.572565
