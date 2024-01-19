@@ -56622,3 +56622,83 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2024-01-19 06:10:48.281685
+------------------------------------------------------
+Started: 2024-01-19 07:07:41.225960
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」中國經濟遇到了大麻煩](https://cn.nytimes.com/opinion/20240119/china-economy-xi/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [上市櫃公司陸續遭駭 數位部為何示警社交工程欺騙](https://news.pts.org.tw/article/677146)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [新加坡交長被控27項貪汙罪名 動搖執政黨清廉形象](https://news.pts.org.tw/article/677140)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [南部開講／田野調查帶入課堂 二林青年結合在地與文學成教材](https://news.pts.org.tw/article/677126)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中油、台電高風險廠防爆疑放水 勞動部：驗證機構符規範](https://news.pts.org.tw/article/677130)
+Append: [雪霸管理處無水運輸受精卵 櫻花鉤吻鮭棲地可望擴大](https://news.pts.org.tw/article/677134)
+Append: [詐團冒用合法公司誆零風險當沖 桃園中壢翁遭騙700萬](https://news.pts.org.tw/article/677139)
+Append: [長榮航空罷工投票22日開票 民航局促勞資溝通](https://news.pts.org.tw/article/677137)
+Append: [花蓮火車站前科技執法暫緩 標線不明需重劃](https://news.pts.org.tw/article/677127)
+Append: [北市某高中球隊教練團 遭控不當管教、言語羞辱學生](https://news.pts.org.tw/article/677129)
+Append: [鳳梨釋迦拓展外銷管道 今於新加坡上市](https://news.pts.org.tw/article/677128)
+Append: [台積電擴大2奈米產能 高雄增建第3廠](https://news.pts.org.tw/article/677145)
+Append: [外媒：美國4重量級眾議員 下週將接力訪台](https://news.pts.org.tw/article/677135)
+Append: [調查局設「認知戰研究中心」 陳建仁：假訊息已危及國安](https://news.pts.org.tw/article/677143)
+Append: [多處投票所政黨票異常 中選會：地方誤植將更正](https://news.pts.org.tw/article/677138)
+Append: [美國羅布小學21死槍擊案 司法部：警方存在重大失誤](https://news.pts.org.tw/article/677125)
+append_entries: 16
+Finish: 2024-01-19 07:07:42.811397

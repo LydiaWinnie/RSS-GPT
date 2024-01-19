@@ -56329,3 +56329,14 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [CEO锦囊｜企业要持续增长，该如何做？](https://www.36kr.com/p/2608578716824839)
 append_entries: 1
 Finish: 2024-01-19 06:11:13.940587
+------------------------------------------------------
+Started: 2024-01-19 07:07:46.237334
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 0
+Finish: 2024-01-19 07:07:48.393947
