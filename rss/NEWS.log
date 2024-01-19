@@ -56568,3 +56568,24 @@ Append: [「中英」「超級星期二」臨近，川普力求早日「剷除�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 3
 Finish: 2024-01-19 04:10:15.384237
+------------------------------------------------------
+Started: 2024-01-19 05:07:51.754507
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」在向世界警告新冠大流行前，中國已掌握病毒關鍵基因圖譜](https://cn.nytimes.com/science/20240119/covid-china-us-pandemic/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2024-01-19 05:07:53.042604
