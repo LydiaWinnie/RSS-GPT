@@ -56837,3 +56837,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2024-01-19 12:14:10.972731
+------------------------------------------------------
+Started: 2024-01-19 13:10:16.295621
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台灣大選落幕 英智庫針對選後局勢分析](https://news.pts.org.tw/article/677264)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／以色列最小人質滿週歲 民眾上街慶生籲放人](https://news.pts.org.tw/article/677266)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北愛爾蘭近50年最大罷工 法警公會爭奧運勤務津貼示威](https://news.pts.org.tw/article/677267)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [紐約州連4日降雪量逾1.5公尺 加拿大嚴寒風雪釀5死](https://news.pts.org.tw/article/677268)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [南投將停辦4所國小 縣府表做好溝通不影響受教權](https://news.pts.org.tw/article/677269)
+Append: [大學學測3天將逢寒流 保暖穿戴須配合檢查](https://news.pts.org.tw/article/677270)
+Append: [詐騙集團佯幣商誆投資加密貨幣 40人受害總財損逾2億](https://news.pts.org.tw/article/677272)
+Append: [台積電法說釋樂觀展望 台股大漲453點史上第12大](https://news.pts.org.tw/article/677273)
+Append: [全球軍力排名台灣第24 專家：島國應強化海空軍](https://news.pts.org.tw/article/677281)
+Append: [英媒指美議員下週將訪台挺賴 俞大㵢稱台盼維持現狀](https://news.pts.org.tw/article/677282)
+Append: [台電規劃租屋用電查詢 杜絕超收電費](https://news.pts.org.tw/article/677271)
+Append: [公車站牌無遮蔽學生路邊等車 相關單位會勘校方建議挪站牌](https://news.pts.org.tw/article/677274)
+Append: [高鐵罷工危機解除勞資達共識 獎金總額逾6個月](https://news.pts.org.tw/article/677276)
+Append: [蘇澳軍港士官長著潛水裝溺斃 海軍配合憲檢立案調查](https://news.pts.org.tw/article/677280)
+Append: [拚立院龍頭「韓江配」爭支持 民眾黨待改革訴求做決定](https://news.pts.org.tw/article/677283)
+append_entries: 15
+Finish: 2024-01-19 13:10:17.493493
