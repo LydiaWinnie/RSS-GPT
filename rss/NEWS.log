@@ -56711,3 +56711,78 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-19 08:10:28.754570
+------------------------------------------------------
+Started: 2024-01-19 09:08:20.735873
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」新加坡政府高官被控貪腐，清廉國家形象蒙塵](https://cn.nytimes.com/asia-pacific/20240119/singapore-iswaran-corruption-charges/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」羨慕、淚水和啟發：中國人的台灣觀選之旅](https://cn.nytimes.com/asia-pacific/20240119/taiwan-election-china/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [象牙海岸廚師創新傳統料理 改造家鄉美食](https://news.pts.org.tw/article/677161)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [澳甜點主廚創「健腦」蛋糕 顛覆甜點不健康印象](https://news.pts.org.tw/article/677162)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [石川強震／能登強震屆將滿3週 上萬災民面臨遷移抉擇](https://news.pts.org.tw/article/677150)
+Append: [1.6萬袋碎紙藏東德歷史秘密 「解密人」埋首拼湊逾30年](https://news.pts.org.tw/article/677151)
+Append: [川普揚言用軍隊整治犯罪 美軍事學院強化效忠憲法](https://news.pts.org.tw/article/677152)
+Append: [美共和黨愛荷華州黨團會議 候選人投逾1.2億競選廣告金](https://news.pts.org.tw/article/677153)
+Append: [日本修法規範寵物繁殖 業者不堪負擔轉讓繁殖犬](https://news.pts.org.tw/article/677158)
+Append: [法新制食物禁拋棄式塑膠包裝 澳超市軟塑膠回收失敗挨批](https://news.pts.org.tw/article/677159)
+Append: [86歲影帝霍普金斯年年推新作 社群分享繪畫、彈琴驚艷影迷](https://news.pts.org.tw/article/677163)
+append_entries: 11
+Finish: 2024-01-19 09:08:22.754974
