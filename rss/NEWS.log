@@ -56702,3 +56702,12 @@ Append: [多處投票所政黨票異常 中選會：地方誤植將更正](https
 Append: [美國羅布小學21死槍擊案 司法部：警方存在重大失誤](https://news.pts.org.tw/article/677125)
 append_entries: 16
 Finish: 2024-01-19 07:07:42.811397
+------------------------------------------------------
+Started: 2024-01-19 08:10:27.796523
+Existing_entries: 1016
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-19 08:10:28.754570
