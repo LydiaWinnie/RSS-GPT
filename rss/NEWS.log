@@ -56816,3 +56816,24 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [剩食碳足跡佔6%溫室氣體總量 韓國翻轉回收比例達95％](https://news.pts.org.tw/article/677160)
 append_entries: 1
 Finish: 2024-01-19 11:06:53.452890
+------------------------------------------------------
+Started: 2024-01-19 12:14:09.590687
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台灣國民黨面臨前所未有的影響力危機](https://cn.wsj.com/articles/%E5%8F%B0%E7%81%A3%E5%9C%8B%E6%B0%91%E9%BB%A8%E9%9D%A2%E8%87%A8%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E5%BD%B1%E9%9F%BF%E5%8A%9B%E5%8D%B1%E6%A9%9F-59d3c7ba)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2024-01-19 12:14:10.972731
