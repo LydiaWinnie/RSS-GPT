@@ -56916,3 +56916,12 @@ Append: [蘇澳軍港士官長著潛水裝溺斃 海軍配合憲檢立案調查]
 Append: [拚立院龍頭「韓江配」爭支持 民眾黨待改革訴求做決定](https://news.pts.org.tw/article/677283)
 append_entries: 15
 Finish: 2024-01-19 13:10:17.493493
+------------------------------------------------------
+Started: 2024-01-19 14:07:50.777277
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-19 14:07:51.688139
