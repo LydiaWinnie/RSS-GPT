@@ -56786,3 +56786,12 @@ Append: [法新制食物禁拋棄式塑膠包裝 澳超市軟塑膠回收失敗�
 Append: [86歲影帝霍普金斯年年推新作 社群分享繪畫、彈琴驚艷影迷](https://news.pts.org.tw/article/677163)
 append_entries: 11
 Finish: 2024-01-19 09:08:22.754974
+------------------------------------------------------
+Started: 2024-01-19 10:08:35.000738
+Existing_entries: 1011
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-19 10:08:36.454160
