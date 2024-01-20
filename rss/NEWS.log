@@ -57276,3 +57276,12 @@ Append: [極地寒流北美多地傳災 維州小客機迫降公路](https://new
 Append: [首波寒流明來襲 週二夜至週三晨空曠區下探5度](https://news.pts.org.tw/article/677338)
 append_entries: 9
 Finish: 2024-01-20 12:12:40.893919
+------------------------------------------------------
+Started: 2024-01-20 13:08:11.719475
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-20 13:08:12.940364
