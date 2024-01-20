@@ -57158,3 +57158,12 @@ Append: [明寒流南下越晚越冷 估下週一至四極度濕冷](https://new
 Append: [日本小型無人探測器成功登月 全球第5國](https://news.pts.org.tw/article/677285)
 append_entries: 10
 Finish: 2024-01-20 06:09:42.443743
+------------------------------------------------------
+Started: 2024-01-20 07:06:57.345145
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-20 07:06:58.249322
