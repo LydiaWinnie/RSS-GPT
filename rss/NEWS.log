@@ -57084,3 +57084,77 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-20 05:07:33.919809
+------------------------------------------------------
+Started: 2024-01-20 06:09:39.082496
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [16至22歲學子寒假首日收紅包 文化成年禮金如何領？](https://news.pts.org.tw/article/677307)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台中男嫌強搶宮廟香油錢遭捕 曾因道路撒鐵釘收押](https://news.pts.org.tw/article/677298)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北韓少年看韓劇重判12年勞改 專家：當局難掌握千禧市代](https://news.pts.org.tw/article/677295)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台南鹽水蜂炮主辦武廟 收傳票遭告殺人未遂](https://news.pts.org.tw/article/677299)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [高雄桃源櫻花季盛開起跑 台南梅嶺梅花下週估將全開](https://news.pts.org.tw/article/677297)
+Append: [文化幣擴大年齡常態發放 16至22歲每人1200點](https://news.pts.org.tw/article/677303)
+Append: [校園割頸案凸顯校安問題 粉專串聯推修法擬3/16上凱道](https://news.pts.org.tw/article/677300)
+Append: [學測考生數逾12萬人 首日數學A缺考率2.36%](https://news.pts.org.tw/article/677304)
+Append: [明寒流南下越晚越冷 估下週一至四極度濕冷](https://news.pts.org.tw/article/677306)
+Append: [日本小型無人探測器成功登月 全球第5國](https://news.pts.org.tw/article/677285)
+append_entries: 10
+Finish: 2024-01-20 06:09:42.443743
