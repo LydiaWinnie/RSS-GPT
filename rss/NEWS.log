@@ -57668,3 +57668,12 @@ Append: [與吐瓦魯邦交也傳生變 外交部：珍惜彼此堅定友誼](ht
 Append: [一週大事／中華民國與諾魯斷交 施明德逝世（2024.1.15-1.21）](https://news.pts.org.tw/article/677365)
 append_entries: 8
 Finish: 2024-01-21 13:09:17.357742
+------------------------------------------------------
+Started: 2024-01-21 14:06:49.618701
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-21 14:06:51.184244
