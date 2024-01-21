@@ -57456,3 +57456,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [華航飛香港班機疑艙壓異常 折返桃機逾百旅客換機再飛](https://news.pts.org.tw/article/677351)
 append_entries: 2
 Finish: 2024-01-21 05:07:36.680292
+------------------------------------------------------
+Started: 2024-01-21 06:10:11.831848
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-21 06:10:14.499756
