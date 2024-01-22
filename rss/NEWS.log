@@ -58226,3 +58226,12 @@ Append: [「中英」德桑蒂斯退出美國總統競選，宣布支持川普](
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2024-01-22 10:08:57.509323
+------------------------------------------------------
+Started: 2024-01-22 11:07:01.582752
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-22 11:07:05.719094
