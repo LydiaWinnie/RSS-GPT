@@ -58127,3 +58127,12 @@ Append: [婦團民調8成反對代理孕母 薛瑞元：召開公聽會決定修
 Append: [盼台美簽貿易與租稅協定 駐美官員：可強化台經濟安全](https://news.pts.org.tw/article/677465)
 append_entries: 8
 Finish: 2024-01-22 07:08:21.504051
+------------------------------------------------------
+Started: 2024-01-22 08:11:21.801287
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-22 08:11:23.619399
