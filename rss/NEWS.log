@@ -57947,3 +57947,78 @@ Append: [「中英」iPhone為何中國製造？](https://cn.nytimes.com/busines
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2024-01-22 04:10:23.259339
+------------------------------------------------------
+Started: 2024-01-22 05:08:30.479725
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [紅海衝突加劇貨運風險，歐洲首當其衝](https://cn.wsj.com/articles/%E7%B4%85%E6%B5%B7%E8%A1%9D%E7%AA%81%E5%8A%A0%E5%8A%87%E8%B2%A8%E9%81%8B%E9%A2%A8%E9%9A%AA-%E6%AD%90%E6%B4%B2%E9%A6%96%E7%95%B6%E5%85%B6%E8%A1%9D-f74c5d96)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國正如何削弱中國在非洲的影響力？](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E6%AD%A3%E5%A6%82%E4%BD%95%E5%89%8A%E5%BC%B1%E4%B8%AD%E5%9C%8B%E5%9C%A8%E9%9D%9E%E6%B4%B2%E7%9A%84%E5%BD%B1%E9%9F%BF%E5%8A%9B-3c9f22b9)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [傳台積電將至嘉義設1奈米廠 南科管理局：以廠商公告為準](https://news.pts.org.tw/article/677466)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [民眾黨質疑媒體選情報導 NCC：已調帶函轉中選會](https://news.pts.org.tw/article/677457)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [陽明山國小宣布放低溫假 蔣萬安：依現行辦法各校評估](https://news.pts.org.tw/article/677464)
+Append: [氣象署估北部高山降雪機率高 遊客上午登陽明山等雪](https://news.pts.org.tw/article/677470)
+Append: [高雄夫婦疑不堪經濟壓力 偕3幼子輕生死亡](https://news.pts.org.tw/article/677468)
+Append: [通訊診察治療辦法7/1上路 適用對象擴大至10類](https://news.pts.org.tw/article/677459)
+Append: [國民黨凝聚韓江配共識 柯建銘批民眾黨擁8席立委無用](https://news.pts.org.tw/article/677467)
+Append: [長榮機師罷工投票通過 最快春節罷工](https://news.pts.org.tw/article/677442)
+Append: [高雄一家5口陳屍住處 社會局：查無脆弱家庭通報](https://news.pts.org.tw/article/677441)
+append_entries: 11
+Finish: 2024-01-22 05:08:32.209598
