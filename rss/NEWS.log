@@ -58310,3 +58310,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-22 14:08:14.116551
+------------------------------------------------------
+Started: 2024-01-22 15:08:58.312504
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [回顧國內航空3次罷工史 長榮空服員最久歷經17天](https://news.pts.org.tw/article/677586)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [爭議土地興建印度教廟宇 莫迪遭批為選票拉抬印度教](https://news.pts.org.tw/article/677574)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美駐伊拉克基地遭飛彈攻擊 白宮：極其嚴肅看待](https://news.pts.org.tw/article/677576)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美三分之二國土受極寒氣候影響 89人低溫喪命](https://news.pts.org.tw/article/677577)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [計程車突然開車門 公車急煞7乘客傷](https://news.pts.org.tw/article/677578)
+Append: [五互吸金案二審準備庭 受害人盼加速審理賠償](https://news.pts.org.tw/article/677579)
+Append: [紅海危機致航運受阻缺藥 食藥署：僅9種藥品無替代](https://news.pts.org.tw/article/677580)
+Append: [台灣將開徵碳費 外界憂營建成本漲恐影響房價](https://news.pts.org.tw/article/677581)
+Append: [中國機艦持續擾台 天弓三型防空飛彈車移防恆春](https://news.pts.org.tw/article/677583)
+Append: [陳揆見美台商會再談雙重課稅 美眾議員將訪台賀賴當選](https://news.pts.org.tw/article/677584)
+Append: [傅崐萁退讓挺「韓江配」 藍營立院選舉將團進團出且亮票](https://news.pts.org.tw/article/677585)
+Append: [長榮機師投票取得罷工權 估春節前後啟動影響美加航線](https://news.pts.org.tw/article/677587)
+Append: [陽明山國小放2天低溫假 桃園三光與高義國小跟進](https://news.pts.org.tw/article/677588)
+Append: [中部以北低溫不排除6度以下 陽明山、大屯山有機會降雪](https://news.pts.org.tw/article/677590)
+Append: [最強寒流農林漁牧嚴防寒害 清境農場綿羊穿保暖衣](https://news.pts.org.tw/article/677589)
+append_entries: 15
+Finish: 2024-01-22 15:09:00.129861
