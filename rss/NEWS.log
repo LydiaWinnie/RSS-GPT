@@ -57860,3 +57860,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [俄烏戰爭／俄占頓內次克遭砲襲27死 俄控烏軍恐怖攻擊](https://news.pts.org.tw/article/677414)
 append_entries: 5
 Finish: 2024-01-22 01:56:06.572484
+------------------------------------------------------
+Started: 2024-01-22 02:28:48.085678
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-22 02:28:49.976255
