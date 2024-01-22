@@ -58022,3 +58022,36 @@ Append: [長榮機師罷工投票通過 最快春節罷工](https://news.pts.org
 Append: [高雄一家5口陳屍住處 社會局：查無脆弱家庭通報](https://news.pts.org.tw/article/677441)
 append_entries: 11
 Finish: 2024-01-22 05:08:32.209598
+------------------------------------------------------
+Started: 2024-01-22 06:11:34.737440
+Existing_entries: 1011
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」金正恩真的計劃對韓國發動戰爭嗎](https://cn.nytimes.com/asia-pacific/20240122/north-korea-nuclear-war/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」拜登的承諾能兌現嗎？台灣民眾對美國疑慮與不安加劇](https://cn.nytimes.com/world/20240122/taiwan-united-states-views/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2024-01-22 06:11:35.894997
