@@ -58205,3 +58205,24 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [全球已知最大深海珊瑚礁現蹤 綿延近5百公里可追溯4萬4千年前](https://news.pts.org.tw/article/677472)
 append_entries: 5
 Finish: 2024-01-22 09:08:48.578158
+------------------------------------------------------
+Started: 2024-01-22 10:08:53.658927
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」德桑蒂斯退出美國總統競選，宣布支持川普](https://cn.nytimes.com/usa/20240122/desantis-drops-out/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2024-01-22 10:08:57.509323
