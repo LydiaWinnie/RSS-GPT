@@ -58389,3 +58389,12 @@ Append: [中部以北低溫不排除6度以下 陽明山、大屯山有機會降
 Append: [最強寒流農林漁牧嚴防寒害 清境農場綿羊穿保暖衣](https://news.pts.org.tw/article/677589)
 append_entries: 15
 Finish: 2024-01-22 15:09:00.129861
+------------------------------------------------------
+Started: 2024-01-22 16:09:59.695310
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-22 16:10:01.533704
