@@ -58728,3 +58728,24 @@ Append: [全台多處降雪 交管與直播資訊一次看](https://news.pts.org
 Append: [德國更新氫能策略，邁向氫能大未來！【獨立特派員】](https://news.pts.org.tw/article/677632)
 append_entries: 17
 Finish: 2024-01-23 06:11:07.308845
+------------------------------------------------------
+Started: 2024-01-23 07:08:12.681690
+Existing_entries: 1017
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國最高法院允許聯邦邊境巡邏隊拆除得州安裝的鐵絲網](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%85%81%E8%A8%B1%E8%81%AF%E9%82%A6%E9%82%8A%E5%A2%83%E5%B7%A1%E9%82%8F%E9%9A%8A%E6%8B%86%E9%99%A4%E5%BE%97%E5%B7%9E%E5%AE%89%E8%A3%9D%E7%9A%84%E9%90%B5%E7%B5%B2%E7%B6%B2-61528df8)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2024-01-23 07:08:14.350649
