@@ -58995,3 +58995,80 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-23 14:07:47.852634
+------------------------------------------------------
+Started: 2024-01-23 15:08:07.222447
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台美合作分析台海局勢 過半專家認中共5年內無力犯台](https://news.pts.org.tw/article/677782)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [內閣看守期不推重大教育政策 潘文忠：已上路措施會正常進行](https://news.pts.org.tw/article/677766)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [揪出小於2公分早期胰臟癌 台大首創AI診斷輔助系統](https://news.pts.org.tw/article/677767)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [宜蘭公車撞民宅5傷 司機稱恍神釀禍](https://news.pts.org.tw/article/677770)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [鎖定葉門青年運動8據點 美英聯手展開夜間空襲](https://news.pts.org.tw/article/677772)
+Append: [高架電纜線垂落軌道 日3條新幹線全面停駛搶修](https://news.pts.org.tw/article/677773)
+Append: [極地寒流籠罩日韓 首爾體感-20℃、日災區降大雪](https://news.pts.org.tw/article/677775)
+Append: [取水口河道爭議恐掀搶水大戰 水利署將找高屏兩縣市協調](https://news.pts.org.tw/article/677779)
+Append: [陳耀祥宣布不續任NCC主委 7月任期屆滿後返北大任教](https://news.pts.org.tw/article/677784)
+Append: [防春節疫情攀高峰癱瘓急診 疾管署獎勵醫院開特別門診](https://news.pts.org.tw/article/677786)
+Append: [擺脫獨居狹小圍欄 墨西哥長頸鹿展開搬家之旅](https://news.pts.org.tw/article/677771)
+Append: [台鐵車身彩繪「像血跡」 西拉雅族人：非傳統圖紋](https://news.pts.org.tw/article/677780)
+Append: [吐瓦魯重申與台邦交穩固 涉外人士：斷交傳聞來自諾魯](https://news.pts.org.tw/article/677783)
+append_entries: 13
+Finish: 2024-01-23 15:08:08.635904
