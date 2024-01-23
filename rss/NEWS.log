@@ -58884,3 +58884,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [同仁國小棒球隊，如何在逆境中擊出生命的全壘打？【獨立特派員】](https://news.pts.org.tw/article/677701)
 append_entries: 2
 Finish: 2024-01-23 10:08:38.869790
+------------------------------------------------------
+Started: 2024-01-23 11:06:50.594609
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-23 11:06:52.137706
