@@ -58638,3 +58638,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [馬祖壁山罕見下雪 北市桃竹今8國小停課](https://news.pts.org.tw/article/677616)
 append_entries: 5
 Finish: 2024-01-23 04:10:15.552711
+------------------------------------------------------
+Started: 2024-01-23 05:07:56.351873
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-23 05:07:58.194180
