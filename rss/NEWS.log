@@ -58647,3 +58647,84 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-23 05:07:58.194180
+------------------------------------------------------
+Started: 2024-01-23 06:11:05.823811
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [加拿大移民政策大調整，學生簽證將受限制](https://cn.wsj.com/articles/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%A7%BB%E6%B0%91%E6%94%BF%E7%AD%96%E5%A4%A7%E8%AA%BF%E6%95%B4-%E5%AD%B8%E7%94%9F%E7%B0%BD%E8%AD%89%E5%B0%87%E5%8F%97%E9%99%90%E5%88%B6-28d5a0b8)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」德桑蒂斯怪異、尷尬的微笑](https://cn.nytimes.com/opinion/20240123/ron-desantis-campaign/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [身障冒險家輪椅滑雪333公里 為脊髓損傷治療募款](https://news.pts.org.tw/article/677641)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [旅行不便險是否理賠長榮罷工？ 專家：宣布罷工後購買恐不賠](https://news.pts.org.tw/article/677652)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [花蓮農改場新品「花蓮26號」 耐煮彈牙為燉飯烹調而生](https://news.pts.org.tw/article/677645)
+Append: [十大「性與情感教育新聞」 未婚族婚育困境排第1](https://news.pts.org.tw/article/677648)
+Append: [國光、葛瑪蘭往返宜花客運 載客量不足長期虧損3/1停駛](https://news.pts.org.tw/article/677642)
+Append: [北市70歲長者疑未走斑馬線 遭機車撞上送醫不治](https://news.pts.org.tw/article/677656)
+Append: [國民黨拋5點國會改革 盼總統赴立院國情報告列常態](https://news.pts.org.tw/article/677654)
+Append: [新疆烏什縣今凌晨7.1強震 傳零星災情已知3傷](https://news.pts.org.tw/article/677660)
+Append: [太平山積雪達3公分厚 思源埡口限雪鏈車輛通行](https://news.pts.org.tw/article/677665)
+Append: [桃園復興拉拉山上巴陵降雪 新竹尖石下雪道路封閉](https://news.pts.org.tw/article/677664)
+Append: [男醉倒車棚警憂失溫送醫 3天241件OHCA案原因待查](https://news.pts.org.tw/article/677663)
+Append: [陽明山二子坪今晨降雪 民眾漏夜上山追雪](https://news.pts.org.tw/article/677666)
+Append: [21縣市低溫橙色警報 烏來、三峽山區皆降雪](https://news.pts.org.tw/article/677667)
+Append: [全台多處降雪 交管與直播資訊一次看](https://news.pts.org.tw/article/677633)
+Append: [德國更新氫能策略，邁向氫能大未來！【獨立特派員】](https://news.pts.org.tw/article/677632)
+append_entries: 17
+Finish: 2024-01-23 06:11:07.308845
