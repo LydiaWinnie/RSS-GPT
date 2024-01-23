@@ -59072,3 +59072,12 @@ Append: [台鐵車身彩繪「像血跡」 西拉雅族人：非傳統圖紋](ht
 Append: [吐瓦魯重申與台邦交穩固 涉外人士：斷交傳聞來自諾魯](https://news.pts.org.tw/article/677783)
 append_entries: 13
 Finish: 2024-01-23 15:08:08.635904
+------------------------------------------------------
+Started: 2024-01-23 16:10:04.190923
+Existing_entries: 1013
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-23 16:10:12.019481
