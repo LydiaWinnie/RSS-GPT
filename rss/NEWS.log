@@ -59420,3 +59420,24 @@ Append: [19縣市續發低溫燈號 玉山、合歡山積雪猶存](https://news
 Append: [遭控洗腎濾材逾期未換 新北診所稱按正常作業更換](https://news.pts.org.tw/article/677848)
 append_entries: 14
 Finish: 2024-01-24 06:11:20.447839
+------------------------------------------------------
+Started: 2024-01-24 07:07:41.206527
+Existing_entries: 1014
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」台灣著名民主活動家施明德去世，畢生投身於反抗運動](https://cn.nytimes.com/obits/20240124/shih-ming-teh-dead/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2024-01-24 07:07:44.988696
