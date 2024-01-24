@@ -59621,3 +59621,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2024-01-24 12:14:53.178236
+------------------------------------------------------
+Started: 2024-01-24 13:11:25.228550
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北韓隔10日再射巡弋飛彈 外界憂「為開戰做準備」](https://news.pts.org.tw/article/677984)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [防車牌出現不雅諧音聯想 公路局列11代碼邀民眾票選](https://news.pts.org.tw/article/677987)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台日草莓農藥殘留標準不同步 農業署預告修正容許量](https://news.pts.org.tw/article/677989)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [得票未達1成拿不回保證金 蔣月惠控計算方式不合理](https://news.pts.org.tw/article/677990)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [長榮勞資為罷工再度協商 僅部分福利制度取得共識](https://news.pts.org.tw/article/677991)
+Append: [反修法延役核電廠 環團：台灣地震多不適合](https://news.pts.org.tw/article/677993)
+Append: [藍委拋修法為核電廠延役解套 侯友宜：能源轉型是國際趨勢](https://news.pts.org.tw/article/677994)
+Append: [國民黨拍板韓江配選立院龍頭 民眾黨否認分裂投票](https://news.pts.org.tw/article/677995)
+Append: [合歡山積雪10公分創入冬最多 氣象署估25日白天起回溫](https://news.pts.org.tw/article/677997)
+Append: [義大利推雙語教育 正體中文成熱門選項之一](https://news.pts.org.tw/article/677979)
+Append: [三立入股中嘉踩媒體壟斷紅線 12系統業者遭NCC開罰1440萬](https://news.pts.org.tw/article/677977)
+Append: [2山友登品田山迷途失溫獲救 專家：雪季不建議入山](https://news.pts.org.tw/article/677998)
+Append: [公托戴口罩釀11月嬰窒息喪命 疾管署：已無強制要求](https://news.pts.org.tw/article/677999)
+Append: [德簽備忘錄擴大投資越南 學者：減低對中國依賴](https://news.pts.org.tw/article/677927)
+Append: [祕魯總統遇襲扯胸口衣物 維安警察首長因疏失遭撤換](https://news.pts.org.tw/article/677929)
+append_entries: 15
+Finish: 2024-01-24 13:11:26.365134
