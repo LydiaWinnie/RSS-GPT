@@ -59558,3 +59558,24 @@ Append: [高雄男拒繳18萬酒測罰單 房屋遭查封急現身繳錢](https:
 Append: [高鐵台南站臨停限5分鐘 科技執法2/23上路](https://news.pts.org.tw/article/677858)
 append_entries: 8
 Finish: 2024-01-24 09:08:24.081437
+------------------------------------------------------
+Started: 2024-01-24 10:08:47.011641
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」川普贏得新罕布什爾州初選，距總統提名更近一步](https://cn.nytimes.com/usa/20240124/trump-win-new-hampshire-haley/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2024-01-24 10:08:50.877324
