@@ -58440,3 +58440,80 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2024-01-24 00:38:08.816065
+------------------------------------------------------
+Started: 2024-01-24 01:53:33.311119
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [番位之争，逼“疯”了谁？](https://www.36kr.com/p/2617371885475969)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [被透支的“仙剑”情怀](https://www.36kr.com/p/2617295687587969)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2023，电影人离开眼泪](https://www.36kr.com/p/2617190701554057)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [《要久久爱》《翻译官》连播，2024现偶能否“逆风翻盘”？](https://www.36kr.com/p/2617342717204616)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [“扎导”奈飞重新起步，但好像只赢了一半](https://www.36kr.com/p/2617192155175040)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Append: [又一批列车变高铁，可我有点怀念绿皮火车](https://www.36kr.com/p/2617881384737158)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Append: [消灭“幻觉”，谷歌全新ASPIRE方法让LLM给自己打分，效果碾压10x体量模型](https://www.36kr.com/p/2617393090402689)
+Append: [LLM会写代码≠推理+规划，AAAI主席揭秘：代码数据质量太高](https://www.36kr.com/p/2617392877213833)
+Append: [清华博士李一舟，AI搞钱第一人](https://www.36kr.com/p/2617190834116741)
+Append: [1分钟复刻明星语音，这家AI创企开年跻身独角兽](https://www.36kr.com/p/2617395218930051)
+Append: [字节推出最新偷懒大法，AI绘画连prompt都不用学了](https://www.36kr.com/p/2617347270334599)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 11
+Finish: 2024-01-24 01:53:43.489383
