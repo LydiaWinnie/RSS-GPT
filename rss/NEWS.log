@@ -59441,3 +59441,48 @@ Append: [「中英」台灣著名民主活動家施明德去世，畢生投身�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2024-01-24 07:07:44.988696
+------------------------------------------------------
+Started: 2024-01-24 08:10:46.758869
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [特朗普贏得新罕布什爾州共和黨初選，但也有不利於11月大選的信號](https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%8F%E5%BE%97%E6%96%B0%E7%BD%95%E5%B8%83%E4%BB%80%E7%88%BE%E5%B7%9E%E5%88%9D%E9%81%B8-%E4%BD%86%E4%B9%9F%E6%9C%89%E4%B8%8D%E5%88%A9%E6%96%BC11%E6%9C%88%E5%A4%A7%E9%81%B8%E7%9A%84%E4%BF%A1%E8%99%9F-e7f9a8bf)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [拜登：預計將與特朗普再次對決](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB-%E9%A0%90%E8%A8%88%E5%B0%87%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E5%B0%8D%E6%B1%BA-a47d2cd8)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [官員稱伊朗提供軍事技術和顧問協助胡塞武裝在紅海發動襲擊](https://cn.wsj.com/articles/%E5%AE%98%E5%93%A1%E7%A8%B1%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B%E8%BB%8D%E4%BA%8B%E6%8A%80%E8%A1%93%E5%92%8C%E9%A1%A7%E5%95%8F%E5%8D%94%E5%8A%A9%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%9C%A8%E7%B4%85%E6%B5%B7%E7%99%BC%E5%8B%95%E8%A5%B2%E6%93%8A-598c9b4e)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 3
+Finish: 2024-01-24 08:10:50.824059
