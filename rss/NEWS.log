@@ -59342,3 +59342,81 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2024-01-24 05:08:14.664037
+------------------------------------------------------
+Started: 2024-01-24 06:11:19.004922
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中經院估2024經濟成長率3.1% 學者提醒：整體變數仍多](https://news.pts.org.tw/article/677844)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [土耳其國會通過 批准瑞典加入北約申請](https://news.pts.org.tw/article/677852)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台東巴拉雅拜部落擬養狗公約 須鐵鍊、嘴套約束防狗傷人](https://news.pts.org.tw/article/677841)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [西伯利亞候鳥灰鶴首現蹤花蓮 疑似迷路飛來台灣](https://news.pts.org.tw/article/677846)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「末日鐘」距午夜僅剩90秒 科學家：核武、戰爭及氣候變遷](https://news.pts.org.tw/article/677851)
+Append: [台塑六輕基礎煉油廠製程漏油 起火冒煙無人員受傷](https://news.pts.org.tw/article/677850)
+Append: [部分食品包裝驗出PFAS 威脅生態健康環團籲全面列管](https://news.pts.org.tw/article/677849)
+Append: [選後首批美國會訪團抵台 25日將拜會蔡英文、賴清德](https://news.pts.org.tw/article/677855)
+Append: [醫籲熱敷墊保暖勿超過45°C 溫度感覺較遲鈍族群禁用](https://news.pts.org.tw/article/677862)
+Append: [北市國小競技國手遭控霸凌同學 調查期間當選模範生](https://news.pts.org.tw/article/677860)
+Append: [來自1萬年前的口香糖 DNA分析史前飲食與口腔疾病](https://news.pts.org.tw/article/677864)
+Append: [初四初五北上車潮多 蘇花改首試辦小客車高乘載](https://news.pts.org.tw/article/677859)
+Append: [19縣市續發低溫燈號 玉山、合歡山積雪猶存](https://news.pts.org.tw/article/677863)
+Append: [遭控洗腎濾材逾期未換 新北診所稱按正常作業更換](https://news.pts.org.tw/article/677848)
+append_entries: 14
+Finish: 2024-01-24 06:11:20.447839
