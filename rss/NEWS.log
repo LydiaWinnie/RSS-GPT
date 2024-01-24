@@ -59700,3 +59700,12 @@ Append: [德簽備忘錄擴大投資越南 學者：減低對中國依賴](https
 Append: [祕魯總統遇襲扯胸口衣物 維安警察首長因疏失遭撤換](https://news.pts.org.tw/article/677929)
 append_entries: 15
 Finish: 2024-01-24 13:11:26.365134
+------------------------------------------------------
+Started: 2024-01-24 14:08:00.325374
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-24 14:08:01.647708
