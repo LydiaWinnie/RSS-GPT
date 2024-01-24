@@ -58760,3 +58760,50 @@ Append: [靠家长里短爆红的视频号博主，百万流量源自何方](htt
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2024-01-24 10:08:56.272922
+------------------------------------------------------
+Started: 2024-01-24 11:07:07.362557
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [麻省理工新研究：从经济性角度考虑，AI替代人工目前还不具吸引力](https://www.36kr.com/p/2618409816711048)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [烧钱的大模型，难救猎豹移动](https://www.36kr.com/p/2618401509267588)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [AI技术重塑短视频市场的八大趋势](https://www.36kr.com/p/2618342318332032)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 3
+Finish: 2024-01-24 11:07:10.692614
