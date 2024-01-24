@@ -59264,3 +59264,48 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [寒流最冷時間點已過 北市桃園新竹台中多校今停課](https://news.pts.org.tw/article/677819)
 append_entries: 4
 Finish: 2024-01-24 03:08:48.702462
+------------------------------------------------------
+Started: 2024-01-24 04:10:09.125435
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」馬雲、蔡崇信增持阿里股份](https://cn.nytimes.com/business/20240124/jack-ma-alibaba-shares/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」中國疑叫停網遊消費管控計劃，騰訊網易股價攀升](https://cn.nytimes.com/business/20240124/china-online-video-games/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [謝淑薇澳網一日兩戰 女雙先告捷挺進4強](https://news.pts.org.tw/article/677834)
+append_entries: 3
+Finish: 2024-01-24 04:10:10.838557
