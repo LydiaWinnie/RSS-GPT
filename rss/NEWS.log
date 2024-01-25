@@ -60037,3 +60037,83 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2024-01-25 06:10:56.514584
+------------------------------------------------------
+Started: 2024-01-25 07:07:37.233650
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」川普勢頭大好？不，兩場初選暴露了他的弱點](https://cn.nytimes.com/usa/20240125/trump-independent-voters/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [教師工會連署改善廚工薪資 宜縣府：會向中央反映](https://news.pts.org.tw/article/678068)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [寒流發威漁塭零星凍斃災情 農業部：延遲性寒害仍需觀察](https://news.pts.org.tw/article/678070)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台北電玩展南港展覽館登場 377業者、逾300款遊戲展出](https://news.pts.org.tw/article/678057)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [非銀行融資利息高 民團籲政院修《融資公司法》](https://news.pts.org.tw/article/678067)
+Append: [美眾院台灣連線共同主席訪台 拜會蔡英文、賴清德並表支持](https://news.pts.org.tw/article/678066)
+Append: [罷工勞資協商僅部分達共識 長榮航：薪資結構已調](https://news.pts.org.tw/article/678069)
+Append: [台中市擬擴大娃娃機設置禁令 機台須距中小學100公尺以上](https://news.pts.org.tw/article/678058)
+Append: [台中環保局成立「家電診所」 每件酌收50元工本費](https://news.pts.org.tw/article/678056)
+Append: [台東卑南小貨車駕駛酒駕釀死 未成年兒子疑試圖為父頂罪](https://news.pts.org.tw/article/678054)
+Append: [新北割頸案校安引議 專家籲重新審視《少事法》](https://news.pts.org.tw/article/678059)
+Append: [美阿州將首以氮氣處決死刑犯 停止執行聲請遭駁回](https://news.pts.org.tw/article/678063)
+Append: [國人赴中屢傳被失蹤或騷擾 UN審查人權我民團批中說謊](https://news.pts.org.tw/article/678060)
+Append: [環團串聯反核電延役 批政治凌駕專業](https://news.pts.org.tw/article/678061)
+Append: [立院爭龍頭游錫堃自信連任 民眾黨駁分裂投票說](https://news.pts.org.tw/article/678062)
+Append: [寒流稍減弱清晨最低溫8.5°C 全台急凍逾百人送醫53死](https://news.pts.org.tw/article/678071)
+append_entries: 16
+Finish: 2024-01-25 07:07:38.466221
