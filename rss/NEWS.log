@@ -60270,3 +60270,83 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-25 12:14:24.456916
+------------------------------------------------------
+Started: 2024-01-25 13:11:11.784068
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」黑柳徹子：100歲的女人也能主持脫口秀](https://cn.nytimes.com/asia-pacific/20240125/tetsuko-kuroyanagi-japan-television/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [試管胚胎成功存活70天 復育瀕危北白犀牛露曙光](https://news.pts.org.tw/article/678188)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [抗議殖民入侵日成國慶日 澳洲原住民鋸庫克船長雕像](https://news.pts.org.tw/article/678189)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2退將當共諜二審仍獲緩刑 學者：難以起嚇阻作用](https://news.pts.org.tw/article/678193)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [詐團假冒貝萊德集團誆投資 81人上當損失1.8億](https://news.pts.org.tw/article/678195)
+Append: [台積電市值登全球前10大 專家看好品牌影響力成長空間](https://news.pts.org.tw/article/678196)
+Append: [機師工會公布罷工警戒區段 兩階段分別納春節、清明連假](https://news.pts.org.tw/article/678199)
+Append: [首批恢復1年義務役正式入伍 新訓從5週延長至8週](https://news.pts.org.tw/article/678200)
+Append: [「台灣連線」眾議員會賴蕭 美驅逐艦發聲證實通過台海](https://news.pts.org.tw/article/678201)
+Append: [駁吐瓦魯將於大選後外交轉向 我大使：斷交說為刻意操弄](https://news.pts.org.tw/article/678203)
+Append: [一家3口家中遇火警遭嗆昏 母子搶救不治、4歲女兒倖存](https://news.pts.org.tw/article/678204)
+Append: [北市稽查螺螄粉結果出爐 2餐飲和5網購產品違規](https://news.pts.org.tw/article/678198)
+Append: [嗆炸賴清德就職地與中選會 屏東男遭逮供稱一時衝動](https://news.pts.org.tw/article/678192)
+Append: [日本京阿尼36死縱火案宣判 兇嫌「心神沒喪失」判死](https://news.pts.org.tw/article/678191)
+Append: [割頸案身亡國三生告別式 家屬盼重判殺人與教唆者](https://news.pts.org.tw/article/678205)
+Append: [蒙古油罐車二度爆炸釀6死 3消防員救災閃避不及殉職](https://news.pts.org.tw/article/678143)
+append_entries: 16
+Finish: 2024-01-25 13:11:12.686062
