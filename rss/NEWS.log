@@ -60016,3 +60016,24 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [解封後日本遊客增加101倍 大阪環球影城來台徵才](https://news.pts.org.tw/article/678042)
 append_entries: 2
 Finish: 2024-01-25 05:08:14.757268
+------------------------------------------------------
+Started: 2024-01-25 06:10:55.489784
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以色列沿加沙邊境打造緩衝區，面臨與美國產生新嫌隙的風險](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E6%B2%BF%E5%8A%A0%E6%B2%99%E9%82%8A%E5%A2%83%E6%89%93%E9%80%A0%E7%B7%A9%E8%A1%9D%E5%8D%80-%E9%9D%A2%E8%87%A8%E8%88%87%E7%BE%8E%E5%9C%8B%E7%94%A2%E7%94%9F%E6%96%B0%E5%AB%8C%E9%9A%99%E7%9A%84%E9%A2%A8%E9%9A%AA-e18d65a2)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2024-01-25 06:10:56.514584
