@@ -60350,3 +60350,12 @@ Append: [割頸案身亡國三生告別式 家屬盼重判殺人與教唆者](ht
 Append: [蒙古油罐車二度爆炸釀6死 3消防員救災閃避不及殉職](https://news.pts.org.tw/article/678143)
 append_entries: 16
 Finish: 2024-01-25 13:11:12.686062
+------------------------------------------------------
+Started: 2024-01-25 14:07:52.323151
+Existing_entries: 1016
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-25 14:07:53.880204
