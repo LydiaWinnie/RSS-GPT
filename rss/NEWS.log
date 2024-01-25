@@ -60207,3 +60207,24 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [美飛彈驅逐艦昨穿越台海 台灣聯勇操演強化戰備](https://news.pts.org.tw/article/678065)
 append_entries: 5
 Finish: 2024-01-25 09:08:19.135707
+------------------------------------------------------
+Started: 2024-01-25 10:08:35.275566
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [日航起火客機上367名乘客是如何在幾分鐘內死裡逃生的？](https://cn.wsj.com/articles/%E6%97%A5%E8%88%AA%E8%B5%B7%E7%81%AB%E5%AE%A2%E6%A9%9F%E4%B8%8A367%E5%90%8D%E4%B9%98%E5%AE%A2%E6%98%AF%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B9%BE%E5%88%86%E9%90%98%E5%85%A7%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F%E7%9A%84-291b7d9d)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2024-01-25 10:08:36.616593

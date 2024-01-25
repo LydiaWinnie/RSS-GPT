@@ -59391,3 +59391,81 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2024-01-25 09:08:34.537014
+------------------------------------------------------
+Started: 2024-01-25 10:08:40.016040
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [一家「闻过想辞职的香水店」今天来北京了](https://www.36kr.com/p/2575736479589762)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [这是大牌护肤品店里，你唯一能免费拿走的东西](https://www.36kr.com/p/2581672299914633)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [多巴胺女孩已过时，时髦精只爱「格雷系」](https://www.36kr.com/p/2605610620812163)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [离开北京，回哈尔滨卖冻梨咖啡的他，好快乐](https://www.36kr.com/p/2618265172269193)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [正经美国人，谁去安徽乡下开披萨店啊？](https://www.36kr.com/p/2618272323033217)
+Append: [骨灰盒也能潮？他的设计让我爸成为「殡仪馆最靓的仔」](https://www.36kr.com/p/2618284164897155)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Append: [一句话让小姐姐为我换了N套衣服，谷歌卷出视频生成新高度，网友：竞赛加码](https://www.36kr.com/p/2619852690561411)
+Append: [代码屎山噩梦加速来袭，都是AI生成代码的锅？](https://www.36kr.com/p/2619854910953858)
+Append: [AI原生应用哄哄模拟器爆火，24小时吸引60万用户｜产品观察](https://www.36kr.com/p/2619746660505735)
+Append: [谷歌 Chrome 浏览器宣布引入 3 大生成式 AI 能力，浏览器 AI 革命开始了？](https://www.36kr.com/p/2619631105351813)
+Append: [元宇宙又要火了？工信部召集华为、腾讯、百度起草元宇宙标准](https://www.36kr.com/p/2618552606023557)
+Append: [AI企业盈利难，2024年怎么破局？](https://www.36kr.com/p/2619760294715268)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 12
+Finish: 2024-01-25 10:08:52.451371
