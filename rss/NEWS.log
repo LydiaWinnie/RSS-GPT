@@ -60380,3 +60380,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [文化幣爆冒用、收購亂象 文化部：已停權違規業者](https://news.pts.org.tw/article/678187)
 append_entries: 1
 Finish: 2024-01-25 15:08:14.685009
+------------------------------------------------------
+Started: 2024-01-25 16:09:58.296704
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-25 16:09:59.208700
