@@ -60261,3 +60261,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [日 「災害支援型」販賣機漸增 使用有方忌強行破壞](https://news.pts.org.tw/article/678114)
 append_entries: 2
 Finish: 2024-01-25 11:07:05.125917
+------------------------------------------------------
+Started: 2024-01-25 12:14:23.521297
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-25 12:14:24.456916
