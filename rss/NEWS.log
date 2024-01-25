@@ -59932,3 +59932,12 @@ Append: [媒體持股案判決出爐 泰前進黨皮塔保住眾議員資格](ht
 Append: [花蓮新城鄉民宅大火 2童身亡、2大人送醫急救](https://news.pts.org.tw/article/678028)
 append_entries: 7
 Finish: 2024-01-25 01:54:07.498826
+------------------------------------------------------
+Started: 2024-01-25 02:25:40.417507
+Existing_entries: 1007
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-25 02:25:41.808551
