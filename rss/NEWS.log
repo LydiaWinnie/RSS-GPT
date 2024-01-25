@@ -59861,3 +59861,74 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2024-01-25 00:37:57.831742
+------------------------------------------------------
+Started: 2024-01-25 01:54:06.464012
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國懸賞1,500萬美元徵集遭指控的伊朗無人機中間商的線索](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E6%87%B8%E8%B3%9E1-500%E8%90%AC%E7%BE%8E%E5%85%83%E5%BE%B5%E9%9B%86%E9%81%AD%E6%8C%87%E6%8E%A7%E7%9A%84%E4%BC%8A%E6%9C%97%E7%84%A1%E4%BA%BA%E6%A9%9F%E4%B8%AD%E9%96%93%E5%95%86%E7%9A%84%E7%B7%9A%E7%B4%A2-53899658)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [拜登獲得重要工會UAW的支持](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E7%8D%B2%E5%BE%97%E5%AF%86%E6%AD%87%E6%A0%B9%E5%B7%9E%E9%87%8D%E8%A6%81%E5%B7%A5%E6%9C%83uaw%E7%9A%84%E6%94%AF%E6%8C%81-7ad78f1e)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以色列軍隊包圍汗尤尼斯，準備迎接殘酷巷戰](https://cn.wsj.com/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E8%BB%8D%E9%9A%8A%E5%8C%85%E5%9C%8D%E6%B1%97%E5%B0%A4%E5%B0%BC%E6%96%AF-%E6%BA%96%E5%82%99%E8%BF%8E%E6%8E%A5%E6%AE%98%E9%85%B7%E5%B7%B7%E6%88%B0-c44ec349)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [國1南向平鎮昨晚2起車禍 7車受損釀9傷](https://news.pts.org.tw/article/678011)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [俄烏戰爭／俄運輸機遇襲墜毀74死 載有65烏克蘭戰俘](https://news.pts.org.tw/article/678016)
+Append: [媒體持股案判決出爐 泰前進黨皮塔保住眾議員資格](https://news.pts.org.tw/article/678017)
+Append: [花蓮新城鄉民宅大火 2童身亡、2大人送醫急救](https://news.pts.org.tw/article/678028)
+append_entries: 7
+Finish: 2024-01-25 01:54:07.498826
