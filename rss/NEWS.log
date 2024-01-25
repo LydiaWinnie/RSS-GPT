@@ -59828,3 +59828,36 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-24 23:07:49.670059
+------------------------------------------------------
+Started: 2024-01-25 00:37:55.700936
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [加拿大幹預選舉調查委員會點名印度](https://cn.wsj.com/articles/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B9%B9%E9%A0%90%E9%81%B8%E8%88%89%E8%AA%BF%E6%9F%A5%E5%A7%94%E5%93%A1%E6%9C%83%E9%BB%9E%E5%90%8D%E5%8D%B0%E5%BA%A6-46201df3)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [俄羅斯軍用飛機在烏克蘭邊境附近墜毀，機上74人喪生](https://cn.wsj.com/articles/%E4%BF%84%E7%BE%85%E6%96%AF%E8%BB%8D%E7%94%A8%E9%A3%9B%E6%A9%9F%E5%9C%A8%E7%83%8F%E5%85%8B%E8%98%AD%E9%82%8A%E5%A2%83%E9%99%84%E8%BF%91%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A74%E4%BA%BA%E5%96%AA%E7%94%9F-ab8c98e2)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2024-01-25 00:37:57.831742
