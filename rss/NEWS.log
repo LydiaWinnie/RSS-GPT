@@ -60968,3 +60968,12 @@ Append: [日本人熊衝突日增 專家用3法寶助和平共存](https://news.
 Append: [日本SLIM成功軟著陸 未來1個月為計畫成功關鍵](https://news.pts.org.tw/article/678282)
 append_entries: 10
 Finish: 2024-01-26 10:08:00.555351
+------------------------------------------------------
+Started: 2024-01-26 11:06:09.953690
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-26 11:06:11.255139
