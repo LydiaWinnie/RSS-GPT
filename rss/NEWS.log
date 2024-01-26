@@ -60894,3 +60894,77 @@ Append: [「中英」中國股市螺旋式下滑，日股表現強勁引發關�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2024-01-26 09:08:58.772128
+------------------------------------------------------
+Started: 2024-01-26 10:07:59.244950
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [俄羅斯法院延長《華爾街日報》記者格什科維奇的拘留期限](https://cn.wsj.com/articles/%E4%BF%84%E7%BE%85%E6%96%AF%E6%B3%95%E9%99%A2%E5%BB%B6%E9%95%B7-%E8%8F%AF%E7%88%BE%E8%A1%97%E6%97%A5%E5%A0%B1-%E8%A8%98%E8%80%85%E6%A0%BC%E4%BB%80%E7%A7%91%E7%B6%AD%E5%A5%87%E7%9A%84%E6%8B%98%E7%95%99%E6%9C%9F%E9%99%90-b114dce1)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [AI假訊息公然介選成民主災難 WEF列全球最大風險](https://news.pts.org.tw/article/678284)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [澳洲黃金護照制度喊卡 加拿大留學簽證砍35%](https://news.pts.org.tw/article/678286)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [阿根廷消滅病媒蚊 利用放射線進行絕育](https://news.pts.org.tw/article/678287)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [至今逾2千人輕生 美金門大橋搭建防護網](https://news.pts.org.tw/article/678288)
+Append: [英創辦人因兒感同身受 開巧克力廠助自閉症就業](https://news.pts.org.tw/article/678289)
+Append: [經濟環境變動大年輕人不敢生 中國人口紅利流失](https://news.pts.org.tw/article/678285)
+Append: [日本天災頻仍 各地規劃多用途避難所](https://news.pts.org.tw/article/678290)
+Append: [日本人熊衝突日增 專家用3法寶助和平共存](https://news.pts.org.tw/article/678291)
+Append: [日本SLIM成功軟著陸 未來1個月為計畫成功關鍵](https://news.pts.org.tw/article/678282)
+append_entries: 10
+Finish: 2024-01-26 10:08:00.555351
