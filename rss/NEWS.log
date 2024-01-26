@@ -61040,3 +61040,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-26 14:07:12.417617
+------------------------------------------------------
+Started: 2024-01-26 15:07:51.336394
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [新制各級醫院三班護病比 護理人力缺口7500名](https://news.pts.org.tw/article/678407)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [賴清德展開謝票之旅 允促成台積電落腳嘉縣](https://news.pts.org.tw/article/678410)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [勞動部春安北中南展開檢查 捷運鋼鐵廠化工廠查多項缺失](https://news.pts.org.tw/article/678413)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中頻繁擾台偵獲4空飄氣球 美重申遵守《台灣關係法》](https://news.pts.org.tw/article/678411)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [破獲「假調解真騙房」詐欺案 藉調解取身分證偽造本票借據](https://news.pts.org.tw/article/678409)
+Append: [販毒獲利4百萬沒收不明現金 擴大利得沒收憲法法庭判合憲](https://news.pts.org.tw/article/678406)
+Append: [長榮航空機師醞釀罷工 旅客改機票避免受波及](https://news.pts.org.tw/article/678408)
+Append: [北巿整合逾4萬棟建物實價履歷 供查詢降低交易風險](https://news.pts.org.tw/article/678392)
+Append: [教育部擬修正《私校法》 捐款私校將可100%認列](https://news.pts.org.tw/article/678395)
+Append: [大馬大寶森節眾人擲椰祈願 華人共襄盛舉參與盼甩厄運](https://news.pts.org.tw/article/678397)
+Append: [2023年第4季特斯拉銷量 不敵中國電動車廠比亞迪](https://news.pts.org.tw/article/678398)
+Append: [電價漲、燃料補貼擬取消 法農民以拖拉機車封路抗議](https://news.pts.org.tw/article/678399)
+Append: [美國執行全球首例氮氣死刑 聯合國曾籲暫停](https://news.pts.org.tw/article/678401)
+Append: [新竹棒球場改善延宕 高虹安對廠商下通牒](https://news.pts.org.tw/article/678405)
+Append: [南投1歹徒持刀搶郵局並縱火 長者供嫌逃逸畫面助警緝兇](https://news.pts.org.tw/article/678414)
+append_entries: 15
+Finish: 2024-01-26 15:07:52.545660
