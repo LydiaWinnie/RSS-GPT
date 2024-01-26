@@ -60800,3 +60800,76 @@ Append: [衛福部公告三班護病比標準 編40億獎勵夜護仍缺7千餘�
 Append: [謝淑薇澳網混雙冠軍締佳績 週日再挑戰女雙金盃](https://news.pts.org.tw/article/678247)
 append_entries: 15
 Finish: 2024-01-26 07:06:51.636143
+------------------------------------------------------
+Started: 2024-01-26 08:09:43.233086
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [世界領導人為特朗普重返白宮做準備](https://cn.wsj.com/articles/%E4%B8%96%E7%95%8C%E9%A0%98%E5%B0%8E%E4%BA%BA%E7%82%BA%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E8%BF%94%E7%99%BD%E5%AE%AE%E5%81%9A%E6%BA%96%E5%82%99-399f804e)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國如何撞入了用晶片對付中國之路？](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%A6%82%E4%BD%95%E6%92%9E%E5%85%A5%E4%BA%86%E7%94%A8%E6%99%B6%E7%89%87%E5%B0%8D%E4%BB%98%E4%B8%AD%E5%9C%8B%E4%B9%8B%E8%B7%AF-26f46eeb)
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [北韓拉攏中俄金正恩動作頻 朝鮮半島局勢牽動全球穩定](https://news.pts.org.tw/article/678281)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [蘋果麥金塔電腦問世40年 圖像式操作介面影響深遠](https://news.pts.org.tw/article/678283)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [俄網紅店貓遭檢舉禁入店鋪 6千粉絲連署求「復職」](https://news.pts.org.tw/article/678292)
+Append: [紐約超級盃特展 帶球迷走入時光隧道](https://news.pts.org.tw/article/678293)
+Append: [義五星酒店收藏品媲美博物館 成立60週年開放大眾入內參觀](https://news.pts.org.tw/article/678294)
+Append: [王家衛首部電視劇《繁花》掀起學上海話熱潮](https://news.pts.org.tw/article/678295)
+Append: [台經院預測經濟成長率3.15% 半導體最快下半年全面復甦](https://news.pts.org.tw/article/678271)
+append_entries: 9
+Finish: 2024-01-26 08:09:45.953728
