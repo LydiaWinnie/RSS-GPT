@@ -61119,3 +61119,13 @@ Append: [新竹棒球場改善延宕 高虹安對廠商下通牒](https://news.p
 Append: [南投1歹徒持刀搶郵局並縱火 長者供嫌逃逸畫面助警緝兇](https://news.pts.org.tw/article/678414)
 append_entries: 15
 Finish: 2024-01-26 15:07:52.545660
+------------------------------------------------------
+Started: 2024-01-26 16:09:18.361009
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Feed error: 404
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-26 16:09:19.943058
