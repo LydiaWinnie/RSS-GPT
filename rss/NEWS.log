@@ -61392,3 +61392,12 @@ Append: [紅海危機再升溫 青年運動攻擊美軍艦、英油輪](https://
 Append: [33架次共機擾台選後單日最多 專家：欲造成國軍心理威脅](https://news.pts.org.tw/article/678439)
 append_entries: 9
 Finish: 2024-01-27 06:08:42.155667
+------------------------------------------------------
+Started: 2024-01-27 07:06:58.119664
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-27 07:06:59.371740
