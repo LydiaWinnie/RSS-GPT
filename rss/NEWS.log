@@ -61544,3 +61544,12 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-27 16:08:02.409588
+------------------------------------------------------
+Started: 2024-01-27 17:06:47.816195
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-27 17:06:48.733354
