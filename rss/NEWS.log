@@ -61310,3 +61310,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [國際法院令以國阻止種族滅絕 未要求立即停火](https://news.pts.org.tw/article/678418)
 append_entries: 1
 Finish: 2024-01-27 04:08:43.213935
+------------------------------------------------------
+Started: 2024-01-27 05:07:22.345932
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-27 05:07:24.023244
