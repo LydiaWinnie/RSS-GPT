@@ -61508,3 +61508,12 @@ Append: [黑幫涉吸收2中輟生教唆犯案 警逮9嫌2未成年裁定責付�
 Append: [吐瓦魯國會大選攸關台吐外交 學者：新總理極可能是友台派](https://news.pts.org.tw/article/678473)
 append_entries: 7
 Finish: 2024-01-27 12:11:16.397787
+------------------------------------------------------
+Started: 2024-01-27 13:06:50.542559
+Existing_entries: 1007
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-27 13:06:51.972632
