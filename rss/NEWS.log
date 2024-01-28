@@ -61807,3 +61807,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [一週大事／長榮罷工投票過關 謝淑薇澳網雙冠（2024.1.22-1.28）](https://news.pts.org.tw/article/678505)
 append_entries: 1
 Finish: 2024-01-28 11:05:06.900474
+------------------------------------------------------
+Started: 2024-01-28 12:11:27.459185
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-28 12:11:29.926555
