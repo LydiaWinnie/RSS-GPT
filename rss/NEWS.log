@@ -61888,3 +61888,12 @@ Append: [吐瓦魯傳收中國開價寫假報導 學者：不排除為認知作�
 Append: [藍綠立院選將拜會民眾黨前夕 黃國昌拋「單一召委制」新議題](https://news.pts.org.tw/article/678543)
 append_entries: 8
 Finish: 2024-01-28 13:08:06.197752
+------------------------------------------------------
+Started: 2024-01-28 14:06:01.469036
+Existing_entries: 1008
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-28 14:06:03.119576
