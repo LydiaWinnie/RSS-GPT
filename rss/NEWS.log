@@ -61685,3 +61685,77 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [酒駕肇逃找人頂罪 空軍少校及下屬送辦](https://news.pts.org.tw/article/678490)
 append_entries: 1
 Finish: 2024-01-28 06:08:45.200605
+------------------------------------------------------
+Started: 2024-01-28 07:07:33.924081
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [謝淑薇笑擁澳網女雙金盃 台網壇單屆大滿貫雙冠第1人](https://news.pts.org.tw/article/678503)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [氣溫回暖中南部上看30℃ 疾管署估本週疫情達高峰](https://news.pts.org.tw/article/678501)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [學者憂三接漂沙破壞藻礁生態 中油：自然現象與工程無關](https://news.pts.org.tw/article/678495)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [國際大屠殺紀念日緬懷受難者 全球地標點亮紫色燈光](https://news.pts.org.tw/article/678493)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台東猴群頻傳騷擾遊客 縣府籲私自餵食將開罰](https://news.pts.org.tw/article/678494)
+Append: [國道服務區移樹設光電板 高公局：會將傷害減到最低](https://news.pts.org.tw/article/678496)
+Append: [防中共無人機接近 油電基礎設施將購干擾槍反制](https://news.pts.org.tw/article/678497)
+Append: [擾民惡霸又犯案遭逮 里民發起連署盼檢方收押](https://news.pts.org.tw/article/678498)
+Append: [北市再生家具特賣會登場 民眾一早排隊搶購](https://news.pts.org.tw/article/678500)
+Append: [以哈戰爭／12職員參與哈瑪斯襲以行動 聯國難民機構遭美斷金援](https://news.pts.org.tw/article/678502)
+append_entries: 10
+Finish: 2024-01-28 07:07:35.278861
