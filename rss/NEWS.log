@@ -61759,3 +61759,12 @@ Append: [北市再生家具特賣會登場 民眾一早排隊搶購](https://new
 Append: [以哈戰爭／12職員參與哈瑪斯襲以行動 聯國難民機構遭美斷金援](https://news.pts.org.tw/article/678502)
 append_entries: 10
 Finish: 2024-01-28 07:07:35.278861
+------------------------------------------------------
+Started: 2024-01-28 08:09:44.815435
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-28 08:09:45.915013
