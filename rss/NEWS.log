@@ -62295,3 +62295,60 @@ Append: [「中英」香港法院向恆大發出清盤令](https://cn.nytimes.co
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2024-01-29 08:10:03.058968
+------------------------------------------------------
+Started: 2024-01-29 09:08:05.843245
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國的保護主義傾向讓歐洲盟友大為光火](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E7%9A%84%E4%BF%9D%E8%AD%B7%E4%B8%BB%E7%BE%A9%E5%82%BE%E5%90%91%E8%AE%93%E6%AD%90%E6%B4%B2%E7%9B%9F%E5%8F%8B%E5%A4%A7%E7%82%BA%E5%85%89%E7%81%AB-0471aa6a)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [羽田機場撞機事故究竟歸咎於誰？](https://cn.wsj.com/articles/%E7%BE%BD%E7%94%B0%E6%A9%9F%E5%A0%B4%E6%92%9E%E6%A9%9F%E4%BA%8B%E6%95%85%E7%A9%B6%E7%AB%9F%E6%AD%B8%E5%92%8E%E6%96%BC%E8%AA%B0-2795af10)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [華航貨機疑刷新世界紀錄 氣流助攻飆出1332公里時速](https://news.pts.org.tw/article/678646)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [英青少年吸電子菸比例攀升 擬推一次性電子菸禁令](https://news.pts.org.tw/article/678645)
+append_entries: 4
+Finish: 2024-01-29 09:08:10.668812
