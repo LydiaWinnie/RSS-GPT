@@ -62524,3 +62524,12 @@ Append: [創刊35年《巧連智》喊停訂閱 200員工將分批解僱](https:
 Append: [郵差提告討回9.3萬勞退撥補 郵政工會：持續協助會員追討](https://news.pts.org.tw/article/678732)
 append_entries: 15
 Finish: 2024-01-29 15:07:32.556074
+------------------------------------------------------
+Started: 2024-01-29 16:08:48.541878
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-29 16:08:49.767272
