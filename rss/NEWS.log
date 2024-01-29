@@ -62445,3 +62445,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-29 14:07:13.235363
+------------------------------------------------------
+Started: 2024-01-29 15:07:30.771063
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [烏克蘭爆12億軍購弊案 澤倫斯基揭所得秀掃貪決心](https://news.pts.org.tw/article/678725)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈開戰後首傳3美軍喪命 伊朗官方否認與攻擊事件有關](https://news.pts.org.tw/article/678726)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [巨型浮球現澎湖藏中國sim卡 學者分析指情蒐台海水文資料](https://news.pts.org.tw/article/678740)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台灣首度參與登月計畫 深太空輻射探測儀最快今年升空](https://news.pts.org.tw/article/678729)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [暫緩春節依法休假行動 台鐵工會：憂損及民眾信任](https://news.pts.org.tw/article/678733)
+Append: [台南購屋壓力加重登全台第一 5年內增加2.56倍](https://news.pts.org.tw/article/678734)
+Append: [拿門簾勒斃61歲父 男到案供稱不滿長期酗酒](https://news.pts.org.tw/article/678735)
+Append: [父不堪長照壓力勒死自閉兒 法院認情堪憫恕判4年定讞](https://news.pts.org.tw/article/678736)
+Append: [緩撞車國道遇擦撞失控 墜9米邊坡釀1死1傷](https://news.pts.org.tw/article/678738)
+Append: [政院公布2024性別圖像 男獲育嬰津貼比例增、同婚女多於男](https://news.pts.org.tw/article/678742)
+Append: [「2024年性別圖像」出爐 男性育嬰留停比例創新高](https://news.pts.org.tw/article/678730)
+Append: [太平島碼頭整修竣工 綠委盼蔡英文卸任前登島秀主權](https://news.pts.org.tw/article/678739)
+Append: [民眾黨握立院龍頭戰關鍵少數 藍綠拜會聚焦國會改革](https://news.pts.org.tw/article/678741)
+Append: [創刊35年《巧連智》喊停訂閱 200員工將分批解僱](https://news.pts.org.tw/article/678731)
+Append: [郵差提告討回9.3萬勞退撥補 郵政工會：持續協助會員追討](https://news.pts.org.tw/article/678732)
+append_entries: 15
+Finish: 2024-01-29 15:07:32.556074
