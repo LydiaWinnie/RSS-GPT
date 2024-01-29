@@ -62018,3 +62018,73 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-29 02:14:29.118017
+------------------------------------------------------
+Started: 2024-01-29 03:08:06.120318
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [渴望經濟政績的拜登料將宣布先進製程晶片巨額補貼](https://cn.wsj.com/articles/%E6%B8%B4%E6%9C%9B%E7%B6%93%E6%BF%9F%E6%94%BF%E7%B8%BE%E7%9A%84%E6%8B%9C%E7%99%BB%E6%96%99%E5%B0%87%E5%AE%A3%E5%B8%83%E5%85%88%E9%80%B2%E8%A3%BD%E7%A8%8B%E6%99%B6%E7%89%87%E5%B7%A8%E9%A1%8D%E8%A3%9C%E8%B2%BC-1257da09)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [胡塞武裝向美英船隻發射飛彈，正值中國敦促伊朗約束胡塞在紅海的行動](https://cn.wsj.com/articles/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%90%91%E7%BE%8E%E8%8B%B1%E8%88%B9%E9%9A%BB%E7%99%BC%E5%B0%84%E9%A3%9B%E5%BD%88-%E6%AD%A3%E5%80%BC%E4%B8%AD%E5%9C%8B%E6%95%A6%E4%BF%83%E4%BC%8A%E6%9C%97%E7%B4%84%E6%9D%9F%E8%83%A1%E5%A1%9E%E5%9C%A8%E7%B4%85%E6%B5%B7%E7%9A%84%E8%A1%8C%E5%8B%95-2e27b494)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美軍駐約旦基地遭無人機襲擊，致三名美軍士兵死亡](https://cn.wsj.com/articles/%E7%BE%8E%E8%BB%8D%E9%A7%90%E7%B4%84%E6%97%A6%E5%9F%BA%E5%9C%B0%E9%81%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A-%E8%87%B4%E4%B8%89%E5%90%8D%E7%BE%8E%E8%BB%8D%E5%A3%AB%E5%85%B5%E6%AD%BB%E4%BA%A1-3fefab31)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [體育週報／謝淑薇女雙與混雙奪冠 創澳網24年來首見](https://news.pts.org.tw/article/678551)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美軍遭無人機襲擊釀3死 約旦：不在本國境內](https://news.pts.org.tw/article/678561)
+Append: [長榮與機師工會達協議 今年春節及清明不罷工](https://news.pts.org.tw/article/678570)
+append_entries: 6
+Finish: 2024-01-29 03:08:08.688056
