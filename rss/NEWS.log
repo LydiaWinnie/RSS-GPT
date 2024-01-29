@@ -62262,3 +62262,36 @@ Append: [《人工生殖法》擬納同志、單身 民團網路調查逾7成民
 Append: [台積電熊本廠2/24開幕 將邀日本首相岸田文雄出席](https://news.pts.org.tw/article/678614)
 append_entries: 10
 Finish: 2024-01-29 07:07:48.165080
+------------------------------------------------------
+Started: 2024-01-29 08:10:00.853338
+Existing_entries: 1010
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [聯合國稱加沙援助面臨風險，因多國暫停了資助](https://cn.wsj.com/articles/%E8%81%AF%E5%90%88%E5%9C%8B%E7%A8%B1%E5%8A%A0%E6%B2%99%E6%8F%B4%E5%8A%A9%E9%9D%A2%E8%87%A8%E9%A2%A8%E9%9A%AA-%E5%9B%A0%E5%A4%9A%E5%9C%8B%E6%9A%AB%E5%81%9C%E4%BA%86%E8%B3%87%E5%8A%A9-cd5b010b)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」香港法院向恆大發出清盤令](https://cn.nytimes.com/business/20240129/china-evergrande/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2024-01-29 08:10:03.058968
