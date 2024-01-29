@@ -62088,3 +62088,24 @@ Append: [美軍遭無人機襲擊釀3死 約旦：不在本國境內](https://ne
 Append: [長榮與機師工會達協議 今年春節及清明不罷工](https://news.pts.org.tw/article/678570)
 append_entries: 6
 Finish: 2024-01-29 03:08:08.688056
+------------------------------------------------------
+Started: 2024-01-29 04:08:57.201497
+Existing_entries: 1006
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」中國承認以間諜罪名監禁一名英國商人](https://cn.nytimes.com/china/20240129/china-britain-spy/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2024-01-29 04:08:58.946848
