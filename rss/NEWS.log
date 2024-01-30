@@ -63125,3 +63125,12 @@ Append: [國軍春節加強戰備登場 空軍3機種聯合操演打頭陣](http
 Append: [遊覽車不明原因翻落國道邊坡 受困駕駛送醫不治](https://news.pts.org.tw/article/678945)
 append_entries: 11
 Finish: 2024-01-30 14:07:09.029756
+------------------------------------------------------
+Started: 2024-01-30 15:07:05.737168
+Existing_entries: 1011
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-30 15:07:07.090765
