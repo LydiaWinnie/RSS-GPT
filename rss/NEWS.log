@@ -62842,3 +62842,76 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2024-01-30 07:06:58.759759
+------------------------------------------------------
+Started: 2024-01-30 08:09:46.440218
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [封關倒數台股開低震盪守萬八 分析師：賣壓提前消化上漲可期](https://news.pts.org.tw/article/678811)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [屏東明揚工廠大火10死百人傷 董座與總經理遭求處5年徒刑](https://news.pts.org.tw/article/678821)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [南蘇丹武裝分子突襲邊界54死 2聯合國維和官兵喪命](https://news.pts.org.tw/article/678808)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [雲林草嶺、石壁2/10起櫻花祭 縣府規劃4條路線接駁車](https://news.pts.org.tw/article/678813)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [《氣候變遷因應法》涉違憲 環團提首起氣候訴訟](https://news.pts.org.tw/article/678815)
+Append: [春節國旅訂房率較去年下滑 業者認開學時間與出國影響](https://news.pts.org.tw/article/678814)
+Append: [陳建仁視察漁產與蔬菜供應 春節前5天估增38%以上](https://news.pts.org.tw/article/678819)
+Append: [花蓮男持彈弓無目標射擊 警：最高可罰3萬元](https://news.pts.org.tw/article/678806)
+Append: [台東桶柑逢採收期 遇獼猴危害農民無奈認賠](https://news.pts.org.tw/article/678818)
+append_entries: 9
+Finish: 2024-01-30 08:09:47.501961
