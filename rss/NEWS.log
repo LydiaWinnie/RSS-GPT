@@ -63050,3 +63050,78 @@ Append: [緬甸反抗者流亡異鄉，尋求外界力量支援前線！【獨�
 Append: [泰緬邊境反抗軍照護中心，讓傷兵得以安心治療與休養【獨立特派員】](https://news.pts.org.tw/article/678873)
 append_entries: 11
 Finish: 2024-01-30 13:07:31.414495
+------------------------------------------------------
+Started: 2024-01-30 14:07:07.220376
+Existing_entries: 1011
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [大學年度百大熱門科系出爐 前10名僅1私校科大上榜](https://news.pts.org.tw/article/678924)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [高雄光電停車場擺2年沒啟用 議員質疑賤租市有土地](https://news.pts.org.tw/article/678926)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [控日警頻盤查涉歧視 日首見外國居民向政府求償](https://news.pts.org.tw/article/678929)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「今日烏克蘭恐成明日台灣」 北約秘書長促美解凍援烏預算](https://news.pts.org.tw/article/678931)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [打詐員警成詐團「軍師」 不法所得估高達3億](https://news.pts.org.tw/article/678938)
+Append: [腦中植入無線連接機器裝置 全球首度人體實驗正式登場](https://news.pts.org.tw/article/678928)
+Append: [離島首座營級部隊營區啟用 蔡英文親赴澎湖頒加菜金](https://news.pts.org.tw/article/678927)
+Append: [詐團創群組誘假投資虛擬貨幣 逾40人受騙損失破6400萬](https://news.pts.org.tw/article/678939)
+Append: [新冠、類流感迎疫情高峰 3歲女童成今年最小死亡案例](https://news.pts.org.tw/article/678941)
+Append: [國軍春節加強戰備登場 空軍3機種聯合操演打頭陣](https://news.pts.org.tw/article/678942)
+Append: [遊覽車不明原因翻落國道邊坡 受困駕駛送醫不治](https://news.pts.org.tw/article/678945)
+append_entries: 11
+Finish: 2024-01-30 14:07:09.029756
