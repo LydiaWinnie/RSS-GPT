@@ -62676,3 +62676,12 @@ Append: [中國恆大拖欠債務 遭香港法院勒令強制清算](https://new
 Append: [新北推電梯特快車方案 老公寓裝電梯補助最高360萬](https://news.pts.org.tw/article/678772)
 append_entries: 7
 Finish: 2024-01-30 01:40:16.380476
+------------------------------------------------------
+Started: 2024-01-30 02:13:57.728270
+Existing_entries: 1007
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-30 02:14:00.991738
