@@ -62915,3 +62915,36 @@ Append: [花蓮男持彈弓無目標射擊 警：最高可罰3萬元](https://ne
 Append: [台東桶柑逢採收期 遇獼猴危害農民無奈認賠](https://news.pts.org.tw/article/678818)
 append_entries: 9
 Finish: 2024-01-30 08:09:47.501961
+------------------------------------------------------
+Started: 2024-01-30 09:08:29.218862
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」紅海危機背後，北京一場冷漠自私的遊戲](https://cn.nytimes.com/opinion/20240130/china-redsea-houthi-shipping/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」「美國正受到攻擊」：反DEI運動在反對些什麼](https://cn.nytimes.com/usa/20240130/dei-woke-claremont-institute/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2024-01-30 09:08:30.048873
