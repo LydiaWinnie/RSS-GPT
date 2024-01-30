@@ -61529,3 +61529,14 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [商鞅悖论](https://www.36kr.com/p/2626619769028865)
 append_entries: 2
 Finish: 2024-01-30 09:09:19.699929
+------------------------------------------------------
+Started: 2024-01-30 10:08:58.207876
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 0
+Finish: 2024-01-30 10:09:05.369272

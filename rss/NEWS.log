@@ -62948,3 +62948,12 @@ Append: [「中英」「美國正受到攻擊」：反DEI運動在反對些什�
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2024-01-30 09:08:30.048873
+------------------------------------------------------
+Started: 2024-01-30 10:08:53.118392
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-30 10:08:54.763074
