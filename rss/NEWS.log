@@ -62605,3 +62605,74 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-30 00:34:51.871434
+------------------------------------------------------
+Started: 2024-01-30 01:40:15.081659
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中國與梵蒂岡和解，兩位新任主教獲祝聖](https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E8%88%87%E6%A2%B5%E8%92%82%E5%B2%A1%E5%92%8C%E8%A7%A3-%E5%85%A9%E4%BD%8D%E6%96%B0%E4%BB%BB%E4%B8%BB%E6%95%99%E7%8D%B2%E7%A5%9D%E8%81%96-be246b17)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美軍因混淆無人機身份而未能阻止駐約旦基地遭襲](https://cn.wsj.com/articles/%E7%BE%8E%E8%BB%8D%E5%9B%A0%E6%B7%B7%E6%B7%86%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%BA%AB%E4%BB%BD%E8%80%8C%E6%9C%AA%E8%83%BD%E9%98%BB%E6%AD%A2%E9%A7%90%E7%B4%84%E6%97%A6%E5%9F%BA%E5%9C%B0%E9%81%AD%E8%A5%B2-663106c0)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [卡塔爾首相稱已就釋放人質框架達成協議](https://cn.wsj.com/articles/%E5%8D%A1%E5%A1%94%E7%88%BE%E9%A6%96%E7%9B%B8%E7%A8%B1%E5%B7%B2%E5%B0%B1%E9%87%8B%E6%94%BE%E4%BA%BA%E8%B3%AA%E6%A1%86%E6%9E%B6%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-1a0e1dae)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [英王查爾斯三世及凱特王妃 皆完成手術同日出院](https://news.pts.org.tw/article/678758)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美媒：美駐約旦基地遇襲 疑誤認無人機](https://news.pts.org.tw/article/678760)
+Append: [中國恆大拖欠債務 遭香港法院勒令強制清算](https://news.pts.org.tw/article/678761)
+Append: [新北推電梯特快車方案 老公寓裝電梯補助最高360萬](https://news.pts.org.tw/article/678772)
+append_entries: 7
+Finish: 2024-01-30 01:40:16.380476
