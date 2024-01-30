@@ -62975,3 +62975,78 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-30 12:12:46.605904
+------------------------------------------------------
+Started: 2024-01-30 13:07:29.791100
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台灣超商密度登全球第2 北市精華路段2公里開23家](https://news.pts.org.tw/article/678932)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [全台300名SMA患者無藥可用 陳俊翰盼健保鬆綁給付限制](https://news.pts.org.tw/article/678935)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台北天空塔遭檢舉掏空10億 開發商副董座成背信罪被告](https://news.pts.org.tw/article/678937)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [熱水器一氧化碳中毒釀1死1傷 全台半個月內已連傳5起](https://news.pts.org.tw/article/678940)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [哥倫比亞查獲130隻走私毒蛙 每隻可賣上萬台幣](https://news.pts.org.tw/article/678882)
+Append: [埃及鋪花崗岩修復金字塔 考古學者諷「乾脆貼磁磚」](https://news.pts.org.tw/article/678883)
+Append: [墨西哥市復辦鬥牛 場內歡呼、場外抗議兩樣情](https://news.pts.org.tw/article/678884)
+Append: [白宮不為陣亡美軍向伊朗開戰 共和黨批拜登政府軟弱](https://news.pts.org.tw/article/678886)
+Append: [緬甸青年投身反抗軍，對抗軍政府求自由！【獨立特派員】](https://news.pts.org.tw/article/678875)
+Append: [緬甸反抗者流亡異鄉，尋求外界力量支援前線！【獨立特派員】](https://news.pts.org.tw/article/678874)
+Append: [泰緬邊境反抗軍照護中心，讓傷兵得以安心治療與休養【獨立特派員】](https://news.pts.org.tw/article/678873)
+append_entries: 11
+Finish: 2024-01-30 13:07:31.414495
