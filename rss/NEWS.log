@@ -63275,3 +63275,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [高雄承億酒店突2次停電 業者補償1日餐飲住宿免費](https://news.pts.org.tw/article/678977)
 append_entries: 5
 Finish: 2024-01-31 00:35:11.291829
+------------------------------------------------------
+Started: 2024-01-31 01:40:49.286625
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-31 01:40:50.604974
