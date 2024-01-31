@@ -63380,3 +63380,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [民眾黨未支持藍綠立法院長 宣布自推黃珊珊參選](https://news.pts.org.tw/article/678989)
 append_entries: 4
 Finish: 2024-01-31 05:07:39.388959
+------------------------------------------------------
+Started: 2024-01-31 06:10:12.994696
+Existing_entries: 1004
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-31 06:10:14.340746
