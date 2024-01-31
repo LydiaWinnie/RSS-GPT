@@ -63574,3 +63574,82 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 1
 Finish: 2024-01-31 12:12:48.696588
+------------------------------------------------------
+Started: 2024-01-31 13:07:19.074119
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [大馬特色聚落華人新村 英殖民產物盼申請世界遺產](https://news.pts.org.tw/article/679134)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [泰前進黨主張修「冒犯君主罪」 憲法法庭：違憲](https://news.pts.org.tw/article/679135)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [日首相再為政治獻金醜聞道歉 承諾將進行改革](https://news.pts.org.tw/article/679136)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [以哈戰爭／以特工喬裝醫護人員 突擊醫院射殺3人](https://news.pts.org.tw/article/679137)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台積電熊本廠2/24開幕 熊本市長來台取經訪南高](https://news.pts.org.tw/article/679139)
+Append: [高生鮮超市涉竄改食品效期 負責人與店長訊後交保](https://news.pts.org.tw/article/679144)
+Append: [中方若在台海挑釁 蘇利文：美國與盟友將反擊](https://news.pts.org.tw/article/679147)
+Append: [春巡國軍戰備終操演台東登場 反滲透、反特攻實戰化訓練](https://news.pts.org.tw/article/679148)
+Append: [中取消M503偏置啟2銜接航線 學者：模糊海峽中線](https://news.pts.org.tw/article/679150)
+Append: [桃機春節總運量上看116萬人次 建議民眾提早3小時報到](https://news.pts.org.tw/article/679142)
+Append: [3名中國異議人士拒返中 盼獲庇護前借道台灣](https://news.pts.org.tw/article/679146)
+Append: [台中商銀董座涉挪公款逾10億 檢方聲押王貴鋒等3人](https://news.pts.org.tw/article/679145)
+Append: [日本武豐火力發電廠大火 傳爆炸聲鍋爐竄黑煙](https://news.pts.org.tw/article/679138)
+Append: [歐洲麻疹病例暴增45倍 1歲以下嬰幼兒為高危險群](https://news.pts.org.tw/article/679141)
+Append: [中取消M503航線偏置措施 同時雙向飛航影響航管、飛安](https://news.pts.org.tw/article/679149)
+append_entries: 15
+Finish: 2024-01-31 13:07:25.267609
