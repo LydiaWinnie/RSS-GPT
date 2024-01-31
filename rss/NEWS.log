@@ -63653,3 +63653,12 @@ Append: [歐洲麻疹病例暴增45倍 1歲以下嬰幼兒為高危險群](https
 Append: [中取消M503航線偏置措施 同時雙向飛航影響航管、飛安](https://news.pts.org.tw/article/679149)
 append_entries: 15
 Finish: 2024-01-31 13:07:25.267609
+------------------------------------------------------
+Started: 2024-01-31 14:06:58.255095
+Existing_entries: 1015
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-01-31 14:06:59.716949
