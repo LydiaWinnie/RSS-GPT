@@ -63323,3 +63323,60 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-31 04:09:13.596019
+------------------------------------------------------
+Started: 2024-01-31 05:07:37.950569
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中美就芬太尼危機舉行會談，兩國關係再現解凍跡象](https://cn.wsj.com/articles/%E4%B8%AD%E7%BE%8E%E5%B0%B1%E8%8A%AC%E5%A4%AA%E5%B0%BC%E5%8D%B1%E6%A9%9F%E8%88%89%E8%A1%8C%E6%9C%83%E8%AB%87-%E5%85%A9%E5%9C%8B%E9%97%9C%E4%BF%82%E5%86%8D%E7%8F%BE%E8%A7%A3%E5%87%8D%E8%B7%A1%E8%B1%A1-bbe138b5)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [香港啟動《基本法》第23條立法，擴大國安打擊範圍](https://cn.wsj.com/articles/%E9%A6%99%E6%B8%AF%E5%95%9F%E5%8B%95-%E5%9F%BA%E6%9C%AC%E6%B3%95-%E7%AC%AC23%E6%A2%9D%E7%AB%8B%E6%B3%95-%E6%93%B4%E5%A4%A7%E5%9C%8B%E5%AE%89%E6%89%93%E6%93%8A%E7%AF%84%E5%9C%8D-173128b2)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」香港啟動《基本法》23條立法，列舉五項危害國安罪名](https://cn.nytimes.com/china/20240131/hong-kong-security-law-unrest/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [民眾黨未支持藍綠立法院長 宣布自推黃珊珊參選](https://news.pts.org.tw/article/678989)
+append_entries: 4
+Finish: 2024-01-31 05:07:39.388959
