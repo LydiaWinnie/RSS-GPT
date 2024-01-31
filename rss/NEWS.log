@@ -63511,3 +63511,24 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [高連鎖超市涉售竄改效期食品 負責人200萬元交保](https://news.pts.org.tw/article/679058)
 append_entries: 2
 Finish: 2024-01-31 09:07:27.794374
+------------------------------------------------------
+Started: 2024-01-31 10:07:42.611930
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [被監禁的巴基斯坦反對黨領袖伊姆蘭·汗再次被定罪](https://cn.wsj.com/articles/%E8%A2%AB%E7%9B%A3%E7%A6%81%E7%9A%84%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%8F%8D%E5%B0%8D%E9%BB%A8%E9%A0%98%E8%A2%96%E4%BC%8A%E5%A7%86%E8%98%AD-%E6%B1%97%E5%86%8D%E6%AC%A1%E8%A2%AB%E5%AE%9A%E7%BD%AA-8a71ecae)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2024-01-31 10:07:43.787484
