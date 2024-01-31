@@ -63553,3 +63553,24 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [日本動物咖啡店熱潮不減 迷你豬陪伴成療癒新寵](https://news.pts.org.tw/article/679059)
 append_entries: 1
 Finish: 2024-01-31 11:06:26.672335
+------------------------------------------------------
+Started: 2024-01-31 12:12:47.690843
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [對中國經濟的負面看法正從網上消失](https://cn.wsj.com/articles/%E5%B0%8D%E4%B8%AD%E5%9C%8B%E7%B6%93%E6%BF%9F%E7%9A%84%E8%B2%A0%E9%9D%A2%E7%9C%8B%E6%B3%95%E6%AD%A3%E5%BE%9E%E7%B6%B2%E4%B8%8A%E6%B6%88%E5%A4%B1-00c2ba11)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 1
+Finish: 2024-01-31 12:12:48.696588
