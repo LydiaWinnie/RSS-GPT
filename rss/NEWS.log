@@ -63389,3 +63389,83 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-01-31 06:10:14.340746
+------------------------------------------------------
+Started: 2024-01-31 07:07:52.597961
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」《外籍人士》：一部在香港拍攝，卻無法在香港播出的美劇](https://cn.nytimes.com/china/20240131/expats-hong-kong-amazon-unavailable/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [《巧連智》停止訂閱 企業與巧虎好朋友做了哪些轉型？](https://news.pts.org.tw/article/679019)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台中霧峰阿罩霧舊街紅磚路 坑洞致民眾摔傷擬改鋪柏油](https://news.pts.org.tw/article/679006)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [國軍左營春節加強戰備 出動M109突擊艇等主力裝備](https://news.pts.org.tw/article/679002)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Q1企業加薪意願高、幅度小 餐飲住宿等3大產業最缺工](https://news.pts.org.tw/article/679008)
+Append: [台北花市2/5至2/9不打烊 花材價格約漲5%](https://news.pts.org.tw/article/679001)
+Append: [高屏3D空品實驗啟動 盼精準解析空污源與傳輸](https://news.pts.org.tw/article/679011)
+Append: [應徵投顧專員上班被派取款 宜蘭民眾變車手遭逮](https://news.pts.org.tw/article/679015)
+Append: [彰化圓環金龍花燈評價兩極 市公所：不影響視線3月拆除](https://news.pts.org.tw/article/679007)
+Append: [嘉市突傳巨響「以為阿共打來」 消防局：非法施放煙火罰42萬](https://news.pts.org.tw/article/679012)
+Append: [桃園新北交界路口追撞頻傳 桃市府：已調整燈號週期](https://news.pts.org.tw/article/679003)
+Append: [去年食品廣告違規共罰2.9億 新法加重罰最高3倍今上路](https://news.pts.org.tw/article/679013)
+Append: [台大醫護出國須審查 企業工會控告院方](https://news.pts.org.tw/article/679014)
+Append: [民眾黨推黃珊珊角逐立院龍頭 傅崐萁祝福、柯建銘批為造聲量](https://news.pts.org.tw/article/679010)
+Append: [新北蘆洲男尾隨搭訕女學生 警：近4個月3度涉性騷](https://news.pts.org.tw/article/679004)
+Append: [中國取消M503航線偏置 專家：試圖模糊海峽中線](https://news.pts.org.tw/article/679017)
+append_entries: 16
+Finish: 2024-01-31 07:07:56.130258
