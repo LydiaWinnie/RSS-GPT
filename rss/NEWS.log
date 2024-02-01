@@ -64076,3 +64076,36 @@ Append: [台北國際動漫節開幕 Vtuber專區成亮點](https://news.pts.org
 Append: [8旬翁腹主動脈瘤破裂救回 死亡率6成三高患者當心](https://news.pts.org.tw/article/679213)
 append_entries: 9
 Finish: 2024-02-01 08:09:53.486020
+------------------------------------------------------
+Started: 2024-02-01 09:08:51.641358
+Existing_entries: 1009
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [紅海衝突危及全球貿易一大支柱：公海航行自由](https://cn.wsj.com/articles/%E7%B4%85%E6%B5%B7%E8%A1%9D%E7%AA%81%E5%8D%B1%E5%8F%8A%E5%85%A8%E7%90%83%E8%B2%BF%E6%98%93%E4%B8%80%E5%A4%A7%E6%94%AF%E6%9F%B1-%E5%85%AC%E6%B5%B7%E8%88%AA%E8%A1%8C%E8%87%AA%E7%94%B1-62e2db2c)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」全球生育率下降，少子化危機何解？](https://cn.nytimes.com/opinion/20240201/birth-rates-baby-bust/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 2
+Finish: 2024-02-01 09:08:53.301588
