@@ -64318,3 +64318,12 @@ Append: [TikTok耗重資保消費者個資 員工揭仍存資安疑慮](https://
 Append: [台中試辦重機停機車格 重機車友：其他縣市應跟進](https://news.pts.org.tw/article/679356)
 append_entries: 13
 Finish: 2024-02-01 14:07:01.242403
+------------------------------------------------------
+Started: 2024-02-01 15:07:28.402856
+Existing_entries: 1013
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-02-01 15:07:30.226810
