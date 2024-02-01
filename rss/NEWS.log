@@ -64232,3 +64232,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [南極巴布亞企鵝數穩定回升 轉列「無危」物種](https://news.pts.org.tw/article/679289)
 append_entries: 5
 Finish: 2024-02-01 12:13:20.852941
+------------------------------------------------------
+Started: 2024-02-01 13:07:32.999842
+Existing_entries: 1005
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-02-01 13:07:35.484570
