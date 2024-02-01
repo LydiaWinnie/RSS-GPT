@@ -64109,3 +64109,48 @@ Append: [「中英」全球生育率下降，少子化危機何解？](https://c
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 2
 Finish: 2024-02-01 09:08:53.301588
+------------------------------------------------------
+Started: 2024-02-01 10:08:23.491514
+Existing_entries: 1002
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [立院正副院長「韓江配」出線 藍營重掌國會大位](https://news.pts.org.tw/article/679266)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [過年上班薪水怎麼算？一文看懂加班費給付規定](https://news.pts.org.tw/article/679273)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [桃機入境日本預先通關今開跑 出入境有哪些更簡便流程？](https://news.pts.org.tw/article/679267)
+append_entries: 3
+Finish: 2024-02-01 10:08:25.418349
