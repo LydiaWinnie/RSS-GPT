@@ -64241,3 +64241,80 @@ Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
 Fetching from https://rsshub.app/pts/dailynews
 append_entries: 0
 Finish: 2024-02-01 13:07:35.484570
+------------------------------------------------------
+Started: 2024-02-01 14:06:59.671080
+Existing_entries: 1000
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [歐洲峰會登場 農民抗議浪潮蔓延多國](https://news.pts.org.tw/article/679349)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [俄烏戰爭／俄載戰俘機墜毀後首次 俄烏再互釋約2百戰俘](https://news.pts.org.tw/article/679350)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [勞動基金投資獲利歷年新高 勞團更關切破產困境](https://news.pts.org.tw/article/679352)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [台中商銀董座涉挪用10億公款 金管會開罰1200萬](https://news.pts.org.tw/article/679353)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [高檢署將對詐騙犯求處重刑 學者：警示大於實質意義](https://news.pts.org.tw/article/679354)
+Append: [基捷跨北北基綜合規劃案 盈虧和資產分配尚未達共識](https://news.pts.org.tw/article/679358)
+Append: [桃園鬧區警匪追逐 通緝犯拒捕衝撞4警受傷](https://news.pts.org.tw/article/679355)
+Append: [同時罹A型與季節性流感致死 全球首例在中國](https://news.pts.org.tw/article/679360)
+Append: [天使輪案偵結 執行長、船長未到案遭通緝](https://news.pts.org.tw/article/679361)
+Append: [美日在菲律賓海聯合軍演 學者：美向中共北韓展威嚇力](https://news.pts.org.tw/article/679362)
+Append: [新國會正副院長選舉 國民黨「韓江配」當選](https://news.pts.org.tw/article/679365)
+Append: [TikTok耗重資保消費者個資 員工揭仍存資安疑慮](https://news.pts.org.tw/article/679351)
+Append: [台中試辦重機停機車格 重機車友：其他縣市應跟進](https://news.pts.org.tw/article/679356)
+append_entries: 13
+Finish: 2024-02-01 14:07:01.242403
