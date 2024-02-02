@@ -64444,3 +64444,12 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [桃園藝文特區警匪追逐 通緝犯拒捕衝撞4警受傷](https://news.pts.org.tw/article/679399)
 append_entries: 3
 Finish: 2024-02-02 00:35:20.284786
+------------------------------------------------------
+Started: 2024-02-02 01:40:20.609747
+Existing_entries: 1003
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Fetching from https://rsshub.app/pts/dailynews
+append_entries: 0
+Finish: 2024-02-02 01:40:22.426641
