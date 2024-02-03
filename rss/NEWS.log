@@ -65851,3 +65851,73 @@ Fetching from https://rsshub.app/pts/dailynews
 Feed error: 404
 append_entries: 5
 error when rendering xml, skip rss/NEWS
+------------------------------------------------------
+Started: 2024-02-03 09:07:37.017336
+Existing_entries: 1001
+Fetching from https://rsshub.app/wsj/zh-tw/world
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國對敘利亞和伊拉克境內受伊朗支持的民兵組織實施打擊](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E6%95%98%E5%88%A9%E4%BA%9E%E5%92%8C%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A2%83%E5%85%A7%E5%8F%97%E4%BC%8A%E6%9C%97%E6%94%AF%E6%8C%81%E7%9A%84%E6%B0%91%E5%85%B5%E7%B5%84%E7%B9%94%E5%AF%A6%E6%96%BD%E6%89%93%E6%93%8A-08c51574)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [哈馬斯內部對美國支持的停火提案意見不一，談判陷入僵局](https://cn.wsj.com/articles/%E5%93%88%E9%A6%AC%E6%96%AF%E5%85%A7%E9%83%A8%E5%B0%8D%E7%BE%8E%E5%9C%8B%E6%94%AF%E6%8C%81%E7%9A%84%E5%81%9C%E7%81%AB%E6%8F%90%E6%A1%88%E6%84%8F%E8%A6%8B%E4%B8%8D%E4%B8%80-%E8%AB%87%E5%88%A4%E9%99%B7%E5%85%A5%E5%83%B5%E5%B1%80-99703795)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美國參議院推進就援烏及邊境問題一攬子計劃投票](https://cn.wsj.com/articles/%E7%BE%8E%E5%9C%8B%E5%8F%83%E8%AD%B0%E9%99%A2%E6%8E%A8%E9%80%B2%E5%B0%B1%E6%8F%B4%E7%83%8F%E5%8F%8A%E9%82%8A%E5%A2%83%E5%95%8F%E9%A1%8C%E4%B8%80%E6%94%AC%E5%AD%90%E8%A8%88%E5%8A%83%E6%8A%95%E7%A5%A8-9ea43daa)
+Fetching from https://rsshub.app/wsj/zh-tw/opinion
+Fetching from https://rsshub.app/nytimes/dual-traditionalchinese
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」中美重回談判桌，但言辭分歧凸顯雙邊關係脆弱性](https://cn.nytimes.com/world/20240202/china-us-fentanyl-iran-north-korea/zh-hant/dual)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「中英」從地中海到波斯灣，伊朗為何捲入中東地區多場衝突](https://cn.nytimes.com/world/20240202/iran-proxies-israel-gaza-red-sea/zh-hant/dual)
+Fetching from https://rsshub.app/pts/dailynews
+Feed error: 404
+append_entries: 5
+error when rendering xml, skip rss/NEWS
