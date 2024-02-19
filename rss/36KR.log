@@ -69667,3 +69667,77 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [AI驱动的销售决策，有多可靠？](https://www.36kr.com/p/2654695351647368)
 append_entries: 2
 Finish: 2024-02-19 04:09:41.067607
+------------------------------------------------------
+Started: 2024-02-19 05:08:03.941886
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Sora启示录：信仰、对抗与未来](https://www.36kr.com/p/2654895303937288)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [魅族押注AI讲新故事，能否助其翻身？](https://www.36kr.com/p/2654882778366216)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [7000亿，孙正义要搞出超级AI独角兽](https://www.36kr.com/p/2654882542566533)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Sora炸裂科技圈：真神还是焦虑制造机](https://www.36kr.com/p/2654858991173893)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [OpenAI还有对手吗？a16z干货：2024年AI视频产品何去何从](https://www.36kr.com/p/2654851535289477)
+Append: [AI手机今年杀到，魅族停止智能手机研发，苹果iPhone 16或放大招](https://www.36kr.com/p/2654794308418691)
+Append: [2024AI手机元年，行业大洗牌将至？](https://www.36kr.com/p/2654798256393479)
+Append: [详解Sora，为什么是AGI的又一个里程碑时刻？](https://www.36kr.com/p/2653908207877249)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 8
+Finish: 2024-02-19 05:08:06.723368
