@@ -69797,3 +69797,79 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2024-02-19 09:08:47.096068
+------------------------------------------------------
+Started: 2024-02-19 10:08:45.617124
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [融资超10亿美金，AI公司「月之暗面」获红杉、小红书、美团、阿里新一轮投资 | 36氪独家](https://www.36kr.com/p/2655063979180294)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Sora 证明马斯克是对的，但特斯拉和人类可能都输了](https://www.36kr.com/p/2655025836228869)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [再谈AIGC的关键问题：版权归谁、官司何解、新秩序何来](https://www.36kr.com/p/2654990040284288)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Sora到底懂不懂物理世界？一场头脑风暴正在AI圈大佬间展开](https://www.36kr.com/p/2654987184454785)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [揭秘Sora技术路线：核心成员来自伯克利，基础论文曾被CVPR拒稿](https://www.36kr.com/p/2654986825105673)
+Append: [Sora颠覆了AI视频，传统漫画和动画从此不存在了？](https://www.36kr.com/p/2654940112830726)
+Append: [AI“爆改”搜索引擎，搜索行业之变](https://www.36kr.com/p/2654918201179266)
+Append: [ChatGPT、Sora之后，19位专家提出AI治理新方向](https://www.36kr.com/p/2654948966760706)
+Append: [AI配音版Sora视频刷屏，绝美逼真音效打破「无声电影」，或颠覆万亿美元产业](https://www.36kr.com/p/2655000866636035)
+Append: [我从事AI事业这一年 | 复工特别策划](https://www.36kr.com/p/2655081940438530)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 10
+Finish: 2024-02-19 10:08:47.356277
