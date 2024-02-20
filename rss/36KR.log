@@ -70454,3 +70454,84 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 6
 Finish: 2024-02-20 11:06:30.881884
+------------------------------------------------------
+Started: 2024-02-20 12:13:06.545346
+Existing_entries: 1006
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024春节档撤档潮：市场风云变化中的祭旗者们](https://www.36kr.com/p/2656740801056004)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [贺岁短片轰炸，游戏吃到春节红利了吗？](https://www.36kr.com/p/2656766038588547)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [线上春节档“热辣滚烫”，“爱优腾”终于赚钱了](https://www.36kr.com/p/2656605761567879)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [最火春节档里的影业洗牌](https://www.36kr.com/p/2656599546773766)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Sora炸裂出道，让世界币暴涨192%，只因背后都有奥特曼](https://www.36kr.com/p/2656797671555336)
+Append: [AI正在革搜索的命，但也带来一个大问题](https://www.36kr.com/p/2656797140828417)
+Append: [扒开68家Sora概念股真面目](https://www.36kr.com/p/2656761260359936)
+Append: [OpenAI的Sora注定死路一条，Yann LeCun火力全开怒喷：这种实现方式“完全没有现实意义”](https://www.36kr.com/p/2656775498989828)
+Append: [谁是中国版Sora？](https://www.36kr.com/p/2656722987175175)
+Append: [几小时前，OpenAI 爆款工具 Sora 被取消了静音模式](https://www.36kr.com/p/2656369096196360)
+Append: [更乱了，已经有真人视频冒充Sora了，威尔·史密斯吃意大利面玩梗](https://www.36kr.com/p/2656366138278149)
+Append: [GPT-4 更强的标志，原来藏在了 logo 里](https://www.36kr.com/p/2656668951395460)
+Append: [浅析生成式人工智能输入和输出涉及著作权问题——国内首例AIGC著作权纠纷判例与国外案例对比](https://www.36kr.com/p/2656602927071496)
+Append: [在Sora引爆视频生成时，Meta开始用Agent自动剪视频了，华人作者主导](https://www.36kr.com/p/2656586146069640)
+Append: [谁为Sora上了头？](https://www.36kr.com/p/2656539785055488)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 15
+Finish: 2024-02-20 12:13:30.123901
