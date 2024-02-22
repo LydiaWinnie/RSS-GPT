@@ -71343,3 +71343,78 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 3
 Finish: 2024-02-22 00:34:39.955621
+------------------------------------------------------
+Started: 2024-02-22 01:39:09.180631
+Existing_entries: 1003
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [咪蒙又赚钱了：《八零后妈》赚过亿、背后有上市公司、短剧春节档破8亿](https://www.36kr.com/p/2658879563792645)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [谷歌再放核弹，开源最强大模型Gemini技术，碾压Llama 2，一月三大招硬刚OpenAI](https://www.36kr.com/p/2658586582778119)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [AI芯片黑马一夜爆红：成本推算争议不断，前员工现员工互撕](https://www.36kr.com/p/2658860939492481)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Sora火了，抖音们慌了？](https://www.36kr.com/p/2658959379808513)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Sora送上“泼天富贵”，AI基础设施：这次轮到我了](https://www.36kr.com/p/2657723602844809)
+Append: [AI圈割韭菜乱象频出：卖199元AI课赚了上千万](https://www.36kr.com/p/2658110449089664)
+Append: [一年豪掷百亿，英伟达狂投这个赛道](https://www.36kr.com/p/2658936970263682)
+Append: [开源大模型王座易主，谷歌Gemma杀入场，笔记本可跑，可商用](https://www.36kr.com/p/2658474671438982)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Append: [居家办公机会，存在着高度不平等](https://www.36kr.com/p/2658935106370692)
+append_entries: 9
+Finish: 2024-02-22 01:39:38.110474
