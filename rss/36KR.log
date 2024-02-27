@@ -74177,3 +74177,80 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 1
 Finish: 2024-02-27 09:08:03.664478
+------------------------------------------------------
+Started: 2024-02-27 10:08:25.829059
+Existing_entries: 1001
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [“谷歌版Sora”被嘲画质好糊，但在世界模拟器上又前进了一步](https://www.36kr.com/p/2666578794144512)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [微软钦点OpenAI备胎：GPT-4级大模型上线即挤爆，成本仅2200万美元](https://www.36kr.com/p/2666578899542787)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [AIGC音乐的局限性究竟是什么？](https://www.36kr.com/p/2666478651564804)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [苹果Vision Pro与Sora联袂，AI浪潮助推XR硬件走向何方？](https://www.36kr.com/p/2666512534375938)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [微软不再独宠OpenAI，押注成立10个月、发布GPT-4最强竞品的法国AI独角兽Mistral AI](https://www.36kr.com/p/2666516840391433)
+Append: [OpenAI 被微软 “绿” 了，法国 “小鲜肉” Mistral 上位](https://www.36kr.com/p/2666516481828608)
+Append: [Sora爆火，AGI概念股们为何还未超越ChatGPT？](https://www.36kr.com/p/2666404786883840)
+Append: [讲个鬼故事：这台机器人终于“强”成了我要的模样](https://www.36kr.com/p/2666415704613633)
+Append: [2024 年的软件架构趋势：AI 加速，鸿沟拉大，架构师如何应对？](https://www.36kr.com/p/2666334935525129)
+Append: [Sora将颠覆教育科技行业？创业者们说：如枪终结了弓箭的时代](https://www.36kr.com/p/2666373095629576)
+Append: [欧洲最火AI独角兽发布旗舰大模型，性能直逼GPT-4，微软宣布合作投资](https://www.36kr.com/p/2666277873395464)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 11
+Finish: 2024-02-27 10:08:28.517252
