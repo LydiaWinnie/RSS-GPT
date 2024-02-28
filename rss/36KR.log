@@ -74919,3 +74919,14 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [CEO离职人数又创新高，平均“寿命”缩短1.5年](https://www.36kr.com/p/2667971629458179)
 append_entries: 2
 Finish: 2024-02-28 13:07:53.494228
+------------------------------------------------------
+Started: 2024-02-28 14:06:54.159917
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 0
+Finish: 2024-02-28 14:07:01.257316
