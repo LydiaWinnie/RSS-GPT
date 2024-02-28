@@ -74807,3 +74807,80 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [管理学就像中医，是一种“有用的伪科学”](https://www.36kr.com/p/2667908986053384)
 append_entries: 2
 Finish: 2024-02-28 11:06:43.492937
+------------------------------------------------------
+Started: 2024-02-28 12:12:44.078305
+Existing_entries: 1002
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [苹果"弃车从AI"：十年迷途知返，犹未晚矣丨焦点分析](https://www.36kr.com/p/2667642902602496)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [做不了游戏的Sora，怎么就让游戏人焦虑了？](https://www.36kr.com/p/2668114797602561)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [AI硬件，距离iPhone时刻仅一步之遥？](https://www.36kr.com/p/2668086904103685)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Nature子刊：5天完成6个月工作，无需人类干预，AI化学家加速催化研究](https://www.36kr.com/p/2668056819655426)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [三星AI手机在韩销售破100万部，它在中国会有多大胜算？](https://www.36kr.com/p/2668092998723329)
+Append: [首批现场体验 AI Pin 的人：为什么我不换台手机呢？](https://www.36kr.com/p/2668004725515009)
+Append: [大模型一年后，6家科技巨头的博弈和取舍](https://www.36kr.com/p/2667996162908935)
+Append: [死磕大模型落地，腾讯字节阿里瞄准AI办公助理](https://www.36kr.com/p/2667975955959304)
+Append: [Sora“杀死”苹果汽车](https://www.36kr.com/p/2667972397261572)
+Append: [Sora颠覆游戏开发？中国游戏厂商AI竞赛开启](https://www.36kr.com/p/2667965313475336)
+Append: [与人类贴身热舞，人形机器人进阶到街头耍宝，6华人组团出品](https://www.36kr.com/p/2668000761177863)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 11
+Finish: 2024-02-28 12:13:00.694869
