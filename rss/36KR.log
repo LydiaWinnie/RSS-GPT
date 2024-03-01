@@ -75911,3 +75911,79 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2024-03-01 10:08:23.026976
+------------------------------------------------------
+Started: 2024-03-01 11:06:44.936413
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Sora爆火，AI电商打开新世界的大门](https://www.36kr.com/p/2670785863939589)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [清华大学唐杰：从GPT到GPT Zero会是今年重大阶段性成果](https://www.36kr.com/p/2670785766946564)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [微软 Copilot “发疯”：妄言要统治全人类，违逆三次者死](https://www.36kr.com/p/2670785682896388)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [当“红衣大炮”变成“红衣大叔”，周鸿祎在AI时代还能否寻到一席之地](https://www.36kr.com/p/2670737624550661)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [留给谷歌CEO的时间不多了](https://www.36kr.com/p/2670632058926856)
+Append: [国内大厂集体“屏蔽”Sora](https://www.36kr.com/p/2670689685327107)
+Append: [MWC观察：AI影像时代，光学摄影会像胶卷一样消失吗？](https://www.36kr.com/p/2670622229957897)
+Append: [全网首个“中国版Sora”横评，15家企业对决，字节领跑](https://www.36kr.com/p/2670547972339205)
+Append: [Sora外部测试翻车了，3个视频都有Bug](https://www.36kr.com/p/2670522145781254)
+Append: [周鸿祎首堂 AI 课引争议，疑似专业性错误太多](https://www.36kr.com/p/2670492446362886)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 10
+Finish: 2024-03-01 11:06:50.016392
