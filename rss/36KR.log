@@ -77244,3 +77244,78 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 4
 Finish: 2024-03-04 09:28:32.151242
+------------------------------------------------------
+Started: 2024-03-04 11:20:12.239596
+Existing_entries: 1004
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [为啥贾玲能瘦100斤，你不行？](https://www.36kr.com/p/2604071998978944)
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [马斯克怒斥Sam Altman“变心”，发起诉讼，网友：OpenAI AGI计划因此被推迟到了2027年](https://www.36kr.com/p/2675151176644353)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Sora一出，百模禁声？](https://www.36kr.com/p/2675126251468294)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [被AI吞噬的“AI三杰”](https://www.36kr.com/p/2675057012143878)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [53页PDF爆料OpenAI“AGI时间表”，爆料者：马斯克诉讼搅了局](https://www.36kr.com/p/2675072754366211)
+Append: [Mac专属大模型框架来了，两行代码部署，能聊本地数据，还支持中文](https://www.36kr.com/p/2675083244467968)
+Append: [谷歌创始人亲自救场Gemini现身黑客聚会，投资人逼宫CEO劈柴哥下台](https://www.36kr.com/p/2675065510033161)
+Append: [2张图2秒钟3D重建，这款AI工具火爆GitHub，网友：忘掉Sora](https://www.36kr.com/p/2675068241671687)
+Append: [谢尔盖·布林狠批Gemini「搞砸了」，51岁创始人回归，CEO劈柴或将下台？](https://www.36kr.com/p/2675046254261769)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 9
+Finish: 2024-03-04 11:20:20.571115
