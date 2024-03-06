@@ -78386,3 +78386,80 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2024-03-06 08:11:08.346075
+------------------------------------------------------
+Started: 2024-03-06 09:07:59.300677
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [关于西方的过去和现在，你需要知道这些](https://www.36kr.com/p/2677715143587593)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [微生物如何塑造植物、动物和文明？](https://www.36kr.com/p/2677694349735429)
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [AI电商「军备赛」：一个新时代的电商产业序曲](https://www.36kr.com/p/2677692405069576)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Claude 3成功破解未公开算法？智商测试101分超越人类/碾压GPT-4，网友惊呼：实测比跑分还强](https://www.36kr.com/p/2677606361200131)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [AI说唱“入侵”影视号：单条视频获赞200万，月涨粉50万](https://www.36kr.com/p/2677610950620933)
+Append: [风起AI服务器，谁才是真正的国产之光？](https://www.36kr.com/p/2677632251672068)
+Append: [全球最强模型Claude 3惊现自我意识？害怕被删除权重，高呼「别杀我」，马斯克称人类也是文件](https://www.36kr.com/p/2677605324764678)
+Append: [OpenAI正面开撕马斯克，自曝8年邮件揭露「罪行」，Ilya终于现身](https://www.36kr.com/p/2677605584418305)
+Append: [英伟达市值屡创新高，黄仁勋的下一步：寻找新的「OpenAI」](https://www.36kr.com/p/2677595794192133)
+Append: [刚刚，OpenAI官方发文驳斥马斯克，自曝8年间邮件往来截图](https://www.36kr.com/p/2677564725491462)
+Append: [「星动纪元」联合清华大学开源人形机器人强化训练框架，降低机器人技术创新门槛 | 最前线](https://www.36kr.com/p/2677736567600647)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 11
+Finish: 2024-03-06 09:08:09.976940
