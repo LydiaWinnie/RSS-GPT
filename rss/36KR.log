@@ -78485,3 +78485,79 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2024-03-06 11:06:56.547277
+------------------------------------------------------
+Started: 2024-03-06 12:14:46.427325
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [二次押中贾玲的新丽传媒，背后站着京圈和腾讯](https://www.36kr.com/p/2677960368977666)
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [分析了6万条微博，我们找到了中国人的年味变迁](https://www.36kr.com/p/2677913460176388)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [遭马斯克起诉，OpenAI 正式回击：曝光 8 年邮件、揭露“三大罪”，Ilya 也现身“背刺”？](https://www.36kr.com/p/2677971802256902)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [AI即将改变移动通信，透过MWC2024看趋势](https://www.36kr.com/p/2677825385133826)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中国生成式AI的“物种大爆炸”](https://www.36kr.com/p/2677943589287689)
+Append: [Stable Diffusion 3技术报告流出，Sora构架再立大功，生图圈开源暴打Midjourney和DALL·E 3？](https://www.36kr.com/p/2677926970881537)
+Append: [KFC、DQ们开始让AI给员工发奖金了](https://www.36kr.com/p/2677906310952453)
+Append: [Claude炸场，最焦虑可能不是OpenAI](https://www.36kr.com/p/2677785460739584)
+Append: [AI应用之路：质疑汤姆猫，成为汤姆猫，超越汤姆猫](https://www.36kr.com/p/2677877850617353)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Append: [股权激励如何调和老板与员工的利益矛盾？](https://www.36kr.com/p/2677918034491139)
+append_entries: 10
+Finish: 2024-03-06 12:14:53.607907
