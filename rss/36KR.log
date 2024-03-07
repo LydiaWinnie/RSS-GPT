@@ -79130,3 +79130,79 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 5
 Finish: 2024-03-07 11:06:54.877205
+------------------------------------------------------
+Started: 2024-03-07 12:13:22.669747
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [搞AI，孩子必须学好数学，马斯克Altman罕见达成一致，LeCun/Jeff Dean等31位大佬签署联名信](https://www.36kr.com/p/2679327094011649)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [2024「大脑奖」揭晓，3人获奖，AI先驱Sejnowksi曾与Hinton发明神经网络第一算法](https://www.36kr.com/p/2679328839071496)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [消费级显卡可用，李开复零一万物发布并开源90亿参数Yi模型，代码数学能力史上最强](https://www.36kr.com/p/2679334393067270)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [谷歌被曝翻车内幕：内部群龙无首，生图机制过分“多元化”](https://www.36kr.com/p/2679332584666624)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [击败GPT-4的那群人](https://www.36kr.com/p/2679227491317505)
+Append: [A轮融资1350万美元，Podcastle为播客提供AI工具](https://www.36kr.com/p/2679188878150921)
+Append: [中国AI征战海外，要“硬”上](https://www.36kr.com/p/2679162055986437)
+Append: [Claude 3破译OpenAI邮件密文：人类未来掌握在「谷歌」手中，马斯克怒斥应改名ClosedAI](https://www.36kr.com/p/2679053713422087)
+Append: [全球最强模型Claude 3颠覆物理/化学，2小时破解博士一年实验成果，网友惊呼：科研不存在了](https://www.36kr.com/p/2679053260453641)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+Append: [卓越的组织，都会释放“快乐激素”](https://www.36kr.com/p/2678984085392645)
+append_entries: 10
+Finish: 2024-03-07 12:13:26.185903
