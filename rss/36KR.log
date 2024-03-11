@@ -80505,3 +80505,26 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [奈飞创始人的60条商业思考：公司应该像一支足球队，只有最强最专注的人才能上场](https://www.36kr.com/p/2684390624149633)
 append_entries: 5
 Finish: 2024-03-11 00:36:07.171622
+------------------------------------------------------
+Started: 2024-03-11 01:40:16.503223
+Existing_entries: 1005
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [中产跨国养娃现状：有人搬家20次，有人老板变维修工](https://www.36kr.com/p/2684406304915588)
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 1
+Finish: 2024-03-11 01:40:26.478628
