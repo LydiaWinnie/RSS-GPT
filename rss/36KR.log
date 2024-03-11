@@ -80712,3 +80712,79 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2024-03-11 09:09:21.752870
+------------------------------------------------------
+Started: 2024-03-11 10:10:05.646878
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [拿初心说事儿，马斯克给奥特曼和Open AI上压力](https://www.36kr.com/p/2684877349257345)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [大摩看涨叠加AI利好，「宁王」股价爆拉超14%｜市场要闻](https://www.36kr.com/p/2684985807322120)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [目标3-6个月赶超Sora，「爱诗科技」获达晨亿级A1轮融资 | 36氪首发](https://www.36kr.com/p/2684851886521353)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [特斯拉、英伟达投身其中，人形机器人能借AI风口起飞吗？](https://www.36kr.com/p/2684904501317508)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [李彦宏“程序员将不再存在”言论被周鸿祎驳斥，网友怒怼：先把百度程序员都开除了](https://www.36kr.com/p/2684929903378563)
+Append: [华人CV宗师黄煦涛高徒离职特斯拉，加入OpenAI，专攻多模态模型研究](https://www.36kr.com/p/2684858493877256)
+Append: [傅盛打入“晋级赛”](https://www.36kr.com/p/2684831855444096)
+Append: [Meta 首席科学家 Yann LeCun：AI 毁灭人类的概率为零](https://www.36kr.com/p/2684874298653697)
+Append: [不依赖token，字节级模型来了，直接处理二进制数据](https://www.36kr.com/p/2684858384956425)
+Append: [对话：理解Sora，复现Sora](https://www.36kr.com/p/2684880189800581)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 10
+Finish: 2024-03-11 10:10:09.846700
