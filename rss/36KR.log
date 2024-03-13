@@ -81925,3 +81925,77 @@ Fetching from https://rsshub.app/36kr/motif/327687077889
 Fetching from https://rsshub.app/36kr/motif/327686455297
 append_entries: 0
 Finish: 2024-03-13 10:08:25.392535
+------------------------------------------------------
+Started: 2024-03-13 11:08:23.537879
+Existing_entries: 1000
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/887339665172743
+Fetching from https://rsshub.app/36kr/motif/755524105951233
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [八年恩怨情仇，马斯克究竟想向OpenAI要回什么？](https://www.36kr.com/p/2687776596578177)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [国内大厂押注AI这么久，为何还不跟进Sora？](https://www.36kr.com/p/2687740908350850)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [AI图片橡皮擦来了，清华&阿里合作推出「概念半透膜」模型，还能改头换面](https://www.36kr.com/p/2687696707186051)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [美报告称需对AI严加控制，否则会给人类带来“灭绝级”威胁](https://www.36kr.com/p/2687720693509508)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [首个AI软件工程师上线，已通过公司面试抢程序员饭碗，华人创始团队手握10块IOI金牌](https://www.36kr.com/p/2687696395726464)
+Append: [GPT-4.5 Turbo意外曝光，官方网页被扒出，网传明天就上线](https://www.36kr.com/p/2687696357879425)
+Append: [Sora 团队罕见专访：短期内不会向公众开放，目前还不是一个产品](https://www.36kr.com/p/2687679612169605)
+Append: [23年赚疯了的英伟达，接下来关注的是什么](https://www.36kr.com/p/2687563577118595)
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/327686455297
+append_entries: 8
+Finish: 2024-03-13 11:08:24.521642
